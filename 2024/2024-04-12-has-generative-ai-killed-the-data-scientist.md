@@ -16,7 +16,7 @@ These large amounts of user behaviours, network structures, content, demographic
 
 By “life”, I am metaphorically referring to Generative AI, as the ultimate emulation of human behaviour that AI has achieved.
 
-/\*! elementor - v3.19.0 - 28-02-2024 \*/<br /> .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img\[src$=".svg"\]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
+
 
 ![Dr. Frankenstein and his monster](images/Death-of-Data-Scientist-1024x800.png)
 
@@ -48,7 +48,7 @@ Let's explore what the career landscape is like for them moving forward.
 
 ![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
 
-/\*! elementor - v3.19.0 - 28-02-2024 \*/<br /> .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title\[class\*=elementor-size-\]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
+
 
 ##### Looking to Integrate AI into Your Business?
 
