@@ -2,9 +2,10 @@
 # Read Me
 
 ## TO DO 
-[] Complete Metadata at top of each article - missing author + slug
-[] Replace image refs to https://raw.githubusercontent.com/rui-vas/altar_blog/refs/heads/main/YYYY/images/IMAGE.png
-[] Convert to HTML to insert to Webflow
+
+- [ ] Complete Metadata at top of each article - missing author + slug
+- [ ] Replace image refs to https://raw.githubusercontent.com/rui-vas/altar_blog/refs/heads/main/YYYY/images/IMAGE.png
+- [ ] Convert to HTML to insert to Webflow
 
 ## Data Structure
 - YYYY/
