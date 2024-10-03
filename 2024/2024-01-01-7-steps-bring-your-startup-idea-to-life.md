@@ -1,0 +1,396 @@
+---
+title: "7 Steps to Bring Your Tech Startup Idea to Life in 2024"
+date: "2024-01-01"
+categories: 
+  - "startup-advice"
+coverImage: "kvalifik-5Q07sS54D0Q-unsplash-scaled-1.jpg"
+---
+
+When our founder Daniel first had the idea to build Altar, he’d already built six startups from the ground up.
+
+Earlier in his entrepreneurial career, being a non-tech founder, he faced a challenge that is quite common to anyone in that position, wanting to start a tech startup:
+
+Finding a skilled technical expert to help him out with nothing but an idea on a napkin.
+
+At some point, he even had to learn how to do some basic coding by himself.
+
+That’s when he fell in love with technology.
+
+Although he knew he’d never be proficient enough to build something complex by himself, that started him on a mission to create a company that would make sure no great idea would be lost for the lack of technical talent to execute it.
+
+So he teamed up with a few other startup founders and some highly skilled technical people.
+
+Altar.io was born.
+
+Throughout the years, applying our accumulated startup experience and working with dozens of startup teams, we created and fine-tuned a framework intended to drastically reduce the failure rate of startups.
+
+And it’s safe to say we nailed it.
+
+It’s what’s helped over half of the 60+ founding teams that trusted us with their product development secure VC funding – in an ecosystem where only 0.05% of startups ever reach that goal.
+
+Today I wanted to share not only the exact process we use but also some of the most important patterns we see in successful founding teams.
+
+Of course, there are a million and one factors that will inevitably determine the success or failure of your startup. But I’ve seen how valuable the right process can be to mitigate the risks.
+
+And it all starts with having a problem, not an idea.
+
+.elementor-12941 .elementor-element.elementor-element-e56f4e6{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-12941 .elementor-element.elementor-element-f8d1905{--box-background-color:var( --e-global-color-f6f9b04 );--box-border-color:var( --e-global-color-secondary );--box-border-width:1px;--box-border-radius:12px;--box-padding:12px;--header-color:var( --e-global-color-text );--separator-width:0px;--item-text-decoration:underline;--item-text-hover-decoration:underline;--marker-color:var( --e-global-color-primary );--marker-size:5px;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_spinner{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header, .elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header-title{font-family:"Poppins", sans-serif;font-size:2.25rem;font-weight:700;text-transform:capitalize;line-height:1.2;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-family:var( --e-global-typography-45f602c-font-family ), sans-serif;font-size:var( --e-global-typography-45f602c-font-size );font-weight:var( --e-global-typography-45f602c-font-weight );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}.elementor-12941 .elementor-element.elementor-element-f8d1905 > .elementor-widget-container{padding:32px 32px 32px 32px;}@media(max-width:1024px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}}@media(max-width:767px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}} /\*! elementor-pro - v3.19.0 - 05-02-2024 \*/<br /> .elementor-widget-table-of-contents .elementor-toc\_\_header-title{color:var(--header-color)}.elementor-widget-table-of-contents.elementor-toc--collapsed .elementor-toc\_\_toggle-button--collapse,.elementor-widget-table-of-contents:not(.elementor-toc--collapsed) .elementor-toc\_\_toggle-button--expand{display:none}.elementor-widget-table-of-contents .elementor-widget-container{min-height:var(--box-min-height);border:var(--box-border-width,1px) solid var(--box-border-color,#9da5ae);border-radius:var(--box-border-radius,3px);background-color:var(--box-background-color);transition:min-height .4s;overflow:hidden}.elementor-toc\_\_header{display:flex;align-items:center;justify-content:space-between;padding:var(--box-padding,20px);background-color:var(--header-background-color);border-bottom:var(--separator-width,1px) solid var(--box-border-color,#9da5ae)}.elementor-toc\_\_header-title{font-size:18px;margin:0;color:var(--header-color)}.elementor-toc\_\_toggle-button{cursor:pointer;display:inline-flex}.elementor-toc\_\_toggle-button i{color:var(--toggle-button-color)}.elementor-toc\_\_toggle-button svg{height:1em;width:1em;fill:var(--toggle-button-color)}.elementor-toc\_\_spinner-container{text-align:center}.elementor-toc\_\_spinner{font-size:2em}.elementor-toc\_\_spinner.e-font-icon-svg{height:1em;width:1em}.elementor-toc\_\_body{padding:var(--box-padding,20px);max-height:var(--toc-body-max-height);overflow-y:auto}.elementor-toc\_\_body::-webkit-scrollbar{width:7px}.elementor-toc\_\_body::-webkit-scrollbar-thumb{background-color:#babfc5;border-radius:10px}.elementor-toc\_\_list-wrapper{list-style:none;padding:0}.elementor-toc\_\_list-item{margin-bottom:.5em}.elementor-toc\_\_list-item.elementor-item-active{font-weight:700}.elementor-toc\_\_list-item .elementor-toc\_\_list-wrapper{margin-top:.5em;margin-left:var(--nested-list-indent,1em)}.elementor-toc\_\_list-item-text:hover{color:var(--item-text-hover-color);-webkit-text-decoration:var(--item-text-hover-decoration);text-decoration:var(--item-text-hover-decoration)}.elementor-toc\_\_list-item-text.elementor-item-active{color:var(--item-text-active-color);-webkit-text-decoration:var(--item-text-active-decoration);text-decoration:var(--item-text-active-decoration)}.elementor-toc\_\_list-item-text-wrapper{display:flex;align-items:center}.elementor-toc\_\_list-item-text-wrapper:before,.elementor-toc\_\_list-item-text-wrapper i{margin-right:8px;color:var(--marker-color)}.elementor-toc\_\_list-item-text-wrapper svg{margin-right:8px;fill:var(--marker-color);height:var(--marker-size,.5em);width:var(--marker-size,.5em)}.elementor-toc\_\_list-item-text-wrapper i{font-size:var(--marker-size,.5em)}.elementor-toc\_\_list-item-text-wrapper:before{font-size:var(--marker-size,1em)}.elementor-toc--content-ellipsis .elementor-toc\_\_list-item-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.elementor-toc\_\_list-items--collapsible>.elementor-toc\_\_list-wrapper>.elementor-toc\_\_list-item>.elementor-toc\_\_list-wrapper{display:none}.elementor-toc\_\_heading-anchor{position:absolute}.elementor-toc\_\_body .elementor-toc\_\_list-item-text{color:var(--item-text-color);-webkit-text-decoration:var(--item-text-decoration);text-decoration:var(--item-text-decoration)}.elementor-toc\_\_body .elementor-toc\_\_list-item-text:hover{color:var(--item-text-hover-color);-webkit-text-decoration:var(--item-text-hover-decoration);text-decoration:var(--item-text-hover-decoration)}.elementor-toc\_\_body .elementor-toc\_\_list-item-text.elementor-item-active{color:var(--item-text-active-color);-webkit-text-decoration:var(--item-text-active-decoration);text-decoration:var(--item-text-active-decoration)}ol.elementor-toc\_\_list-wrapper{counter-reset:item}ol.elementor-toc\_\_list-wrapper .elementor-toc\_\_list-item{counter-increment:item}ol.elementor-toc\_\_list-wrapper .elementor-toc\_\_list-item-text-wrapper:before{content:counters(item,".") ". "}
+
+#### Contents
+
+## 1\. Make Sure You Have a Problem, Not an Idea
+
+A pattern I’ve seen among the successful entrepreneurs I’ve met is that their ideas tend to be directly related to a problem they’ve seen or experienced.
+
+Usually, having worked in a specific industry for several years, they spot an inefficiency that people within that industry face.
+
+Then they set out to solve it.
+
+Let me give you a more tangible example, from [one of the entrepreneurs I spoke to recently](https://altar.io/founder-story-the-key-decisions-when-building-a-fintech/) as part of our content series _The Startup Journey,_ Christian Nothacker.
+
+While working at a fintech startup, Christan noticed his users (small business owners) were facing major inefficiencies in the financing process offered by traditional banks in Italy.
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+We saw a lot of inefficiencies in the way customers and SMEs interacted with banks. Whether they were opening an account or asking for a loan, submitting an invoice, etc.
+
+For example, we’ve heard stories of customers queuing at their bank with a paper invoice, handing it over at the counter and waiting five days for the information to appear on their bank account. This is just one inefficiency we saw in the relationship with a business owner and their financial needs and the bank.
+
+Our vision was to digitalise the day-to-day interaction between SMEs and their banks. Making it faster, easier and often cheaper for both parties.”
+
+After doing some research (spoiler alert for step two) Christian discovered no other players were tackling this problem.
+
+So he took his industry experience, built a small team, and set out to do it.
+
+By setting out to solve a problem or inefficiency, you’re in a much better position to succeed – and are far more likely to avoid becoming one of the [many startups that fail due to no market need](https://www.cbinsights.com/research/startup-failure-reasons-top/).
+
+Once you’ve identified the problem, it’s time to make sure you have the funds to commit to this journey.
+
+/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+Expert Tip
+
+_“Don’t infer that there will be a demand for the product you’re going to build. You have to quantify customer action – not the intent. The burning question is will users like your product enough to take action at a cost that will enable you to run a sustainable business?”_
+
+[**Yaron Samid**](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/)**, Serial Entrepreneur & Startup Founder**
+
+## 2\. Work Out How Much Runway You Have
+
+It’s important to not underestimate the amount of money it takes to bring your startup idea to life.
+
+I’ve had entrepreneurs come to me with $10k to build an MVP or initial product, and, in most cases, that’s simply not enough.
+
+Just take a look at this screenshot from our [pricing simulator](https://altar.io/pricing/) to give you an idea of what it takes to build a small, low-complexity fintech product:
+
+/\*! elementor - v3.19.0 - 05-02-2024 \*/<br /> .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img\[src$=".svg"\]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
+
+![Pricing simulator fintech](images/Screenshot-2024-02-07-at-16.51.58.png) Obviously, this is a generic simulation. A lot more information is needed to get an accurate estimate for a project. But according to our experience, most projects don’t fall far off these numbers.
+
+You need to ask yourself, how far can I get through my startup journey with what I have in the bank?
+
+If like many entrepreneurs, you’re not sitting on millions of dollars, you will arrive at the conclusion you need to raise some money.
+
+The overarching question then becomes: [where are you going to find that funding?](https://altar.io/startup-series-funding-everything-you-need-to-know/) 
+
+In today’s landscape, investors won’t give you money for a startup idea on a napkin. Something CEO and veteran startup investor Paul O’Brien made clear [when I spoke to him recently](https://altar.io/expert-interview-funding-your-startup/).
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+“No startup in the history of the world can raise money just to get going. Unless you’re Elon Musk, unless you’re Mark Zuckerberg, no one is going to give anybody money just to start something. You will always have to start with your own savings or debt - bootstrapping.”
+
+Which may end up being a good thing.
+
+As I’m sure you’ve heard, ideas are worth very little. Execution is what is valuable, and most investors know this.
+
+Then, besides the effort needed to pique their interest with just an idea on a napkin, there isn’t much leverage you can use to avoid seeing a big chunk of equity going out the window. And you’d later regret it.
+
+So here are some ways you can bootstrap your startup:
+
+- Personal savings
+- A small business loan
+- Crowdfunding — on platforms such as [Seedrs](https://www.seedrs.com/), [Kickstarter](https://www.kickstarter.com/) or [Indiegogo](https://www.indiegogo.com/).
+- Investment from friends and family – usually for an equity stake in your startup or convertible note.
+
+Then, once you have a product out in the market, you can use [this guide](https://altar.io/startup-series-funding-everything-you-need-to-know/) to help you raise some money from investors.
+
+The next step is to do some research to ensure you can transform your startup idea into a solid product vision.
+
+
+
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+
+/\*! elementor - v3.19.0 - 05-02-2024 \*/<br /> .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title\[class\*=elementor-size-\]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
+
+##### Do you have a brilliant idea that you want to bring to life?
+
+/\*! elementor - v3.19.0 - 05-02-2024 \*/<br /> .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
+
+From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
+
+Let's Talk
+
+## 3\. Do Your Research
+
+The next key step in bringing your idea to life is to make sure you build it for the person whose problem you're solving.
+
+Another common mistake I see a lot is a founding team assuming they know what their users want.
+
+Usually, they end up very surprised when they’re met with low adoption rates.
+
+Remember, the user is more demanding than ever. Focus not only on solving the problem but creating the best possible experience while doing it
+
+For this, you’ll need to assess your stakeholders, competitors and the size of your market.
+
+### Stakeholder Analysis
+
+Now you’ve worked out the problem your startup idea will solve, it’s time to look at the people you’re solving it for.
+
+You should describe them in terms of demographics, psychology, geography, observed behaviour and any other relevant factors.
+
+By analysing your stakeholders you’ll be able to discover crucial information that will help you shape the perfect user experience.
+
+Once you’ve analysed the stakeholders involved in your startup, it’s time to look at the competition.
+
+### Competitor Benchmarks
+
+The next logical step in bringing your startup idea to life is to look at the other companies in your market currently solving the problem for your target stakeholder.
+
+It’s important to note here you should be looking at direct, indirect and potential competitors.
+
+You should start by listing all your competitors. Then go into more detail to learn as much as possible about them by identifying their:
+
+- Value proposition;
+- Brand positioning;
+- Target group;
+- User base size;
+- Business model;
+- Yearly revenue;
+- Capital raised.
+
+There are some useful tools out there to help you get started, here are some our product team recommends:
+
+To learn about competitor revenue and capital raised: [Statista](https://www.statista.com/), [Crunchbase](https://www.crunchbase.com/home).
+
+To discover the size of your competitors’ user base: [SimilarWeb](https://www.similarweb.com/).
+
+Alongside the above list, I recommend answering the following questions to gather even more information:
+
+- How long have they been on the market?
+- For startups: are they backed up by a big corporation? What were the latest investment rounds they underwent?
+- Which sales channels do they use?
+- Are they analogue or digital?
+- How are they reaching your target market?
+- **What will you do to ensure your solution is better than the current market offering? How will you differentiate yourself from the alternatives?**
+
+With all this information in hand, identify your competitors’ main strengths and weaknesses.
+
+This will help you work out where your startup will fit in your competitive market.
+
+Finally, you should assess the size of your market.
+
+### Market Size
+
+To begin to get an idea of your market size, you should look specifically at three, simple factors:
+
+- Total Available Market (TAM)
+- Serviceable Available Market (SAM)
+- Serviceable Obtainable Market (SOM)
+
+To find statistics on the above, I recommend using tools like [Statista](https://www.statista.com/) &  [Google Trends](https://trends.google.com/).
+
+Bear in mind that the calculation of SOM is mainly based on your estimated potential to penetrate the market. At this stage of your startup journey, it’s normal to not have a precise value in that category.
+
+That being said, it’s good to start thinking about the market share you feel your startup idea could eventually obtain.
+
+With your stakeholder analysis and competitor benchmarking in hand, you’re ready for the next step:
+
+## 4\. Transform Your Research Into an MVP Using a Proven Framework
+
+Having looked outward at the market around you, it’s now time to turn your gaze back inward to transform your startup idea into a set of user stories that are ready for development.
+
+This is where the core [process that we developed at Altar](https://altar.io/service-product-scope/) comes in. It starts with creating an elevator pitch to showcase your value proposition.
+
+### Crafting Your Value Proposition
+
+Having completed steps one and two, you’re in a perfect position to craft your value proposition.
+
+You simply need to combine:
+
+- Your target stakeholders
+- The problem they face
+- Your startup idea (a.k.a. your solution)
+- The key benefit your solution offers
+- Your competition
+- Why your solution is different/better than the current market offering
+
+Here is a template to help you get started:
+
+/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+Elevator Pitch Template
+
+**\_\_\_\_ (Name of your product)** has been conceived for **\_\_\_\_ (your stakeholders)** who **\_\_\_\_ (state their problem)**. **\_\_\_\_ (Name of your product)** is a**\_\_\_\_\_ (a statement of its key benefit/solution)**. Unlike **\_\_\_\_ (the current solution)** we **\_\_\_\_ (say what differentiates you from the alternatives/your existing competition)**.
+
+If your value proposition isn’t crystal clear from your elevator pitch, you should look again at your target market, competition or even the problem you’re trying to solve.
+
+If your value proposition _is_ crystal clear you can start looking at the assumptions surrounding your elevator pitch.
+
+### Defining Your Assumptions
+
+Your value proposition is based on several assumptions. For example, you’re assuming that users aren’t happy with the current solution and need something more.
+
+More than that, you’re assuming that your startup idea is the key to fixing that.
+
+Deconstruct the statements from your elevator pitch/value proposition to find the most relevant assumptions.
+
+Then, revisit your research to identify which assumptions have already been validated by your stakeholders and competitors.
+
+Finally, identify which assumptions you will need to validate with an MVP and the KPIs you can use to measure them
+
+Once you’ve done that, you can start creating your feature list.
+
+### Building Your Feature List
+
+The last step in turning your startup idea into a scoped product vision is to create a feature list for your [Minimum Viable Product (MVP)](https://altar.io/features-inside-mvp-3-steps-know-answer/).
+
+[I recommend the MVP route](https://altar.io/service-mvp/) to any entrepreneur setting out to build a tech startup. Building an MVP allows you to maintain a short time-to-market while gaining the maximum user feedback possible.
+
+To build your feature list, you want to look at your assumptions and consider what feature is needed to prove (or disprove) it.
+
+If you have an idea for a feature that doesn’t directly help you validate your assumptions, it should be put aside. If your assumptions are proven, you can add extra features via iterations.
+
+Don’t waste your money and importantly time on them at this stage.
+
+Once you’ve scoped your product, it’s time to build it – and for that, you’re going to need an extra pair of hands.
+
+
+
+Related: [The Right Roadmap to Build an MVP: From Idea to Launch](https://altar.io/the-roadmap-to-build-an-mvp-from-idea-to-launch/)
+
+## 5\. Onboard the Right Team to Help You
+
+As a non-technical founder, finding someone to help you build your product is one of the biggest barriers to bringing your startup idea to life.
+
+As I mentioned in the introduction, our founding team struggled with this first hand – and this was over six years ago, this problem has become much worse since then.
+
+It was one of the reasons they came together to build Altar – so no entrepreneur would struggle to bring their startup idea to life just because they couldn’t find the right technical expertise.
+
+That said, generally speaking, you have three options to build your startup product:
+
+1. Find a CTO or Tech Co-Founder
+2. Hire a freelance developer or two
+3. Reach out to a software development company
+
+My advice here is if you can find a CTO or technical co-founder that’s right for you, onboard them and never look back.
+
+Which is not always easy.
+
+I’ve seen many entrepreneurs spend months looking, [only to come up empty-handed](https://altar.io/building-a-startup-without-a-technical-co-founder/).
+
+/\* widget: Blog: What is Saying \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .mt-auto {<br /> margin-top: auto;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .h-44 {<br /> height: 11rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .w-44 {<br /> width: 11rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-1 {<br /> flex: 1 1 0%;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-6 {<br /> gap: 1.5rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .self-end {<br /> align-self: flex-end;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .object-cover {<br /> object-fit: cover;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .font-bold {<br /> font-weight: 700;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-inherit {<br /> color: inherit;<br /> }<br />
+
+![Altar - What is Saying](images/Dudley-Gould-1-copy.jpeg) 
+
+I spent six months trying to find a technical co-founder. The closest I got was Tom. He wasn’t a CTO but had the 5 years of experience I was told a co-founder needed. He was very busy, so when I asked him to leave his job if I secured investment, he had second thoughts. Whilst he wasn’t a CTO on $244k, even the average developer salaries often are too good to give up!
+
+Dudley Gould, Founder, [Audapio](https://altar.io/building-a-startup-without-a-technical-co-founder/)
+
+You need to find someone who has an abundance of technical expertise, leadership and management skills.
+
+On top of that, they have to be passionate about your startup idea and ready to commit 100% of their effort to it.
+
+Finally, you need to be able to communicate with ease and align on the critical factors that will affect your startup.
+
+My founding team and I always describe it as a business marriage. Finding someone that [matches all of these criteria perfectly](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/#founders-alignment) is extremely difficult – especially when you're working on a short runway.
+
+Let’s look at the other options.
+
+If you are considering the freelancer path, make sure you know what you’re signing up for. You will be the one in charge of managing them. This is a tall order for any non-technical entrepreneur.
+
+I personally wouldn’t recommend this route unless you have prior experience managing tech teams.
+
+On the other hand, software development companies will usually have a project manager in place to ensure the developers tasked with your project are hitting the milestones you laid out.
+
+That being said, working with a software development company comes with a unique [set of challenges](https://altar.io/10-reasons-why-outsourcing-software-development-fails/) as well.
+
+If you choose to go down the agency route, do your due diligence and make sure you choose a partner who will make you [say something like this at the end of the process](https://clutch.co/profile/altario?utm_campaign=Vendor%20Notification%20-%20Refs%20&%20Reviews&utm_medium=email&_hsmi=98448842&_hsenc=p2ANqtz-8aw0F624_J8KFHheCBkGVfKgGPkjx7t6-Bmero8h1tcRVgef7ghkyQBUHMN89vYISPoeoYymueujY8q8QuXnmXd98dqg&utm_content=98448842&utm_source=hs_automation#reviews):
+
+![Liam Testimonial - bring a startup to life](images/Liam-Testimonial.png)
+
+For more tips and insights on forming a successful founder-agency relationship, [check out this resource](https://altar.io/founders-guide-how-to-outsource-software-development-2020/).
+
+.elementor-3329 .elementor-element.elementor-element-f79b780{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;--padding-block-start:70px;--padding-block-end:70px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3329 .elementor-element.elementor-element-aa6dd2a:not(.elementor-motion-effects-element-type-background), .elementor-3329 .elementor-element.elementor-element-aa6dd2a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#29293E;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a, .elementor-3329 .elementor-element.elementor-element-aa6dd2a::before{--border-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-95ae566{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-99ebd14{text-align:center;}.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{color:var( --e-global-color-eb70be1 );font-family:var( --e-global-typography-0ff79ee-font-family ), sans-serif;font-size:var( --e-global-typography-0ff79ee-font-size );font-weight:var( --e-global-typography-0ff79ee-font-weight );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-0ce57c0{text-align:center;color:var( --e-global-color-eb70be1 );font-size:20px;}.elementor-3329 .elementor-element.elementor-element-28db4d7{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-start;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group{padding-right:calc( 24px/2 );padding-left:calc( 24px/2 );margin-bottom:32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-form-fields-wrapper{margin-left:calc( -24px/2 );margin-right:calc( -24px/2 );margin-bottom:-32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomleft, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomright{margin-bottom:0;}body.rtl .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-left:8px;}body:not(.rtl) .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-right:8px;}body .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-above .elementor-field-group > label{padding-bottom:8px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-type-html{padding-bottom:0px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper select{background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper::before{color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button{font-family:"Poppins", sans-serif;font-size:14px;font-weight:700;line-height:1.5;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\] svg \*{fill:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover svg \*{fill:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-success{color:var( --e-global-color-40f63f7 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-danger{color:var( --e-global-color-8ddb30f );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-help-inline{color:var( --e-global-color-9acb2f2 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;width:100%;max-width:100%;}.elementor-3329 .elementor-element.elementor-element-70fbc6a > .elementor-widget-container{padding:10px 0px 0px 0px;}@media(min-width:768px){.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--content-width:var(--container-md);}}@media(max-width:1024px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}@media(max-width:767px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}/\* Start custom CSS for form, class: .elementor-element-70fbc6a \*/.elementor-3329 .elementor-element.elementor-element-70fbc6a input {<br /> border-color: #65639C !important;<br /> }<br /> .elementor-3329 .elementor-element.elementor-element-70fbc6a input:is(:focus, :hover) {<br /> border-color: #B9B8CE !important;<br /> }/\* End custom CSS \*/
+
+##### Sign up for our newsletter
+
+Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+
+/\*! elementor-pro - v3.19.0 - 05-02-2024 \*/<br /> .elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form\_\_step{width:100%}.e-form\_\_step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form\_\_buttons{flex-wrap:wrap}.e-form\_\_buttons,.e-form\_\_buttons\_\_wrapper{display:flex}.e-form\_\_indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form\_\_indicators\_\_indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form\_\_indicators\_\_indicator\_\_progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form\_\_indicators\_\_indicator\_\_progress\_\_meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;transition:width .1s linear}.e-form\_\_indicators\_\_indicator:first-child{padding-left:0}.e-form\_\_indicators\_\_indicator:last-child{padding-right:0}.e-form\_\_indicators\_\_indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-inactive \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-inactive object,.e-form\_\_indicators\_\_indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active object,.e-form\_\_indicators\_\_indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-completed \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator\_\_label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form\_\_indicators\_\_indicator--state-completed object,.e-form\_\_indicators\_\_indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator\_\_icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form\_\_indicators\_\_indicator\_\_icon img,.e-form\_\_indicators\_\_indicator\_\_icon object,.e-form\_\_indicators\_\_indicator\_\_icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form\_\_indicators\_\_indicator\_\_icon .e-font-icon-svg{height:1em}.e-form\_\_indicators\_\_indicator\_\_number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;margin-bottom:10px}.e-form\_\_indicators\_\_indicator--shape-circle{border-radius:50%}.e-form\_\_indicators\_\_indicator--shape-square{border-radius:0}.e-form\_\_indicators\_\_indicator--shape-rounded{border-radius:5px}.e-form\_\_indicators\_\_indicator--shape-none{border:0}.e-form\_\_indicators\_\_indicator\_\_label{text-align:center}.e-form\_\_indicators\_\_indicator\_\_separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#babfc5}.e-form\_\_indicators--type-icon,.e-form\_\_indicators--type-icon\_text,.e-form\_\_indicators--type-number,.e-form\_\_indicators--type-number\_text{align-items:flex-start}.e-form\_\_indicators--type-icon .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-icon\_text .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number\_text .e-form\_\_indicators\_\_indicator\_\_separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-field-type-tel input{direction:inherit}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha\_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha\_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{order:3}.elementor-form .elementor-button>span{display:flex;justify-content:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}
+
+   Full Name  Buisness Email  Subscribe
+
+## 6\. Share Your Startup Idea as Much as Possible
+
+Many entrepreneurs are cautious about sharing their startup idea. The reason always being: “if I share my idea, someone might steal it”.
+
+This, in my experience, is a mistake.
+
+You should share your idea as much as possible to gather help and feedback.
+
+Ideas alone are worth nothing – it’s the work you put into them that is valuable.
+
+Plus, you never know what you can gain by openly talking about your startup idea with the right people.
+
+Take Giacomo De Lorenzo as an example. He sold his fintech before it even launched and attributes much of this success to talking about your startup idea:
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+"Don’t underestimate the importance of sharing your idea and being able to ask for people’s help. I wouldn’t have imagined I could have so much help from the people I talked to at the early stages of Moneymour, their advice had a hugely beneficial impact.
+
+Let me give you an example:
+
+Our startup incubator was extremely helpful. But not all of the startups that were part of that acceleration programme made the right use of them.
+
+They were not calling them twice a day. Whereas I knew I had that opportunity so I took it, and it was very valuable for us.
+
+So embrace that ability to ask for help, it’s one of the most valuable resources you have. You’ll be surprised how many people will be happy to help.”
+
+If you’re on the fence with this one send a couple of Linkedin messages to successful founders and ask them about it. Not only will they say the exact same thing, but that will also validate most of what I’ve said about this step.
+
+## 7\. Target the Right Early Adopters
+
+Earlier in the article, I talked about the importance of knowing your stakeholders from the lens of product development.
+
+Now it’s time to address that topic again, from the lens of early adopters and go-to-market strategy.
+
+By now, you should already have narrowed down your target market to the people who are most affected by the problem you’re solving.
+
+This will make your go-to-market both more effective and less expensive.
+
+Now it’s time to get out there and talk to them.
+
+I see many founders hide behind a brand that is yet to be created. They think that they need a flashy website, full of bells and whistles to attract early adopters. This is a fallacy.
+
+The person who will be attracting, and ideally selling to early adopters is you, the founder.
+
+In short:
+
+**Early adopters buy your vision, not your product.** 
+
+At this stage, your product is at an MVP level. Without a doubt, there is still a lot of work to do to make it the best solution on the market.
+
+Early adopters are investing in what your product _will be,_ not what it is today.
+
+And the best person to sell them the vision is you – the person who has seen this from startup idea to early-stage product.
+
+## Wrapping Up
+
+As I’m sure you know already, there are a million factors that will influence the success of your startup.
+
+Your industry knowledge, connections, the industry itself, the team you build around you, timing, luck, the list goes on.
+
+**But if I have to boil everything down into one piece of advice to reduce your odds of failure, I would tell you that having a proven framework to blueprint your product takes the cake.** 
+
+As I mentioned at the start of this article, it’s a proven framework that helped over half of the founders that trusted us with their product development secure VC funding – in an ecosystem where only 0.05% of startups ever reach that goal.
+
+Thanks for reading and good luck with your entrepreneurial journey.

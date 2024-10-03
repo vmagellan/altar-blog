@@ -1,0 +1,280 @@
+---
+title: "5 Key Lessons on Finding a Co-Founder From Award-Winning Entrepreneurs"
+date: "2022-08-09"
+categories: 
+  - "startup-advice"
+tags: 
+  - "entrepreneurship"
+  - "expert-interview"
+  - "guide"
+  - "startup"
+  - "startup-lessons"
+coverImage: "pexels-fauxels-3182822-scaled-1.jpg"
+---
+
+If you're reading this, you're most likely in the throes of finding a co-founder for your startup.
+
+And, as you're probably already aware, the search isn’t easy.
+
+Finding someone with the perfect balance of hard and soft skills to become your partner in crime on this journey can be daunting.
+
+Choose poorly, and your startup may never launch. Or it may launch crippled, which is even worse.
+
+I’ve seen my fair share of toxic relationships over the last few years, and there are few things with worse outputs than a misalignment in the founding team.
+
+So it’s vital you find the right person for the job (something my own co-founder, Paolo, [has written about here](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)).
+
+To try and make it a little easier for you, I revisited some of the conversations I've had with successful entrepreneurs and startup experts I've spoken to in our content series [The Startup Journey](https://altar.io/category/startup-journey-interviews/).
+
+Entrepreneurs like [Yaron Samid](https://www.linkedin.com/in/yaronsamid/), a multi-exit founder whose companies have been acquired by the likes of Microsoft and Cisco. [Garrett Gafke](https://www.linkedin.com/in/garrettgafke/), Silicon Valley veteran and digital identity pioneer. Or [Jan-Philip Kruip](https://www.linkedin.com/in/janphilippkruip/), who combined health and fitness to build Fitsense, an app that is now used by some of the biggest multinational insurance companies in the world.
+
+These people didn’t just find amazing co-founders. They also [built outstanding teams](https://altar.io/vital-lessons-on-building-a-startup-team/) and went on to raise millions and conquer their industries
+
+From those conversations I've compiled the top 5 lessons on finding a co-founder they shared. All of which, in my opinion, are essential if you want to find the perfect co-founder.
+
+Let’s jump straight in with the first lesson, which is all about the importance of the process itself.
+
+.elementor-12941 .elementor-element.elementor-element-e56f4e6{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-12941 .elementor-element.elementor-element-f8d1905{--box-background-color:var( --e-global-color-f6f9b04 );--box-border-color:var( --e-global-color-secondary );--box-border-width:1px;--box-border-radius:12px;--box-padding:12px;--header-color:var( --e-global-color-text );--separator-width:0px;--item-text-decoration:underline;--item-text-hover-decoration:underline;--marker-color:var( --e-global-color-primary );--marker-size:5px;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_spinner{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header, .elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header-title{font-family:"Poppins", sans-serif;font-size:2.25rem;font-weight:700;text-transform:capitalize;line-height:1.2;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-family:var( --e-global-typography-45f602c-font-family ), sans-serif;font-size:var( --e-global-typography-45f602c-font-size );font-weight:var( --e-global-typography-45f602c-font-weight );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}.elementor-12941 .elementor-element.elementor-element-f8d1905 > .elementor-widget-container{padding:32px 32px 32px 32px;}@media(max-width:1024px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}}@media(max-width:767px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}} /\*! elementor-pro - v3.19.0 - 07-02-2024 \*/<br /> .elementor-widget-table-of-contents .elementor-toc\_\_header-title{color:var(--header-color)}.elementor-widget-table-of-contents.elementor-toc--collapsed .elementor-toc\_\_toggle-button--collapse,.elementor-widget-table-of-contents:not(.elementor-toc--collapsed) .elementor-toc\_\_toggle-button--expand{display:none}.elementor-widget-table-of-contents .elementor-widget-container{min-height:var(--box-min-height);border:var(--box-border-width,1px) solid var(--box-border-color,#9da5ae);border-radius:var(--box-border-radius,3px);background-color:var(--box-background-color);transition:min-height .4s;overflow:hidden}.elementor-toc\_\_header{display:flex;align-items:center;justify-content:space-between;padding:var(--box-padding,20px);background-color:var(--header-background-color);border-bottom:var(--separator-width,1px) solid var(--box-border-color,#9da5ae)}.elementor-toc\_\_header-title{font-size:18px;margin:0;color:var(--header-color)}.elementor-toc\_\_toggle-button{cursor:pointer;display:inline-flex}.elementor-toc\_\_toggle-button i{color:var(--toggle-button-color)}.elementor-toc\_\_toggle-button svg{height:1em;width:1em;fill:var(--toggle-button-color)}.elementor-toc\_\_spinner-container{text-align:center}.elementor-toc\_\_spinner{font-size:2em}.elementor-toc\_\_spinner.e-font-icon-svg{height:1em;width:1em}.elementor-toc\_\_body{padding:var(--box-padding,20px);max-height:var(--toc-body-max-height);overflow-y:auto}.elementor-toc\_\_body::-webkit-scrollbar{width:7px}.elementor-toc\_\_body::-webkit-scrollbar-thumb{background-color:#babfc5;border-radius:10px}.elementor-toc\_\_list-wrapper{list-style:none;padding:0}.elementor-toc\_\_list-item{margin-bottom:.5em}.elementor-toc\_\_list-item.elementor-item-active{font-weight:700}.elementor-toc\_\_list-item .elementor-toc\_\_list-wrapper{margin-top:.5em;margin-left:var(--nested-list-indent,1em)}.elementor-toc\_\_list-item-text:hover{color:var(--item-text-hover-color);-webkit-text-decoration:var(--item-text-hover-decoration);text-decoration:var(--item-text-hover-decoration)}.elementor-toc\_\_list-item-text.elementor-item-active{color:var(--item-text-active-color);-webkit-text-decoration:var(--item-text-active-decoration);text-decoration:var(--item-text-active-decoration)}.elementor-toc\_\_list-item-text-wrapper{display:flex;align-items:center}.elementor-toc\_\_list-item-text-wrapper:before,.elementor-toc\_\_list-item-text-wrapper i{margin-right:8px;color:var(--marker-color)}.elementor-toc\_\_list-item-text-wrapper svg{margin-right:8px;fill:var(--marker-color);height:var(--marker-size,.5em);width:var(--marker-size,.5em)}.elementor-toc\_\_list-item-text-wrapper i{font-size:var(--marker-size,.5em)}.elementor-toc\_\_list-item-text-wrapper:before{font-size:var(--marker-size,1em)}.elementor-toc--content-ellipsis .elementor-toc\_\_list-item-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.elementor-toc\_\_list-items--collapsible>.elementor-toc\_\_list-wrapper>.elementor-toc\_\_list-item>.elementor-toc\_\_list-wrapper{display:none}.elementor-toc\_\_heading-anchor{position:absolute}.elementor-toc\_\_body .elementor-toc\_\_list-item-text{color:var(--item-text-color);-webkit-text-decoration:var(--item-text-decoration);text-decoration:var(--item-text-decoration)}.elementor-toc\_\_body .elementor-toc\_\_list-item-text:hover{color:var(--item-text-hover-color);-webkit-text-decoration:var(--item-text-hover-decoration);text-decoration:var(--item-text-hover-decoration)}.elementor-toc\_\_body .elementor-toc\_\_list-item-text.elementor-item-active{color:var(--item-text-active-color);-webkit-text-decoration:var(--item-text-active-decoration);text-decoration:var(--item-text-active-decoration)}ol.elementor-toc\_\_list-wrapper{counter-reset:item}ol.elementor-toc\_\_list-wrapper .elementor-toc\_\_list-item{counter-increment:item}ol.elementor-toc\_\_list-wrapper .elementor-toc\_\_list-item-text-wrapper:before{content:counters(item,".") ". "}
+
+#### Contents
+
+## 1\. Don’t Underestimate The Importance of Finding the Right Co-Founder
+
+There's a reason why so many people in the startup world say that investors invest in teams. Good ideas and appealing markets are worth zero if you don't have the ability to execute.
+
+Startup success is all about the team you're able to assemble.
+
+This is true for anyone you decide to bring in, from your first hire to an external development team. But above all is your founding team. Without full alignment; without a shared vision, you'll struggle even with the easiest decision (like what kind of furniture you want in your office).
+
+Take, for example, what I learned from successful entrepreneur and creator of one of the largest founder communities in the world, [Yaron Samid](https://www.linkedin.com/in/yaronsamid/). He emphasised how major this decision is [in a recent discussion with me](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/):
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+The most important decision is your co-founder. I can’t stress this enough; it is literally the most important decision you will make as a founder.
+
+Most startups fail because of some sort of HR dynamic. The vision might be good, and the market might be good but if your team can’t execute against it then you’re already one foot in the grave.
+
+You should find a co-founder who you feel absolutely confident to go to battle with for the next decade.
+
+When it comes to looking for both your co-founder and your first hires, your ideal situation is to work with people with whom you already have a relationship.
+
+There are several key traits to look for in “the right” co-founder. Technical hard skills, zero fear of failure and a great communicator all rank high on the list.
+
+But right at the top of that list are passion and commitment – which I’ll touch on soon. First, it’s important to remember the perfect co-founder could be anywhere.
+
+
+
+Related: [Critical Traits to Consider if You Want to Find the Perfect Co-Founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
+
+## 2\. Your Perfect Co-Founder Could Be Anywhere
+
+There are a few key places to look when searching for a co-founder. Your network is always a great place to start. Ask your mutual friends and contemporaries if they know anyone who might be a good fit.
+
+If that doesn’t bear fruit – you can always try founder dating. Something that worked for Jan-Philipp Kruip.
+
+He’s the founder behind FitSense, a digital well-being platform that’s gone on to be used by some of the biggest insurance companies in the world.
+
+He explained his experience [in a recent conversation we had](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/):
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+I was in Singapore and there was this platform that was essentially Tinder for co-founders.
+
+It was designed to match tech and non-technical founders. I remember there were 70 profiles and I hated 69 of them. Then I saw his profile and I thought “He seems reasonably interesting.”
+
+So we met for a coffee, it was a three-hour meeting. I instantly knew I could trust the guy.
+
+He’d already developed the technology to build an MVP. But he needed help to commercialise it.
+
+I felt I had the right skill set to do that, so I gave myself two years to see if we could make it work.
+
+Only later did I realise that it was this process that makes me entrepreneurial. It definitely wasn’t something I always had in mind early on.
+
+Finally, don't discount unexpected places. You never know who you might meet at a conference or in line at the grocery store.
+
+Unicorn founder [Wade Eyerly](https://www.linkedin.com/in/wadeeyerly) faced this lesson first hand when launching his latest startup, Degree Insurance – [as he explained to me recently](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/).
+
+He found his co-founder in one of the most unlikely places I’ve ever seen.
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+I met my co-founder on an email list server. He posted there saying, Hey, I’m looking for something new.
+
+So I reached out to him and said:
+
+“Do you know anything about insurance?”
+
+He’d been General Counsel to the Governor of Illinois, he goes:
+
+“Sure. We had a massive insurance budget and I handled all the legal work for the state.”
+
+We got together and we hit it off. He joined the team as outside counsel. Then inside counsel, then general counsel, then as COO.
+
+We worked together a little and then we worked together a lot and it was very clear. He’s the co-founder and we restructured the company and made it happen.”
+
+It’s been an incredible dynamic. If you had handed me Aladdin’s lamp and said make a wish for your perfect co-founder I couldn’t have guessed that he existed.
+
+
+
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+
+
+
+##### Do you have a brilliant startup idea that you want to bring to life?
+
+
+
+From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
+
+Let's Talk
+
+## 3\. Trust is Key, But Building Trust Often Requires a Leap of Faith
+
+When you're starting a business, you need to be able to trust your co-founder implicitly. A proven track record and showing true commitment to your business will go a long way to help you do that.
+
+Trusting your co-founders is something I recently spoke to successful entrepreneur [Jan-Phillip Kruip](https://www.linkedin.com/in/janphilippkruip/) about.
+
+[During our conversation](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/), he underlined that, in the startup ecosystem, time is of the essence.
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+My basic premise is that I first trust people and they can lose that trust. In a startup environment, you don’t have time to fully build trust before you have to start delegating to someone.
+
+If you’re someone who has a tough time trusting you need to take that into the hiring process. Ask yourself if you can trust that person from day one and start delegating.
+
+To put it bluntly: You simply will not have the bandwidth to control every aspect of your startup, you’ll burn out. Sometimes, you have to go with your gut and let other people start making decisions.
+
+Jan-Phillip isn’t the only founder who learned that you have to start trusting people quickly.
+
+Take another entrepreneur I’ve talked about already, Wade Eyerly, as an example:
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+I knew my first co-founder, Reed, quite well and knew I wanted him. So I called and offered him a percentage of the company to come to join as a co-founder.
+
+Two days in he goes to me: “I think we can get Cory Cozzens too. He’d be a fantastic addition, he’s great.”
+
+I didn’t know Cory. The only interaction I’d had was with a girl Cory used to date (and I didn’t think much of her).
+
+I started wondering if I could trust Cory as a decision-maker because of his taste in girls (as silly as that is).
+
+Then I thought, I just gave Reed a piece of the business, if he tells me we should hire this guy I can either:
+
+- Trust my co-founder’s decision;
+
+- Second guess someone I think is worth a percentage of my company.
+
+I decided there and then I’m going to hire adults and trust them to be adults. I’m not the guy who asks you to be my accountant and then double-checks all your math.
+
+So I called Cory and offered him the same deal as Reed.
+
+That approach of not getting in the way of the people you bring into your team has led to tremendous dividends over time.
+
+And Cory was the right call. I consider him one of my greatest friends. Don’t get me wrong, when we’re on a management team we’ll fight like cats and dogs.
+
+We see the world in wildly different ways. But that often means we’re complementary. If you can get both of us on board on the same thing, it’s probably the right call.
+
+So trust your co-founder’s decisions and don’t be scared to have co-founders who are wildly different to you.
+
+As Wade said, trusting his co-founders (and team) has paid dividends over time. But he also touched on something which I’m going to explore later in the article: Finding a co-founder who complements you.
+
+But before that, one of the major components that will help you trust your co-founder is the commitment they show to your project.
+
+## 4\. Find a Co-Founder as Committed to Your Startup as You Are
+
+When it comes to launching a startup, having a committed co-founder is essential. This person will be your partner in both good times and bad – and will help you navigate the challenges that come with running a business.
+
+If you bring in a co-founder who’s not committed your startup will suffer. It will show in the product.
+
+More than that it will affect the company culture. It’s very difficult to keep everyone motivated and on track.
+
+This will then have a knock-on effect when it comes to looking for funding. Investors want to see strong teams where every stakeholder is flying the flag.
+
+Silicon Valley Veteran (with over 25 years of experience building startups) [Garrett Gafke](https://www.linkedin.com/in/garrettgafke/) summed it up perfectly in a [recent conversation](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/) I had with him on this exact topic:
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+My co-founders and I saw a lack of demand when building our startup. Sure, we were told “no” a million times – like a lot of entrepreneurs.
+
+After all, failure is the primary denominator in the entrepreneurial process.
+
+But as entrepreneurs, we work incredibly hard and give everything, every piece of our being to these journeys – even if they end unsuccessfully.
+
+The major factor is that you and your co-founders make a commitment to each other.
+
+Do not underestimate your partners in any journey, business or personal.
+
+When times were tough, often what kept us going was our commitment to each other as a founding team.
+
+So before you bring someone on as a co-founder, talk with them – a lot. Talk about previous experiences. Get to know them on a personal level.
+
+Next, talk to them about your startup. Are they excited, passionate and engaged when you describe your vision? Does it spark a spirited conversation?
+
+Let me give you a quick example: a few years ago when I was still working in a marketing agency, I got a call from Daniel, one of the founders here at Altar.
+
+We had worked together on a small project a few years before and he wanted to know what I was up to.
+
+Shortly after, he told me he’d been working on this new project for a few years now. A product development agency focusing on helping entrepreneurs build their products.
+
+He was at a stage where the founding team was struggling to keep all the plates spinning – and he wanted to bring in talented people to take over some key departments, starting with Marketing.
+
+Over the next few days, we met twice to talk about it.
+
+We spent hours talking about the future. How we could bring this to a whole new level, helping entrepreneurs worldwide build products that actually go to market, help people and raise millions. Never once did we talk about terms.
+
+The journey that then brought me to becoming a partner and part of the management team at Altar was the most natural I've had in my professional career.
+
+Full alignment and a shared vision are priceless. And talented individuals know it.
+
+You might also consider talking to the people they worked with previously. This will give you a more complete picture of what this potential co-founder will be like to deal with on a daily basis.
+
+Finally, it’s important their skill set complements yours.
+
+.elementor-3329 .elementor-element.elementor-element-f79b780{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;--padding-block-start:70px;--padding-block-end:70px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3329 .elementor-element.elementor-element-aa6dd2a:not(.elementor-motion-effects-element-type-background), .elementor-3329 .elementor-element.elementor-element-aa6dd2a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#29293E;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a, .elementor-3329 .elementor-element.elementor-element-aa6dd2a::before{--border-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-95ae566{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-99ebd14{text-align:center;}.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{color:var( --e-global-color-eb70be1 );font-family:var( --e-global-typography-0ff79ee-font-family ), sans-serif;font-size:var( --e-global-typography-0ff79ee-font-size );font-weight:var( --e-global-typography-0ff79ee-font-weight );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-0ce57c0{text-align:center;color:var( --e-global-color-eb70be1 );font-size:20px;}.elementor-3329 .elementor-element.elementor-element-28db4d7{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-start;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group{padding-right:calc( 24px/2 );padding-left:calc( 24px/2 );margin-bottom:32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-form-fields-wrapper{margin-left:calc( -24px/2 );margin-right:calc( -24px/2 );margin-bottom:-32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomleft, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomright{margin-bottom:0;}body.rtl .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-left:8px;}body:not(.rtl) .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-right:8px;}body .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-above .elementor-field-group > label{padding-bottom:8px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-type-html{padding-bottom:0px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper select{background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper::before{color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button{font-family:"Poppins", sans-serif;font-size:14px;font-weight:700;line-height:1.5;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\] svg \*{fill:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover svg \*{fill:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-success{color:var( --e-global-color-40f63f7 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-danger{color:var( --e-global-color-8ddb30f );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-help-inline{color:var( --e-global-color-9acb2f2 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;width:100%;max-width:100%;}.elementor-3329 .elementor-element.elementor-element-70fbc6a > .elementor-widget-container{padding:10px 0px 0px 0px;}@media(min-width:768px){.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--content-width:var(--container-md);}}@media(max-width:1024px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}@media(max-width:767px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}/\* Start custom CSS for form, class: .elementor-element-70fbc6a \*/.elementor-3329 .elementor-element.elementor-element-70fbc6a input {<br /> border-color: #65639C !important;<br /> }<br /> .elementor-3329 .elementor-element.elementor-element-70fbc6a input:is(:focus, :hover) {<br /> border-color: #B9B8CE !important;<br /> }/\* End custom CSS \*/
+
+##### Sign up for our newsletter
+
+Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+
+/\*! elementor-pro - v3.19.0 - 07-02-2024 \*/<br /> .elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form\_\_step{width:100%}.e-form\_\_step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form\_\_buttons{flex-wrap:wrap}.e-form\_\_buttons,.e-form\_\_buttons\_\_wrapper{display:flex}.e-form\_\_indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form\_\_indicators\_\_indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form\_\_indicators\_\_indicator\_\_progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form\_\_indicators\_\_indicator\_\_progress\_\_meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;transition:width .1s linear}.e-form\_\_indicators\_\_indicator:first-child{padding-left:0}.e-form\_\_indicators\_\_indicator:last-child{padding-right:0}.e-form\_\_indicators\_\_indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-inactive \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-inactive object,.e-form\_\_indicators\_\_indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active object,.e-form\_\_indicators\_\_indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-completed \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator\_\_label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form\_\_indicators\_\_indicator--state-completed object,.e-form\_\_indicators\_\_indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator\_\_icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form\_\_indicators\_\_indicator\_\_icon img,.e-form\_\_indicators\_\_indicator\_\_icon object,.e-form\_\_indicators\_\_indicator\_\_icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form\_\_indicators\_\_indicator\_\_icon .e-font-icon-svg{height:1em}.e-form\_\_indicators\_\_indicator\_\_number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;margin-bottom:10px}.e-form\_\_indicators\_\_indicator--shape-circle{border-radius:50%}.e-form\_\_indicators\_\_indicator--shape-square{border-radius:0}.e-form\_\_indicators\_\_indicator--shape-rounded{border-radius:5px}.e-form\_\_indicators\_\_indicator--shape-none{border:0}.e-form\_\_indicators\_\_indicator\_\_label{text-align:center}.e-form\_\_indicators\_\_indicator\_\_separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#babfc5}.e-form\_\_indicators--type-icon,.e-form\_\_indicators--type-icon\_text,.e-form\_\_indicators--type-number,.e-form\_\_indicators--type-number\_text{align-items:flex-start}.e-form\_\_indicators--type-icon .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-icon\_text .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number\_text .e-form\_\_indicators\_\_indicator\_\_separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-field-type-tel input{direction:inherit}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha\_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha\_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{order:3}.elementor-form .elementor-button>span{display:flex;justify-content:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}
+
+   Full Name  Buisness Email  Subscribe
+
+## 5\. Find a Co-Founder With a Complementary Skillset to Yours
+
+If you can find a co-founder with complementary skillsets, it will make your startup that much stronger.
+
+For example, if you're a great business strategist but not so good at the technical aspects of building a product, finding a co-founder who is a strong engineer will help balance out your team.
+
+It’s something that New York Times Bestseller and hiring expert, [Geoff Smart](https://www.linkedin.com/in/drgeoffsmart/) touched on [when I sat down with him recently](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/):
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+You should find a co-founder that has a one-third overlap with you in skills and two-thirds complementary skills.
+
+There are hundreds of examples of this where there is a small overlap and a large aspect of complementary skills – take Jobs and Wozniak. Jobs has some basic technical background, but Wozniak was the tech brain. Wozniak had knowledge of promotion and sales and marketing but nowhere near as much as Jobs.
+
+You’re experts in different fields but you’re able to speak the same language.
+
+Then it’s about making sure that values and cultural aspects are consistent between you as well. As well as how hard you’re going to work you need to be on the same page about that as well.
+
+But the main thing is to hire for skill complementarity. Do NOT hire someone just like you with the same skills as you, I’ve never seen that work.
+
+First, identify what skills you need. If you're not sure, ask your network and/or mentors for their input. Then, once you know what hard skills you’re looking for, get out there and start talking to people.
+
+
+
+Related: [How to Find a Technical Co-Founder For Your Startup](https://altar.io/how-to-find-a-technical-co-founder-for-your-startup/)
+
+## Wrapping Up
+
+There are no two ways about it, finding the right co-founder for your startup isn’t easy.
+
+As you begin your search, remember:
+
+- Don’t underestimate the importance of finding the right co-founder.
+- Find a co-founder who is just as committed to your startup as you are. This person needs to be someone you can rely on, someone who shares your vision and is willing to put in the hard work required to make your dream a reality.
+- Trust your co-founder completely – but be aware that building that trust may require a leap of faith. Here focus on their track record and the commitment they show to your startup.
+- You may find a co-founder in an unlikely place. Sometimes, the best partnerships are formed in unexpected ways. So, keep your mind open to the possibility that your perfect partner could be closer than you think.
+
+I hope these lessons help you find your dream co-founder. Good luck.

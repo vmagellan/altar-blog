@@ -1,0 +1,313 @@
+---
+title: "Building a Successful Fintech by Listening to the Market (Founder Interview)"
+date: "2021-04-01"
+categories: 
+  - "startup-journey-interviews"
+tags: 
+  - "entrepreneurship"
+  - "expert-interview"
+  - "fintech"
+  - "startup"
+  - "startup-lessons"
+coverImage: "samuel-pereira-uf2nnANWa8Q-unsplash-scaled-1.jpg"
+---
+
+When serial entrepreneur [Illit Geller](https://www.linkedin.com/in/illit-geller-38914023/) started telling me her story, I could instantly see why the fintech startup she founded, [TradAir](https://www.linkedin.com/company/tradair/) raised $11M in its latest funding round.
+
+She didn’t just build a solution _for_ her target market, she built it _with_ her target market. Reaching out to them, listening to their problems and sharing ideas on how to solve them:
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+Because we developed our fintech product with the market, in partnership with a bank, the initial release MVP of the product was spot on.
+
+As our conversation progressed, I started to see several other essential traits all successful entrepreneurs embody. Namely, how as CEO she spent most of her time on her team:
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+In the office I would be hyper-focused on the team, making sure everyone understood the bigger picture.
+
+My agenda was to make sure that everybody was extremely happy, doing their thing and that they were supported. I wanted to be certain they were able to look at the problems and face them the right way.
+
+This instantly reminded me of what Sir Richard Branson famously said about leading a team:
+
+/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+If you look after your staff, they’ll look after your customers. It’s that simple.
+
+These are just two of many insights Illit shared with me throughout our conversation. The result is an interview packed with tips any entrepreneur could learn from.
+
+## Full Interview with Illit Geller - Founder of Fintech - TradAir
+
+#### P: Illit thank you so much for agreeing to share your story. Can you start by giving us a brief description of your company TradAir?
+
+**I:** Before founding TradAir I spent 10 years in the post-trade, middle office, back office world. I wanted to shift into the front office technology market in fintech and capital markets.
+
+We focused specifically on the institutional foreign exchange market. We were looking to bring disruption to the way currencies and, in particular, emerging market currencies are traded.
+
+What’s happening in FX trading is that local banks (despite the value they add to the market with their expertise) are losing the game to these large institutions.
+
+And it’s really all due to a tech gap. Because JP Morgan, Deutsche Bank, HSBC, etc. have way more advanced tech tools. As a result, they’re managing north of 75% of foreign exchange trading volumes.
+
+And so we wanted to bring disruption to the market and give the local banks an edge. We wanted to enable them to bring back their value into their currency.
+
+#### P: Can you expand a bit on how the idea of TradAir came about?
+
+**I:** I really think that when you start a company you don’t necessarily have to have the right idea from the get-go.
+
+We started exploring the front office market and the differences between the largest banks and the rest of the world, identified the challenges and opportunities, and came to the need for a true pricing engine.
+
+**It’s important to be out in the market and talk to the actual players to have them as true partners in your product evolution.**
+
+That’s basically what we did.
+
+It wasn’t a lightbulb moment where one morning I woke up and “poof” I’m going to start a company with this amazing idea.
+
+I decided to start a fintech in this market without a specific idea. We knew and had a sense of where the issues were. We started talking to a few of the banks to understand exactly what their pain was. And we started to figure out how we could best solve those pain points.
+
+.elementor-3326 .elementor-element.elementor-element-fa6400f{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--overflow:hidden;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;}.elementor-3326 .elementor-element.elementor-element-283e311{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--gap:64px 64px;--background-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-283e311:not(.elementor-motion-effects-element-type-background), .elementor-3326 .elementor-element.elementor-element-283e311 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F4FAFE;}.elementor-3326 .elementor-element.elementor-element-283e311, .elementor-3326 .elementor-element.elementor-element-283e311::before{--border-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-857117e{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--background-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-857117e.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3326 .elementor-element.elementor-element-e6af329 img{width:100%;max-width:100%;height:100%;object-fit:cover;object-position:bottom right;}.elementor-3326 .elementor-element.elementor-element-e6af329{width:100%;max-width:100%;bottom:-44px;}body:not(.rtl) .elementor-3326 .elementor-element.elementor-element-e6af329{right:0px;}body.rtl .elementor-3326 .elementor-element.elementor-element-e6af329{left:0px;}.elementor-3326 .elementor-element.elementor-element-ec0de51{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--padding-block-start:112px;--padding-block-end:112px;--padding-inline-start:0px;--padding-inline-end:44px;}.elementor-3326 .elementor-element.elementor-element-ec0de51.e-con{--flex-grow:1;--flex-shrink:1;}.elementor-3326 .elementor-element.elementor-element-c168e59{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-4aeb8ec .elementor-heading-title{font-family:"Poppins", sans-serif;font-size:32px;font-weight:700;}.elementor-3326 .elementor-element.elementor-element-8e0cd20{color:#000000;}@media(min-width:768px){.elementor-3326 .elementor-element.elementor-element-857117e{--width:360px;}}@media(max-width:767px){.elementor-3326 .elementor-element.elementor-element-283e311{--padding-block-start:40px;--padding-block-end:40px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3326 .elementor-element.elementor-element-857117e{--min-height:300px;}body:not(.rtl) .elementor-3326 .elementor-element.elementor-element-e6af329{right:0px;}body.rtl .elementor-3326 .elementor-element.elementor-element-e6af329{left:0px;}.elementor-3326 .elementor-element.elementor-element-e6af329{bottom:-76px;}.elementor-3326 .elementor-element.elementor-element-ec0de51{--padding-block-start:40px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}} 
+
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+
+
+
+##### Building a Startup?
+
+
+
+From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
+
+Let's Talk
+
+#### P: What was the a-ha moment where you realised you could go all-in on TradAir?
+
+**I:**  I can’t pinpoint a specific a-ha moment, but I can go back to the fintech company that we founded previously, [Traiana](https://www.linkedin.com/company/traiana/).
+
+The DNA and the operational team had changed tremendously and I had decided it was time for me to move on. I knew that I wanted to continue and do something new.
+
+We launched with the help of a few development partners who I knew thanks to my contacts in the market. Then we grew the company from there.
+
+I think the most important thing when it comes to early-stage founders is that you don’t overthink or over analyse your product or initial offering.
+
+Just go and talk to as many people as you can in the market from all levels, junior to senior. Talk to everyone to understand their perspectives and start building the solution.
+
+**If you overanalyze you’ll always find a reason not to do something. And as an entrepreneur, you need to find the ‘why yes’, not the ‘why not!’**
+
+/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+Expert Tip
+
+A lot can be learnt from the idea of pushing ahead and jumping into new ideas. Take Sir Richard Branson as an example here. In [this Master’s of Scale episode](https://mastersofscale.com/richard-branson/), he talks about the idea of **“Screw it. Let’s do it.”** 
+
+This was the motto he used to build an airline, a train company, a record label, a media company and an aerospace company to name just a few.
+
+#### P: With that in mind I want to take a closer look at that fintech solution you built.
+
+#### What did the first version of TradAir look like and how did you validate the idea?
+
+**I:** As I mentioned we worked with development partners.
+
+Specifically, we worked with a few banks that understood where we wanted our focus to be. The specific front office, streaming of prices into the global market.
+
+Then, once we found the initial partners, we proceeded with what I believe is the right way to go about product development.
+
+We figured out our Minimum Viable Product, starting with our value proposition.
+
+We asked ourselves “What can we provide to our initial customer that brings them enough value, not all of it but just enough value that they will understand you’re on the right path and they will continue to work with you.”
+
+/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+Expert Tip
+
+Focus on getting your MVP’s value proposition incredibly clear. If your grandma doesn’t understand it’s probably not clear.
+
+[**Jan-Philipp Kruip**](https://www.linkedin.com/in/janphilippkruip/)**, Founder, CEO & Angel Investor**
+
+#### P: And what was the result of that?
+
+**I:** Initially we took a few pricing feeds that we had and we enabled the user to manually increase and decrease their spread on top of the pricing that we had.
+
+We pushed that out to one source of technology, one platform.
+
+All the sophistication and cool features were saved for later.
+
+#### P: How long did it take you to build the MVP?
+
+**I:** TradAir took around six months.
+
+#### P: What was your original time estimate?
+
+**I:** Initially we estimated around six months so we got it pretty spot on in terms of roadmap.
+
+
+
+Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/#how-to-build-an-mvp-3-steps)
+
+.elementor-3329 .elementor-element.elementor-element-f79b780{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;--padding-block-start:70px;--padding-block-end:70px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3329 .elementor-element.elementor-element-aa6dd2a:not(.elementor-motion-effects-element-type-background), .elementor-3329 .elementor-element.elementor-element-aa6dd2a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#29293E;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a, .elementor-3329 .elementor-element.elementor-element-aa6dd2a::before{--border-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-95ae566{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-99ebd14{text-align:center;}.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{color:var( --e-global-color-eb70be1 );font-family:var( --e-global-typography-0ff79ee-font-family ), sans-serif;font-size:var( --e-global-typography-0ff79ee-font-size );font-weight:var( --e-global-typography-0ff79ee-font-weight );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-0ce57c0{text-align:center;color:var( --e-global-color-eb70be1 );font-size:20px;}.elementor-3329 .elementor-element.elementor-element-28db4d7{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-start;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group{padding-right:calc( 24px/2 );padding-left:calc( 24px/2 );margin-bottom:32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-form-fields-wrapper{margin-left:calc( -24px/2 );margin-right:calc( -24px/2 );margin-bottom:-32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomleft, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomright{margin-bottom:0;}body.rtl .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-left:8px;}body:not(.rtl) .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-right:8px;}body .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-above .elementor-field-group > label{padding-bottom:8px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-type-html{padding-bottom:0px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper select{background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper::before{color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button{font-family:"Poppins", sans-serif;font-size:14px;font-weight:700;line-height:1.5;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\] svg \*{fill:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover svg \*{fill:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-success{color:var( --e-global-color-40f63f7 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-danger{color:var( --e-global-color-8ddb30f );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-help-inline{color:var( --e-global-color-9acb2f2 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;width:100%;max-width:100%;}.elementor-3329 .elementor-element.elementor-element-70fbc6a > .elementor-widget-container{padding:10px 0px 0px 0px;}@media(min-width:768px){.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--content-width:var(--container-md);}}@media(max-width:1024px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}@media(max-width:767px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}/\* Start custom CSS for form, class: .elementor-element-70fbc6a \*/.elementor-3329 .elementor-element.elementor-element-70fbc6a input {<br /> border-color: #65639C !important;<br /> }<br /> .elementor-3329 .elementor-element.elementor-element-70fbc6a input:is(:focus, :hover) {<br /> border-color: #B9B8CE !important;<br /> }/\* End custom CSS \*/
+
+##### Sign up for our newsletter
+
+Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+
+/\*! elementor-pro - v3.19.0 - 07-02-2024 \*/<br /> .elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form\_\_step{width:100%}.e-form\_\_step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form\_\_buttons{flex-wrap:wrap}.e-form\_\_buttons,.e-form\_\_buttons\_\_wrapper{display:flex}.e-form\_\_indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form\_\_indicators\_\_indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form\_\_indicators\_\_indicator\_\_progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form\_\_indicators\_\_indicator\_\_progress\_\_meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;transition:width .1s linear}.e-form\_\_indicators\_\_indicator:first-child{padding-left:0}.e-form\_\_indicators\_\_indicator:last-child{padding-right:0}.e-form\_\_indicators\_\_indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-inactive \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-inactive object,.e-form\_\_indicators\_\_indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active object,.e-form\_\_indicators\_\_indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-completed \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator\_\_label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form\_\_indicators\_\_indicator--state-completed object,.e-form\_\_indicators\_\_indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator\_\_icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form\_\_indicators\_\_indicator\_\_icon img,.e-form\_\_indicators\_\_indicator\_\_icon object,.e-form\_\_indicators\_\_indicator\_\_icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form\_\_indicators\_\_indicator\_\_icon .e-font-icon-svg{height:1em}.e-form\_\_indicators\_\_indicator\_\_number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;margin-bottom:10px}.e-form\_\_indicators\_\_indicator--shape-circle{border-radius:50%}.e-form\_\_indicators\_\_indicator--shape-square{border-radius:0}.e-form\_\_indicators\_\_indicator--shape-rounded{border-radius:5px}.e-form\_\_indicators\_\_indicator--shape-none{border:0}.e-form\_\_indicators\_\_indicator\_\_label{text-align:center}.e-form\_\_indicators\_\_indicator\_\_separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#babfc5}.e-form\_\_indicators--type-icon,.e-form\_\_indicators--type-icon\_text,.e-form\_\_indicators--type-number,.e-form\_\_indicators--type-number\_text{align-items:flex-start}.e-form\_\_indicators--type-icon .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-icon\_text .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number\_text .e-form\_\_indicators\_\_indicator\_\_separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-field-type-tel input{direction:inherit}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha\_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha\_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{order:3}.elementor-form .elementor-button>span{display:flex;justify-content:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}
+
+   Full Name  Buisness Email  Subscribe
+
+#### P: Tell me, what did your road to product-market fit look like? You launched and the users adopted it and it was smooth, or was there some friction there?
+
+**I:** Because we developed our fintech product with the market, in partnership with a bank, the initial release MVP of the product was spot on.
+
+We were able to sell it to many banks thereafter. Obviously, you don’t think about everything initially so you have to rewrite and iterate. We faced a lot of challenges in that respect, especially when it came to latency.
+
+When you work with the smaller and less liquid currencies like Turkey and Poland and all these other EU currencies you don’t think about latency. It’s not an issue. When you expand you start facing new challenges that you didn’t plan on initially and need to adapt quickly.
+
+As we grew and attracted alternative liquidity providers the pricing engine latency became important.
+
+I believe any startup needs to manage product gaps with their clients. As long as things are visible and the clients understand where you are and how you are getting to where they need things should be smooth.
+
+If you’re managing your clients and the processes correctly you should have enough time to adjust. Or do whatever you need to stay on track.
+
+As much as we play in the fintech space, it’s the market that you actually have to work and sell into.
+
+#### P: In the early stages who did you have with you in your team? Did you have a full in-house team, did you outsource aspects, what did the team look like?
+
+**I:** So I started the company alone, then I brought in a partner that worked with me in my previous fintech, Traiana.
+
+Quickly after that, I brought in a small technology team and that was the core team. The technology team that you need initially are really people that can get you to an MVP.
+
+So you don’t necessarily need a CTO that thinks about the very long term and builds a spaceship.
+
+I think this is something very important to remember because if you focus on the spaceship you might lose time and money. And the focus should be on the important part, the MVP.
+
+I had a great, innovative development team that worked on the initial product.
+
+My development partner decided to bet on HTML 5 – this was back in 2010. Financial markets and HTML 5 at the time were almost enemies.
+
+So we were the first to focus on HTML 5 which ended up being the perfect vehicle for us and was a huge win for our fintech startup.
+
+
+
+Related: [What Founders Should Know Before Hiring a CTO or a Software Agency \[Expert Interview\]](https://altar.io/what-founders-should-know-before-hiring-a-cto-or-software-agency-expert-interview/)
+
+#### P: Can you tell us a little bit about your managing style and what you think the best practices are?
+
+**I:**  Teamwork and collaboration is the name of the game - Initially you’re a small team that does everything, just like any startup.
+
+If I saw that my development team was working really hard on the next release and there wasn’t much I could do to help, then I would bake them cakes and bring them coffee – the point is there is always a way to help out!
+
+I did everything in the early days, even though my title was CEO.
+
+I did quality assurance, product specs, I was looking at the design, I was raising money, hiring people.
+
+You name it we all did it all.
+
+And I’m not saying this in a negative way. I love my work and I have a lot of passion. I wouldn’t call myself a workaholic but I work hard for the success of the company.
+
+I’m also a mother, I have two kids, my daughter is 17 and my son is 14. My kids were always as much involved with my companies as any employee of mine is.
+
+They would know the focus, they would know what the next sale was going to be, they knew everyone in the company.
+
+It was the only way, in my opinion, to be successful was making sure my kids were involved and that they learned and appreciated the process with me.
+
+#### P: What was the day to day like back then?
+
+**I:** Let’s take a day in the office and not a day travelling because I travelled a lot to meet with and feel the market.
+
+In the office I would be hyper-focused on the team, making sure everyone understood the bigger picture.
+
+I didn’t have an agenda to be the first one in and the last one out of the office. My agenda was to make sure that everybody was extremely focused, happy, doing their thing, understand how what they do impacts the market and the client, and that they were supported and were able to look at the problems and face them the right way.
+
+/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+Expert Tip
+
+People, or the ability to ask for people's help, is one of the most valuable resources you have as an entrepreneur.
+
+Embrace that ability to ask for help, it’s one of the most valuable resources you have. You’ll be surprised how many people will be happy to help.
+
+[**Giacomo De Lorenzo**](https://www.linkedin.com/in/giacomodelorenzo/)**, Founder & Entrepreneur**
+
+#### P: Now some advice for aspiring entrepreneurs. What’s one resource that you found invaluable for success?
+
+**I:**  Advisors. My rule of thumb is to surround myself with people smarter than me that can help in areas where I’m not an expert.
+
+I’m not afraid to ask for advice even if in the end I choose my own way it’s important for me to hear different thought processes and ideas. I’m always looking for other perspectives and ideas and I’m definitely not interested in yes people.
+
+By advisors I mean people close to me that understand where I’m at that won’t mind me calling them 24/7 with problems or doubts.
+
+There’s a great organisation called [YPO (Young President’s Organisation)](https://www.ypo.org/) it’s a global CEO focused organisation.
+
+I belong to that and through them, I have a group of 10 people who are kind of “the board of my life”.
+
+We are all CEOs and we all share the same challenges and we consult each other and think aloud as friends and that’s extremely valuable.
+
+It gives you a space of like-minded people who have either experienced what you’re experiencing or will do in the future.
+
+And there are chapters all over the world.
+
+/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+Expert Tip
+
+[Startup advisors and mentors](https://altar.io/expert-interview-ultimate-guide-to-startup-advisors/) are both necessary and useful. Most of the things that you do, in the real world, aren’t learnt in any school. You learn a lot of academia around business. But what you don’t learn about is startups.
+
+[**Martin Zwilling**](https://www.linkedin.com/in/martinzwilling/)**, Founder, CEO & Startup Advisor**
+
+#### P: What was the biggest lesson you learned from TradAir?
+
+**I:** The difference between private equity money and VC money.
+
+When you’re a CEO and entrepreneur you’re focused on finalising your capital raise and not necessarily have the discipline to understand where it’s coming from.
+
+I think VCs are much more focused on the vision and have a longer lifespan.
+
+With private equity, it’s a lot more about the numbers, the spreadsheets and all about money.
+
+As a company, we were too young for private equity. That was my biggest takeaway.
+
+All in all the experience was amazing and we had a great team.
+
+#### P: Is there anything you would do differently now?
+
+**I:** I  think having a strong finance person that really looks at driving the company’s revenue and forecasting forward is very important.
+
+At the time, I didn’t place enough focus on financials. I was more in the market with clients, focusing on product, sales and marketing, and running the company.
+
+It’s important to keep an eye on your financials and projections and forecasting in both the short and long term. It’s something I would be a lot more proactive about in the future.
+
+#### P: Illit,  before we finish up I wanted to talk about your new project, DisruptiveAI. Can you tell us a bit about it?.
+
+**I:** Basically, after 25 years of experience in the fintech entrepreneurship market for different companies that I was involved with as a founder/CEO/product and biz dev, I decided to take a shift into the investment world and be as much as I can help entrepreneurs in early stages of their founding companies.
+
+I believe that the next huge development in the high tech market is going to come from AI. I think this shift is going to have a bigger effect on our market than the internet. So we decided to build our new venture fund with a focus on early-stage AI startups in different fields.
+
+Fintech (including insurtech) digital health, e-commerce and so on and so forth.
+
+We are looking at ways where entrepreneurs come with domain expertise in a specific market couple with remarkable AI technology, and bring disruption into a specific market.
+
+Hence the name, [DisruptiveAI](http://disruptiveai.fund/).
+
+#### P: Do you have an industry in particular where you will focus?
+
+**I:** We’re not going to invest in something unless we can bring added value. That being said we’re not limiting ourselves to a specific industry.
+
+Obviously, there are shifts in the market, from the automotive industry to digital health to fintech and e-commerce where AI is already playing an initial role and the sky’s the limit.
+
+#### P: And having been in the fintech market for 25 years I’m sure you’re in a very good position to reply to my next question:
+
+#### Where do you see the biggest shift in fintech coming from? Is it blockchain? Or do you believe other AI traits will shape the industry much more?
+
+**I:** With the fintech market, I don’t think it’s about blockchain or crypto. I think these are just means to an end. These are technologies that can help in a full solution. The actual solution needs to solve a real business problem.
+
+There’s no such thing as a blockchain startup. It has to have a good product-market fit and the product has to solve a pain someone in the market has and add value.
+
+## Thank You, Illit…
+
+… For taking the time out of your busy schedule to sit down with us.
+
+This conversation is a great example of just some of the key traits all successful entrepreneurs show:
+
+- The ability to listen to the market and create solutions to their problems
+- Not afraid of hard work and getting their hands dirty.
+- Focusing on the team and wearing any hat needed to get the job done.
+
+And while nothing can guarantee your success, embodying these traits will certainly reduce your risk of failure.

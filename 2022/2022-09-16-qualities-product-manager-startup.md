@@ -1,0 +1,251 @@
+---
+title: "6 Critical Qualities You Need in a Product Manager for Your Startup"
+date: "2022-09-16"
+categories: 
+  - "startup-advice"
+coverImage: "kelly-sikkema-hLit2zL-Dhk-unsplash-1024x683-1.jpg"
+---
+
+For the last 15 years, I’ve helped build over 70 products. From products for the startups that I’ve founded myself, to the numerous successful [products I’ve helped other entrepreneurs bring to life](https://altar.io/work/) through my work as CEO and Head of Product at Altar.
+
+In that time, I’ve also helped a lot of entrepreneurs find their product managers.
+
+It’s a tall order. The discipline of the product manager is still relatively new. Which makes the pool of people to choose from small to begin with.
+
+But, more importantly, they need to have a range of skills and experience that not many people have. For example, they need to be incredibly analytical yet extremely creative – but more on that later.
+
+The crux of the matter is that this role can make a huge difference between joining the graveyard of 90%+ of startups that fail, or following the footsteps of startups like [Apiax](https://altar.io/case_study/apiax/) or [Fave](https://altar.io/case_study/fave/), that go to the market and raise millions.
+
+In this article, I’ll go over everything you need to look for in a potential product manager. But first, I want to highlight _why_ it’s important to onboard one in the first place – as many entrepreneurs and business leaders I speak with and read about still don’t fully understand why the role is so vital.
+
+.elementor-12941 .elementor-element.elementor-element-e56f4e6{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-12941 .elementor-element.elementor-element-f8d1905{--box-background-color:var( --e-global-color-f6f9b04 );--box-border-color:var( --e-global-color-secondary );--box-border-width:1px;--box-border-radius:12px;--box-padding:12px;--header-color:var( --e-global-color-text );--separator-width:0px;--item-text-decoration:underline;--item-text-hover-decoration:underline;--marker-color:var( --e-global-color-primary );--marker-size:5px;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_spinner{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header, .elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header-title{font-family:"Poppins", sans-serif;font-size:2.25rem;font-weight:700;text-transform:capitalize;line-height:1.2;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-family:var( --e-global-typography-45f602c-font-family ), sans-serif;font-size:var( --e-global-typography-45f602c-font-size );font-weight:var( --e-global-typography-45f602c-font-weight );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}.elementor-12941 .elementor-element.elementor-element-f8d1905 > .elementor-widget-container{padding:32px 32px 32px 32px;}@media(max-width:1024px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}}@media(max-width:767px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}} /\*! elementor-pro - v3.19.0 - 07-02-2024 \*/<br /> .elementor-widget-table-of-contents .elementor-toc\_\_header-title{color:var(--header-color)}.elementor-widget-table-of-contents.elementor-toc--collapsed .elementor-toc\_\_toggle-button--collapse,.elementor-widget-table-of-contents:not(.elementor-toc--collapsed) .elementor-toc\_\_toggle-button--expand{display:none}.elementor-widget-table-of-contents .elementor-widget-container{min-height:var(--box-min-height);border:var(--box-border-width,1px) solid var(--box-border-color,#9da5ae);border-radius:var(--box-border-radius,3px);background-color:var(--box-background-color);transition:min-height .4s;overflow:hidden}.elementor-toc\_\_header{display:flex;align-items:center;justify-content:space-between;padding:var(--box-padding,20px);background-color:var(--header-background-color);border-bottom:var(--separator-width,1px) solid var(--box-border-color,#9da5ae)}.elementor-toc\_\_header-title{font-size:18px;margin:0;color:var(--header-color)}.elementor-toc\_\_toggle-button{cursor:pointer;display:inline-flex}.elementor-toc\_\_toggle-button i{color:var(--toggle-button-color)}.elementor-toc\_\_toggle-button svg{height:1em;width:1em;fill:var(--toggle-button-color)}.elementor-toc\_\_spinner-container{text-align:center}.elementor-toc\_\_spinner{font-size:2em}.elementor-toc\_\_spinner.e-font-icon-svg{height:1em;width:1em}.elementor-toc\_\_body{padding:var(--box-padding,20px);max-height:var(--toc-body-max-height);overflow-y:auto}.elementor-toc\_\_body::-webkit-scrollbar{width:7px}.elementor-toc\_\_body::-webkit-scrollbar-thumb{background-color:#babfc5;border-radius:10px}.elementor-toc\_\_list-wrapper{list-style:none;padding:0}.elementor-toc\_\_list-item{margin-bottom:.5em}.elementor-toc\_\_list-item.elementor-item-active{font-weight:700}.elementor-toc\_\_list-item .elementor-toc\_\_list-wrapper{margin-top:.5em;margin-left:var(--nested-list-indent,1em)}.elementor-toc\_\_list-item-text:hover{color:var(--item-text-hover-color);-webkit-text-decoration:var(--item-text-hover-decoration);text-decoration:var(--item-text-hover-decoration)}.elementor-toc\_\_list-item-text.elementor-item-active{color:var(--item-text-active-color);-webkit-text-decoration:var(--item-text-active-decoration);text-decoration:var(--item-text-active-decoration)}.elementor-toc\_\_list-item-text-wrapper{display:flex;align-items:center}.elementor-toc\_\_list-item-text-wrapper:before,.elementor-toc\_\_list-item-text-wrapper i{margin-right:8px;color:var(--marker-color)}.elementor-toc\_\_list-item-text-wrapper svg{margin-right:8px;fill:var(--marker-color);height:var(--marker-size,.5em);width:var(--marker-size,.5em)}.elementor-toc\_\_list-item-text-wrapper i{font-size:var(--marker-size,.5em)}.elementor-toc\_\_list-item-text-wrapper:before{font-size:var(--marker-size,1em)}.elementor-toc--content-ellipsis .elementor-toc\_\_list-item-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.elementor-toc\_\_list-items--collapsible>.elementor-toc\_\_list-wrapper>.elementor-toc\_\_list-item>.elementor-toc\_\_list-wrapper{display:none}.elementor-toc\_\_heading-anchor{position:absolute}.elementor-toc\_\_body .elementor-toc\_\_list-item-text{color:var(--item-text-color);-webkit-text-decoration:var(--item-text-decoration);text-decoration:var(--item-text-decoration)}.elementor-toc\_\_body .elementor-toc\_\_list-item-text:hover{color:var(--item-text-hover-color);-webkit-text-decoration:var(--item-text-hover-decoration);text-decoration:var(--item-text-hover-decoration)}.elementor-toc\_\_body .elementor-toc\_\_list-item-text.elementor-item-active{color:var(--item-text-active-color);-webkit-text-decoration:var(--item-text-active-decoration);text-decoration:var(--item-text-active-decoration)}ol.elementor-toc\_\_list-wrapper{counter-reset:item}ol.elementor-toc\_\_list-wrapper .elementor-toc\_\_list-item{counter-increment:item}ol.elementor-toc\_\_list-wrapper .elementor-toc\_\_list-item-text-wrapper:before{content:counters(item,".") ". "}
+
+#### Contents
+
+## Why is it Important to Have a Product Manager on Your Team?
+
+In a nutshell, it’s important because you’re building a product.
+
+Most successful startups I know of have had a very strong product manager since day one.
+
+Don’t just take my word for it, head over to LinkedIn and ask a few successful founders how they did it. You’ll gain valuable insights and strengthen your network in the process. In my experience, most entrepreneurs will happily take the time to respond – just like Silicon Valley veteran Garrett Gafke did when [my team reached out to him recently](https://altar.io/lessons-learned-from-over-25-years-in-silicon-valley-founder-story/).
+
+Here’s what he had to say about the importance of onboarding a product person early on:
+
+/\* widget: Blog: Simple Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote {<br /> --color-accent: #0FA4EA;<br /> --color-bg: #F4FAFE;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-clr-accent {<br /> border-color: var(--color-accent);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .border-l-6 {<br /> border-left-width: 6px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-xl {<br /> font-size: 1.25rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .italic {<br /> font-style: italic;<br /> }<br />
+
+Our product person was a key player and critical in making our very extensive platform work. A good product person will hear someone from the company say:
+
+‘We need to build this feature for the platform, it’s a must-have!’
+
+And turn around and says things like:
+
+‘Great! Is it deployable across all customers? Is there revenue to be generated from this feature? Does it help to improve the users’ experience?’
+
+It’s really important to lay the foundations of a great product team so you have that point of view. It ensures your product truly serves your users.
+
+I would say it’s even more important than having a rockstar technical person on your team. Because, with the right product person on your team, you may find out that the way you’re thinking of building this product may be wrong.
+
+It could be one detail that a product manager can look at and go “that’s not going to work.”
+
+I liken it to building a house. If you want to build your dream house, you don’t go straight to an engineer. You first talk to an architect.
+
+It should be the same with your startup. You shouldn’t go straight to a [CTO, developer or software development company](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/). You should first be looking for your product manager – your architect.
+
+In my experience, the reason most startups fail is that they don’t have a great product brain on their team.
+
+CBInsights backs this up. From [their findings](https://www.cbinsights.com/research/startup-failure-reasons-top/), 66% of startups that fail do so because of reasons directly related to product development.
+
+All of that said, it’s incredibly difficult to find someone who has all the experience, expertise and right mindset to be an excellent product manager.
+
+To put it bluntly, you can be a good product person in a team of product people. But to be the driving force behind product decisions, you have to be outstanding.
+
+Throughout the rest of this article, I will list all of the qualities you need to find in the first product manager you bring into your startup.
+
+Before that, however, I want to take a moment to define what I mean by product.
+
+
+
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+
+
+
+##### Do you have a brilliant idea that you want to bring to life?
+
+
+
+From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
+
+Let's Talk
+
+## What is “Product”?
+
+Product is a fairly new discipline in the startup world – at least compared with the other disciplines like development or marketing.
+
+Product is the intersection of **business**, **technology** and **user experience**.
+
+![Product at the centre of Business tech & UX](images/Product-at-the-centre-of-Business-tech-UX.png)
+
+Only someone who is deeply experienced in these three aspects can be a great product manager.
+
+Why does a great product person need to have great expertise in all three of these areas? Because the thing that could make your product great, ten times better than your competitors (more on that later), lies within these three areas.
+
+More than that, they need to have experience in all three of these areas for one other (much more practical) reason – resource management.
+
+Knowing where to allocate your resources is critical in a startup. You need to be able to prioritise. The challenge for great product thinkers is this:
+
+/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
+
+What is the minimum effort required to bring the maximum value to your product’s stakeholders?
+
+Often, there will be a battle of priority in your startup. The business minds will think the priority should be on their side. The technical minds will think tech is the biggest priority. The user experience minds will disagree, favouring priority on their side.
+
+This clash can only be mitigated by having someone in the middle, who has a deep understanding of all three universes, to get to the bottom of what your true priority is.
+
+I will dig into this further straight away as we move into the next section of the article – the qualities to look for in a Product Manager.
+
+
+
+Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
+
+## The Critical Qualities to Look for In a Product Manager
+
+### 1\. Experience in Business, UX & Tech
+
+As I just mentioned, your product manager needs to have a solid understanding of the three pillars of product – business, user experience and technology.
+
+Here’s a rundown of the experience they need pillar-by-pillar.
+
+#### Product Pillar#1: Business
+
+In terms of **business**, they need to have a deep understanding of:
+
+- All the stakeholders who will use the product
+- The problem those stakeholders have (that you are trying to solve)
+- How those stakeholders solve the problem today – and whether it’s a direct or indirect competitor
+
+A note here, all businesses have competitors. Even Ford had competition when they brought the Model T to market – the horse.
+
+As I said, when I think about a product, I always think it’s only worth doing if you’re ten times better than your competitors.
+
+Why is this important, why ten times? You may think this is the most amazing idea out there. But the vast majority of founders only build their products because they believe that.
+
+But this doesn’t mean it’s worth building. For sure, it means it’s worth pursuing – doing the research, even scoping the product entirely. But it’s not worth building yet.
+
+I’ve had 200 founders guarantee me that no one had ever had their idea. In all cases, after a week of research, I found multiple people already doing it.
+
+If you build a product without doing all that research, you’re forgetting one thing. One day, you’re going to be asking people to adopt this.
+
+How many apps have you seen that have come and gone and you’ve either:
+
+- Never downloaded it
+- Downloaded it and deleted it after a day
+
+The vast majority of people are happy using what they use today if it works – even if it's not the best solution out there. It’s infinitely harder for people to change their behaviours over keeping with what they use already.
+
+This is not just important in B2C. It’s even more so in B2B.
+
+In B2B, you have to convince the people who will use the tool. But more than that, you have to convince their managers – and the managers of those managers. You have to convince the decision-makers, the ones with the money (this is why you need to study **all** the stakeholders, not just the users).
+
+Persuading that change in behaviour in a B2B environment is extremely difficult to do. Unless you tick all of the boxes, blow your competition out of the water and bring an extremely robust product to the table, it’s never going to happen. And even if your product is bullet-proof, there is no guarantee that they’ll adopt it.
+
+It’s why I always ask: “why won’t people adopt this?” Because then we can reverse engineer that so that the product itself can counter the adoption problems.
+
+Not to say it’s impossible to bring a product to market without this understanding. But you’ll never be truly disruptive or innovative. You’ll be less like Apple and more like IBM. But if you want to build a great product you need someone who understands this first pillar.
+
+Now for the second pillar, technology.
+
+#### Product Pillar#2: Technology
+
+You don’t need to be an engineer, but a product person needs to have a strong foundation in tech with some coding experience. Someone who’s built something in a specific language that works – even if it's a simple app or tool.
+
+#### Product Pillar#3: User Experience
+
+Even if the business side of your product is solid, you have to realise that you’re building something people will use every day. So their journey through the product needs to be easy and delightful. \[/vc\_column\_text\]\[vc\_column\_text\]
+
+### 2\. Diverse Experience & Expertise
+
+In my experience, the best product minds all have something in common:
+
+1. They’ve worked in a diverse range of areas
+2. They’re both extremely analytical and very creative
+
+Take Steve Jobs as an example. When he was at college, he didn’t just choose one course. He did a wide range of disciplines. He even chose to do typography.
+
+He thought that he was never gonna use that skill. Fast forward ten years, when he was designing the first Mac, and that typography experience was influencing how he created the user experience we’ve come to know and love.
+
+What’s my point here?
+
+When you’re trying to solve a problem, you’ll often look at the way the industry currently solves that problem. But more often than not, the brightest, most innovative idea will come from an experience you’ve had in a completely different context.
+
+It’s about more than being someone that can understand the problem at hand in-depth. Once they’ve understood that problem, they then need to be able to look at the core problem in an abstract way.
+
+This is why you need someone who’s both extremely analytical and focused but also extremely creative and capable of thinking outside the box.
+
+Normally, people are one of the other. Either they have a very strong analytical mind or they’re a very creative person. People who’re more creative tend to stray away from subjects that require logical reasoning – and vice versa. But a great product manager needs both.
+
+Be aware that this is not an easy person to find.
+
+
+
+Related: [How to Find a CTO for Your Startup: The Founder’s Guide](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
+
+### 3\. An Entrepreneurial Background
+
+An entrepreneurial background is extremely valuable in a senior product person. They’re about to be making big decisions for your startup. They need to be able to understand the consequences of those decisions – and the best way to do that is if they’ve already done it, for their own company.
+
+More than that, if they have entrepreneurial experience, they’ll already be used to thinking about the long-term strategy of a startup – a valuable asset for them to bring to your table.
+
+### 4\. A Great Communicator Who Inspires Trust
+
+Very often, your product manager is going to be telling the other stakeholders (business, tech, UX/UI, etc.) that what they think needs to happen is wrong – including you. As I mentioned earlier, there is often a battle between these three facets of a startup, with everyone thinking their department needs priority.
+
+If your product manager communicates with those stakeholders poorly, it’s unlikely they’ll get behind them – even if their suggestions are the best thing for your startup.
+
+A product manager role requires a lot of sensitivity when it comes to dealing with people. A great product manager needs to communicate what’s best for your startup without destroying team morale.
+
+More than making sure they’re still motivated, a great product manager needs to ensure that the team still feel ownership of the product. This is the only way to inspire trust in your team.
+
+I’ve worked on many projects where it’s taken me ten minutes to understand the direction in which that product needs to go. But it’s then taken me three weeks to ensure that every other stakeholder on that team aligns and feels ownership of that direction.
+
+And your product manager needs to be able to do the same thing.
+
+.elementor-3329 .elementor-element.elementor-element-f79b780{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;--padding-block-start:70px;--padding-block-end:70px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3329 .elementor-element.elementor-element-aa6dd2a:not(.elementor-motion-effects-element-type-background), .elementor-3329 .elementor-element.elementor-element-aa6dd2a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#29293E;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a, .elementor-3329 .elementor-element.elementor-element-aa6dd2a::before{--border-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-95ae566{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-99ebd14{text-align:center;}.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{color:var( --e-global-color-eb70be1 );font-family:var( --e-global-typography-0ff79ee-font-family ), sans-serif;font-size:var( --e-global-typography-0ff79ee-font-size );font-weight:var( --e-global-typography-0ff79ee-font-weight );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-0ce57c0{text-align:center;color:var( --e-global-color-eb70be1 );font-size:20px;}.elementor-3329 .elementor-element.elementor-element-28db4d7{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-start;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group{padding-right:calc( 24px/2 );padding-left:calc( 24px/2 );margin-bottom:32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-form-fields-wrapper{margin-left:calc( -24px/2 );margin-right:calc( -24px/2 );margin-bottom:-32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomleft, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomright{margin-bottom:0;}body.rtl .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-left:8px;}body:not(.rtl) .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-right:8px;}body .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-above .elementor-field-group > label{padding-bottom:8px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-type-html{padding-bottom:0px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper select{background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper::before{color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button{font-family:"Poppins", sans-serif;font-size:14px;font-weight:700;line-height:1.5;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\] svg \*{fill:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover svg \*{fill:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-success{color:var( --e-global-color-40f63f7 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-danger{color:var( --e-global-color-8ddb30f );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-help-inline{color:var( --e-global-color-9acb2f2 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;width:100%;max-width:100%;}.elementor-3329 .elementor-element.elementor-element-70fbc6a > .elementor-widget-container{padding:10px 0px 0px 0px;}@media(min-width:768px){.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--content-width:var(--container-md);}}@media(max-width:1024px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}@media(max-width:767px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}/\* Start custom CSS for form, class: .elementor-element-70fbc6a \*/.elementor-3329 .elementor-element.elementor-element-70fbc6a input {<br /> border-color: #65639C !important;<br /> }<br /> .elementor-3329 .elementor-element.elementor-element-70fbc6a input:is(:focus, :hover) {<br /> border-color: #B9B8CE !important;<br /> }/\* End custom CSS \*/
+
+##### Sign up for our newsletter
+
+Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+
+/\*! elementor-pro - v3.19.0 - 07-02-2024 \*/<br /> .elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form\_\_step{width:100%}.e-form\_\_step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form\_\_buttons{flex-wrap:wrap}.e-form\_\_buttons,.e-form\_\_buttons\_\_wrapper{display:flex}.e-form\_\_indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form\_\_indicators\_\_indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form\_\_indicators\_\_indicator\_\_progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form\_\_indicators\_\_indicator\_\_progress\_\_meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;transition:width .1s linear}.e-form\_\_indicators\_\_indicator:first-child{padding-left:0}.e-form\_\_indicators\_\_indicator:last-child{padding-right:0}.e-form\_\_indicators\_\_indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-inactive \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-inactive object,.e-form\_\_indicators\_\_indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form\_\_indicators\_\_indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-active object,.e-form\_\_indicators\_\_indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator--state-completed \[class\*=indicator--shape-\]:not(.e-form\_\_indicators\_\_indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator\_\_label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form\_\_indicators\_\_indicator--state-completed .e-form\_\_indicators\_\_indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form\_\_indicators\_\_indicator--state-completed object,.e-form\_\_indicators\_\_indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form\_\_indicators\_\_indicator\_\_icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form\_\_indicators\_\_indicator\_\_icon img,.e-form\_\_indicators\_\_indicator\_\_icon object,.e-form\_\_indicators\_\_indicator\_\_icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form\_\_indicators\_\_indicator\_\_icon .e-font-icon-svg{height:1em}.e-form\_\_indicators\_\_indicator\_\_number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;margin-bottom:10px}.e-form\_\_indicators\_\_indicator--shape-circle{border-radius:50%}.e-form\_\_indicators\_\_indicator--shape-square{border-radius:0}.e-form\_\_indicators\_\_indicator--shape-rounded{border-radius:5px}.e-form\_\_indicators\_\_indicator--shape-none{border:0}.e-form\_\_indicators\_\_indicator\_\_label{text-align:center}.e-form\_\_indicators\_\_indicator\_\_separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#babfc5}.e-form\_\_indicators--type-icon,.e-form\_\_indicators--type-icon\_text,.e-form\_\_indicators--type-number,.e-form\_\_indicators--type-number\_text{align-items:flex-start}.e-form\_\_indicators--type-icon .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-icon\_text .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number .e-form\_\_indicators\_\_indicator\_\_separator,.e-form\_\_indicators--type-number\_text .e-form\_\_indicators\_\_indicator\_\_separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-field-type-tel input{direction:inherit}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha\_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha\_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{order:3}.elementor-form .elementor-button>span{display:flex;justify-content:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}
+
+   Full Name  Buisness Email  Subscribe
+
+### 5\. Passionate
+
+Your product manager needs to be passionate about your startup. After all, they’ll be responsible for the key product decisions as your startup develops and grows.
+
+And passion can mean the difference between success and failure for a product.
+
+Passion is what will give your product manager the drive and obsession to push through any hurdles that may appear, and find those innovative solutions that will make your product ten times better than your competitors.
+
+It’s one of the reasons why, at Altar, we only work with projects we believe in and are passionate about. It’s the only way that we can truly serve the entrepreneurs we work with and give them the best of our expertise and experience.
+
+All of this to say if your potential product manager can’t get behind you and fly your flag, they’re simply not the right person for your startup.
+
+### 6\. Committed
+
+Last but not least, your product manager needs to be fully invested in the success of the product. They need to believe in it and be willing to do whatever it takes to make it a success. If they're not, then it will be very difficult for the product to reach its full potential.
+
+You should talk to your potential product manager about the company's goals and make sure you agree on them. For example, the deadlines for developing and delivering your MVP, as well as subsequent product changes.
+
+As with any stakeholder in your startup, you can’t afford to be working with someone who’s not fully committed to the project.
+
+## Wrapping Up
+
+While it’s not going to be easy to find someone with all the qualities I’ve discussed here, don’t be tempted to settle for anyone who doesn’t embody all of them.
+
+This person is going to be responsible for the blueprint of your product. The work they defined will impact every step of the product development process – including UX/UI and development.
+
+So take your time, and persevere to find the right person for the job.
+
+Good luck and thanks for reading.

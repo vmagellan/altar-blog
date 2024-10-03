@@ -1,0 +1,219 @@
+---
+title: "The 10 Best Coworking Spaces in Lisbon For Entrepreneurs"
+date: "2022-01-05"
+categories: 
+  - "startup-advice"
+tags: 
+  - "coworking"
+  - "entrepreneur"
+  - "entrepreneurship"
+  - "lisbon-coworking"
+  - "startup-strategy"
+coverImage: "andreas-brucker-X87yB-jvYHw-unsplash-scaled-1.jpg"
+---
+
+Are you looking for the best coworking spaces in Lisbon? If so, I've created this list of the best choices based on price, transport links, networking benefits and reviews.
+
+Lisbon is a great to place to build your startup. Great food, [the top-ranked country to work remotely](https://www.kayak.co.uk/work-from-wherever/rank), developed infrastructure, investment in sustainable transport options, rich culture, and nearly [2,800 hours of sun per year](https://www.telegraph.co.uk/travel/maps-and-graphics/mapped-the-sunniest-and-dullest-cities-in-europe/).
+
+These are just a few reasons why entrepreneurs are [choosing the Portuguese capital to build their business](https://altar.io/lisbon-great-place-develop-startup/) whilst enjoying a great quality of life.
+
+Home of Web Summit, Lisbon has a plethora of options for your coworking needs. All of whom work hard to bring a sense of community, sustainability and inspiration to the startup scene.
+
+**Full Transparency**: This article does not contain affiliate links. Meaning neither I nor Altar.io receives any commission if you should choose to work with one of them.
+
+To ensure this article remains impartial, I did not reach out to the following coworking spaces when creating this list. It was created through personal experience, the experiences of others and online ratings.
+
+.elementor-12941 .elementor-element.elementor-element-e56f4e6{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-12941 .elementor-element.elementor-element-f8d1905{--box-background-color:var( --e-global-color-f6f9b04 );--box-border-color:var( --e-global-color-secondary );--box-border-width:1px;--box-border-radius:12px;--box-padding:12px;--header-color:var( --e-global-color-text );--separator-width:0px;--item-text-decoration:underline;--item-text-hover-decoration:underline;--marker-color:var( --e-global-color-primary );--marker-size:5px;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_spinner{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header, .elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_header-title{font-family:"Poppins", sans-serif;font-size:2.25rem;font-weight:700;text-transform:capitalize;line-height:1.2;}.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-family:var( --e-global-typography-45f602c-font-family ), sans-serif;font-size:var( --e-global-typography-45f602c-font-size );font-weight:var( --e-global-typography-45f602c-font-weight );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}.elementor-12941 .elementor-element.elementor-element-f8d1905 > .elementor-widget-container{padding:32px 32px 32px 32px;}@media(max-width:1024px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}}@media(max-width:767px){.elementor-12941 .elementor-element.elementor-element-f8d1905 .elementor-toc\_\_list-item{font-size:var( --e-global-typography-45f602c-font-size );line-height:var( --e-global-typography-45f602c-line-height );letter-spacing:var( --e-global-typography-45f602c-letter-spacing );word-spacing:var( --e-global-typography-45f602c-word-spacing );}}
+
+#### Contents
+
+## 1\. Heden
+
+Short for “Hidden Eden”, Heden’s philosophy is based on “inspiration, comfort, sustainability & inclusion.”
+
+They have two locations in Lisbon, Chiado & Graça, both of which are vibrant neighbourhoods in the city centre. They are also in the process (at the time of writing) of opening a new space in Santa Apolónia — right on top of the iconic Tagus River in the heart of the city.![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Heden Coworking Space Lisbon](https://cdn-images-1.medium.com/max/720/0*lPzd94G0P-FHQBaF)
+
+#### Heden Chiado
+
+**Monthly Price (Fixed Desk):** €300 +VAT **Monthly Price (Hotdesk):** €250 +VAT **Daily Price (Hotdesk):** €20 +VAT **Meeting Rooms Available?:** Yes — from €20 an hour +VAT **Opening Times**: 9 am to 9 pm Mon-Fri **Other Features:**
+
+- “The Om Room” a chillout space with yoga classes, massages & workshops.
+- Event room for up to 110 people.
+- Monitors for Hire
+- High-Speed Wifi
+- Free Print & Scan
+
+#### Heden Graça
+
+**Monthly Price (Fixed Desk):** €250 +VAT **Monthly Price (Hotdesk):** €150 +VAT **Daily Price (Hotdesk):** €15 +VAT **Meeting Rooms Available?:** Yes — from €15 an hour +VAT **Opening Times**: 9 am to 9 pm Mon-Fri **Other Features:** Heden Graça offers the same other features as in Chiado.
+
+**Website:** [Heden Lisbon — Sustainable Coworking & Event Spaces](https://heden.co/) **Contact Email:** [info@heden.co](mailto:info@heden.co) **Google Reviews:** 4.9/5.0 (15 Reviews)![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Heden The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Heden Coworking Space Lisbon Top Review](https://cdn-images-1.medium.com/max/720/0*bkW5KjkuISCOPwsF)
+
+## 2\. Avila Spaces
+
+Avila Spaces works hard to make their coworking spaces “feel like home.” As well as cowork spaces they provide dedicated office spaces, and a virtual office app “MyOffice.”
+
+They are located in Avenida da República in the city centre. It’s only 30 mins by metro from the historic centre but is slightly removed from the touristic hustle & bustle.
+
+They offer several coworking packages, from basic to premium, depending on if you need a hot desk or fixed desk.![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Avila Spaces Coworking Space Lisbon](https://cdn-images-1.medium.com/max/720/0*C9W4U1eeMO188VHP)**Monthly Price (Fixed Desk):** From €250 +VAT **Monthly Price (Hotdesk):** From €150 +VAT **Daily Price (Hotdesk):** N/A **Meeting Rooms Available?:** Yes — Up to 8 hours a month included, depending on package **Opening Times**: 24/7 Member access **Other Features:**
+
+- Virtual Office App
+- Coworking business lounge
+- Tailored support services such as company registration and website development.
+- Dedicated phone line and 24/7 call answering service (depending on package)
+- Locker
+
+**Website:** [Avila Spaces Cowork in Central Lisbon](https://avilaspaces.com/en/) **Contact Email:** [info@avilaspaces.com](mailto:info@avilaspaces.com) **Google Reviews:** 4.4./5.0 (129 Reviews)![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Avila Spaces Coworking Space Lisbon - Top Review](https://cdn-images-1.medium.com/max/720/0*deswROjpYHdM3dhn)
+
+.elementor-3329 .elementor-element.elementor-element-f79b780{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;--padding-block-start:70px;--padding-block-end:70px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3329 .elementor-element.elementor-element-aa6dd2a:not(.elementor-motion-effects-element-type-background), .elementor-3329 .elementor-element.elementor-element-aa6dd2a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#29293E;}.elementor-3329 .elementor-element.elementor-element-aa6dd2a, .elementor-3329 .elementor-element.elementor-element-aa6dd2a::before{--border-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-95ae566{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-99ebd14{text-align:center;}.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{color:var( --e-global-color-eb70be1 );font-family:var( --e-global-typography-0ff79ee-font-family ), sans-serif;font-size:var( --e-global-typography-0ff79ee-font-size );font-weight:var( --e-global-typography-0ff79ee-font-weight );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-0ce57c0{text-align:center;color:var( --e-global-color-eb70be1 );font-size:20px;}.elementor-3329 .elementor-element.elementor-element-28db4d7{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--justify-content:flex-start;--background-transition:0.3s;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group{padding-right:calc( 24px/2 );padding-left:calc( 24px/2 );margin-bottom:32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-form-fields-wrapper{margin-left:calc( -24px/2 );margin-right:calc( -24px/2 );margin-bottom:-32px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomleft, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group.recaptcha\_v3-bottomright{margin-bottom:0;}body.rtl .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-left:8px;}body:not(.rtl) .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-inline .elementor-field-group > label{padding-right:8px;}body .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-labels-above .elementor-field-group > label{padding-bottom:8px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-type-html{padding-bottom:0px;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper){background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper select{background-color:#3D3D5C;border-color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-select-wrapper::before{color:#65639C;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button{font-family:"Poppins", sans-serif;font-size:14px;font-weight:700;line-height:1.5;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]{background-color:var( --e-global-color-1e4bfa7 );color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\] svg \*{fill:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous{color:var( --e-global-color-eb70be1 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-next:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-button\[type="submit"\]:hover svg \*{fill:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .e-form\_\_buttons\_\_wrapper\_\_button-previous:hover{color:#ffffff;}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-family:var( --e-global-typography-9730a4e-font-family ), sans-serif;font-size:var( --e-global-typography-9730a4e-font-size );font-weight:var( --e-global-typography-9730a4e-font-weight );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-success{color:var( --e-global-color-40f63f7 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-message-danger{color:var( --e-global-color-8ddb30f );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message.elementor-help-inline{color:var( --e-global-color-9acb2f2 );}.elementor-3329 .elementor-element.elementor-element-70fbc6a{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;width:100%;max-width:100%;}.elementor-3329 .elementor-element.elementor-element-70fbc6a > .elementor-widget-container{padding:10px 0px 0px 0px;}@media(min-width:768px){.elementor-3329 .elementor-element.elementor-element-aa6dd2a{--content-width:var(--container-md);}}@media(max-width:1024px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}@media(max-width:767px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}/\* Start custom CSS for form, class: .elementor-element-70fbc6a \*/.elementor-3329 .elementor-element.elementor-element-70fbc6a input {<br /> border-color: #65639C !important;<br /> }<br /> .elementor-3329 .elementor-element.elementor-element-70fbc6a input:is(:focus, :hover) {<br /> border-color: #B9B8CE !important;<br /> }/\* End custom CSS \*/
+
+##### Sign up for our newsletter
+
+Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+
+   Full Name  Buisness Email  Subscribe
+
+## 3\. Second Home
+
+Offering several locations across Europe, Second Home Lisbon is located in the historic city centre of Cais do Sodré — right above the famous 19th Century Mercado Da Ribeira (better known as Time Out Market).
+
+They are a company with a passion for sustainability and their space is open, filled with light and a jungle of plants and flowers. Second Home flaunts itself as Lisbon’s most desired coworking space. It is round the corner from Lisbon’s famous “Pink Street”, home to great bars for those after-work networking sessions — as well as being right next to the River Tagus.
+
+For larger teams, they offer Studio membership for 20–90 people. Fixed desk members also get global access to other second homes in London & LA (up to 5 days a month). Second Home also offers to make targeted introductions from their network of investors, advisors, clients and partners,![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Second Home Coworking Space Lisbon](https://cdn-images-1.medium.com/max/720/0*8Pl4e8HzqAl0R9XC)**Monthly Price (Fixed Desk):** €340 +VAT **Monthly Price (Hotdesk):** €235 +VAT **Daily Price (Hotdesk):** N/A **Meeting Rooms Available?:** Yes — Not included in the membership, special “member-only” rate available **Opening Times**: 24/7, including reception services and security **Other Features:**
+
+- Weekly cultural, educational and wellness events
+- On-site cafe/restaurant/bar
+- Event spaces for up to 120 people.
+- 2Gbs highspeed fibre optic internet
+- Postal Service
+- Unlimited access to cultural, educational and wellness events
+- Brand partner discounts with Apple, Google, Survey Monkey and more
+
+**Website:** [Second Home — Coworking Lisbon](https://secondhome.io/location/lisboa/) **Contact Email:** [hola.lisboa@secondhome.io](mailto:hola.lisboa@secondhome.io) **Google Reviews:** 4.4/5.0 (187 Reviews)![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Second Home Coworking Space Lisbon - Top Review](https://cdn-images-1.medium.com/max/720/0*tCL7RJeBkp1ztcyl)
+
+.elementor-3326 .elementor-element.elementor-element-fa6400f{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--overflow:hidden;--background-transition:0.3s;--border-radius:12px 12px 12px 12px;}.elementor-3326 .elementor-element.elementor-element-283e311{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--gap:64px 64px;--background-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-283e311:not(.elementor-motion-effects-element-type-background), .elementor-3326 .elementor-element.elementor-element-283e311 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F4FAFE;}.elementor-3326 .elementor-element.elementor-element-283e311, .elementor-3326 .elementor-element.elementor-element-283e311::before{--border-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-857117e{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--background-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-857117e.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3326 .elementor-element.elementor-element-e6af329 img{width:100%;max-width:100%;height:100%;object-fit:cover;object-position:bottom right;}.elementor-3326 .elementor-element.elementor-element-e6af329{width:100%;max-width:100%;bottom:-44px;}body:not(.rtl) .elementor-3326 .elementor-element.elementor-element-e6af329{right:0px;}body.rtl .elementor-3326 .elementor-element.elementor-element-e6af329{left:0px;}.elementor-3326 .elementor-element.elementor-element-ec0de51{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:24px 24px;--background-transition:0.3s;--padding-block-start:112px;--padding-block-end:112px;--padding-inline-start:0px;--padding-inline-end:44px;}.elementor-3326 .elementor-element.elementor-element-ec0de51.e-con{--flex-grow:1;--flex-shrink:1;}.elementor-3326 .elementor-element.elementor-element-c168e59{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-3326 .elementor-element.elementor-element-4aeb8ec .elementor-heading-title{font-family:"Poppins", sans-serif;font-size:32px;font-weight:700;}.elementor-3326 .elementor-element.elementor-element-8e0cd20{color:#000000;}@media(min-width:768px){.elementor-3326 .elementor-element.elementor-element-857117e{--width:360px;}}@media(max-width:767px){.elementor-3326 .elementor-element.elementor-element-283e311{--padding-block-start:40px;--padding-block-end:40px;--padding-inline-start:var(--safe-margin);--padding-inline-end:var(--safe-margin);}.elementor-3326 .elementor-element.elementor-element-857117e{--min-height:300px;}body:not(.rtl) .elementor-3326 .elementor-element.elementor-element-e6af329{right:0px;}body.rtl .elementor-3326 .elementor-element.elementor-element-e6af329{left:0px;}.elementor-3326 .elementor-element.elementor-element-e6af329{bottom:-76px;}.elementor-3326 .elementor-element.elementor-element-ec0de51{--padding-block-start:40px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}}
+
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+
+##### Building a Startup?
+
+From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
+
+Let's Talk
+
+## 4\. The Base Lisbon
+
+The [Base Lisbon](http://www.baselisbon.com/) is coworking based in a calm, modern space in the centre of Lisbon, just off the famous Avenida de Liberdade.
+
+The space hosts a diversity of professionals, with startups ranging from tech and wellness to finance, communication and art.
+
+Founded in 2020 they are one of the newer coworking spaces on the market, however, their youth hasn’t stopped them from making an impact on the startup scene here in Lisbon.
+
+With projects aimed at co-creation, collaboration and new leadership, The Base has worked hard to create a community for startups and entrepreneurs in the area, and have no signs of slowing down.
+
+One notable project is the _Women Wine on Wednesdays Talks_ which has already brought about valuable exchanges and shared experiences. Alongside this, they’ve created the first Writer’s Room in Lisbon with the support of creative partners Mau Mau Mia & Lobo Criativo.
+
+This coworking space not just aims to give founders and entrepreneurs an office. They are invested in creating a genuine community environment and doing whatever the can to help entrepreneurs and creators take their professional and personal lives to a new level.
+
+**Monthly Price (Fixed Desk):** € 149 + VAT **Monthly Price (Hotdesk - if applicable):** € 129 + VAT **Daily Price (Hotdesk if applicable):** € 15 + VAT **Meeting Rooms Available?**  One big meeting room. € 20/hour with packages on request. **Opening Times:** Reception from 9 am to 6 pm. 24/7 access for members. **Other Features:** Free hot beverages, Bottled water and snacks. Wine bar attached.  Private suites for up to 4 people.
+
+## 5\. Cowork Central
+
+Cowork Central brands themselves as “the hub for creative, independent minds in the heart of Lisbon.” Also based in Cais do Sodré they offer anything from individual fixed desk coworking to dedicated office space for growing teams or flexible hotdesking.![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Cowork Central Coworking Space Lisbon](https://cdn-images-1.medium.com/max/720/0*TrPB2gm9paE1MYC3)**Monthly Price (Fixed Desk):** €175 +VAT **Monthly Price (Hotdesk):** Same price as a fixed desk **Daily Price (Hotdesk):** €13.50 +VAT **Meeting Rooms Available?:** Yes — 1 hour a day included in fixed desk pass (€5 +VAT an hour thereafter) **Opening Times:** 24/7 access to fixed desk pass (Reception open 9 am to 8 pm) **Other Features:**
+
+- Postal service
+- Locker
+- Call Booths
+- “Crazy-fast” internet
+- Dog-friendly
+
+**Website:** [Cowork Central](https://www.coworkcentral.pt/en/home) **Contact Email:** [lisboa@coworkcentral.pt](mailto:lisboa@coworkcentral.pt) **Google Reviews:** 4.8/5.0 Overall (120 Reviews)![5 start google review of Cowork Central](https://cdn-images-1.medium.com/max/720/0*7Yro34iGQR5JFlTq)
+
+
+
+Related: [How to Start a Business in Portugal in 7 Simple Steps](https://altar.io/7-steps-setup-startup-portugal/)
+
+## 6\. LACS
+
+LACS focusses on what they call “Communitivity” a mixture of community, communication & creativity. They focus on creating a relevant community for entrepreneurs to successfully network.
+
+With several locations, you can choose to be in the busy Lisbon city centre in the cool Arroios neighbourhood (just 9 mins by metro to the historic centre) or nearer the beach at their Cascais location (42 mins by train to the historic centre).
+
+As well as “fixed desk” and “hotdesk” coworking memberships they offer a “Private Studio” membership plan — a dedicated office space for teams starting from €220 a month + VAT. They also offer to adjust all membership plans to your entrepreneurial needs.![Colourful space at LACS equipped with multiple chairs at shared desks ](https://cdn-images-1.medium.com/max/720/0*EM0ZpGjMR8c6OSNX)**Monthly Price (Fixed Desk):** From €190 +VAT **Monthly Price (Hotdesk):** From €120 +VAT **Daily Price (Hotdesk):** €13.50 +VAT **Meeting Rooms Available?:** Yes — from €15 +VAT an hour **Opening Times:** 24-hour access **Other Features:**
+
+- Event Spaces
+- Exclusive member-only LACS events
+- Tailor-made membership plans
+- A large community of professionals
+- High-speed Wifi
+- Phone Booths
+- Lounge Areas
+
+**Website:** [Cowork in Lisbon or Cascais at LACS](https://www.lacs.pt/en/) **Contact Email:** [rafaela.coutinho@lacs.pt](mailto:rafaela.coutinho@lacs.pt) **Google Reviews:** 4.5/5.0 Overall (485 Reviews)![5 star google review of LACS ](https://cdn-images-1.medium.com/max/720/0*jYVeXunFfmQBa-Uf)
+
+## 7\. Impact Hub
+
+Impact Hub believes in the “power of humans, businesses and collaboration to make the world a better place.”
+
+More than a coworking space they are a community of professionals who create opportunities for positive impact. They’re based in Alcântara, a cool, up and coming, neighbourhood home to LX Factory just 17 minutes from the historic centre (by public transport).
+
+Impact Hub is a global entity with 101 locations worldwide. As well as coworking they offer dedicated office space for larger teams as well as corporate partnerships.![Large coworking room filled with plants at Impact Hub ](https://cdn-images-1.medium.com/max/720/0*8zjZoiTroKcrUE8g)**Monthly Price (Fixed Desk):** €150 +VAT **Monthly Price (Hotdesk):** €80 +VAT (for two days a week) **Daily Price (Hotdesk):** N/A **Meeting Rooms Available?:** Yes **Opening Times:** 24/7 access **Other Features:**
+
+- Trial day
+- Bespoke, flexible memberships for teams
+- Event Spaces
+- Registered Address for your business
+- Slack community & Impact Hub Global app
+
+**Website:** [Impact Hub Lisbon](https://lisbon.impacthub.net/) **Contact Number:** +351 919 519 157 **Google Reviews:** 4.9/5.0 Overall (26 Reviews)![5 star Google Review of Impact Hub](https://cdn-images-1.medium.com/max/720/0*yKAQ6njf-jkA5pLM)
+
+## 8\. Outsite Cowork Café
+
+Located in Cais do Sodré, 3 minutes walk from Time Out Market in the heart of the historic centre, Outsite is a cowork space with a twist. The front of the cafe is open to everyone whilst memberships allow you “behind the bar”. They don’t offer fixed desks but the membership includes locker use, meeting rooms and access to Outsite’s WhatsApp community.
+
+One of the most interesting things about Outsite is, on top of the trendy cafe/coworking spaces combo, they offer coliving just upstairs with a desk in every room. So if you are travelling through or thinking of starting your business in Lisbon, its a perfect way to “test drive” the city.
+
+![Entrepreneurs working at Outsite Cowork Café](images/1*nqonrIHn-ZRGrBXirz2R1g.jpeg)**Monthly Price (Fixed Desk):** N/A **Monthly Price (Hotdesk):** €150 Incl. VAT **Daily Price (Hotdesk):** €15 Incl. VAT **Meeting Rooms Available?:** Yes — Included in membership **Opening Times**: 8 am — 10 pm, Monday — Friday **Other Features:**
+
+- Outsite Coliving from ~€50 a night
+- High-speed internet
+- Printing services
+
+**Website:** [Outsite Cowork Cafe](https://outsitecoworkcafe.com/#)**,** [Outsite Coliving Lisbon](https://www.outsite.co/locations/lisbon-cais-do-sodre) **Contact Email:** [info@outsite.co](mailto:info@outsite.co) **Google Reviews:** 5.0/5.0 Overall (35 Reviews)![Five star Google Review of Outsite Cowork cafe](https://cdn-images-1.medium.com/max/720/0*HGTcTIPcT4PIkewX)
+
+## 9\. Rocket HUB
+
+Rocket HUB is based in Parque das Nações. Away from the city centre, it is situated in the more modern parish of Lisbon. It is around 38mins by metro from Cais do Sodré but only 9 minutes from the Airport.
+
+Parque das Nações has become a “hub” for cowork in central Lisbon and hosts a myriad of digital events including Websummit.
+
+Rocket Hub offers 24-hour access, high-speed internet, lounge areas and phone booths. They also offer a “Premium Island” for teams of 3 to 4 people or a “Major Island” for teams of up to 12 in their coworking space.
+
+Away from the coworking space they also dedicated office space for teams ranging from 6 to 15 people. All memberships include access to meeting rooms, networking & fundraising events.![Large windowed shared office at Rocket HUB](https://cdn-images-1.medium.com/max/720/0*1F5TD-eBXhzTKr7F)**Monthly Price (Fixed Desk):** From €199 +VAT **Monthly Price (Hotdesk):** From €149 + VAT (Lounge area & “high tables” only) **Daily Price (Hotdesk):** From €19 +VAT (Lounge area & “high tables” only) **Meeting Rooms Available?:** Yes **Opening Times**: 24/7 access (Reception 9 am — 6 pm) **Other Features:**
+
+- Mail Management
+- Company Address Registration
+- High-Speed Wifi
+- Postal Service
+- Lockers
+- Phone Booths
+
+**Website:** [**Rocket HUB**](https://en.rockethub.pt/espaco-coworking) **Contact:** [info@rockethub.pt](mailto:info@rockethub.pt) **Google Reviews:** 4.3/5.0 Overall (107 Reviews)![Five Star Google Review of Rocket HUB ](https://cdn-images-1.medium.com/max/720/0*DsNsqqOkopy22nHO)
+
+## 10\. Hyggelig
+
+Hyggelig is a Danish term used to describe the mood of cosiness, safety & friendliness. It is the mood they try to bring to their coworking space.
+
+Located in Intendente, Arroios (the coolest neighbourhood of 2019) They boast a “spacious cowork space with 16 desks and a homey feeling.” where you will find coworkers across professions and nationalities.![Hyggelig’s Main coworking space equipped with multiple desks ](https://cdn-images-1.medium.com/max/720/0*kc46awS-6HrqPbX_)**Monthly Price (Fixed Desk):** €200 +VAT **Monthly Price (Hotdesk):** N/A **Daily Price (Hotdesk):** €15 + VAT **Meeting Rooms Available?:** Yes **Opening Times:** 24/7 access (Reception 9 am — 7 pm) **Other Features:**
+
+- Fully height adjustable electronic desks
+- High-speed Internet
+- Postal Service
+- Locker
+
+**Website:** [Hyggelig — Coworking space in Lisbon](https://hyggelig.pt/) **Contact Email:** [info@hyggelig.pt](mailto:info@hyggelig.pt) **Google Reviews:** 5.0/5.0 Overall (3 Reviews)![Five Star Google Review of Hyggelig Coworking Space Lisbon](https://cdn-images-1.medium.com/max/720/0*qXvj1POtlvvie7IW)
+
+## Final Thoughts
+
+Portugal is one of the safest countries in the world, ranking third in the [Global Peace Index](http://visionofhumanity.org/indexes/global-peace-index/). This, twinned with Lisbon’s steadily growing startup scene provides you with a place with all the resources to grow your business whilst maintaining a great quality of life, and any of these coworking spaces will help you get settled in.
