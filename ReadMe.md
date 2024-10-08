@@ -1,8 +1,3 @@
-# To Do
-
-- Upload to Github
-- Correct image link
-
 ## Files that miss from metadata csv:
 
 - Missing metadata in: ./posts/customer-research-that-drives-results-startup-founders-blueprint.md
