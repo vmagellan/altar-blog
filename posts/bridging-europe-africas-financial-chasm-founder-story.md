@@ -1,9 +1,9 @@
 ---
 title: "Raising $3.3M Pre-Launch & Completing Y Combinator to Bridge Europe & Africa's Financial Chasm (Founder Story)"
 date: "2023-10-13"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
 coverImage: "Person-holding-black-android-smartphone-scaled-1.jpg"
@@ -15,7 +15,7 @@ When it comes to the startup world, every entrepreneur has a unique journey fill
 
 One of the big decisions along the way is whether to join a startup accelerator. A choice that isn't just about funding. It's about tapping into a reservoir of resources, mentorship, and a network that could significantly shorten the steep learning curve that most entrepreneurs face.
 
-![Bilal, Moneco Founder & YC Alumnus](images/Bilal-YC-Headshot.jpeg)Today, I’m sharing an open conversation I recently had with [Bilal Dahlab](https://www.linkedin.com/in/bilal-dahlab-3a98a243/), an entrepreneur who tackled the decision firsthand and went on to take part in Y Combinator.
+![Bilal, Moneco Founder & YC Alumnus](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bilal-YC-Headshot.jpeg)Today, I’m sharing an open conversation I recently had with [Bilal Dahlab](https://www.linkedin.com/in/bilal-dahlab-3a98a243/), an entrepreneur who tackled the decision firsthand and went on to take part in Y Combinator.
 
 Bilal’s path shifted from financial consulting to launching [Moneco](https://moneco.app/en/), a fintech startup aimed at easing the process of setting up a bank account and making international money transfers for the African diaspora living in Europe.
 
@@ -26,8 +26,6 @@ Bilal also dishes out some solid advice for aspiring entrepreneurs considering t
 Through his narrative, we get a glimpse into the real-world benefits and challenges that come with diving into the Y Combinator program.
 
 So, whether you’re just starting to consider a business idea or are deep into the entrepreneurial hustle of building your product, there's a good chunk of insight waiting for you in this conversation.
-
- 
 
 #### Contents
 
@@ -93,15 +91,9 @@ The other financial benefit to YC is the discounts you get with key services you
 
 Finally, the community you’re able to build through YC is a huge benefit of being part of the accelerator.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -223,12 +215,6 @@ There’s another thing, which is maybe a little bit stupid, but it matters, is 
 
 A lot of influencers are afraid to endorse digital services because it’s not a physical product. They’re not 100% sure if it’s a scam or not. So when you tell them “We went to YC just like Airbnb, Stripe, etc.” They’re much more inclined to trust you and endorse you.
 
-
-
-
-
-
-
 ## The Cons of Joining a Startup Accelerator
 
 #### J: It sounds like a fantastic experience, but nothing in life is perfect, and I'm assuming Y Combinator is the same.
@@ -300,19 +286,12 @@ Bilal’s experiences shed light on various facets of the entrepreneurial journe
 And there are several key takeaways from the conversation that I wanted to share with you:
 
 1. Identifying Pain Points: Bilal’s venture began by recognising a significant problem within the money transfer sector, primarily for the African diaspora. This focus on addressing real-world issues is a cornerstone of meaningful entrepreneurship.
-    
 2. Value of Accelerators: Y Combinator provided not just funding, but a wealth of resources, mentorship, and a network that could be a game-changer for startups. The reputation and connections it offers can significantly ease the journey of budding entrepreneurs.
-    
 3. Community and Collaboration: The camaraderie and collaborative spirit within Y Combinator emerged as a significant boon. Sharing challenges and solutions with a like-minded community can accelerate problem-solving and foster valuable partnerships.
-    
 4. Timing of Joining an Accelerator: Bilal’s experience highlighted the importance of timing when joining an accelerator. The stage of your product could influence the kind of discussions and benefits you derive from such programs.
-    
 5. Pragmatic Advice for Aspiring Entrepreneurs: Being concise, understanding your market, and having a clear solution is crucial when pitching your idea, not just to accelerators but to any potential stakeholder. Bilal’s advice underscores the importance of clear communication and resilience in the entrepreneurial landscape.
-    
 6. Global Collaboration: Sharing and learning from entrepreneurs across the globe enriches the startup journey, providing diverse perspectives and solutions which could be adapted to local challenges.
-    
 7. Continued Support: The support from Y Combinator didn’t end with the program; the ongoing access to mentorship and the community continues to provide a support network, aiding in navigating subsequent challenges.
-    
 
 Bilal's narrative embodies the essence of modern-day entrepreneurship – it’s a blend of vision, resilience, and the right support systems.
 

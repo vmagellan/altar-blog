@@ -73,7 +73,7 @@ The process involves listing down all possible stakeholders related to your MVP 
 
 By thoroughly mapping out stakeholders, you gain a full perspective of all the elements at play. This comprehensive view is invaluable as it sets the stage for more efficiently finding solutions during the subsequent phases of your MVP's development. Understanding your stakeholders in-depth ensures that when you move forward, you do so with a solution that resonates widely and addresses the problem effectively from all angles.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -140,7 +140,7 @@ Successfully articulating a compelling Elevator Pitch signifies that you've synt
 
 To help you get started, here’s a template you can use as a base:
 
-![How to Write a Startup Elevator Pitch](images/How-to-Write-an-Elevator-Pitch-1024x611.png)
+![How to Write a Startup Elevator Pitch](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-to-Write-an-Elevator-Pitch-1024x611.png)
 
 ## Wrapping Up
 

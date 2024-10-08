@@ -1,9 +1,9 @@
 ---
 title: "A Real Options Model for Tech Startups' Valuation"
 date: "2019-10-24"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "fundraising"
   - "investors"
   - "startup"
@@ -31,9 +31,7 @@ An opportunity gets undertaken if market trends, industry movements and startup 
 
 We can say that you hold “options” in your hands: options to make, or not make, certain investments.
 
-
-
-![A Real Options Model for Tech Startups’ Valuation - The Managerial Flexibility](images/11LEJMoDyI6Y5UsgbU42u8A.png)
+![A Real Options Model for Tech Startups’ Valuation - The Managerial Flexibility](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/11LEJMoDyI6Y5UsgbU42u8A.png)
 
 In modern financial literature, those “options” have been assimilated to financial options. The right to undertake a real investment has been shaped as a call option while the right to sell something, as for example the opportunity to make a spinoff of a branch, has been summarised in a put option. Even the Earn-Out and Claw-Back clauses have been modelled as financial options.
 
@@ -43,19 +41,19 @@ Conversely “Real Options” involve the founders’ and investors’ behaviour
 
 The two following diagrams explain “Managerial Flexibility”. The possibility to learn how the market reacts from the implementation of a small pivot investment. Then adjusting further actions - basing the decision on the outcome of the analysis. This “flexibility” can be seen as “room for manoeuvre”. Being within this “room for manoeuvre” means that the consequences of the further actions do not affect prior outcomes that arose before the last were implemented. In order to understand that, let me state the simplest decision tree:
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 1](images/17uhR_rXygyVtWZ_L998FGw.png)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/17uhR_rXygyVtWZ_L998FGw.png)
 
 Given the bigger potential loss and the two exact probabilities, the Expected Value of this business initiative is negative (-10).
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 2](images/1pniNEXfVuh5JFtpWY2WkOg.png)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1pniNEXfVuh5JFtpWY2WkOg.png)
 
 Now let me move further with this more complicated tree:
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 3](images/1eKP7le8JfexL8SPwvYRUbg.png)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1eKP7le8JfexL8SPwvYRUbg.png)
 
 Notice that the potential gain or loss is the same as in the previous figure, 100 on the upside and -120 on the downside; the Expected Value, however, changes:
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 4](images/1xsth7jdwqqmrCH334pnTGw.gif)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1xsth7jdwqqmrCH334pnTGw.gif)
 
 What is this feature that turns a bad investment into a (potentially) good investment? Such a feature is composed of two elements. The first one involves a small investment, which allows for learning.
 
@@ -73,15 +71,9 @@ The binomial lattices involve several paths that conduct to the same outcome, an
 
 The typical solution for this kind of issue involves the computation of replicating portfolios at each node; that, of course, involves the concept of complete markets - where the payoff of traded securities can replicate the behaviour of the underlying asset at different times.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -91,7 +83,7 @@ Adaptation to a Tech Startup Valuation
 
 Startup valuation is complicated - because in most of the cases (maybe all) the replication securities do not exist because the market is then incomplete.
 
-![A Real Options Model for Tech Startups’ Valuation - Adaptation to a Tech Startup Valuation](images/1f4Q8uwaPELnoCo1-cp0-vg.png)
+![A Real Options Model for Tech Startups’ Valuation - Adaptation to a Tech Startup Valuation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1f4Q8uwaPELnoCo1-cp0-vg.png)
 
 The application of decision analysis seems intuitive and natural because decision trees are often used to give managerial flexibility a real value.
 
@@ -123,13 +115,11 @@ Let’s apply the following changes to the model:
 - Rather than adjusting the discount rate, I make an amendment to the probabilities; the discount rate is set as the risk-free rate (𝑟). The probabilities are risk-neutral probabilities. The assets are priced as if they were in a risk-neutral environment. With this new method, the problem is no longer to find the right discount rate, but to find the right risk-neutral probabilities instead; fortunately, they could be available from market data - or from the theoretical stochastic process of the project value.
 - Then the cash flows are not the best proxy to use when valuing a tech start-up. Instead, the Customer Lifetime Value is more representative of what we are looking for, so the value of the Company. Multiplying the Net Customer Lifetime Value (CLV net of Cost per Acquisition) with the expected number of people representative of the addressable market, we find the right value to insert in our decision tree analysis. The key figure here is the size of the market in which we want to address our product. The value of the Company is then defined as follows:
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 5](images/1wg-Qbr1hwRqJlfKURSCXNA.gif)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1wg-Qbr1hwRqJlfKURSCXNA.gif)
 
 Where TAM portion(t) represents the size of the Market that we can achieve at each time t.
 
 r is the risk-free rate. We do not use the risk-adjusted rate because all the risks are embedded in the computation of the probabilities.
-
-
 
 Related: [Startup Series Funding: Everything You Need To Know](https://altar.io/startup-series-funding-everything-you-need-to-know/)
 
@@ -139,9 +129,9 @@ Real Options Valuation Model
 
 1. YCombinator’s experience is a true proxy of global startup reality.
 2. Each business, after 7 years, ends in the following scenarios:
-    1. Extremely Successful (>$40 Mln Valuation)
-    2. Successful (>10, <$40 Mln Valuation)
-    3. Failure ($0 Valuation)
+   1. Extremely Successful (>$40 Mln Valuation)
+   2. Successful (>10, <$40 Mln Valuation)
+   3. Failure ($0 Valuation)
 3. If a start-up does not receive funding, it will not be able to grow, and so it will fail
 4. The “Global and Regional” scenarios involve the same risk-neutral probabilities
 5. The Startup, before being recognised as successful, goes through two funding rounds, the “Seed” and the “Series”.
@@ -154,13 +144,13 @@ The calculations under the green nodes (3a and 3b) are made up through involving
 
 The option values in these nodes have been calculated in the following way:
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 6](images/1xzBLd4F6aDo3guPWDv_cVw.gif)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 6](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1xzBLd4F6aDo3guPWDv_cVw.gif)
 
 Where 𝑝1 represents the probability to build an “Extremely Successful” Business; 𝑝2 stands for the probability that includes all the risks affecting the founders that are in the process to build a “Successful” Business. 1 − 𝑝1 − 𝑝2 is the probability of failure.
 
 The first branch, however, considers an event with two possible outcomes: a successful or unsuccessful funding round. In this case, the formula applied is the following:
 
-![A Real Options Model for Tech Startups’ Valuation - Diagram 7](images/1oVJ38WQv39iehTrg2SneWg.gif)
+![A Real Options Model for Tech Startups’ Valuation - Diagram 7](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1oVJ38WQv39iehTrg2SneWg.gif)
 
 Where 𝑝1 represents the probability to successfully carry out the investment round, whereas 𝑝2 stands for the probability of not getting funded.
 
@@ -173,17 +163,11 @@ Moving forward, as soon as the whole picture becomes clearer, you can upload the
 - Keep the profitable business private
 - To shut down the business because the market situation suggests to stop - instead of moving further and lose much more money
 
-
-
-
-
-
-
 Probability Assessment
 
 As of [May 28th 2013](http://www.businessinsider.com/startup-odds-of-success-2013-5?IR=T), YCombinator had incubated 511 start-ups. Since it has an acceptance rate of 3–5% (companies that are chosen are given 120k USD in exchange for 7% of equity) we can say that the range of probabilities (0.03, 0.05) is also the success rate of the first fundraising campaign.
 
-![A Real Options Model for Tech Startups’ Valuation - YCombinator](images/103W4D_OfeylnhLkmmnM7sg.png)
+![A Real Options Model for Tech Startups’ Valuation - YCombinator](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/103W4D_OfeylnhLkmmnM7sg.png)
 
 Therefore in the up-side branch of the event, there will be a set of \[0.03, 0.05\]. Taking the complementary, the probability of failing at this point is \[0.95, 0.97\].
 
@@ -248,7 +232,7 @@ The values, explanatory of the three Options payoffs, now get discounted at the 
 
 You can access the spreadsheet through this [link](https://docs.google.com/spreadsheets/d/1iIXHCO-jEbyQf2kT_swNlHWLcO8jD3NC2aPqEhcRkKo/edit#gid=0).
 
-![A Real Options Model for Tech Startups’ Valuation - Practical Spreadsheet](images/1jA6T6GZmhARgYeKBnbmY7Q.png)
+![A Real Options Model for Tech Startups’ Valuation - Practical Spreadsheet](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1jA6T6GZmhARgYeKBnbmY7Q.png)
 
 Node 1: the founder decides to run the Seed Round. If the market (pool of investors) approves his project, the fundraising will go well and the startup continues its life. In the opposite case, the investors will not back the company and so it fails.
 

@@ -71,7 +71,7 @@ And with over [23 million developers worldwide](https://www.statista.com/statis
 
 Splitting your focus and trying to ‘wear all the hats’ in your business will eventually cause you to burn out. As Neil Patel says:
 
-![Neil Patel on Finding a technical co-founder](images/Neil-Patel-on-Finding-a-technical-co-founder.png)
+![Neil Patel on Finding a technical co-founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Neil-Patel-on-Finding-a-technical-co-founder.png)
 
 You’re far better off sticking to your strengths: focusing on the business vision. It’s like I said before you are Jobs, not Wozniak.
 
@@ -173,7 +173,7 @@ Outsourcing comes with its own benefits and risks. And as with any stakeholder 
 
 The biggest advantage of outsourcing software development is, in my opinion, having an experienced team behind you.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 
@@ -260,7 +260,7 @@ Again, It is a vehicle to **solve a business need**.
 
 The final step in finding a technical partner for your startup is vetting prospective stakeholders.
 
-![The Outsource Software Development Decision Tree](images/Outsource-or-Not-Decision-Tree-1024x1022.png)
+![The Outsource Software Development Decision Tree](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Outsource-or-Not-Decision-Tree-1024x1022.png)
 
 For More Information...
 

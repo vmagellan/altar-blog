@@ -1,9 +1,9 @@
 ---
 title: "What The Non-Technical Entrepreneur Needs To Know About Tech"
 date: "2019-12-05"
-categories: 
+categories:
   - "tech-knowledge"
-tags: 
+tags:
   - "non-technical-entrepreneur"
   - "startup-strategy"
   - "tech-concepts"
@@ -47,15 +47,9 @@ If by the end of this crash course you still can’t understand 90% of what your
 - Authorisation & Authentication
 - API
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -105,8 +99,6 @@ With such massive internet activity all over the globe, how can the frontend and
 
 HTTP is the foundation of the internet. A protocol, or set of rules, to determine how machines communicate. From a user point of view, HTTP created the hyperlink concept — which is how you are able to navigate the internet. Thank you, [Tim Berners-Lee](https://www.britannica.com/biography/Tim-Berners-Lee), for giving us HTTP — without him, you wouldn’t be reading this article right now.
 
-
-
 Related: [Different Types of Developers You’re Likely to Find](https://altar.io/looking-developers-10-developer-archetypes-youre-likely-encounter/)
 
 IP Address
@@ -119,11 +111,11 @@ Essentially the IP address is like a phone number used to call the server where 
 - And then inside the server, it works like a folder system.
 - Then the server finds and serves the image back to you
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - IP Address 1](images/03QYMEkbYXzyuzvKA.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - IP Address 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/03QYMEkbYXzyuzvKA.png)
 
 This may look simple — but the only problem is that in this vast and immense cloud there are millions of servers connected to the internet and, unlike phone numbers, the IP addresses are nearly impossible to remember. For example, try to memorize:
 
-![Entrepreneur Needs To Know About Tech - IP Address 2](images/0Qxl1IZLHEBwONR8P.png)
+![Entrepreneur Needs To Know About Tech - IP Address 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0Qxl1IZLHEBwONR8P.png)
 
 Sure, you can probably memorize these… But now imagine all the servers you access per day, per week, per month. Would you like to try and memorize all of those numbers?
 
@@ -139,7 +131,7 @@ The URL is like a readable address that matches to an IP. While DNS is a vit
 
 The DNS services were invented by, [Paul Mockapetris and Jon Postel](http://www.historyofdomainnames.com/paul-mockapetris/). They are responsible to match IPs with URLs. A bit like a huge telephone directory that has all of the URLs in the world matching to the right IPs. Just like a telephone directory can become outdated (and sometimes corrupted) so will [need clearing](https://mackeeper.com/blog/flush-dns-cache-on-mac/) from time to time.
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - URL & DNS](images/0syrzrSXRGMpX1IFI.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - URL & DNS](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0syrzrSXRGMpX1IFI.png)
 
 ### Database & Storage — Two Different Beasts
 
@@ -149,27 +141,25 @@ The Database is the know-it-all, the memory behind everything. Ther is another
 
 Storage is where we keep things. Everything, in fact, from the code files (the app itself) to all kinds of assets like images, videos and, of course, databases. So whilst in the storage (or server) we store everything including databases, in the database itself, we only store organized data and information.
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage](images/0VUr6WdrgTrlST0mw.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0VUr6WdrgTrlST0mw.png)
 
 Think of a classic database as a group of connected spreadsheets, it is composed of a number of tables and they can all be connected. A classic relational data model looks a little bit like this:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 2](images/0KrMzbtj2Ug9xYWX6.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0KrMzbtj2Ug9xYWX6.png)
 
 In such a data model we represent the structure of each table and the relationships between them.
 
 This may seem a little vague, so for the remainder of this article, we will use the LinkedIn app as a case study to give you a real-world example of how we can apply these concepts.
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin](images/0P-h0qrPcaX-Fcvi6.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0P-h0qrPcaX-Fcvi6.png)
 
 As you can imagine LinkedIn has a very complex data model, so let’s look at a simulation of 1% of the complexity to understand how it works.
-
-
 
 Related: [The Startup MVP Development Process from A-Z](https://altar.io/why-your-startup-should-take-4-6-weeks-to-launch-not-4-6-months/)
 
 Let’s start by looking at these two tables:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 3](images/06Jv3idNtYDWFoEe8.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/06Jv3idNtYDWFoEe8.png)
 
 On these tables we have:
 
@@ -193,17 +183,17 @@ Experience consists of all the member’s working experiences (job positions):
 
 Members and experiences are connected in the relation of one to many. This means that each member can have multiple work experiences. Now let’s take a look at the tables to understand the relation:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 4](images/0CWJ9jGKLW0Y_867E.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0CWJ9jGKLW0Y_867E.png)
 
 We can pick someone from the member side — for example, Karen — who has the Member ID “123”:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 5](images/0EgpZmatsUeOEZAiK.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0EgpZmatsUeOEZAiK.png)
 
 When we look up her Member ID in the Experience table we discover she worked at Facebook, then Google and finally My Startup Inc. We even see that she’s still working at My Startup Inc. because the table has a “From Date” but no “To Date” meaning that she started but didn’t end yet this job position.
 
 Now let’s look at Member connections:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 6](images/0QQwWUT16vjR-bBsh.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 6](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0QQwWUT16vjR-bBsh.png)
 
 Member Connection consists of all the member’s inter-connections (as a user our Linkedin Connections): This is where all members’ relationships are stored:
 
@@ -215,7 +205,7 @@ Member Connection consists of all the member’s inter-connections (as a user ou
 
 This relationship is many to many, meaning any member can have multiple connections and any connection can have more than one Member — so looking at the tables we see:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 7](images/0Nen-DSln8x-MmIQu.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Database & Storage 7](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0Nen-DSln8x-MmIQu.png)
 
 Karen, as the inviting member, identified in the first column as “Inviting Member ID”: 123 invited 3 people, identified in the “Invited Member ID”:
 
@@ -225,15 +215,9 @@ Karen, as the inviting member, identified in the first column as “Inviting Mem
 
 We can also see that John and Mary have accepted their invites while Peter is yet to accept his — as the cell for his ID’s “Acceptance Date” is blank. This means for Karen, Peter will show as not accepted whilst for Peter, Karen will show as a pending invitation.
 
-
-
-
-
-
-
 NoSQL
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - NOSQL](images/04H5_5EbjF4bY7Gny.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - NOSQL](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/04H5_5EbjF4bY7Gny.png)
 
 The above terms all mean the same thing. NoSQL became extremely popular in the startup scene. Although it is referred to as non-relational doesn’t mean you cannot create relations.
 
@@ -246,8 +230,6 @@ There are many differences from a tech standpoint but what I want you, as a non-
 
 So unless you are 100% sure about the Database structure from day one you should have a structure that allows you to iterate with ease.
 
-
-
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 
 The Query
@@ -256,7 +238,7 @@ Querying is the act of requesting data from a database. Think of it like this:
 
 There are over 630 million users on LinkedIn — the database looks something like this:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query](images/0gXOp-U-ubJB9iism.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0gXOp-U-ubJB9iism.png)
 
 But about a few million times bigger.
 
@@ -275,7 +257,7 @@ Search parameters are the query criteria for example:
 - So I filter by location — I choose the UK & Switzerland
 - This gives me 29 million results
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin Search](images/0JWjJ7PPZ9gFtFatF.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin Search](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0JWjJ7PPZ9gFtFatF.png)
 
 So this is our User Experience (UE) to perform a very simple query — but what’s happening in the database?
 
@@ -291,33 +273,31 @@ The query starts with selecting what we want to see
 
 We’re saying “Hey database, give me the image, name and current job position” we still didn’t say from whom…
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 2](images/0dDbjfNf2pYj2d0sw.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0dDbjfNf2pYj2d0sw.png)
 
 Then we select the table we want to query
 
 In this case “members”.
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 3](images/0_vAKp1zGP5HtHvbn.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0_vAKp1zGP5HtHvbn.png)
 
 The next step is “where”. Where is the query criteria, in this case, we’re looking for:
 
 - Location — UK or CH (Switzerland)
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 4](images/0up9QLLMGCIWoSxR-.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0up9QLLMGCIWoSxR-.png)
 
 The final part of this very simple query is pagination. I don’t want to see all 29 million users in a single page — it would kill my browser! So we ask for 20 at a time.
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 5](images/0_Z0HHJlZA9TQZukC.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0_Z0HHJlZA9TQZukC.png)
 
 “Offset” stands for “Page Number” in a UI analogy — so we are asking for 20 results per page.
 
 Don’t get me wrong this is a very simplistic way to explain all of this, but just to illustrate, in the case of LinkedIn say you want to add a criterion — let’s say “First connection” this hypothetical query would look somewhat like this:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 6](images/085ejkaGMGZVLiiUp.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - The Query 6](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/085ejkaGMGZVLiiUp.png)
 
 We would need to create an “inner join.” This is still relatively simple — just not as simple as our first example. Note: don’t waste time going deeper into queries for now.
-
-
 
 Related: [Should a Startup Outsource Software Development?](https://altar.io/should-a-startup-outsource-its-software-development/)
 
@@ -348,11 +328,11 @@ Let’s go back to our case study, LinkedIn. Picture this scenario:
 
 Here is me in my messages on LinkedIn:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin 2](images/0X0BgyxT0uGgcXZks.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0X0BgyxT0uGgcXZks.png)
 
 Here is my colleague on his account trying access the exact same URL:
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin 3](images/0nByEs8JCY2Ioc_VN.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - Linkedin 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0nByEs8JCY2Ioc_VN.png)
 
 This is the difference between Authorisation and Authentication, in a nutshell.
 
@@ -360,7 +340,7 @@ This is the difference between Authorisation and Authentication, in a nutshell.
 
 Do you remember the distinction between Frontend and Backend that we covered earlier in the article? On one side there is the backend and the other side the frontend. Well, an API is the interface through which the backend exposes its data to the exterior, almost like a gateway.
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - API](images/00VPTfpW-vaW7f1cN.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - API](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/00VPTfpW-vaW7f1cN.png)
 
 The API handles:
 
@@ -368,7 +348,7 @@ The API handles:
 - Authorization
 - Queries
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - API 2](images/0LQsKx5jH3SsrszSw.jpg)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - API 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0LQsKx5jH3SsrszSw.jpg)
 
 But the most beautiful think about the API? A common language — meaning that whatever the language in the frontend and the backend they speak a common language through the API. This is why APIs are very important because it lets you expose your backend to any frontend, as well as to other backends.
 
@@ -380,16 +360,16 @@ In the analogy we’ll use:
 
 - The FE speaks Mandarin (standing for Angular9)
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - API 3](images/0u93hahmHpTCoprUp.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - API 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0u93hahmHpTCoprUp.png)
 
 - The BE speaks Hindi (standing for Java)
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - API 4](images/16NDZ7sUsWYjUvAeQu33-4Q.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - API 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/16NDZ7sUsWYjUvAeQu33-4Q.png)
 
 - The question is how will they communicate?
 - The answer is they’ll use English (the common language they share through the API).
 
-![What The Non-Technical Entrepreneur Needs To Know About Tech - API 5](images/11RzHpOs8aIhAAjFHdZw_UQ.png)
+![What The Non-Technical Entrepreneur Needs To Know About Tech - API 5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/11RzHpOs8aIhAAjFHdZw_UQ.png)
 
 The greatest outcome as a founder is with an API or microservices architecture we’ll be free to have separate parts of our app in different languages (the best for each case) and they can all communicate: In terms of our case study, LinkedIn has only one backend however they have multiple frontends in different languages:
 

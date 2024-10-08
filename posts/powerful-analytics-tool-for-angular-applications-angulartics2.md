@@ -1,7 +1,7 @@
 ---
 title: "Angulartics2 – A Powerful Analytics tool for Angular Applications"
 date: "2019-03-21"
-categories: 
+categories:
   - "tech-knowledge"
 coverImage: "Angulartics-2-first-image.png"
 slug: powerful-analytics-tool-for-angular-applications-angulartics2
@@ -10,7 +10,7 @@ author: Joao Ribeiro
 
 We’ve created the open-source library [Angulartics2](https://github.com/angulartics/angulartics2) to plug into your Angular single-page app (SPA) for analytics integration. It allows you to do event tracking and it is ready to integrate with Google Analytics, Google Tag Manager, Kissmetrics, Mixpanel, Piwik, Segment, Baidu Analytics and Facebook Pixel.
 
-![Angulartics 2 first image](images/Angulartics-2-first-image.png)
+![Angulartics 2 first image](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Angulartics-2-first-image.png)
 
 ## Problem
 
@@ -32,11 +32,7 @@ Then, in you main component you need to pass each provider to the component cons
 
 Make sure you also import the RouterModule into your main module. [Angulartics2](https://github.com/angulartics/angulartics2) uses Router to track your app’s current state.
 
-
-
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
-
-
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ## Tracking custom events
 

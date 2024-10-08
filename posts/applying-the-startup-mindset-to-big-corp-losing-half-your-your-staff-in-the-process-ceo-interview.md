@@ -18,7 +18,7 @@ Making the difficult decision to move away from a traditional corporate structur
 
 An undertaking that [Reed Taussig](https://www.linkedin.com/in/reed-taussig-790322/), an entrepreneur, business leader and VC with over 35 years of experience faced firsthand. He’s spent that time leading, advising and investing in tech corporations and startups.
 
-![Reed Taussig: Startup Advisor and Tech CEO](images/Reed_Taussig-768x395.jpg)
+![Reed Taussig: Startup Advisor and Tech CEO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Reed_Taussig-768x395.jpg)
 
 Notably managing [Callidus Cloud](https://www.sap.com/products/acquired-brands/what-is-calliduscloud.html) from inception all the way to IPO and spearheading [ThreatMatrix](https://risk.lexisnexis.com/products/threatmetrix) from pre-product launch through to acquisition by [Lexis Nexis Risk Solutions](https://risk.lexisnexis.com/).
 
@@ -106,7 +106,7 @@ I get compliments from employees that I meet with all of the time who say, “It
 
 The people that have stayed have really stepped up to it, and I think are pretty excited about the whole thing.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

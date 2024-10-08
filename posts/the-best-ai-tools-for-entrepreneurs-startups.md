@@ -146,7 +146,7 @@ For $20/month you can upgrade to the “Plus” plan, which gives you access to 
 
 [**G2**](https://www.g2.com/products/chatgpt/reviews)**:** 4.7/5 (386 reviews) [**Capterra**](https://www.capterra.com/p/10009334/ChatGPT/)**:** 4.5/5 (27 reviews)
 
-![ChatGPT AI Tool Review](images/ChatGPT-Review.png)
+![ChatGPT AI Tool Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/ChatGPT-Review.png)
 
 Related: [How OpenAI Found Success by Being Product Driven (And How You Can Too)](https://altar.io/how-openai-found-success-by-being-product-driven-and-how-you-can-too/)
 
@@ -212,7 +212,7 @@ For customers who opt for annual billing and are subscribed to the Plus, Busines
 
 **Note:** The above reviews are for the notion platform as a whole. That said, many of the reviews mention the platform's AI capabilities – as seen in the image below.
 
-![AI tools review - Notion](images/Notion-AI-Review.png)
+![AI tools review - Notion](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Notion-AI-Review.png)
 
 ## 3. [DALL·E2](https://openai.com/dall-e-2)
 
@@ -326,9 +326,9 @@ Currently, you can buy a pack of 115 credits for $15.
 
 [**G2**](https://www.g2.com/products/dall-e-2/reviews)**:** 4/5 (27 reviews) [**Capterra**](https://www.capterra.com/p/10009399/DALL-E-2/)**:** 4.7/5 (8 reviews)
 
-![AI Tools Review - DALL·E 2](images/DALLC2B7E-2-Review.png)
+![AI Tools Review - DALL·E 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DALLC2B7E-2-Review.png)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -452,7 +452,7 @@ The second, Teams, allows for up to three users at the same time.
 
 [**G2**](https://www.g2.com/products/jasper-ai/reviews)**:** 4.7/5 (1,234 reviews) [**Capterra**](https://www.capterra.com/p/217242/Jasper/)**:** 4.8/5 (1,818 reviews)
 
-![AI Tools review – Jasper](images/Jasper-Review.png)
+![AI Tools review – Jasper](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Jasper-Review.png)
 
 ## 5. [Lumen5](https://lumen5.com/)
 
@@ -556,7 +556,7 @@ The AI tool also offers Annual Subscriptions at a discounted price. For instance
 
 [**G2**](https://www.g2.com/products/lumen5/reviews)**:** 4.5 (65 reviews) [**Capterra**](https://www.capterra.com/p/167719/Lumen5/)**:** 4.6 (136 reviews)
 
-![AI Tools Review - Lumen5](images/Lumen5-Review.png)
+![AI Tools Review - Lumen5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Lumen5-Review.png)
 
 ## 6. [Pecan AI](https://www.pecan.ai/)
 
@@ -645,7 +645,7 @@ Pecan AI offers pricing options to cater to diverse user needs, ensuring that bu
 
 [**G2**](https://www.g2.com/products/pecan/reviews)**:** 4.8/5 (11 reviews) [**Capterra**](https://www.capterra.com/p/199700/Pecan/)**:** 5/5 (1 review)
 
-![Ai Tools Review - Pecan](images/PECAN-REVIEW.png)
+![Ai Tools Review - Pecan](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/PECAN-REVIEW.png)
 
 ## 7. [Otter.ai](https://otter.ai/)
 
@@ -737,7 +737,7 @@ Aiming at elevating productivity for teams, the Business plan is offered at a li
 
 [**G2**](https://www.g2.com/products/otter-ai/reviews)**:** 4.1/5 (128 reviews) [**Capterra**](https://www.capterra.com/p/202799/Otter/)**:** 4.5/5 (73 reviews)
 
-![Ai Tools Review - Otter AI](images/Otter.ai-Review.png)
+![Ai Tools Review - Otter AI](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Otter.ai-Review.png)
 
 ## 8. [Github Copilot](https://github.com/features/copilot)
 
@@ -807,7 +807,7 @@ For larger teams or corporate users, GitHub Copilot has introduced a Business su
 
 [**G2**](https://www.g2.com/products/github-copilot/reviews)**:** 4.5/5 (125 reviews) [**Capterra**](https://www.capterra.com/p/10011215/Copilot/)**:** 4.6/5 (18 reviews)
 
-![](images/GithubCopilot-Review.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/GithubCopilot-Review.png)
 
 ## Wrapping Up
 

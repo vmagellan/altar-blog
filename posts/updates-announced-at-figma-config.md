@@ -1,7 +1,7 @@
 ---
 title: "The Most Exciting Updates Announced at Figma Config 2023"
 date: "2023-06-28"
-categories: 
+categories:
   - "tech-knowledge"
 coverImage: "June-28-Screenshot-from-Altar.png"
 slug: updates-announced-at-figma-config
@@ -28,17 +28,13 @@ In this article, however, I’ll be focusing on the two that I’m most excited 
 
 They’re the two features that, in my estimation, will be spot-on to solve the everyday pains we face in our product team.
 
- 
-
 #### Contents
 
 ## Improved Prototyping
 
-
-
 <figure>
 
-![Prototyping Spaghetti in Figma](images/image2-768x804.png)
+![Prototyping Spaghetti in Figma](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image2-768x804.png)
 
 <figcaption>
 
@@ -60,19 +56,13 @@ With that said, before the recent update to prototyping announced at Figma Confi
 
 Now, with the new advanced prototyping function (which includes gems like conditional logic, variables, mathematical expressions and much more), we will have the ability to deliver interactive previews that easily visualise product ideas.
 
-![Figma's Advanced Prototyping update](images/image1-1536x864-1-1024x576.png)
+![Figma's Advanced Prototyping update](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image1-1536x864-1-1024x576.png)
 
 Or as Figma so aptly put it, we can build “high-fidelity prototypes using fewer frames - **no noodles needed!**”
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -91,12 +81,6 @@ That’s all going to change with Figma’s new [Dev Mode](https://help.figma.c
 Moreover, it will allow us to track the design version history as well as import all of the necessary specs, measurements and assets from Figma directly to the code editor.
 
 We hope that this, combined with yet another new Figma feature, [variables](https://help.figma.com/hc/en-us/articles/14506821864087), I estimate that the dev mode will make product development and shipment a more delightful experience for all stakeholders.
-
-
-
-
-
-
 
 ## What’s Next for Figma?
 

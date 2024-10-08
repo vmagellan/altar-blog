@@ -1,9 +1,9 @@
 ---
 title: "The Ultimate Guide to Dedicated Software Development Teams"
 date: "2021-02-05"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
   - "software-development"
@@ -30,8 +30,6 @@ That’s why so many startups turn to dedicated teams from great software houses
 In fact, some would argue that the dedicated team method can actually produce better results, as an experienced software development agency will have a whole pool of resources available to you.
 
 In this article, I’ll take you through everything you need to know to onboard a dedicated team. Starting with a quick definition of what the dedicated team model is.
-
- 
 
 #### Contents
 
@@ -66,7 +64,7 @@ Next, there’s no point onboarding a dedicated team unless you can give them en
 
 Finally, you should consider the price and length of your project before deciding to onboard a dedicated team.
 
-**Dedicated software development teams work best for long-term projects, around a year plus in length.** 
+**Dedicated software development teams work best for long-term projects, around a year plus in length.**
 
 Project-based work (a.k.a. Time & Materials) is a good option for projects aiming for a span below one year as there’s no commitment to stay on. For longer-term however it makes sense to lock in a dedicated team as the price per hour on average will be anywhere from 30 to 50% less on a long term basis. The lock-up of team members in a single project reduces the allocation risk (for the software development company) and that justifies the reduced price.
 
@@ -88,15 +86,9 @@ On the other side of the coin, dedicated teams struggle when the projects do not
 
 A good example of this is when the project is new, with a time period of less than one year. At that point, you should consider a time and materials model.
 
- 
-
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
-
-
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -167,12 +159,6 @@ A well-established software development company will have a wealth of experience
 ### A Reliable Long-Term Business Partnership
 
 Just like your own internal team, the dedicated team will work with you typically for years on attaining development roadmaps. The main benefit is the partner’s commitment to having a strong and productive team while giving you near-zero time spent on the management of HR, office, hiring and firing.
-
-
-
-
-
-
 
 ## Cons of Dedicated Development Teams
 

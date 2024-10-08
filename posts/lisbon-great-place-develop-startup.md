@@ -24,11 +24,11 @@ From [Websummit](https://websummit.com/tickets?utm_source=google&utm_medium=cpc
 
 You will find that some of the greatest employees working at global IT companies are Portuguese. This is, in part, thanks to local faculties (most notably [FCT-UNL](https://www.fct.unl.pt/en) and [IST](https://tecnico.ulisboa.pt/en/)) churning out hundreds of great developers every year. A huge 53% of people in Portugal between 20 and 30 are STEM graduates and is on par with the best in class and significantly higher than Germany or the Netherlands. This goes a long way to serve the mammoth demand for developers from Lisbon’s startups and tech firms.
 
-![STEM Grads - Build a Startup in Lisbon](images/STEM-Grads-Build-a-Startup-in-Lisbon.png)
+![STEM Grads - Build a Startup in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/STEM-Grads-Build-a-Startup-in-Lisbon.png)
 
 Developing in Lisbon is considerably cheaper than in London, Paris, Berlin or Zurich. Our developers are among the best, yet frequently only cost a third of what it would cost in major US cities and around half compared to most European cities.
 
-![Software Developer Cost in Multiples Lisbon vs. the world](images/Screenshot-2022-02-08-at-16.28.20-1024x644.png)
+![Software Developer Cost in Multiples Lisbon vs. the world](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.28.20-1024x644.png)
 
 Meaning, for the price of one developer in Zurich or San Francisco it’s likely you’ll get two to three in Lisbon
 
@@ -46,21 +46,21 @@ There is another reason developers are coming from all over the world to nurture
 
 Additionally, there’s 0% on wealth and 0% capital gains on Crypto. Making the country a haven for crypto companies. Kraken and Binance are setting up in Portugal and hiring. This [simple image](https://www.reddit.com/r/digitalnomad/comments/qjs5lf/portugal/) made headlines as it became a widely shared Reddit Post:
 
-![Portugal Benefits for Foreigners](images/Portugal-Benefits-for-Foreigners-473x1024.jpeg)
+![Portugal Benefits for Foreigners](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Portugal-Benefits-for-Foreigners-473x1024.jpeg)
 
 Even notorious “crypto tax refugees” such as the [“bitcoin family”](https://www.cnbc.com/2022/02/06/bitcoin-family-moves-to-portugal-crypto-tax-haven.html) chose Portugal due to its taxation regime which sees cryptocurrency as a payment method, not [as an asset like](https://www.irs.gov/pub/irs-drop/n-14-21.pdf) stocks or real property. That distinction makes these assets be tax-exempt.
 
-![Bitcoin Family – build a startup in Lisbon](images/Screenshot-2022-02-08-at-16.36.32-1024x652.png)
+![Bitcoin Family – build a startup in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.36.32-1024x652.png)
 
 ## 3\. Real Estate Prices are 80% to 66% Cheaper Than Places Like Zurich and Berlin
 
 Based on headline price, office spaces in Lisbon’s buzzing city centre cost on average [22€ per m² per month](https://www.statista.com/statistics/976265/prime-headline-rents-office-real-estate-europe/). That’s over 80% less than London’s West End.
 
-![Indices Difference, Build a startup in Lisbon](images/Screenshot-2022-02-08-at-16.40.41.png)
+![Indices Difference, Build a startup in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.40.41.png)
 
 Despite Lisbon’s recent spike in home rental and sale prices due to the influx of tourism and “Airbnbzation” of the city centre, it’s still an affordable place to live. According to [Numbeo](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+Kingdom&city1=London&country2=Portugal&city2=Lisbon&displayCurrency=EUR), the average cost of a one-bedroom apartment in the city centre is around €896. Whilst a three-bedroom will set you back around €1,692. This is, on average, 59% cheaper than comparable apartments in London.
 
-![Build a startup in Lisbon](images/Build-a-startup-in-Lisbon.jpeg)
+![Build a startup in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Build-a-startup-in-Lisbon.jpeg)
 
 ## 4\. There are State of the Art Startup Hubs and a Giant Startup Centrality Coming Soon
 
@@ -74,7 +74,7 @@ Despite Lisbon’s recent spike in home rental and sale prices due to the influx
 
 Arguably the most exciting thing to come is going to a new European startup hub right next to the iconic Tagus river. Entrepreneurial space builder [Factory](http://www.factory.co/), with support from Startup Lisboa, is building a giant space in Lisbon dubbed [Beato Creative Hub](https://hubcriativobeato.com/en/home/). The hub plans to be 35,000m² in its first phase (with plans to be around 100,000m² at completion) and is already signing big names like Mercedes to its roster.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -94,7 +94,7 @@ Since 2016 Lisbon has been the home city of [Websummit](https://websummit.com/)
 
 In October 2018 it was announced that Lisbon will continue to host WebSummit for a whopping [10 years](<https://www.reuters.com/article/us-portugal-websummit/web-summit-to-stay-in-lisbon-for-10-years-idUSKCN1MD11C#:~:text=LISBON%20(Reuters)%20%2D%20Europe's%20largest,of%20becoming%20a%20technology%20hub.>)!
 
-![Websummit in Lisbon](images/Screenshot-2022-02-08-at-16.48.59.png)
+![Websummit in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.48.59.png)
 
 ## 7\. It is a Very International City
 
@@ -104,7 +104,7 @@ There are over 120 cities connected to Lisbon’s airport, which served a record
 
 If you decide to launch in Lisbon you will be in the same timezone as London, only one hour behind the majority of Western Europe. More than this, within reasonable working hours there is a six-hour overlap with the US's East Coast and a three-hour overlap with the West Coast.
 
-![Timezones: Lisbon, New York & San Fran](images/Screenshot-2022-02-08-at-16.50.39.png)
+![Timezones: Lisbon, New York & San Fran](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.50.39.png)
 
 It’s also extremely easy to access the major European cities from Lisbon. The majority of which, such as London, Paris & Zurich, are only a three-hour flight away on average.
 
@@ -117,7 +117,7 @@ fresh, actionable tech and startup related insights and tips
 
 Unlike many countries, television and movies aren’t dubbed in Portugal - simply subtitled. This, twinned with English being taught as a second language in all schools, means that most under 40 in Portugal are fluent at a business level - especially in the major metropolitan areas.
 
-![English is a widely spoken language in Portugal](images/Screenshot-2022-02-08-at-16.52.25.png)
+![English is a widely spoken language in Portugal](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.52.25.png)
 
 ## 10\. Bureaucracy Has Had a Tech Revolution
 
@@ -125,7 +125,7 @@ Since 2005 the Portuguese government has pioneered a few e-gov initiatives and t
 
 For fiscal matters, the national [Fiscal Portal](https://www.portaldasfinancas.gov.pt/at/html/index.html) allows any freelancer to issue invoices directly whereas for small companies we recommend [Invoicexpress](http://invoicexpress.com/).
 
-![Apiax working with Altar, building their startup in Lisbon](images/Screenshot-2022-02-08-at-16.54.37.png)
+![Apiax working with Altar, building their startup in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.54.37.png)
 Swiss RegTech Startup APIAX while on the Co-Founders Retreat with [Altar.io](https://altar.io) to kick off their ambitious tech startup in Lisbon.
 
 ## Bonus: Build a Startup In Lisbon, Stay for the Quality of Life
@@ -136,7 +136,7 @@ Aside from being one of the best places to build your business, there are also a
 
 With its cobblestone streets, iconic trams, great viewpoints, Gothic and Manueline-style architecture and so much more Lisbon is truly a beautiful city. Whether it’s by foot, Tuk-tuk, or rental scooter there are a myriad of ways to get lost in the city and take in the sights.
 
-![Build a startup in Lisbon](images/Screenshot-2022-02-08-at-16.57.26.png)
+![Build a startup in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.57.26.png)
 
 ### The Food is Great, the Nightlife is Better Than Ever
 
@@ -158,7 +158,7 @@ In terms of nightlife, you are spoilt for choice. There’s the legendary Pink S
 
 There are dozens of amazing beaches to surf, starting 20 minutes away from the city limits! The beach season is long – normally from March to November. See some of them [here](https://surfing-waves.com/atlas/europe/portugal/lisboa.html).
 
-![Surfing in Lisbon](images/Screenshot-2022-02-08-at-16.59.14.png)
+![Surfing in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-16.59.14.png)
 
 Dreamy but true. Surf here isn’t only one of the healthiest things you can do but also one of the most accessible.
 
@@ -166,7 +166,7 @@ Dreamy but true. Surf here isn’t only one of the healthiest things you can do 
 
 Coffee lovers have another reason to love Lisbon and Portugal. Here an espresso is not only always perfect (according to the [Spanish newspaper El Pais](https://elpais.com/elpais/2011/12/14/paco_nadal/1323825984_132382.html)) it is also much cheaper than the average, going from between €060/$0,70 in most places to €1.20 in the fanciest locations.
 
-![Coffee in Lisbon](images/Screenshot-2022-02-08-at-17.00.42.png)
+![Coffee in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-17.00.42.png)
 
 ### The Weather is Incredible
 
@@ -178,7 +178,7 @@ In safety terms, it stays behind only the two small and isolated nations of Icel
 
 It is also a stable economy with [inflation under 1%](http://www.inflation.eu/inflation-rates/portugal/historic-inflation/cpi-inflation-portugal.aspx) since 2013 and even now that inflation is ramping up everywhere and getting the headlines, Portugal still counters the narrative by being stuck to the bottom of the list (which is great).
 
-![EU Inflation rates](images/Screenshot-2022-02-08-at-17.03.24-1024x438.png)
+![EU Inflation rates](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-02-08-at-17.03.24-1024x438.png)
 
 ### Ready to Build Your Startup? Choose Lisbon
 

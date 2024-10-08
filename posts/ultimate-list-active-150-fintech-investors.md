@@ -27,7 +27,7 @@ When the outbreak of the coronavirus pandemic hit, investment on a global scale 
 
 In Q1’20 there was a noticeable impact on fintech investments, especially at the seed stage, from [Venture Capitalists](https://www.valuer.ai/blog/100-top-venture-capitalists-in-the-usa), Angel Investors and Private Equity.
 
-![The List of Most Active 150 Fintech Investors - Q1 Fintech Investment Drops](images/0pdc3QoGM2xPL7lNK-1024x533.png)
+![The List of Most Active 150 Fintech Investors - Q1 Fintech Investment Drops](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0pdc3QoGM2xPL7lNK-1024x533.png)
 
 CBInsights’ Q1 Fintech Report stated that “Q1’20 was one of the worst quarters in 2 years for VC-backed fintech.”
 
@@ -41,7 +41,7 @@ Q1’21 was the largest quarter for fintech funding on record.
 
 It's safe to say that fintech investment has rebounded since the outbreak of COVID. Now, let's move on to the list of the most active fintech investors.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

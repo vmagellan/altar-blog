@@ -25,7 +25,7 @@ Therefore, it’s time to reflect on the impact this will have on user behaviour
 
 UX is a very generalist field, that needs a holistic approach to transform complex technologies into useful products. It always follows a major technological democratisation, helping the regular user to leverage the best of it.
 
-![Tech and UX transformation](images/Untitled-1-1-1024x1024.png)
+![Tech and UX transformation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-1-1-1024x1024.png)
 
 In this article, I intend to reflect mostly on the evolution of the overall user experience up until now and how business owners can leverage this opportunity to take their business into the web generation.
 
@@ -35,7 +35,7 @@ In this article, I intend to reflect mostly on the evolution of the overall user
 
 I want to first look at the history of the web generations to understand the trends in how changes are implemented into these paradigms.
 
-![The Generations of the Web](images/Untitled-1024x676.png)
+![The Generations of the Web](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-1024x676.png)
 
 ## Web 1.0 - 1995-2005
 
@@ -63,7 +63,7 @@ Quickly, tools to democratise the publishing of content started to appear, makin
 
 Hence, Web 2.0 is very much around the idea of community and social interaction. From read-only users, it became a read-write space. Companies like Facebook, YouTube, and Amazon made everyone become a contributor without the need for technical skills.
 
-![Tech and UX transformation in web 2.0](images/Untitled-2-1536x1536-1-1024x1024.png)
+![Tech and UX transformation in web 2.0](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-2-1536x1536-1-1024x1024.png)
 
 #### THE UX OF WEB 2.0
 
@@ -89,7 +89,7 @@ The inherent trustworthiness of these new PWAs heightened the imperative to conv
 
 ### A Summary of the Evolution of UX Across Web 1.0, 2.0 & 3.0
 
-![A Summary of the Evolution of UX Across Web 1.0, 2.0 & 3.0](images/Untitled-3-1024x366.png)
+![A Summary of the Evolution of UX Across Web 1.0, 2.0 & 3.0](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-3-1024x366.png)
 
 ### What Comes Next? Generative Web? Web 4.0?
 
@@ -107,7 +107,7 @@ The creative, problem-solving, design and production processes are being challen
 
 The distinction between real and fake will play a key role in the development of successful products in this space. The ethical concerns of this new technology are still in the early stages. The world is still adapting and rethinking the new role of the human mind when adopting this new powerful tool.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -125,7 +125,7 @@ A UX audit is an assessment done by an external party that evaluates various asp
 
 Having a third party performing this assessment brings an unbiased evaluation and expertise of the market that is transversal to your industry. The result of this assessment will give you a list of insights and action points to address.
 
-![UX concerns](images/Untitled-4-1024x670.png)
+![UX concerns](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-4-1024x670.png)
 
 Most of the time, these action points have a low cost of implementation and the results might be defining in your revenue. A simple improvement in your UI can truly shift the usability of your product.
 
@@ -180,7 +180,7 @@ And when it comes to completing a UX Audit, I wanted to share our process.
 
 It's based on heuristics, which deliver quick results backed by data and intuition. It consists of four stages -starting with an evaluation of where your product stands.
 
-![UX Audit Process](images/Untitled-5.png)
+![UX Audit Process](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-5.png)
 
 ### Step #1: Evaluation
 

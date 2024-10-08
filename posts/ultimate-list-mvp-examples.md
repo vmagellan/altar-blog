@@ -31,13 +31,13 @@ Uber was born. Originally dubbed UberCab, their MVP allowed people in San Franci
 
 Two years later, Kalanick [tweeted](https://twitter.com/travisk/status/7422828552) what is arguably one of the most valuable tweets in the history of Twitter.
 
-![Travis Tweet Uber MVP (minimum viable product)](images/Travis-Tweet-Uber-MVP.webp)
+![Travis Tweet Uber MVP (minimum viable product)](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Travis-Tweet-Uber-MVP.webp)
 
 [Ryan Graves](https://www.forbes.com/profile/ryan-graves/#7e4d309a4a51)  responded to this tweet simply saying: Here’s a tip. email me :)  graves.ryan\[at\]gmail.com
 
 He would later become Uber’s first CEO and now has a personal net worth of $1.6 billion with Uber’s net worth sitting at $75.5 billion when it [went public](https://www.entrepreneur.com/article/333583) in May 2019.
 
-![UberCab MVP key app screen](images/UberCab-MVP-key-app-screen.webp) The app has evolved through several iterations from this simple MVP platform over the years — with lots of newer features such as fare splitting and live driver tracking to name but a few.
+![UberCab MVP key app screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/UberCab-MVP-key-app-screen.webp) The app has evolved through several iterations from this simple MVP platform over the years — with lots of newer features such as fare splitting and live driver tracking to name but a few.
 
 Key Takeaway
 
@@ -45,7 +45,7 @@ Starting lean, focussing on a core feature, in a small niche allows you to test 
 
 The more features you build the more your product development costs. Targeting multiple geographies forces you to multiply your marketing efforts to reach that wider market, which also increases your costs.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -67,7 +67,7 @@ They took pictures of the apartment, uploaded it to Craigslist and had three pay
 
 They quickly realised there was a market for this and built an MVP to validate their assumptions and prove that people would be willing to use their product (called AirBed&Breakfast).
 
-![AirBed&Breakfast MVP Key Screens](images/AirBedBreakfast-MVP-Key-Screens.png)
+![AirBed&Breakfast MVP Key Screens](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AirBedBreakfast-MVP-Key-Screens.png)
 
 The rest, as they say, is history. Airbnb is now valued at $18B all from creating an MVP to solve a simple problem.
 
@@ -97,7 +97,7 @@ Related: [MVP, Functional or Non-functional? The Early-Stage Startup Dilemma](ht
 
 Back in January 2004, Facebook’s MVP, or *thefacebook* as it was then called, was created by Mark Zuckerberg in his Harvard dorm room.
 
-![](images/Facebook-MVP-Screen-1024x669.png) Initially, it served as a universal directory to connect exclusively Harvard students. It became so popular that only a few months later, it expanded to three other prestigious colleges – Yale, Stanford & Columbia.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Facebook-MVP-Screen-1024x669.png) Initially, it served as a universal directory to connect exclusively Harvard students. It became so popular that only a few months later, it expanded to three other prestigious colleges – Yale, Stanford & Columbia.
 
 The expansion continued in 2005, it now included universities in the United Kingdom, Mexico, Puerto Rico, Australia, and New Zealand – as well as over 25,000 high schools located in various countries.
 
@@ -117,7 +117,7 @@ Instagram’s predecessor, Burbn, was initially designed to allow users to check
 
 Like many of the MVP examples, it wasn’t all plain sailing for Founder, Kevin Systrom. The initial app, in his words, “felt cluttered and overrun with features”. Adoption was poor, and users found the app confusing.
 
-![Burbn (now instagram) MVP Key App Screens](images/Burbn-MVP-Key-App-Screens-1024x777.png)
+![Burbn (now instagram) MVP Key App Screens](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Burbn-MVP-Key-App-Screens-1024x777.png)
 
 There was one feature, however, that users loved. Easy photo-sharing. So Systrom made a tough choice. He took the Burbn MVP and completely overhauled it:
 
@@ -139,7 +139,7 @@ LinkedIn launched its MVP in May 2003. It’s basic features included user profi
 
 In the beginning, you could only send requests to someone if you knew their email address, which is still an optional feature today.
 
-![LinkedIn MVP screen](images/LinkedIn-MVP-screen.png)
+![LinkedIn MVP screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/LinkedIn-MVP-screen.png)
 
 After a successful release, they quickly iterated; adding features such as uploading an address book for bulk invitations and colleague endorsements.
 
@@ -161,7 +161,7 @@ In the early 90s, when Jeff Bezos saw the rise of the internet he came up with t
 
 He left his job as an investment banker, moved back home with his parents and built an MVP in the form of a simple website.
 
-![](images/Amazon-Books-MVP-1024x735.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Amazon-Books-MVP-1024x735.png)
 
 Key Takeaway Despite his MVP’s basic design and minimal feature set, the original Amazon platform proved Bezos’ assumptions. Selling books online at a low cost was something everybody wanted.
 
@@ -179,7 +179,7 @@ Co-founder, Daniel Ek, and his team started their MVP process by tackling the th
 
 We spent an insane amount of time focusing on latency, when no one cared, because we were hell-bent on making it feel like you had all the world’s music on your hard drive. Obsessing over small details can sometimes make all the difference. That’s what I believe is the biggest misunderstanding about the minimum viable product concept. That is the V in the MVP.
 
-![](images/Spotify-Premium-MVP-1024x741.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Spotify-Premium-MVP-1024x741.png)
 
 Once they had a basic MVP they began testing, on themselves, family & friends. It was a success, so they extended the beta release to influential music bloggers in Sweden.
 
@@ -199,7 +199,7 @@ There’s no point putting the cherry on the cake if no one wants the cake.
 
 Twitter, originally known as *twittr* began as an internal app. It was developed by [Odeo](https://odeo.com/) to give its employees a platform to send messages and display them to a group.
 
-![Twitter Internal MVP](images/Twitter-Internal-MVP-1024x815.png)
+![Twitter Internal MVP](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Twitter-Internal-MVP-1024x815.png)
 
 #### After internal success, Twitter was released to the public in July 2006. However, it wasn’t until 2007 that it saw real success. At the South by Southwest Interactive conference that year, daily tweets increased from 20,000 to 60,000.
 
@@ -213,7 +213,7 @@ Back in 1999 Zappos’ founder, Nick Swinmurn was frustrated at not finding the 
 
 He decided to create a simple website MVP. He would post photos of the shoes from his local mall on that webpage and wait. When someone decided to buy the shoes, he would go back to the mall, buy them and post them.
 
-![](images/Zappos-MVP-1024x796.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Zappos-MVP-1024x796.png)
 
 While this wasn’t a sustainable business model, it did prove the assumption: **People will buy shoes online**.
 
@@ -225,7 +225,7 @@ In 2010, Rob Kalin, Chris Maguire, Jared Tarbell, and Haim Schoppik were working
 
 This sparked the idea for Etsy. The four founders built a simple MVP website that allowed anyone to create an account and sell things they’d produced.
 
-![](images/Etsy-MVP-1024x798.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Etsy-MVP-1024x798.png)
 
 #### Despite its basic functionality and rudimentary design, thousands of sellers signed up within days of launch.
 
@@ -243,7 +243,7 @@ We took between January and November of 2007 to get everything just right and ma
 
 The result of learning it is demonstrated through the creation of Groupon where we went from idea to actual launch product in about a month.
 
-![Groupon MVP Screen](images/Groupon-MVP-1024x753.png)
+![Groupon MVP Screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Groupon-MVP-1024x753.png)
 
 Using a WordPress blog, Groupon posted daily deals as blogposts. Head of customer support Joe Harrow would spend three hours a day [personally emailing customers](https://www.businessinsider.com/inside-groupon-the-truth-about-the-worlds-most-controversial-company-2011-10?r=US&IR=T) who had bought a coupon from the platform.
 
@@ -255,7 +255,7 @@ Groupon was a huge success and it’s unsurprising, as the saying goes everyone 
 
 Foursquare is one of many great examples of a single-featured MVP. It encouraged users to check-in at multiple locations. They created a gamification process that would reward users with badges based on the amount and type of check-ins.
 
-![Foursquare MVP Screen](images/Foursquare-MVP-Screen-1024x772.png)
+![Foursquare MVP Screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Foursquare-MVP-Screen-1024x772.png)
 
 They kept with this single-feature until the platform began to gain traction. Once the user base had started growing, they began to iterate, adding recommendations, city guides and other features.
 
@@ -273,7 +273,7 @@ They shared the idea with friends and family, watching how they interacted with 
 
 The first version wasn’t much to look at, then called /dev/payments:
 
-![Stripe's MVP /dev/payments](images/Stripes-MVP-devpayments-1024x766.png)
+![Stripe's MVP /dev/payments](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Stripes-MVP-devpayments-1024x766.png)
 
 Despite its design and limited features, within 2 weeks of building their initial MVP, they had their first transactions – with a *YCombinator* company *280 North.*
 
@@ -299,7 +299,7 @@ AngelList is a platform designed to help startups connect with investors and rai
 
 Leveraging their contacts, the offered founders email introductions to investors.
 
-![AngelList MVP](images/AngelList-MVP-1024x691.png)
+![AngelList MVP](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AngelList-MVP-1024x691.png)
 
 After seeing that their idea had potential, they scaled their idea. They have expanded and now offer employee recruitment opportunities to around [3.6M users](https://expandedramblings.com/index.php/angellist-statistics-and-facts/).
 
@@ -309,7 +309,7 @@ Product Hunt’s founder, Ryan Hoover wanted to build a community for users to s
 
 Using a tool called Linkydink, he created a link-sharing group and added his startup friends to it. Using PR and social media to promote his quick MVP he attracted over 170 people within the first two weeks.
 
-![ProductHunt MVP Screen](images/ProductHunt-MVP-Screen-1024x781.png)
+![ProductHunt MVP Screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/ProductHunt-MVP-Screen-1024x781.png)
 
 With his idea validated, he moved on to building the full platform. It’s become the go-to for product enthusiasts to share and discover new products.
 
@@ -319,7 +319,7 @@ Monzo started life as a prepaid card service. Like many of the examples of an MV
 
 I don’t think we even had cards at first—we just had an API where you could move money around. I think we gave out 15 demo cards at a hackathon. We invited people from our waiting list to come by and see what cool apps they could build atop our API.
 
-![Monzo Mkting screen](images/Monzo-Mkting-screen-1024x480.png)
+![Monzo Mkting screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Monzo-Mkting-screen-1024x480.png)
 
 Monzo is now a fully-fledged bank challenging traditional banks in the UK boasting [four million registered customers](https://www.businessofapps.com/data/monzo-statistics/).
 
@@ -329,7 +329,7 @@ As well as a popular platform for many startups as an MVP platform, Kickstarter 
 
 In 2006 they built the first version of the website with only the minimum features needed to prove their concept.
 
-![KickStarter MVP Screen](images/KickStarter-MVP-Screen.png)
+![KickStarter MVP Screen](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/KickStarter-MVP-Screen.png)
 
 They launched a closed alpha of their MVP in February 2009. In May of the same year, they launched the product to the public. They quickly launched and funded their first project (it raised $35 from three backers).
 
@@ -341,7 +341,7 @@ Hubspot is a complex product used by marketers across the globe. Differently to 
 
 In 2005, co-founders Brian Halligan and Dharmesh Shah built a blog – a community for users to discuss topics such as inbound marketing and content.
 
-![Hubspot's MVP](images/Hubspots-MVP-1024x546.png)
+![Hubspot's MVP](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Hubspots-MVP-1024x546.png)
 
 Seeing the blog gain an audience, the co-founders decided to build it into an actual product and in 2006 they launched the first version in the form of a closed beta.
 
@@ -353,7 +353,7 @@ Finally, here’s the one you probably weren’t expecting.
 
 For me, one of the prime examples of an MVP was created by Apple: the first-generation iPhone.
 
-![](images/Is-the-Apple-iPbone-an-MVP-1024x592.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Is-the-Apple-iPbone-an-MVP-1024x592.png)
 
 Surprising claim right? But stick with me.
 

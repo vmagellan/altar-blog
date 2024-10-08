@@ -8,7 +8,7 @@ slug: apple-intelligence-vs-microsoft-copilot
 author: Rui Vas
 ---
 
-![Apple Intelligence Keynote at WWDC24](images/Screenshot-2024-06-20-at-18.45.24-1024x734.png)
+![Apple Intelligence Keynote at WWDC24](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-06-20-at-18.45.24-1024x734.png)
 
 #### A New Era of Computer Interfaces
 
@@ -28,7 +28,7 @@ These advancements by Microsoft and Apple signify a major shift towards more int
 
 According to Statista, both releases combined will be able to reach 90% of desktop PC devices.
 
-![Global personal computer market share, showing apple and windows with a shared 90%](images/image-5-1024x589.png)
+![Global personal computer market share, showing apple and windows with a shared 90%](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-5-1024x589.png)
 
 In this article, I explore how startup founders must consider this new era of computing when defining their winning strategy, what changes, and how to stay competitive in a new world infused with AI.
 
@@ -36,7 +36,7 @@ In this article, I explore how startup founders must consider this new era of co
 
 ## Apple Intelligence: AI for the Rest of Us
 
-![Apple Intelligence: AI for the rest of us](images/Screenshot-2024-06-20-at-18.50.06.png)
+![Apple Intelligence: AI for the rest of us](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-06-20-at-18.50.06.png)
 
 If you visit the [Apple Intelligence Preview](https://www.apple.com/apple-intelligence/) website, you will find the subtitle “AI for the rest of us.” This beautifully encapsulates how, despite the widespread adoption of tools like ChatGPT, access to AI models is still not seamlessly integrated into everyday products as of mid-2024.
 
@@ -53,7 +53,7 @@ Apple’s New AI-Powered Features:
 - Phone Calls: Recording and AI summaries.
 - Siri: Cross-app observability and ChatGPT integration for more dynamic and context-aware interactions.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking to Integrate AI into Your Business?
 
@@ -63,7 +63,7 @@ Let's Talk
 
 ## Microsoft Copilot: Revolutionising User Interactions
 
-![Satya Nadella announcing Microsoft Copilot](images/Screenshot-2024-06-20-at-18.52.08-1024x680.png)
+![Satya Nadella announcing Microsoft Copilot](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-06-20-at-18.52.08-1024x680.png)
 
 Microsoft Copilot represents a transformative shift in user-device interaction, emphasising a unified, context-aware experience across applications, operating systems, and devices.
 
@@ -75,7 +75,7 @@ It understands user context to offer relevant suggestions and actions across app
 
 Additionally, Copilot enhances tools like Paint, Photos, and Notepad with AI capabilities, streamlining creativity and productivity through features like background removal, intelligent photo editing, and session state saving.
 
-![Copilot integrated into Windows 11](images/Screenshot-2024-06-20-at-18.53.25.png)
+![Copilot integrated into Windows 11](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-06-20-at-18.53.25.png)
 
 Overall, Copilot is poised to redefine user interactions in Windows laptops by making technology more adaptive and contextually aware, ultimately empowering users to achieve more with less effort.
 

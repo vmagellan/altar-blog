@@ -52,7 +52,7 @@ The key lesson here is to balance your GTM strategy with your company's vision. 
 
 With that said, let's dive into how you can implement a clear process so you can nail both your product development & go-to-market strategy.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -84,7 +84,7 @@ Building an MVP is not just about testing your product; it’s also about testin
 
 Think long-term when building your growth engine. Focus on strategies that drive sustainable growth rather than just quick wins. Aligning your product development with effective growth strategies makes it easier to retain customers and drive ongoing engagement. [Lenny’s comparison of startup growth to a race car is apt](https://www.lennysnewsletter.com/p/the-racecar-growth-frameworkexpanded); don’t just focus on kickstarts but build a strong engine for long-term success.
 
-![The Racecar Growth Framework Explained](images/Screenshot-2024-07-05-at-16.29.40-1024x504.png)
+![The Racecar Growth Framework Explained](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-07-05-at-16.29.40-1024x504.png)
 
 In our case, we did many of the kickstarts but never worried about the engine, so we created a product that was not ideal for the growth motion we eventually discovered.
 

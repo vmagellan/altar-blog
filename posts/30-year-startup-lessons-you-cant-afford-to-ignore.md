@@ -19,7 +19,7 @@ In this edition of [The Startup Journey Podcast](https://altar.io/podcast/)*,* 
 
 Diane's track record is nothing short of extraordinary, with nearly three decades of experience nurturing startups into successful businesses.
 
-![Diane Prince - Entrepreneur and startup advisor](images/Peacock-Chair-Diane-Square-1024x757.jpg)
+![Diane Prince - Entrepreneur and startup advisor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Peacock-Chair-Diane-Square-1024x757.jpg)
 
 Having built seven companies that have collectively generated over $300M in revenue, achieving five successful exits in the process, she has made an indelible mark on the startup ecosystem.
 
@@ -83,7 +83,7 @@ We knew we had to find an idea that would have product market fit, which is one 
 
 The idea also had to be something that could be a vehicle to get us to that goal of selling and retiring in a few short years.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

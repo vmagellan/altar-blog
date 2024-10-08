@@ -176,7 +176,7 @@ The idea you’re working on almost doesn’t matter – because if it turns out
 
 And that comes down, again, to how formidable the founding team is.
 
-Expert Tip ![Altar - What is Saying](images/Yaron-Samid-BillGuard-3.jpg)
+Expert Tip ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 Early-stage investors back great founders. They know that everything else is going to change. The product, the market, the competitive landscape will all change, but they’re betting on you.
 
@@ -196,7 +196,7 @@ Yaron Samid, Serial Entrepreneur , [Startup Advisor](https://www.linkedin.com/in
 
 And it’s surprising how much convincing that takes. Everyone is obsessed with trade shows, networking events and getting t-shirts printed – all of that is worthless.
 
-Expert Tip ![Altar - What is Saying](images/Joe-Procopio.png)
+Expert Tip ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Joe-Procopio.png)
 
 Your MVP won’t work if your customers can’t see any value. Build what customers want and then scale.
 

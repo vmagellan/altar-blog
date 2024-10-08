@@ -10,7 +10,7 @@ author: Jamie Russell-Curtis
 
 This is [João Ferrão dos Santos](https://www.linkedin.com/in/joao-ferrao-dos-santos/).
 
-![JFdS ChatGPT user who founded a company using the AI](images/JFdS-300x300.jpeg)
+![JFdS ChatGPT user who founded a company using the AI](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/JFdS-300x300.jpeg)
 
 For the last decade, he’s spent his time building, mentoring and funding startups. His journey includes raising an impressive €45M for his venture capital fund, [Mustard Seed Maze](https://msm.vc/).
 
@@ -292,7 +292,7 @@ As the startup grows, ChatGPT-4 can scale to handle increased volumes of inquiri
 
 ChatGPT-4 can learn from past interactions and continuously improve its responses and efficiency, adapting to changing customer behaviours and preferences.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

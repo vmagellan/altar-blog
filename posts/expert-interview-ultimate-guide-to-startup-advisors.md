@@ -27,7 +27,7 @@ What should I expect from a startup advisor? How should I compensate an Advisor?
 
 To answer these questions and more I sat down with Startup expert Martin Zwilling.
 
-![](images/Martin-Zwilling-1024x957.jpeg)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Martin-Zwilling-1024x957.jpeg)
 
 Martin is the CEO & Founder of [Startup Professionals](http://www.startupprofessionals.com/) and has more than 30 years of experience as an Advisor & Angel Investor. On top of this, he is a Professor at Embry-Riddle University. He is a published author of three books and has articles featured on Inc., Forbes, Entrepreneur and Huffington Post.
 
@@ -59,7 +59,7 @@ So, finally, another fellow and I were able to convince him that maybe he really
 
 So I’m trying to help entrepreneurs not make those same mistakes that everybody else makes. And also not let their ego and passion [get in the way](https://blog.startupprofessionals.com/2020/02/7-ways-to-use-advisory-board-to.html) of making a good business decision.
 
-![](images/QUOTE-1-Zwilling-1.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/QUOTE-1-Zwilling-1.png)
 
 Q: Do you think Advisors are useful for some of the specific nuances of a business?
 
@@ -91,7 +91,7 @@ You have to identify the kind of help you need. Whether its financial, marketing
 
 I always say, start with a small number. Three to five people on your advisory board are enough to start. Then as your company grows you may end up 10 people on your advisory board because you have specialists. So you can change people or add people as required. I’ve written more on this [here](https://blog.startupprofessionals.com/2018/07/7-mistakes-to-avoid-in-forming-new.html):
 
-![QUOTE-2-ZWILLING](images/QUOTE-2-ZWILLING-1.png)
+![QUOTE-2-ZWILLING](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/QUOTE-2-ZWILLING-1.png)
 
 #### Q: There are some similarities between Mentors and Advisors. I’m a [Startup Mentor](https://altar.io/lessons-ive-learned-virgin-mentor/) myself and I’m always trying to figure out: What’s the difference?
 
@@ -109,7 +109,7 @@ So as a startup mentor I might say to a CEO: “I think you need to get out of t
 
 ### _A startup mentor is someone who focusses on the entrepreneur. Whereas a startup advisor is going to focus on the business. Advisors look at the bigger picture, rather than just you as an entrepreneur._
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -145,7 +145,7 @@ I think both mentors and advisors should be compensated. They may be compensated
 
 But those people who say I’m gonna count on my friends to be mentors are making a mistake. I think your friends tend to tell you what you *want* to hear. Whereas a mentor will tell you what you [*need* to hear](https://blog.startupprofessionals.com/2016/12/7-keys-to-teaming-with-right-mentor-for.html). And those may not always be the same answer.
 
-![](images/QUOTE-ZWILLING-3-1.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/QUOTE-ZWILLING-3-1.png)
 
 #### As a founder, I want my mentors and advisors to feel like they are appropriately rewarded or appreciated for their efforts. And that this isn’t just something they have to be doing because they’re my family or friend.
 
@@ -179,7 +179,7 @@ I, for example, often get offered 1% of a business and I say “Look I have enou
 
 As a founder, you’ve kind of got to get to know the people that you want as your business advisors and find out what’s important to them. But you should never expect [good advice to come for free](https://blog.startupprofessionals.com/2020/02/7-ways-to-use-advisory-board-to.html):
 
-![QUOTE-ZWILLING-4](images/QUOTE-ZWILLING-4-1.png)
+![QUOTE-ZWILLING-4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/QUOTE-ZWILLING-4-1.png)
 
 #### Q: What about term sheets for advisors. The legal side of startup advisor agreements. Can you share some tips?
 
@@ -217,7 +217,7 @@ But if you are an individual who's doing this all yourself and you don’t have 
 
 A: From a founder’s perspective, I think selecting a business advisor is just like selecting an investor. You should do some due diligence to make sure your interests are aligned. In terms of qualifying startup advisors for your new venture, I have [five questions that you should ask yourself](https://blog.startupprofessionals.com/2020/01/5-questions-to-qualify-advisors-for.html).
 
-![QUOTE-ZWILLING-5](images/QUOTE-ZWILLING-5-1.png)
+![QUOTE-ZWILLING-5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/QUOTE-ZWILLING-5-1.png)
 
 #### From an advisor’s perspective, if I am considering joining a startup as an advisor I do the same. I do the due diligence on that team. Probably that means I would go and spend a day with that team. Not only would I talk to the CEO but also to the other people.
 
@@ -255,7 +255,7 @@ I think that’s a very bad attitude. That’s the kind of entrepreneur I typica
 
 Overall, find someone you can trust who can become your [confidant](https://blog.startupprofessionals.com/2015/11/7-criteria-for-selecting-entrepreneur.html) and build that relationship:
 
-![](images/QUOTE-ZWILLING-6-1-1.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/QUOTE-ZWILLING-6-1-1.png)
 
 #### Thank You, Martin.
 

@@ -33,7 +33,7 @@ Let’s go back to the example from the HSBC guy to give you some more context.
 
 Here’s what he had to say about his relationship with an agency:
 
-![Founder Adil's Software Development Company Experience](images/Adil-LinkedIn-400x1024.png)
+![Founder Adil's Software Development Company Experience](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adil-LinkedIn-400x1024.png)
 
 In fact, he had even more to say about his experience, as the video below shows:
 
@@ -143,7 +143,7 @@ They’ll have a deep understanding of what “product” is:
 
 **The intersection of business, user experience and technology.**
 
-![Product at the centre of Business tech & UX](images/Product-at-the-centre-of-Business-tech-UX.png)
+![Product at the centre of Business tech & UX](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Product-at-the-centre-of-Business-tech-UX.png)
 
 This is important because they’ll be able to apply that knowledge throughout the product development process. This deep understanding will help shape your product. They may even be able to create a blueprint for your product through a full [product scope](https://altar.io/service-product-scope/). From helping to define your unique value proposition to UX/UI design and trimming the fat to only focus on features necessary to prove your assumptions launching this product.
 
@@ -196,7 +196,7 @@ That being said, take these with a pinch of salt, as there are certain providers
 
 Don’t believe me? Check out this email I received recently asking if we would be interested in this service (an offer I not so politely declined - as a marketer these kinds of shady things make me sick):
 
-!["verified emails" for a software development company](images/22Verified-Reviews22-Email-1024x542.png)
+!["verified emails" for a software development company](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/22Verified-Reviews22-Email-1024x542.png)
 
 Finally, ask the agency if they’ll put you in touch with some of the people they’ve worked with (or, even better, see if they suggest it!).
 

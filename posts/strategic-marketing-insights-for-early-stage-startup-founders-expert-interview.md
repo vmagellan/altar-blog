@@ -136,7 +136,7 @@ The vision statement should be aspirational, something that scares you a bit, re
 
 Many say that a vision statement shouldn’t even describe what your company does – if you look at the vision statements of companies like Apple or Nike, they don’t explicitly state what they do but capture the essence of why they exist.
 
-![Apple & Nike's Vision Statements Marketing](images/Nike-Apple-Vison-1024x581.png)
+![Apple & Nike's Vision Statements Marketing](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nike-Apple-Vison-1024x581.png)
 
 When it comes to strategic brand positioning, there are many messaging components agencies talk about, but for startups, I think the most important ones are the brand **positioning statement** and the **brand promise**.
 

@@ -1,9 +1,9 @@
 ---
 title: "4 Steps to Ensure your Startup’s UX/UI Design Delights your Users"
 date: "2022-11-07"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "design"
   - "entrepreneurship"
   - "startup"
@@ -33,17 +33,15 @@ Take a quick look at G2’s “[Best software products and tools](https://www.g2
 
 More than that, users notice it. Take this review of [Gong.io](https://www.g2.com/products/gong/reviews) as an example:
 
-
-
-![Gong Review on UX/UI](images/Gong-Review-on-UXUI.png)
+![Gong Review on UX/UI](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Gong-Review-on-UXUI.png)
 
 Or this review of [Confluence](https://www.g2.com/products/confluence/reviews):
 
-![](images/Confluence-UXUI-Review.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Confluence-UXUI-Review.png)
 
 Or this review of [Salesloft](https://www.g2.com/products/salesloft/reviews):
 
-![Salesloft UX/UI Review](images/Salesloft-UXUI-Review.png)
+![Salesloft UX/UI Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Salesloft-UXUI-Review.png)
 
 Three completely different products that solve three different problems. But the reviews all share similarities.
 
@@ -56,8 +54,6 @@ But the benefits of top-quality design don’t end at customer satisfaction. It 
 The reasoning behind investing time and effort into great product design is clear, but how do you actually get there?
 
 Well, it starts with the process itself.
-
- 
 
 #### Contents
 
@@ -75,7 +71,7 @@ Your design brief should start with you giving your designer a thorough, succinc
 
 They will then carry out a series of steps to complete the brief. For example, here’s Google’s design thinking process:
 
-![](images/Google-UXUI-Design-Thinking-Process-1024x344.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Google-UXUI-Design-Thinking-Process-1024x344.png)
 
 - Empathise - Understand users and stakeholders
 - Define - Understand user problems and needs
@@ -90,8 +86,6 @@ That said, we have a slightly different process at Altar. We’ve found when bui
 Moreover, we usually carry out many of the following steps pre-design, at the [product scope stage](https://altar.io/service-product-scope/). The information is key to figuring out if you can build a product that is competitive and will be adopted by your users.
 
 As my CEO and Head of Product, Daniel, [points out here](https://altar.io/qualities-product-manager-startup/):
-
-
 
 The reason most startups fail is that they don’t spend enough time on product in the early stages.
 
@@ -111,7 +105,7 @@ Next on this list is Brand Personality, this is how your brand should be perceiv
 
 At Altar, we use the Millward Brown personality chart (as shown below) but there are other alternatives out there.
 
-![](images/Milward-Brown-Personality-Chart.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Milward-Brown-Personality-Chart.png)
 
 Here the question is “what is your brand?” It could be a mixture of two or more. For example, if you were to choose “wise” and “king” your brand would portray trustworthiness and deep knowledge while being in control and assertive.
 
@@ -121,7 +115,7 @@ A note on this step: you may already have a vision for your brand personality. I
 
 To back up your Brand Personality, you can also create a visual meter to show your designer where your brand stands based on the polar opposites shown in the image below.
 
-![](images/Visual-Meter-for-UXUI-Design.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Visual-Meter-for-UXUI-Design.png)
 
 #### Personas
 
@@ -142,7 +136,7 @@ The penultimate stage is to create a sitemap – an initial visual representatio
 
 This will naturally change as your product develops, however, this is a great way for you to visualise how your product will work as early as possible.
 
-![](images/Sitemap--1024x396.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Sitemap--1024x396.png)
 
 #### User Stories
 
@@ -166,7 +160,7 @@ Then it’s time to look at the UI.
 
 With the UX well underway, it’s time to look at UI. The next step is for your designer to work on your key screens. Here, they take the most important screens of your product and create UI mockups so you can start to see exactly how your product will look.
 
-This step is vital for you, the founder. By seeing the key screens as soon as possible, you’ll be able to validate whether or not it’s what you need _before_ your designer spends months designing something you’re not going to like.
+This step is vital for you, the founder. By seeing the key screens as soon as possible, you’ll be able to validate whether or not it’s what you need *before* your designer spends months designing something you’re not going to like.
 
 ### 4\. All Screens & Clickable Prototype
 
@@ -177,8 +171,6 @@ At this stage in the process, your designer should also be able to provide a cli
 Ensuring that your user journey is solid before building out your final product.
 
 But your clickable prototypes can be used for more than just internal use, as one of our Partners, Rui, pointed out to me recently:
-
-
 
 We've seen some of our clients use a clickable prototype to raise money.
 
@@ -192,15 +184,9 @@ That concludes the four steps to ensure your startup’s design delights your us
 
 But, since you’re here, I wanted to go a step further and talk about the next logical step in your journey to create a kickass design: finding the right person to execute it.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -233,7 +219,7 @@ Both of these options come with their inherent risks – just as hiring someone 
 
 And while it’s easy to blame the model, I would argue that you’re no less likely to succeed with a freelancer or agency than you would with an in-house hire.
 
-**As long as you do the right due diligence when onboarding them.** 
+**As long as you do the right due diligence when onboarding them.**
 
 By this I mean, onboarding with the same level of scrutiny as you would hiring someone in-house. At the core, it’s all about full alignment and transparency regardless of the model you choose.
 
@@ -326,12 +312,6 @@ They need to be able to express complex ideas fluently and concisely so that you
 They need to be able to communicate with developers so that the designs become a reality without any hiccups.
 
 This requires an articulate person who is confident speaking with a range of stakeholders.
-
-
-
-
-
-
 
 ## Where to Find UX/UI Designers & Agencies
 

@@ -32,7 +32,7 @@ I’ve taken a lot of lessons away from these conversations and today I want to 
 
 It was [during a conversation](https://altar.io/founder-story-the-key-decisions-when-building-a-fintech/) with Christian Nothacker that this first lesson came to the forefront of my mind.
 
-![Christian Nothacker, Entrepreneur & Founder of Fintech Startup product PrestaCap](images/Nothacker_ProfilePic-scaled-1-1024x729.jpg) We were discussing his fintech, PrestaCap. His startup focussed on helping small business owners overcome major inefficiencies when in the financing process offered by traditional banks.
+![Christian Nothacker, Entrepreneur & Founder of Fintech Startup product PrestaCap](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1-1024x729.jpg) We were discussing his fintech, PrestaCap. His startup focussed on helping small business owners overcome major inefficiencies when in the financing process offered by traditional banks.
 
 He heard stories of small business owners queuing at the bank with paper applications and having to wait five days for a response.
 
@@ -44,7 +44,7 @@ It’s very important to know where the product is today and the direction in wh
 
 It was this focus on product relevance that led to PrestCap being successfully acquired in just five years for $20M.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -60,7 +60,7 @@ It’s critical, therefore, that you show your users value as quickly as possibl
 
 Something [I recently talked about](https://altar.io/expert-interview-building-an-mvp/) with serial entrepreneur and product expert Joe Procopio. Here’s how he put it:
 
-![Joe-Procopio startup expert and product manager](images/Joe-Procopio-300x300.png)
+![Joe-Procopio startup expert and product manager](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Joe-Procopio-300x300.png)
 
 Your core product has to give the customer a quick understanding of why they need your product. And it has to do this flawlessly. Remember your product won’t work if your customers can’t see any value.
 
@@ -80,7 +80,7 @@ We do this because the first step in providing users with “the most value with
 
 Something Jan-Philipp Kruip and [I discussed recently](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/). Jan-Philipp founded FitSense, a B2B health and fitness fintech startup that is being used by some of the biggest multinational insurance companies in the world.
 
-![entrepreneur Jan-Philip & co-founder of their startup product fitsense](images/Jan-Philip-his-co-founder.png)
+![entrepreneur Jan-Philip & co-founder of their startup product fitsense](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Jan-Philip-his-co-founder.png)
 
 When I asked him for his advice on product, he told me:
 
@@ -102,7 +102,7 @@ Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](htt
 
 It was in a [discussion with serial entrepreneur Yaron Samid](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/) when this particular lesson came to light.
 
-![Multi-exit Fintech Founder Yaron Samid](images/Yaron-Samid-BillGuard-3.jpg)
+![Multi-exit Fintech Founder Yaron Samid](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 He founded BillGuard, a multi-million dollar fintech startup.
 
@@ -132,7 +132,7 @@ That being said, not every successful startup needs to pivot. Take the entrepren
 
 When Illit Geller [told me about her startup](https://altar.io/building-a-fintech-by-listening-to-the-market-founder-interview/), TradAir, you can imagine my surprise when she told me she didn’t start the business with a specific idea in mind.
 
-![Entrepreneur and startup product founder Illit Geller](images/llit-1.jpeg)
+![Entrepreneur and startup product founder Illit Geller](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/llit-1.jpeg)
 
 Instead of brainstorming ideas, she and her founding team went out into the market and talked directly to an industry they knew very well, asking for their biggest pain points.
 
@@ -156,7 +156,7 @@ There are no two ways about it. Your chances of success are higher if you have s
 
 Something [unicorn founder Alex Tonelli](https://altar.io/lessons-from-a-fintech-unicorn/#product) is a strong advocate of:
 
-![Startup team advice from Alex Tonelli](images/Tonelli-1.jpg)
+![Startup team advice from Alex Tonelli](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tonelli-1.jpg)
 
 _I can’t emphasise enough for new entrepreneurs the concept of starting halfway there._
 
@@ -182,7 +182,7 @@ A product team can be a great gatekeeper to avoid this headache.
 
 In a [recent conversation](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/), serial entrepreneur Garrett Gafke summed up the importance of product people perfectly:
 
-![Interview with Garrett Gafke – serial entrepreneur and startup founder](images/Interview-with-Garrett-Gafke-–-serial-entrepreneur-and-startup-founder--1024x571.webp)
+![Interview with Garrett Gafke – serial entrepreneur and startup founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Interview-with-Garrett-Gafke-–-serial-entrepreneur-and-startup-founder--1024x571.webp)
 
 A good product person will hear someone from the company say:
 

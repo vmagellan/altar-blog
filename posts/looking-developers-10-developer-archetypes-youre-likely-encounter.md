@@ -1,9 +1,9 @@
 ---
 title: "10 Different Types of Developers You're Likely to Find"
 date: "2019-11-15"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "developer"
   - "software-development"
   - "startup"
@@ -15,8 +15,6 @@ author: Daniel de Castro Ruivo
 
 I’ve met many types of developers throughout the years building different products with [Altar.io](https://altar.io/). The one important lesson I’ve learnt along the way is:
 
-
-
 > **Don’t look for the perfect developers, look for a balanced team.**
 
 That’s our sweet spot for one reason: there is no such thing as perfection and building a good product is never a one-man-show.
@@ -26,37 +24,29 @@ Creating and keeping a balanced dev team is a very challenging art. This is due 
 1. Generally speaking, they are not the most skilled communicators
 2. They tend to be fiercely competitive, especially when it comes to tests of intellect.
 
-
-
 Related: [Steps to Select The Right Technical Partner To Help You Build a Startup](https://altar.io/finding-the-right-tech-partner-for-your-startup/)
-
- 
 
 #### Contents
 
 ## The Average Coder
 
-
-
-![The 10 Types of Developers - The Average Coder](images/13gX8aYM7mXbfTgridLgnbw.png)
+![The 10 Types of Developers - The Average Coder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/13gX8aYM7mXbfTgridLgnbw.png)
 
 The Average Coder is perhaps the most common type of developer. He might sell himself in different ways, but he tends to be average in everything he does – with the exception of gaming. He has average standards and mediocre ambition, he wants a predictable workflow in his backlog to deliver it quietly and he’s not very keen on bug fixing because, in his point of view, that means moving back in his backlog.
 
 #### Comic Situation:
 
-![The 10 Types of Developers - The Average Coder: Comic Situation](images/1MTNXJ_i1Oy4cybBS8xhqDA.png)
+![The 10 Types of Developers - The Average Coder: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1MTNXJ_i1Oy4cybBS8xhqDA.png)
 
 Should you hire this developer? Being the most common archetype, the Average Coder is the easiest to get in the market. Eventually, you’ll be hiring some Average Coders in your team. It’s important, however, that they don’t come aboard until your developer team is at least 20-strong.
 
 Warning if you consider hiring one: [Small teams need commitment](https://hbr.org/1993/03/the-discipline-of-teams-2). This person will never question your decisions or suggestions, which means they are not committed.
 
-
-
 Related: [What The Non-Technical Entrepreneur Needs To Know About Tech](https://altar.io/what-the-non-technical-entrepreneur-needs-to-know-about-tech/)
 
 ## The Wolf
 
-![The 10 Types of Developers - The Wolf](images/1d0MGgRqO3qdVMDeHO4K4vA.png)
+![The 10 Types of Developers - The Wolf](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1d0MGgRqO3qdVMDeHO4K4vA.png)
 
 The Wolf is a dream developer, totally unbalanced and eternally optimistic. You will try to include him in all projects because he’s hyper-productive, codes very quickly and will never deliver less than solid code.
 
@@ -66,27 +56,19 @@ He is a good team player, talks when necessary and understands and respects busi
 
 #### Comic Situation:
 
-![](images/10-devs.webp)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/10-devs.webp)
 
 Should you hire The Wolf? Positively! You should find all the Wolves in town but sadly there aren’t many. Unlike 80% of developers, The Wolf understands business and product priorities - even if they don’t meet his dream roadmap. He’ll try to help as much as possible to get the team together to achieve your goals. Only 1 developer out of 1000 is probably a Wolf. We have a good eye for Wolves, so we proudly have more than a few working at [Altar.io](https://altar.io/).
 
 Warning if you consider hiring one: Wolves are ambitious and constant learners, so their stability and loyalty will quickly disappear if they’re not feeling stimulated with projects or by their peers. They also tend to be optimistic in their judgement of projects and have difficulty saying ‘no’ – so sometimes they’ll accept work and timelines that are nearly impossible to achieve.
 
- 
-
 ##### Sign up for our newsletter
-
-
 
 Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
 
-
-
-
-
 ## The Narcissus
 
-![The 10 Types of Developers - The Narcissus](images/1hctp30S7JsD_XSPBKQG0mg.png)
+![The 10 Types of Developers - The Narcissus](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1hctp30S7JsD_XSPBKQG0mg.png)
 
 This type of developer is very similar to The Wolf. However, he comes with significant differences that have a tremendous impact – possession of a much bigger ego and poorer communication and team skills.
 
@@ -96,7 +78,7 @@ In a nutshell, he goes with Maximus motto: “What we do in life, echoes in eter
 
 #### Comic Situation:
 
-![The 10 Types of Developers - The Narcissus: Comic Situation](images/1RYjbN611LvHWiOmovJthNQ.png)
+![The 10 Types of Developers - The Narcissus: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1RYjbN611LvHWiOmovJthNQ.png)
 
 Should you hire this developer? You should only have one in your team – but you’ll need someone strong enough to keep them in check. But remember he doesn’t like to be controlled because he feels overshadowed.
 
@@ -104,7 +86,7 @@ Warning if you consider hiring one: If you give him big challenges and let him d
 
 ## The Idealist
 
-![The 10 Types of Developers - The Idealist](images/1DpZ8nkJ50V_SvegNBBLVtQ.png)
+![The 10 Types of Developers - The Idealist](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1DpZ8nkJ50V_SvegNBBLVtQ.png)
 
 Mickey is an Idealist, he only thinks about solutions in a quintessential form and has a very limited capability to compromise.
 
@@ -116,13 +98,11 @@ Discussions about budget and timings will be rebuffed with arguments about how v
 
 His motto is:
 
-
-
 > Discard any language/framework that is > 3 months OR has a community > 300 developers OR > 3 developers in your team heard of it
 
 #### Comic Situation:
 
-![The 10 Types of Developers - The Idealist: Comic Situation](images/1tDgutnqfKb6yyw_68UXGQg.png)
+![The 10 Types of Developers - The Idealist: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1tDgutnqfKb6yyw_68UXGQg.png)
 
 Should you hire this developer? These types of developers are always [on top of the latest trends](https://www.forbes.com/sites/quora/2018/03/01/how-to-keep-up-to-date-as-a-software-developer/#1e4eb4776017). They know all the new features of the new versions of all bleeding-edge frameworks. Like the Narcissus, you should only have one of these in a bigger team.
 
@@ -134,7 +114,7 @@ Also remember, if you aren’t using the latest – and riskier – technologies
 
 ## The Shy One
 
-![The 10 Types of Developers - The Shy One](images/1WYYv6P1JQ-Kn6T53F8QPVQ.png)
+![The 10 Types of Developers - The Shy One](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1WYYv6P1JQ-Kn6T53F8QPVQ.png)
 
 With their small ego, limited ambition and hatred of the spotlight, this type of developer is the opposite of a Narcissist. If at all possible, he’ll work from home. If he makes it into the office, you’ll find him hidden in a quiet spot you didn’t know existed He will try, desperately, to avoid meetings.
 
@@ -142,15 +122,13 @@ While his work is diligent, it’s bland and unexciting. He will never surprise 
 
 #### Comic Situation:
 
-![The 10 Types of Developers - The Shy One: Comic Situation](images/1wDnjwl5g7YyEzKXMulNLCg.png)
+![The 10 Types of Developers - The Shy One: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1wDnjwl5g7YyEzKXMulNLCg.png)
 
 Should you hire this developer? Personally, I don’t have an opinion about The Shy One because we tend to have strong characters in our team at [Altar.io](https://altar.io/). But if you hire a Shy One, you can be assured of one thing – they won’t bring disorder to your team dynamics or disrupt the workflow or product.
 
 Warning if you consider hiring one: They’re shy by nature and not great communicators. As a result, often what’s delivered will be outside the project’s specifications because they ‘didn’t want to disturb you’.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -160,13 +138,13 @@ Let's Talk
 
 ## The Hitchhiker
 
-![The 10 Types of Developers - The Hitchhiker](images/1nszAloDlBVp60yrFLNqthA.png)
+![The 10 Types of Developers - The Hitchhiker](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1nszAloDlBVp60yrFLNqthA.png)
 
 Fast programmer, delivers in half of the time, but never really closes his work. He is the antipode of the puritan, he wants to get things done and see things working. He will hitchhike his way to deliver faster than you could expect. He doesn’t document and he doesn’t follow documentation. He never follows instructions from QA and when he delivers something he doesn’t want to go back to the mess he created. He is a natural fast problem solver and he doesn’t believe in such things as design to scale or thread-safe.
 
 #### Comic Situation:
 
-![The 10 Types of Developers - The Hitchhiker: Comic Situation](images/1z3Y93kacHfeBT63gjl8Ejg.png)
+![The 10 Types of Developers - The Hitchhiker: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1z3Y93kacHfeBT63gjl8Ejg.png)
 
 Should you hire this developer? If your team is strong enough, it’s good to have a Hitchhiker onboard. The best use for them is emergency problem solving and rough prototyping – and they’ll reach their goals far quicker than you originally thought possible. However, everything will have to be refactored afterwards. Knowing how to deal with Hitchhikers – and in particular, placing them in the right team – is something we value at [Altar.io](https://altar.io/).
 
@@ -174,13 +152,11 @@ Warning if you consider hiring one: He will tease the idealist and the puritan o
 
 Hitchhikers are normally loyal by default but highly unstable – the result of which means if they receive a better offer, they’ll be out the door.
 
-
-
 Related: [Reasons Why Outsourcing Software Development Fails](https://altar.io/10-reasons-why-outsourcing-software-development-fails/)
 
 ## The Imploder
 
-![The 10 Types of Developers - The Imploder](images/1U4U8rylh8PFXKmfB_DRSpA.png)
+![The 10 Types of Developers - The Imploder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1U4U8rylh8PFXKmfB_DRSpA.png)
 
 The Imploder tends to be a decent coder, possessing deep knowledge and is a productive worker. The problem is he’s an awful team player. He considers different opinions as a direct challenge to his own bright mind. Therefore he won’t cooperate when the decisions aren’t his and his alone. Disagreeing with The Imploder runs the risk of them (subtly) challenging the role of your management team and the outcome of the project. Their hostility to project managers means they’re often found whispering malicious company gossip in the ears of innocent new recruits.
 
@@ -188,38 +164,36 @@ By their nature, these types of developers are volatile and unpredictable. That�
 
 #### Comic Situation:
 
-![The 10 Types of Developers - The Imploder: Comic SItuation](images/1t5LeH0diSb3uwV-hA2H9kw.png)
+![The 10 Types of Developers - The Imploder: Comic SItuation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1t5LeH0diSb3uwV-hA2H9kw.png)
 
 **Should you hire this developer?  
 **NOPE!! The Imploder brings bad vibes and instability to your team and development. Unfortunately, we've had Imploders in at [Altar.io](https://altar.io/). Not to repeat!
 
 ## The Safe Player
 
-![10 Different Types of Developers You’re Likely to Find - The Safe Player](images/1XAJgdgvjJ6gkNAmI8Q0uJw.png)
+![10 Different Types of Developers You’re Likely to Find - The Safe Player](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1XAJgdgvjJ6gkNAmI8Q0uJw.png)
 
 The Safe Player wants to keep his ass safe – he lives and breathes self-protection. He spends more energy and time ensuring he can’t be blamed in the event of things going wrong, than actually thinking about the best way to do a job. By nature, he'll deliberately make the wrong choice for a product if it means his job is more secure. He also won’t think twice about blaming someone else for his mistakes.
 
 #### Comic Situation:
 
-![10 Different Types of Developers You’re Likely to Find - The Safe Player: Comic Situation](images/1e_1Y1ampQ9w43TigFZ_Rug.png)
+![10 Different Types of Developers You’re Likely to Find - The Safe Player: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1e_1Y1ampQ9w43TigFZ_Rug.png)
 
 Should you hire this developer? This person is an extreme version of the worst bureaucratic liar you’ll ever meet – never ever hire a Safe Player. He might be a good coder, but he also brings with him an awful mindset and a culture that can tear apart your team.
 
 How to track these types of developers? I’d suggest asking about problems they’d encountered at previous jobs. Ask for details about how and why it happened. Set them a trap and let them talk about how everyone else but them was to blame.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 ## The Bad Ass
 
-![10 Different Types of Developers You’re Likely to Find - The Bad Ass](images/1MHBKXpIt0-5N6-dBdcWvow.png)
+![10 Different Types of Developers You’re Likely to Find - The Bad Ass](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1MHBKXpIt0-5N6-dBdcWvow.png)
 
 The Bad Ass is like the Average Coder with an extra dimension – he’s eternally grumpy and rude. The effect is you’ll think twice before asking him to do something – and then probably decide it’s not worth the hassle and do it yourself.
 
 #### Comic Situation:
 
-![10 Different Types of Developers You’re Likely to Find - The Bad Ass: Comic Situation](images/1KIn2aIsHdg4osUpFpw_3zg.png)
+![10 Different Types of Developers You’re Likely to Find - The Bad Ass: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1KIn2aIsHdg4osUpFpw_3zg.png)
 
 **Do you need this engineer?  
 **Clearly NO! While the Average Coder is bearable, this person is dangerous to your business as they create tension among other workers. Remember it is very hard to distinguish an Average Coder from a Bad Ass when recruiting. I have to admit that we previously hired an ‘under the radar’ Bad Ass. As a result, we saw for ourselves how their positive attitude to work when interviewed changed immediately once they started working for us.
@@ -228,21 +202,19 @@ Again, the best form of detection is to encourage them to talk about the pitfall
 
 ## The Puritan
 
-![10 Different Types of Developers You’re Likely to Find - The Puritan](images/1r0zglHPK1MqpUVkLieAbFw.png)
+![10 Different Types of Developers You’re Likely to Find - The Puritan](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1r0zglHPK1MqpUVkLieAbFw.png)
 
 Don’t confuse the Puritan with the Idealist. The Puritan is a theory professor, obsessed with rigour and standards. He comes with best intentions to the battles he starts. However 85% of the time they’re simply jeopardising a project’s progress with lectures in standards and process. They’ll needlessly stall meetings by discussing obscure aspects that aren’t – in their eyes –  100% by the book. In short, they have great difficulty distinguishing between a university theory class and a startup.
 
 #### Comic Situation:
 
-![10 Different Types of Developers You’re Likely to Find - The Puritan: Comic Situation](images/1LVf47Ga0ku1n9Aqz1iLVXw.png)
+![10 Different Types of Developers You’re Likely to Find - The Puritan: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1LVf47Ga0ku1n9Aqz1iLVXw.png)
 
 Should you hire this developer? Like the Narcissus and Idealist, it’s best to have one when there’s a large team. With the right structure, he might become a vital player. He can work on key things that need a deep level of knowledge. At the moment we don’t have such a structure at [Altar.io](https://altar.io/) that justifies The Puritan (a processualist).
 
 Warning if you consider hiring one:
 
 Remember Puritans aren’t feature coders – their interests are in PM processes, defining standards and complex architectural theorisation.
-
-
 
 Related: [Traits to Consider if You Want to Find the Perfect Co-Founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 

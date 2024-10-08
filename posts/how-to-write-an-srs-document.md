@@ -1,9 +1,9 @@
 ---
 title: "How to Write a Software Requirements Specification (SRS) Document in 5 Steps"
 date: "2021-12-03"
-categories: 
+categories:
   - "tech-knowledge"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
   - "software-development"
@@ -24,8 +24,6 @@ Throughout this article, I will delve into what it takes to create one that will
 
 But first, I want to make a quick point on when you should (and should not) use one.
 
- 
-
 #### Contents
 
 ## Do You Really Need an SRS Document?
@@ -44,15 +42,9 @@ If you’re building a big product, keep reading and I’ll take you through eve
 
 If you’re building a standard MVP or the first iteration of your product, it may be enough to explain your product to your development team in terms of [product scope](https://altar.io/structured-process-develop-mvp/), epics or using a BPMN diagram if you have one or high fidelity prototypes.
 
- 
-
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
-
-
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -92,9 +84,9 @@ If you decide to create one for yourself here is a basic, lightweight, incompreh
 
 #### Software Requirements Specification (SRS) Document Outline
 
-1. Introduction 1.1 Purpose 1.2 Intended Audience 1.3 Intended Use 1.4 Scope 1.5 Definitions and Acronyms
-2.  Overall Description 2.1 User Needs 2.2 Assumptions and Dependencies
-3.  System Features and Requirements 3.1 Functional Requirements 3.2 External Interface Requirements 3.3 System Features 3.4 Nonfunctional Requirements
+1.  Introduction 1.1 Purpose 1.2 Intended Audience 1.3 Intended Use 1.4 Scope 1.5 Definitions and Acronyms
+2.  Overall Description 2.1 User Needs 2.2 Assumptions and Dependencies
+3.  System Features and Requirements 3.1 Functional Requirements 3.2 External Interface Requirements 3.3 System Features 3.4 Nonfunctional Requirements
 
 Once you’ve created a structure for your SRS it’s time to start fleshing it out. That all starts with the purpose.
 
@@ -142,12 +134,6 @@ For example, are you making assumptions around your product that may be false? I
 
 Lastly, is your project dependent on any external factors? For example, an integration from a third-party SaaS may cause SLA issues, etc.
 
-
-
-
-
-
-
 ### 4\. Detail The System Requirements
 
 Once you have an overview of your product in place, it’s time to become more granular. Keeping in mind your users’ needs it’s time to give a detailed overview of either the use cases of your product, as well as the non-functional requirements.
@@ -170,7 +156,7 @@ Repeat this process for every user until you’ve completed your list.
 
 Your non-functional requirements are just as important as your functional ones. They include performance, safety, security & quality. Here's an example of how to write a non-functional requirement for a car’s LIDAR sensor:
 
-**_The cars LIDAR sensors shall send data to the dashboard at the rate of 10Mbps up to (and including) 100Mbps._**  
+**_The cars LIDAR sensors shall send data to the dashboard at the rate of 10Mbps up to (and including) 100Mbps._**
 
 Once you have your use cases written and non-functional requirements listed, as well as provided any relevant supplemental information, you’re ready to take it to your stakeholders.
 

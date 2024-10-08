@@ -58,7 +58,7 @@ For startup founders, the art of problem definition is paramount. As Steve Jobs 
 
 It's not about how many problems you can tackle, but the depth and effectiveness with which you address one. By immersing oneself in the problem, narrowing its scope, and striving for simplicity, startups can ensure that their innovations resonate and make a profound difference.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -134,7 +134,7 @@ These early adopters, grappling with the issue more often than others, are keenl
 
 The early adopters of LLMs (Large Language Models) were users desperately needing a user-friendly conversational AI. These users were most often developers and businesses who understood the power of AI but found existing solutions too unreliable.
 
-![Crossing The Chasm as a Startup with your new product](images/Crossing-the-Chasm-1024x576.png)
+![Crossing The Chasm as a Startup with your new product](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Crossing-the-Chasm-1024x576.png)
 
 They grappled with two extremes in the Conversational AI domain. On one end, early chatbots often misunderstood queries, lacked context, and delivered scripted replies, making interactions feel robotic and unsatisfactory. On the opposite end, while models like GPT-3 showcased brilliance in generating plausible responses, they were unpredictable, occasionally producing outputs that were off-mark or contextually inappropriate.
 

@@ -59,7 +59,7 @@ The best example of this is GitHub. Yes, the target market for GitHub is develop
 
 In theory, this means that outsourcing the development of GitHub would be completely viable.
 
-![The Outsource Software Development Decision Tree](images/Outsource-or-Not-Decision-Tree-1024x1022.png)
+![The Outsource Software Development Decision Tree](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Outsource-or-Not-Decision-Tree-1024x1022.png)
 
 To sum up, it’s generally inadvisable to outsource software development when:
 
@@ -70,7 +70,7 @@ In any other scenario, a software project can either be built in-house or outsou
 
 To help give some more context, I wanted to share some case studies from successful companies, to help you understand the kinds of businesses that are suited to the outsourcing model.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -349,19 +349,19 @@ The best time to fire someone is before you hire them, which means you should ha
 
 Finally, I wanted to share some more advice from successful founders and startup advisors on whether or not you should outsource your software development.
 
-Do You Need to Build Fast? ![Altar - What is Saying](images/Judy.jpeg)
+Do You Need to Build Fast? ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Judy.jpeg)
 
 The key decision point is around how quickly you need to get to market and what your financial resources are. Remember, outsourcing has been used by many very successful companies to develop their MVP, such as Slack, which is valued at $3.8bn, Skype which sold to Microsoft for $8.5bn, as well as BaseCamp and Github.
 
 Judy Robinett, Startup Expert , [Best Selling Author](https://twitter.com/judyrobinett)
 
-Consider the Cultural Factors ![Altar - What is Saying](images/Outsource-Software-Development.webp)
+Consider the Cultural Factors ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Outsource-Software-Development.webp)
 
 I personally prefer having an in-house team to work on projects instead of hiring a new team/developer for every project. Most freelancers or outsourced developers care about delivering the project, not the best possible version of it but whatever releases the next payment. Another issue (with outsourcing) is communication. If you have someone in-house, most probably there is chemistry between you so it’s more efficient to talk about projects and get things done.
 
 Evan Varsamis, CEO, [Gadget Flow](https://thegadgetflow.com/)
 
-Utilise an Agency's Expertise ![Altar - What is Saying](images/Adil-Colour-e1706205763604.jpeg)
+Utilise an Agency's Expertise ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adil-Colour-e1706205763604.jpeg)
 
 Experienced software development companies will have muscle memory from having built similar products. Meaning that they’ve experienced the common hurdles already. They can predict when they’re going to happen.
 
@@ -369,19 +369,19 @@ They can use some of the tools and experience to preempt and diffuse the bomb be
 
 Adil Kurt-Elli, CEO & Founder, [Synch](https://www.synch.pro/)
 
-Outsource When Tech is Not Key to Your Business ![Altar - What is Saying](images/Outsource-Software-Development.jpeg)
+Outsource When Tech is Not Key to Your Business ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Outsource-Software-Development.jpeg)
 
 \[Outsource software development when\] tech is not key to your business. For example, in crowdfunding, if the key to success is about getting projects on the platform or investors then you can white label the platform to kickstart your business”. Don’t do it when: “tech is a barrier to entry to your business. For example, in regtech, you need to build a KYC platform to match EU regulations, etc…
 
 Minh Q. Tran, Managing Partner, [Odysseus Alternative Ventures](https://www.bloomberg.com/profile/company/1685169D:LN#)
 
-Outsource if You Have Cash & Need to Launch Fast! ![Altar - What is Saying](images/Outsource-Software-Development-1.jpeg)
+Outsource if You Have Cash & Need to Launch Fast! ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Outsource-Software-Development-1.jpeg)
 
 If you have cash, want to launch fast, and don’t know lots of developers then pay a quality shop to ship. On the other hand, if you have some cash, don’t want to throw out code, and will be fundraising soon then do it yourself!
 
 Alexander Jarvis, Startup Mentor, [Serial Unicorn Founder](https://www.bloomberg.com/profile/company/1685169D:LN#)
 
-Make Sure You Protect Your IP ![Altar - What is Saying](images/Paul-OBrien-200x200-1.jpeg)
+Make Sure You Protect Your IP ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Paul-OBrien-200x200-1.jpeg)
 
 Outsource the job to be done. Not the reason it needs to be done nor the ownership of what needs to be done; outsource the skills and work in the same manner that you’d hire the best resources for any job. The challenge for entrepreneurs is in appreciating that what is built still needs to be your IP. Outsourcing your software build should not be at the expense of losing your understanding, control, or ownership of what you’re doing.
 

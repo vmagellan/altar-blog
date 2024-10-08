@@ -19,7 +19,7 @@ Two minutes into our latest startup founder interview - the ninth in the Startup
 
 Just check out my face!
 
-![Interview with unicorn startup founder Wade Eyerly](images/Interview-with-unicorn-founder-Wade-Eyerly-1024x640.png)
+![Interview with unicorn startup founder Wade Eyerly](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Interview-with-unicorn-founder-Wade-Eyerly-1024x640.png)
 
 It was during those first two minutes that [Wade Eyerly](https://www.linkedin.com/in/wadeeyerly/) shared a significant part of his background, like how he:
 
@@ -54,7 +54,7 @@ Then I left aviation about three years ago to invent a new financial product.
 
 I’m also a dad of three little boys – I guess that's a very quick overview of me.
 
-![Unicorn Startup Founder Wade Eyerly](images/Unicorn-Founder-Wade-Eyerly-1024x512.jpeg)
+![Unicorn Startup Founder Wade Eyerly](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Unicorn-Founder-Wade-Eyerly-1024x512.jpeg)
 
 ## The Idea Behind Degree Insurance
 
@@ -299,7 +299,7 @@ So you get to start, to build your career from a stable position, from a safe pl
 
 Our startup reduces the risk of inequality. That is incredibly important in moving people into the middle class and keeping them there.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -647,7 +647,7 @@ He’d been General Counsel to the Governor of Illinois, he goes:
 
 We got together and we hit it off. He joined the startup team as outside counsel. Then inside counsel, then general counsel, then as COO and now as co-founder.
 
-![Unicorn Founder Wade and his co-founder](images/Unicorn-Founder-Wade-and-his-co-founder.jpeg) It’s been an incredible dynamic. If you had handed me Aladdin's lamp and said make a wish for your perfect startup co-founder I couldn't have guessed that he existed.
+![Unicorn Founder Wade and his co-founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Unicorn-Founder-Wade-and-his-co-founder.jpeg) It’s been an incredible dynamic. If you had handed me Aladdin's lamp and said make a wish for your perfect startup co-founder I couldn't have guessed that he existed.
 
 He immigrated from the Soviet Union at 17. As a fluke, we both speak Russian. I lived in post-Soviet Russia for a couple of years.
 

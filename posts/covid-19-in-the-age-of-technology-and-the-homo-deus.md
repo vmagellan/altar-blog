@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 in The Age of Technology and The Homo Deus"
 date: "2020-04-06"
-categories: 
+categories:
   - "tech-knowledge"
 coverImage: "beatles-abbey-road-social-distancing.jpg"
 slug: covid-19-in-the-age-of-technology-and-the-homo-deus
@@ -18,11 +18,9 @@ What’s happening now is at a macro level what immune systems try on viruses. A
 
 As an information society (highly connected), when facing a grave and global threat, we as a whole share pain, suffer losses and act in coordination to employ the known means to fight off and drag away from our society the virus. Again, information works well with the known but struggles to cope with the unknown. New deadly viruses (and above all highly contagious ones) demand novel approaches. Social isolation for contagion is the medicine of choice as other approaches are found. This is an extremely costly choice but brings an opportunity to act better in the next pandemic or social isolation event.
 
-Governments and companies calculate how to distribute economic pain via short term cost cuts. This impacts employees and suppliers to keep the businesses afloat during a near stoppage of demand. On the Political front, having an organised effort that keeps people at home but with sustenance prevents the shock of the dangerous pandemic _aftermaths_ that killed empires and set back human progress hundreds of years at a time.
+Governments and companies calculate how to distribute economic pain via short term cost cuts. This impacts employees and suppliers to keep the businesses afloat during a near stoppage of demand. On the Political front, having an organised effort that keeps people at home but with sustenance prevents the shock of the dangerous pandemic *aftermaths* that killed empires and set back human progress hundreds of years at a time.
 
-
-
-![Covid-19 in The Age of Technology and The Homo Deus - The Beatles Social Distancing Abbey Road](images/beatles-abbey-road-social-distancing.jpg)
+![Covid-19 in The Age of Technology and The Homo Deus - The Beatles Social Distancing Abbey Road](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/beatles-abbey-road-social-distancing.jpg)
 
 ### The Economic Front
 
@@ -54,8 +52,6 @@ The damage to demand in a quarantined world is nevertheless pervasive. Below is 
 - Savings
 - Support Call Centers
 
-
-
 Related: [The List of the Most Active Marketplace Investors](https://altar.io/60-active-investors-focus-marketplaces/)
 
 ### Resilience (Somewhat Unchanged)
@@ -83,35 +79,29 @@ Related: [The List of the Most Active Marketplace Investors](https://altar.io/60
 
 Despite a lack of hard data at this point besides surveys, [BCG’s](https://www.bcg.com/) Corona March Report tells us that there will be many more losers than winners in this period. Consumers are stopping discretionary spending as they face economic hardship and a cloudy future.
 
-![Covid-19 in The Age of Technology and The Homo Deus - BCG’s Corona March Report](images/0fLWbsevRQNRxjMwo-1024x534.png)
+![Covid-19 in The Age of Technology and The Homo Deus - BCG’s Corona March Report](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0fLWbsevRQNRxjMwo-1024x534.png)
 
 Another good trend forecaster that validates the hypothesis of how staying at home with economic fear changes our buying behaviours is outlined by Kissmetrics. [Here](https://neilpatel.com/blog/coronavirus/) Neil Patel reviews data on traffic and conversion per sector.
 
-![Covid-19 in The Age of Technology and The Homo Deus - Traffic Growth](images/0d6GoZ7IiC_E8EjBA-1024x645.png)
+![Covid-19 in The Age of Technology and The Homo Deus - Traffic Growth](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0d6GoZ7IiC_E8EjBA-1024x645.png)
 
 People are focused on researching their finances, healthcare, media and pharma. But only committing to food and healthcare whilst broadly shunning everything else.
 
 The human mind keeps up with the day’s flavour and adapts its expectations to a new reality — about which its end we can only speculate about. Maintaining the status quo is now the victory for most.
 
-![Covid-19 in The Age of Technology and The Homo Deus - Conversion Growth](images/0eKcfLgK-BKg3slwV-1024x642.png)
+![Covid-19 in The Age of Technology and The Homo Deus - Conversion Growth](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0eKcfLgK-BKg3slwV-1024x642.png)
 
 Looking at previous crises, what we believe will happen after this sudden decrease is that there will also be a sudden, steep increase in demand in the sectors that were most hurt. As well as a re-price as consumers cautiously get back into the market — with many suppliers competing for buyers.
 
 Capital goods such as real estate may face a crunch due to many people having reduced means to buy or rent after a reduction in their salaries. They may be facing unemployment or at least a protracted recovery. Ongoing and delayed contracts will resume — but there could be scepticism towards new transactions.
 
-![Covid-19 in The Age of Technology and The Homo Deus - Chinese Economy](images/0ZJskq0m_2cANpVnr-1024x579.png)
+![Covid-19 in The Age of Technology and The Homo Deus - Chinese Economy](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0ZJskq0m_2cANpVnr-1024x579.png)
 
 Services such as (national) Tourism, Air and Road Travel and those related to everyday purchases like restaurants and cafes should, however, see a steep increase. This is due to the fact that people in a long lockdown will be eager to get back to their usual small pleasures and way of life as much as possible.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -125,25 +115,19 @@ The likely typhus plague of Athens 426–430 BC killed king Pericles along with 
 
 Like the Athenian plague, the Justinian plague of 541 CE ended Constantinople’s ambition to carry on the Roman empire. In the 14th century, the black plague carried most likely from China via the silk route and later by sea touching base in Italy first (an eerie coincidence with the COVID-19). The Black plague is estimated to have had a death toll of 100 to 200 million people being the biggest single killer in mankind’s history. This resulted in the biggest exodus from cities ever and a sink in economic and social life that would only be reverted with the Age of Discoveries.
 
-![](images/The-political-front-1024x556.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/The-political-front-1024x556.png)
 
 Despite viruses, bacteria and parasites still being set above and beyond humans as APEX predators on planet Earth, homo sapiens (or rather Homo Deus in this Anthropocene era) are highly intelligent and above all extremely collaborative beings — that analyse and model nature to their benefit. After creating hundreds of vaccines and antivirals we have also developed a simple capability, possibility and even a unique authority. To regulate and create sustenance without movement and collaboration without physical presence.
 
 These are, it seems, our most brilliant weapons: to stay at home in social isolation. Which is the contrary of what Thucydides saw in the last days of great Athens [“how crowding in Athens, along with inadequate housing and sanitation, helped the disease spread more quickly and added to the number of casualties.”](https://www.theatlantic.com/ideas/archive/2020/03/great-plague-athens-has-eerie-parallels-today/608545/). Where the majority isolate against this pandemic as a small part of us work overtime to solve the puzzle of its cure. This was just not possible in Classical Greece.
 
-
-
-
-
-
-
 ### Living in the Technological Now
 
 Nowadays we won’t have the downfall of old empires. We will have a setback limited in scope.
 
-![Covid-19 in The Age of Technology and The Homo Deus - Tech Now](images/tech-now-1024x584.webp) ![Covid-19 in The Age of Technology and The Homo Deus - Virtual Classroom](images/0OwkzTWCty5ykciBR-1024x484.jpg)
+![Covid-19 in The Age of Technology and The Homo Deus - Tech Now](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/tech-now-1024x584.webp) ![Covid-19 in The Age of Technology and The Homo Deus - Virtual Classroom](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0OwkzTWCty5ykciBR-1024x484.jpg)
 
-Until we leave our homes and can reflect on the momentousness of what we lived through (the months of life _not as usual)_ there will be a few lasting impacts and opportunities for digital transformation that become a priority now that we see that life can go on and we must keep our house/economy in order (Oikos/home + Nomos/law = Economy) and we have the possibility to do so in this advanced period in the extremely connected Anthropocene age:
+Until we leave our homes and can reflect on the momentousness of what we lived through (the months of life *not as usual)* there will be a few lasting impacts and opportunities for digital transformation that become a priority now that we see that life can go on and we must keep our house/economy in order (Oikos/home + Nomos/law = Economy) and we have the possibility to do so in this advanced period in the extremely connected Anthropocene age:
 
 - Tech transformation of late adopters such as mini/local markets for hyperlocal deliveries
 - Tech disruption of the last bits of office work that have not yet been “remotised”

@@ -15,7 +15,7 @@ author: Paolo Dotta
 
 Whether you’re thinking of launching a startup or in the trenches of your first entrepreneurial venture, any morsel of advice from someone who’s been in your shoes can be like gold. That’s why I sat down with serial entrepreneur and fintech founder, [Alex Tonelli](https://www.linkedin.com/in/n-alex-tonelli-54b2a42/).
 
-![Fintech Founder and Serial Entrepreneur Alex Tonelli](images/Fintech-Founder-and-Serial-Entrepreneur-Alex-Tonelli-1024x681.jpeg)
+![Fintech Founder and Serial Entrepreneur Alex Tonelli](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Fintech-Founder-and-Serial-Entrepreneur-Alex-Tonelli-1024x681.jpeg)
 
 He knows a thing or two about the hurdles entrepreneurs face, to say the least.
 
@@ -115,7 +115,7 @@ If you’re starting 5% of the way to a decision, it’s not impossible to ‘le
 
 Related: [3 Steps to Build a Successful Minimum Viable Product (MVP)](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

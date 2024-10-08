@@ -24,7 +24,7 @@ The Fintech company, in collaboration with OpenAI, has implemented autonomous ag
 
 Just one month after implementation, they reported a **reduction in average resolution time from 11 to 2 minutes!**
 
-![Klarna Report on AI Agents Snippet](images/image_720.png)
+![Klarna Report on AI Agents Snippet](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image_720.png)
 
 Their implementation was able to engage in 2.3M conversations with customers, handling two-thirds of all customer service interactions, and leaving only the most complex cases for humans to resolve. Their agents performed the equivalent work of 700 full-time employees. Insane results!
 
@@ -64,7 +64,7 @@ This has brought us to the race for model quality that is currently happening, w
 
 Model quality has come a long way, but it is still far from perfect. To emphasise this point, see the graph below [provided by Anthropic](https://www.anthropic.com/news/claude-3-family) on the accuracy of their most advanced models when solving “hard questions”:
 
-![Accuracy of Anthropic's AI models across generations](images/image_720-1.png)
+![Accuracy of Anthropic's AI models across generations](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image_720-1.png)
 
 LLMs can be prompted in many ways to improve output quality. However, it might be the case that you want your system to execute multiple tasks in a row, given only one prompt. This is where chains come in.
 
@@ -72,7 +72,7 @@ LLMs can be prompted in many ways to improve output quality. However, it might b
 
 A Chain is a sequence of calls to an LLM, a tool, or a data preprocessing step.
 
-![AI LLM Chain explanation](images/image_480.png)
+![AI LLM Chain explanation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image_480.png)
 
 Chains allow for the completion of more complex tasks than a simple LLM, given that they can receive the output of a previous task as input to the next task, triggering a sequence of events.
 
@@ -91,11 +91,11 @@ If you’d like to learn how to implement a chain, check out this [gentle introd
 
 **[RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/)** refers to an LLM-based system where the LLM is provided access to a set of documents, allowing the model to find and fetch relevant information to inform the generation of answers.
 
-![How retrieval Augmented Generation (RAG) Works](images/image_720-2.png)
+![How retrieval Augmented Generation (RAG) Works](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image_720-2.png)
 
 Instruction-tuned LLMs are significantly better performing at generating responses than Base LLMs, but still, hallucinations happen. A good example of **hallucination** is when a model is asked to talk about a product that does not exist, from a company that exists:
 
-![AI Model hallucinations within instruction-tuned LLMs](images/Screenshot-2024-06-07-at-17.38.57-1024x380.png)
+![AI Model hallucinations within instruction-tuned LLMs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-06-07-at-17.38.57-1024x380.png)
 
 In order to resolve such cases, RAG systems are one of the most popular approaches.
 
@@ -124,7 +124,7 @@ Agents can:
 4. Access tools & documents as needed for each sub-task
 5. Orchestrate the execution of sub-tasks
 
-![How AI Agents Generate User Requests](images/image_720-1-1.png)
+![How AI Agents Generate User Requests](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image_720-1-1.png)
 
 An example of a prompt that would not be solvable by a simple RAG or LLM, that AI Agents can tackle is the following:
 
@@ -156,7 +156,7 @@ Some of the benefits of MAS are increases in:
 2. **Robustness:** You can add QA AI agents to the system
 3. **Scalability:** Parallel processing, spin-up of AI agents as needed
 
-![How Multi AI Agents work](images/image-1024x491.png)
+![How Multi AI Agents work](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-1024x491.png)
 
 Multi-agent systems can be fully autonomous - solving the request from an initial prompt without additional human input - or request human input between steps.
 
@@ -180,13 +180,13 @@ Here is a list of tools you can test to build AI agents and multi-agent systems:
 
 AutoGen is a framework by Microsoft that facilitates the development of large language model (LLM) applications using multiple customisable and conversable agents. These agents can interact autonomously or with human feedback to solve complex tasks, integrating LLMs, tools, and human inputs seamlessly. [Documentation](https://microsoft.github.io/autogen/).
 
-![User Proxy AI Agents vs. Assistant AI Agents](images/image-1-1024x543.png)
+![User Proxy AI Agents vs. Assistant AI Agents](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-1-1024x543.png)
 
 ### LangGraph
 
 LangGraph offers a graph-based approach to managing interactions between multiple AI agents, enabling complex reasoning and task-solving capabilities. It allows developers to visualise and optimise the interactions and dependencies between various agents. [Learn more](https://blog.langchain.dev/langgraph-multi-agent-workflows/).
 
-![How LangGraph designs AI Agents](images/image-2-1024x730.png)
+![How LangGraph designs AI Agents](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-2-1024x730.png)
 
 ### CrewAI
 
@@ -220,7 +220,7 @@ Several benchmarks have been designed to evaluate LLM agents. Notable examples i
 
 For a deeper understanding read “AgentBench benchmark to evaluate LLM-as-Agent on real-world challenges and 8 different environments. Liu, et. all (Oct 2023)" [here](https://arxiv.org/pdf/2308.03688).
 
-![Real world challenges of AI agents across distinct environments](images/image-3-e1717779626852-1024x437.png) ![Benchmark of LLMs potential as AI agents](images/image-4-1024x573.png)
+![Real world challenges of AI agents across distinct environments](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-3-e1717779626852-1024x437.png) ![Benchmark of LLMs potential as AI agents](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-4-1024x573.png)
 
 You can also read “benchmarkname : A Benchmark for LLMs as Intelligent Agents” - Wu, et all. (Mar 2024) [here.](https://arxiv.org/html/2310.01557v5)
 

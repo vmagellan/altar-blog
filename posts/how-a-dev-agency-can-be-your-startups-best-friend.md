@@ -1,9 +1,9 @@
 ---
 title: "Software Development for Startups: The Entrepreneurs' Guide"
 date: "2022-12-13"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "agency"
   - "lean-startup"
   - "mvp"
@@ -14,7 +14,7 @@ slug: how-a-dev-agency-can-be-your-startups-best-friend
 author: Andre Lopes
 ---
 
-_If you’re looking for a service page on software development for startups, feel free to_ [_check ours here_](https://altar.io/service-mvp/)_. If you’re interested in knowing more about how to successfully work with a software development company, keep reading. Below you’ll find our tried and tested process to successfully develop a startup product with an agency._ 
+*If you’re looking for a service page on software development for startups, feel free to* [_check ours here_](https://altar.io/service-mvp/)_. If you’re interested in knowing more about how to successfully work with a software development company, keep reading. Below you’ll find our tried and tested process to successfully develop a startup product with an agency._
 
 As a founder, you are a specialist in your industry. You’ve had your “lightbulb moment”, the idea that will disrupt your industry - or at least a part of it -  with the use of technology.
 
@@ -24,7 +24,7 @@ But, as marketing guru [Neil Patel](https://www.linkedin.com/in/neilkpatel/) s
 
 So, as most founders do, you probably started looking for a technical co-founder with a view to **building your dream team of product experts and best-in-class developers**.
 
-There’s just one problem: it's **hard to attract top talent with an idea on a napkin****.** 
+There’s just one problem: it's **hard to attract top talent with an idea on a napkin\*\***.\*\*
 
 It’s a classic dilemma. Obtaining top talent, with a limited budget, to transform your idea into a successful product – all before your competitors beat you to the market.
 
@@ -35,8 +35,6 @@ Which is exactly what we do here at Altar.io.
 We have a tried and tested process for successful custom software development for startups.
 
 Throughout this article, I will share our entire process in detail. Then I will share some secrets so you can extract the most value possible from any software development company.
-
- 
 
 #### Contents
 
@@ -58,9 +56,7 @@ Here is a rundown of how the process works step by step.
 
 It’s proven to be valuable to the entrepreneurs we work with – as you can see from the [feedback they give](https://clutch.co/profile/altario#summary) us.
 
-
-
-![Altar, Custom Software Development Company Review 1](images/Review-1-Clutch.png) ![Altar, Custom Software Development Company Review 2](images/Review-2-Clutch.png) Our Product Scope process begins with the scope preparation.
+![Altar, Custom Software Development Company Review 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-1-Clutch.png) ![Altar, Custom Software Development Company Review 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-2-Clutch.png) Our Product Scope process begins with the scope preparation.
 
 #### Scope Preparation
 
@@ -109,15 +105,9 @@ Once the Product Scope has been defined we then move onto the development stage 
 
 **Note:** We have a non-binding contract with all of our clients. Meaning, at this stage, if you want to take the deliverables of the Product Scope to a different technical stakeholder (whether that’s an in-house team, freelancer, or another agency) you’re completely free to do so.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -148,7 +138,7 @@ These two-week sprints include:
 - **Sprint planning:** The team define goals for the next weeks, clarify product questions, and prepare implementation
 - **Point of Situation with Client:** A mandatory once-per-week meeting to show you the progress and planning for the next sprint
 
-![Sprint overview when working with Altar - custom software development company for startups](images/Sprint-overview-when-working-with-Altar-custom-software-development-company-for-startups.png)
+![Sprint overview when working with Altar - custom software development company for startups](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Sprint-overview-when-working-with-Altar-custom-software-development-company-for-startups.png)
 
 #### Step Three: Test & Launch
 
@@ -156,7 +146,7 @@ Once our custom software development team has built your product, we enter the t
 
 During this phase, we’re in constant contact with you to fix any major bugs and issues to ensure your product is ready for launch.
 
-Once we’ve ironed out any issues, you’re ready to launch your product and begin gathering feedback from your users. \[/vc\_column\_text\]\[nectar\_global\_section id="8975"\]\[vc\_column\_text\]
+Once we’ve ironed out any issues, you’re ready to launch your product and begin gathering feedback from your users. \[/vc_column_text\]\[nectar_global_section id="8975"\]\[vc_column_text\]
 
 ### Post MVP Development
 
@@ -241,15 +231,7 @@ In many cases, they will be using a good percentage of code that belongs to them
 
 For everything that is unique to your product, you should negotiate shared or exclusive rights to its intellectual property.
 
-
-
 Related: [Explore The Products We Build](https://altar.io/work/)
-
-
-
-
-
-
 
 ### Use Their Knowledge & Benefit From It
 

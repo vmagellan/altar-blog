@@ -12,7 +12,7 @@ It’s easy for things to get lost in translation. We learn this as kids when we
 
 This is just as true in Product Development: you need to [look no further than LinkedIn](https://www.linkedin.com/posts/felixleezd_design-product-activity-7118604042653614080-g9Rx) to find countless posts where designers wonder how the creations they put so much thought and consideration into come to life in a… severely mutated form.
 
-![Design Meets Development - The problem](images/Design-Meets-Development-The-problem.png)
+![Design Meets Development - The problem](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Design-Meets-Development-The-problem.png)
 
 Even if the product will inevitably evolve due to the [iterative nature of digital product design](https://www.interaction-design.org/literature/article/design-iteration-brings-powerful-results-so-do-it-again-designer), its success will always hinge upon well-designed - and well-implemented - features.
 
@@ -56,7 +56,7 @@ We then pass the code on to the Front-End Developer, who will implement the rema
 
 Having someone on your project who can understand the intent behind product and user experience decisions as well as the technical execution means they can accurately implement the designs, with far-reaching repercussions.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -98,7 +98,7 @@ There are also advantages for those building a Software Development team of thei
 
 Other Developers [don’t always have an interest in templating and styling](https://www.linkedin.com/posts/javascript-developer_activity-7130521073313288192-ZEtO) (queue the countless frustrated sighs when an element has to be centred in a container).
 
-![](images/Backend-Developers-needing-to-do-styling.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Backend-Developers-needing-to-do-styling.png)
 
 So having a dedicated Styling team helps ensure everyone in the tech department is happy and focusing on what they enjoy doing the most.
 

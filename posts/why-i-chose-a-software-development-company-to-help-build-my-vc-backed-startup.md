@@ -1,7 +1,7 @@
 ---
 title: "Why I Chose a Software Development Company to Help Build My VC-Backed Startup"
 date: "2023-12-14"
-categories: 
+categories:
   - "looking-for-development"
 coverImage: "Why-I-chose-a-software-development-company-to-build-my-startup.png"
 slug: why-i-chose-a-software-development-company-to-help-build-my-vc-backed-startup
@@ -34,8 +34,6 @@ I will delve into the critical decision of partnering with a software developmen
 
 I’ll discuss the challenges we faced, the strategic considerations behind our choices, and the invaluable benefits we reaped from this partnership.
 
- 
-
 #### Contents
 
 ## The Journey to Working with a Software Development Company
@@ -66,15 +64,9 @@ This was crucial - when working with an agency you **need** a partner, not jus
 
 Our choice, Altar.io, ticked all these boxes, aligning with our goals and opening our eyes to new opportunities.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -102,8 +94,6 @@ This approach helped alleviate any initial fears or misconceptions about not fol
 
 Once we articulated our strategy and the reasons for our decision, we found that investors generally understood and supported our choice, appreciating the rationale behind this unconventional but strategic decision.
 
-
-
 Related: [How I Found the Right Software Development Company for My Startup](https://altar.io/finding-a-software-development-company-startup/)
 
 ### The Selection Process
@@ -121,8 +111,6 @@ We looked for signs of genuine interest and commitment in the way they talked ab
 It was crucial for us to feel confident that the agency we chose would not only bring technical expertise but also a shared enthusiasm for what we were trying to achieve. This alignment in values and vision was paramount in our selection process.
 
 In the end, the decision to choose a particular agency was based on this deeper connection and understanding. We wanted a team that resonated with our goals and was eager to embark on this journey with us, contributing more than just technical skills but also strategic insights and a shared passion for innovation.
-
-
 
 Related: [A Tech Founder's Perspective on Collaborating with a Software Development Company](https://altar.io/building-a-startup-with-a-software-development-company-tech-founders-perspective/)
 
@@ -168,15 +156,7 @@ It conveyed a clear message: we were serious about our venture and capable of ma
 
 This was more than just having a product; it was a testament to our commitment to quality and our ability to work with top-tier professionals in the industry.
 
-
-
 Related: [How to Avoid Failure When Building a Startup With a Software Development Company](https://altar.io/how-to-avoid-failure-when-building-a-startup-with-a-software-development-company/)
-
-
-
-
-
-
 
 ## My Top 5 Pieces of Advice for Non-Technical Entrepreneurs Building a Tech Startup
 

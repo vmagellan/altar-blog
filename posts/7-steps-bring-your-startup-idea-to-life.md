@@ -78,7 +78,7 @@ I’ve had entrepreneurs come to me with $10k to build an MVP or initial product
 
 Just take a look at this screenshot from our [pricing simulator](https://altar.io/pricing/) to give you an idea of what it takes to build a small, low-complexity fintech product:
 
-![Pricing simulator fintech](images/Screenshot-2024-02-07-at-16.51.58.png) Obviously, this is a generic simulation. A lot more information is needed to get an accurate estimate for a project. But according to our experience, most projects don’t fall far off these numbers.
+![Pricing simulator fintech](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-02-07-at-16.51.58.png) Obviously, this is a generic simulation. A lot more information is needed to get an accurate estimate for a project. But according to our experience, most projects don’t fall far off these numbers.
 
 You need to ask yourself, how far can I get through my startup journey with what I have in the bank?
 
@@ -107,7 +107,7 @@ Then, once you have a product out in the market, you can use [this guide](https
 
 The next step is to do some research to ensure you can transform your startup idea into a solid product vision.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -269,7 +269,7 @@ Which is not always easy.
 
 I’ve seen many entrepreneurs spend months looking, [only to come up empty-handed](https://altar.io/building-a-startup-without-a-technical-co-founder/).
 
-![Altar - What is Saying](images/Dudley-Gould-1-copy.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dudley-Gould-1-copy.jpeg)
 
 I spent six months trying to find a technical co-founder. The closest I got was Tom. He wasn’t a CTO but had the 5 years of experience I was told a co-founder needed. He was very busy, so when I asked him to leave his job if I secured investment, he had second thoughts. Whilst he wasn’t a CTO on $244k, even the average developer salaries often are too good to give up!
 
@@ -295,7 +295,7 @@ That being said, working with a software development company comes with a unique
 
 If you choose to go down the agency route, do your due diligence and make sure you choose a partner who will make you [say something like this at the end of the process](https://clutch.co/profile/altario?utm_campaign=Vendor%20Notification%20-%20Refs%20&%20Reviews&utm_medium=email&_hsmi=98448842&_hsenc=p2ANqtz-8aw0F624_J8KFHheCBkGVfKgGPkjx7t6-Bmero8h1tcRVgef7ghkyQBUHMN89vYISPoeoYymueujY8q8QuXnmXd98dqg&utm_content=98448842&utm_source=hs_automation#reviews):
 
-![Liam Testimonial - bring a startup to life](images/Liam-Testimonial.png)
+![Liam Testimonial - bring a startup to life](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Liam-Testimonial.png)
 
 For more tips and insights on forming a successful founder-agency relationship, [check out this resource](https://altar.io/founders-guide-how-to-outsource-software-development-2020/).
 

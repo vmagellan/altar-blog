@@ -18,7 +18,7 @@ These large amounts of user behaviours, network structures, content, demographic
 
 By “life”, I am metaphorically referring to Generative AI, as the ultimate emulation of human behaviour that AI has achieved.
 
-![Dr. Frankenstein and his monster](images/Death-of-Data-Scientist-1024x800.png)
+![Dr. Frankenstein and his monster](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Death-of-Data-Scientist-1024x800.png)
 
 However, curiously, as in Mary Shelley's Frankenstein, the newly born creature, involuntary kills its creator.
 
@@ -42,7 +42,7 @@ Pronouncing the Data Scientists as dead might be a stretch, but certainly, a lot
 
 Let's explore what the career landscape is like for them moving forward.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking to Integrate AI into Your Business?
 
@@ -56,7 +56,7 @@ Typically, the data scientist was between a business analyst and a machine-learn
 
 However, this superficial knowledge can now be much more easily supported by GenAI. This leaves the Data Scientist to decide on a new path to stay relevant within an organisation.
 
-![](images/Death-of-Data-Scientist-1-1024x781.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Death-of-Data-Scientist-1-1024x781.png)
 
 The original middle ground position between a very technical team(ML/AI/Data engineering)and a not-so-technical one (Business) will require way fewer people. Therefore, the new data scientist will have to revert to either one of the sides of the scale.
 
@@ -94,7 +94,7 @@ Basically, we can now harvest almost all types of data (events, content, audio, 
 
 Each employee will not only be a data consumer but also an avid data producer - and as such - it will have to be part of their responsibility to curate their own data pipeline to its full potential.
 
-![Venn diagram of how generative AI has changed the role of the data scientist](images/Death-of-Data-Scientist-2-1024x469.png)
+![Venn diagram of how generative AI has changed the role of the data scientist](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Death-of-Data-Scientist-2-1024x469.png)
 
 Full Name Business Email Subscribe
 
@@ -112,7 +112,7 @@ With their expertise in machine learning, data engineering, and AI development, 
 
 By harnessing the power of generative AI and data-driven insights, product teams can iterate faster, tailor offerings to individual preferences, and ultimately enhance user experiences.
 
-![](images/Death-of-Data-Scientist-3-1024x696.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Death-of-Data-Scientist-3-1024x696.png)
 
 Companies poised for success are those that can adeptly collect, manage, and profit from their own generated data.
 

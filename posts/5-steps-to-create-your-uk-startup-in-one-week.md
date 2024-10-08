@@ -1,9 +1,9 @@
 ---
 title: "5 Simple Steps to Create Your UK Startup in One Week"
 date: "2019-11-14"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "accounting"
   - "incorporation"
   - "investing"
@@ -26,9 +26,7 @@ I’ve been through this process for more than once before creating [Altar.io](
 
 ### 1\. TELL THE QUEEN YOUR COMPANY EXISTS
 
-
-
-![5 Simple Steps to Create Your UK Startup in One Week - 1. TELL THE QUEEN YOUR COMPANY EXISTS](images/1UeuzwYKAMc5nEVZ3fePk7w.jpeg)
+![5 Simple Steps to Create Your UK Startup in One Week - 1. TELL THE QUEEN YOUR COMPANY EXISTS](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1UeuzwYKAMc5nEVZ3fePk7w.jpeg)
 
 Register the LTD Company through [Companies House](https://ewf.companieshouse.gov.uk/runpage?page=welcome):
 
@@ -38,13 +36,11 @@ Among some easy fields that need to be filled, there are some that worth a few 
 - Initial Capital: your easiest solution is to issue 100 shares at £1 in value each: in this way you don’t have to make a complex assessment if you’re raising future money: the calculation for ownership will be on a 100% basis. Don’t worry: you don’t have to pay this £100 now (100 shares at £1 each); this is the legal amount, not the cash you are asked to pay. To register the Company you only need to pay a £12 application fee.
 - Please make sure that the Director(s) has/have UK residency: it's not mandatory, but you can benefit from several allowances from HMRC (UK Tax Entity): for instance, if you’re not trading yet, you can claim back the VAT paid on the invoices paid within the UK
 
-
-
 Related: [A Real Options Model for Tech Startups’ Valuation](https://altar.io/real-options-model-tech-startups-valuation/)
 
 2\. GET YOUR PIGGY BANK!
 
-![5 Simple Steps to Create Your UK Startup in One Week - 2. GET YOUR PIGGY BANK!](images/1JwBw2DFvdD8j5UZ6o3Lb_Q.png)
+![5 Simple Steps to Create Your UK Startup in One Week - 2. GET YOUR PIGGY BANK!](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1JwBw2DFvdD8j5UZ6o3Lb_Q.png)
 
 Open a bank account: quite a burden at first, branch managers usually ask lots of questions regarding the business nature, the directors, where the money comes from, etc. If you mention that you will be funding the company through crowdfunding, they will turn up their nose because due to (imagine that) money laundering issues. Do stick a simple story i.e. you and your business partner(s) will fund the Company entirely.
 
@@ -81,15 +77,9 @@ Here is the full list of digital banks that currently offer business accounts:
 
 Although new to the game they may be the perfect solution to your startups’ needs, and continue to grow and bring in new features making them an exciting choice for your company.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -97,25 +87,21 @@ Let's Talk
 
 #####  3. BE ATTRACTIVE FOR INVESTORS!
 
-![5 Simple Steps to Create Your UK Startup in One Week - 3. BE ATTRACTIVE FOR INVESTORS!](images/1Ne1LLSULIbXElhngaybzqg.jpeg)
+![5 Simple Steps to Create Your UK Startup in One Week - 3. BE ATTRACTIVE FOR INVESTORS!](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1Ne1LLSULIbXElhngaybzqg.jpeg)
 
 Get your SEIS approval: The Seed Enterprise Investment Scheme (SEIS) is designed to help small, early-stage companies raise equity finance by offering tax reliefs to individual investors who purchase new shares in those companies.The shares must be held for a period of 3 years, from date of issue, for relief to be retained. Relief is available at 50% of the cost of the shares, on a maximum annual investment of £100,000.
 
 This is a very powerful tool when negotiating with an investor: they know immediately that their risk is cut to half! Apply to SEIS through this [link](http://goo.gl/6k9JMV).
 
-
-
 Related: [Startup Series Funding: Everything You Need To Know](https://altar.io/startup-series-funding-everything-you-need-to-know/)
 
 4\. YOUR ACCOUNTANT IS YOUR FRIEND
 
-![5 Simple Steps to Create Your UK Startup in One Week - 4. YOUR ACCOUNTANT IS YOUR FRIEND](images/1MxWx7kfsAlPOOGYOtm7m7g.jpeg)
+![5 Simple Steps to Create Your UK Startup in One Week - 4. YOUR ACCOUNTANT IS YOUR FRIEND](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1MxWx7kfsAlPOOGYOtm7m7g.jpeg)
 
 There are many great accountancy firms in London specifically dedicated to startups. [Crunch](https://www.crunch.co.uk/who-we-help/startups/) is one of the cheapest yet known for being great: their price starts at £29.50 + VAT per month. [iHorizon](http://ihorizon.co.uk/) is another great accountancy firm that also has expertise on US law and it usually makes the bridge between the two countries if scale-ups want to move overseas.
 
 As for invoicing software, so you can bill your clients, I’d suggest you get familiar with [Xero](https://www.xero.com/uk/pricing/), which is one of the most popular and cheapest Saas for invoicing: starting at just £20.62 pm for the premium account.
-
-
 
 Related: [The Startup MVP Development Process from A-Z](https://altar.io/why-your-startup-should-take-4-6-weeks-to-launch-not-4-6-months/)
 
@@ -126,9 +112,3 @@ This is not a proper step, but it’s good to have the situation clear in mind o
 Now that red tape is well under control you can concentrate on building your product.
 
 Good luck!
-
-
-
-
-
-

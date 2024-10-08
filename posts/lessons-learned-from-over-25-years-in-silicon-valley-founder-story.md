@@ -1,9 +1,9 @@
 ---
 title: "Lessons Learned From Over 25 Years in Silicon Valley [Founder Story]"
 date: "2021-10-08"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
   - "product"
@@ -22,15 +22,11 @@ Garrett was kind enough, however, to take the time out of his schedule to sit do
 
 In part one, we discussed how Garrett validated his idea, timed his product and the beliefs and values that make up his entrepreneurial mindset (if you haven’t had the chance to read it [you can see it here](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/)).
 
-
-
-![Interview with Garrett Gafke – serial entrepreneur and startup founder](images/Interview-with-Garrett-Gafke-–-serial-entrepreneur-and-startup-founder--1024x571.webp)
+![Interview with Garrett Gafke – serial entrepreneur and startup founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Interview-with-Garrett-Gafke-–-serial-entrepreneur-and-startup-founder--1024x571.webp)
 
 In part two, we delved into onboarding early adopters, leadership & the people behind his startup, how he maintained a positive company culture and the key lessons he took away from his experience.
 
 As I mentioned in part one, the actionable advice Garrett shares from his 25 years of experience in Silicon Valley is a must-read for any founder beginning their startup journey.
-
- 
 
 #### Contents
 
@@ -56,13 +52,11 @@ To really prove the business we needed data, we needed transactions to make the 
 
 Once we’d gone out to market,  it started to move very quickly.
 
-**A lot of getting those early customers, and building our network, was just brute force and begging friends who had companies to use our service.**  
+**A lot of getting those early customers, and building our network, was just brute force and begging friends who had companies to use our service.**
 
 Not an unusual strategy as your network is important.
 
 Slack is probably the most famous example of this. Their founder Stewart Butterfield has that [well-known quote](https://www.linkedin.com/pulse/slack-born-out-failure-sold-28-billion-godwin-asuquo/):
-
-
 
 We begged and cajoled our friends at other companies to try it out and give us feedback. We had maybe six to ten companies to start with that we found this way.
 
@@ -100,15 +94,9 @@ They’re trying to prove their integrity with the market, in the new world of b
 
 We timed the product well in that respect.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -143,8 +131,6 @@ It’s very difficult for people who’ve come out of a large company with a sig
 For example, if you onboard an engineer who’s spent the last 20 years at Cisco as your first or second hire, they’re going to find it tough at first. After all, they’re used to that paycheck always being met – they’re used to a certain structure.
 
 That’s a very different environment to the one we see in startups which is that of “see a problem, fix a problem.” Or, as I like to call it, overcoming business challenges in the chaos.
-
-
 
 Related: [Expert Interview: How to Hire Top Talent in Startups](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/)
 
@@ -200,12 +186,6 @@ Entrepreneurs who aren’t ready for that opportunity, that CEO role, often deve
 
 That’s why, as an entrepreneur and founder, you need to have a boatload of confidence, but also an equal amount of humility to balance it out.
 
-
-
-
-
-
-
 ## The Importance of a Product Person
 
 #### R: Let’s move on to the second thing I wanted to follow up on, which was the product person you had on your team.
@@ -238,8 +218,6 @@ I was lucky to have someone very disciplined on the product side for us. I’d a
 
 It comes back to bringing in those foundational people early and growing them through the process.
 
-
-
 Related: [Key Product Lessons I Learned Interviewing Successful Entrepreneurs](https://altar.io/key-product-lessons-i-learned-interviewing-successful-entrepreneurs/)
 
 #### R: It’s great to hear that advice because we still see a lot of cases where founders take their business idea straight to a developer.
@@ -265,8 +243,6 @@ And they turn around and says things like:
 You start to get into the typical business dynamics.
 
 So, it’s really important to lay the foundations of a great product team. Also, that initial product person can be a great filter. But to have any chance of being successful you have to be able to work closely with them. As with any early hire.
-
-
 
 Related: [Expert Interview: The One Thing You Can't Miss When Building a Minimum Viable Product](https://altar.io/expert-interview-building-an-mvp/)
 
@@ -329,8 +305,6 @@ Of course, you don’t! You work through it with them and help them.
 It's that level of care and nurturing and, and understanding that things take time.
 
 You know, again, you have to give yourself to that culture. Whoever the founder or founding team is, they’re literally going to give a part of themselves to this company, no matter what.
-
-
 
 Related: [Building an Airline Out of Necessity & an Innovative Fintech Product Out of Passion \[Founder Interview\]](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/)
 
@@ -425,8 +399,6 @@ Oh, they pooped their diaper? You’re cleaning it up, you’re dealing with it.
 And it’s a mentality that you’ve got to have whether you’re starting a business at 20 or 50.
 
 I can’t stress this enough, if you're operating a startup or starting a business, it is your life. There is no balance.
-
-
 
 Related: [How an Experience in Turkey Led to a Million-Dollar Startup \[Founder Interview\]](https://altar.io/how-an-experience-in-turkey-led-to-a-million-dollar-startup-founder-interview/)
 

@@ -18,7 +18,7 @@ Launching a startup is a huge undertaking that will test your personal and profe
 
 Something serial entrepreneur and startup founder [Garrett Gafke](https://www.linkedin.com/in/garrettgafke/) knows a thing or two about.
 
-![Interview with Garrett Gafke – serial entrepreneur and startup founder](images/Interview-with-Garrett-Gafke-–-serial-entrepreneur-and-startup-founder--1024x571.webp)
+![Interview with Garrett Gafke – serial entrepreneur and startup founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Interview-with-Garrett-Gafke-–-serial-entrepreneur-and-startup-founder--1024x571.webp)
 
 He pioneered the digital identity industry when he founded his startup [IdentityMind](https://www.crunchbase.com/organization/identitymind-global) back in 2011.
 
@@ -178,7 +178,7 @@ It took tremendous amounts of time, money and effort to build platforms. **It w
 
 You had to have relationships that you could call on. Which is exactly what I did.
 
-Expert Tip ![Altar - What is Saying](images/Unicorn-Founder-Wade-Eyerly.jpeg)
+Expert Tip ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Unicorn-Founder-Wade-Eyerly.jpeg)
 
 As entrepreneurs, we’ve all needed so much help to get to where we are, that we understand and most of us are still calling people looking for help!
 
@@ -190,7 +190,7 @@ Every single time.
 
 Wade Eyerly, Serial Entrepreneur & Founder, [Degree Insurance](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -382,7 +382,7 @@ That’s all part of this amazing journey of self-discovery.
 
 That’s a long answer to your very simple question of what kept the company going for those four years. But really it’s what kept the company going for ten years.
 
-Expert Tip ![Altar - What is Saying](images/image-placeholder-small.jpg)
+Expert Tip ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-placeholder-small.jpg)
 
 Most startups fail because of some sort of HR dynamic. The vision might be good, the market might be good but if your team can’t execute against it then you’re already one foot in the grave.
 

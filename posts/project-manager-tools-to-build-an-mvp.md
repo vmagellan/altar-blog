@@ -66,7 +66,7 @@ Here, resist the temptation to use spreadsheets to manage your scope and track y
 
 The tool I use with all the startup teams I work with is [Jira.](https://www.atlassian.com/software/jira)
 
-![Tools for Project Managers – Jira](images/Tools-for-Project-Managers-E28093-Jira-1024x409.png)
+![Tools for Project Managers – Jira](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tools-for-Project-Managers-E28093-Jira-1024x409.png)
 
 Jira supports pretty much all development methodologies, it’s flexible and allows your team to manage requirements and view and collaborate on stories. More than that, it gives you an overview of what has been done and what’s still missing with the associated estimates.
 
@@ -84,7 +84,7 @@ The second mandatory tool your project manager should be using when building an 
 
 That’s where [Confluence](https://www.atlassian.com/software/confluence) comes into play.
 
-![Tools for Project Managers – Confluence](images/Tools-for-Project-Managers-E28093-Confluence-1024x484.png)
+![Tools for Project Managers – Confluence](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tools-for-Project-Managers-E28093-Confluence-1024x484.png)
 
 Developed by Atlassian (the creators of Jira, Trello, BitBucket and much more) it allows your team to create and store project documentation in a shared repository.
 
@@ -94,11 +94,11 @@ And, as it’s also developed by Atlassian you can connect it directly to Jira. 
 
 Confluence is not the only tool I would recommend for the task, however. [Notion](https://www.notion.so/) is another great tool to create your MVP’s centralised wiki.
 
-![Tools for Project Managers – Notion](images/Tools-for-Project-Managers-E28093-Notion-1024x448.png)
+![Tools for Project Managers – Notion](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tools-for-Project-Managers-E28093-Notion-1024x448.png)
 
 You can also integrate Notion with Jira, and is more collaborative and up-to-date than Confluence.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -112,7 +112,7 @@ The third and final tool your project manager should be using as you set out to 
 
 Here [Miro](https://miro.com/index/) wins outright in my eyes.
 
-![Tools for Project Managers – Miro](images/Tools-for-Project-Managers-E28093-Miro-1024x459.png)
+![Tools for Project Managers – Miro](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tools-for-Project-Managers-E28093-Miro-1024x459.png)
 
 The ability to collaboratively create and share visual documentation in real-time is invaluable.
 

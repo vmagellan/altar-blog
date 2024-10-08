@@ -38,7 +38,7 @@ Tools that rely solely on AI integrations for their core value will eventually b
 
 ## Navigating the AI Hype & Moving Beyond It
 
-![Navigating the AI hype – lost at sea](images/Beyond-the-Hype-AI-Podcast-1024x977.png)
+![Navigating the AI hype – lost at sea](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Beyond-the-Hype-AI-Podcast-1024x977.png)
 
 When ideating a new venture within the AI space, it is essential to consider AI resilience factors that will make a company resistant to the constant evolution of the tech landscape.
 
@@ -64,7 +64,7 @@ Actively considering strong network effects is crucial for success when starting
 
 Examples of companies with strong network effects include Google, Facebook, Amazon, and Reddit—products whose value grows with the number of users or nodes in their network.
 
-![The Network effect cycle](images/Beyond-the-Hype-Podcast-1024x480.png)
+![The Network effect cycle](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Beyond-the-Hype-Podcast-1024x480.png)
 
 Companies with strong network effects can easily evolve their business models, capitalising on their network inertia (user base) to drive innovation efforts.
 
@@ -76,7 +76,7 @@ There is a significant trend of companies implementing AI integrations for text 
 
 Here, Generative AI acts as a catalyst for the network itself, enhancing the overall value proposition of the network.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking to Integrate AI into Your Business?
 
@@ -94,7 +94,7 @@ Focusing on a specific data point that only you can harvest, that can be convert
 
 _It’s important to be careful though, as when relying too much on third-party generative models one might be serving those companies with that same data point. Especially the big ones (OpenAI and Google)_
 
-![Beyond the AI Hype](images/Beyond-the-Hype-Podcast-1-1024x768.png)
+![Beyond the AI Hype](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Beyond-the-Hype-Podcast-1-1024x768.png)
 
 Examples of privileged data access include local user bases gathered through data acquisition mechanisms that extend beyond traditional web surfing. This encompasses private databases, location-specific data from in-person events, and off-grid data sources like old books and other non-digital materials.
 
@@ -108,7 +108,7 @@ Specific problems require specific solutions. While the future envisions a world
 
 Therefore, companies should develop mechanisms tailored to address complex problems within specific subject areas. By combining prompt engineering and fine-tuning generalist models, they can create powerful tools tailored to particular fields of study. This approach provides users with the necessary guidance within more complex realms.
 
-![](images/Beyond-the-Hype-AI-Podcast-Screenshot-July-30-1024x781.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Beyond-the-Hype-AI-Podcast-Screenshot-July-30-1024x781.png)
 
 Problems like engineering, hard sciences, corporate management and other complex tasks, can be powered by AI when built within a well-defined user journey.
 
@@ -134,7 +134,7 @@ Media formats like audio recognition, image recognition, spatial recognition and
 
 Very shortly, users will be even more demanding regarding apps' capability to offer the past of least resistance to users.
 
-![The Generations of the Web](images/Untitled-1024x676.png)
+![The Generations of the Web](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Untitled-1024x676.png)
 
 With the massification of AI usage, users will start to be more demanding of the UX capabilities of services. As such this will be a crucial differentiator. See my [previous article](https://altar.io/generative-web-product-ux-audit/) on this.
 

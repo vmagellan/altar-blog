@@ -123,7 +123,7 @@ The intelligence and processing power of LLMs make them ideal for analysing fact
 
 This leads to more informed, strategic decisions that align with the project's goals and the organisation's standards.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking to Integrate AI into Your Business?
 

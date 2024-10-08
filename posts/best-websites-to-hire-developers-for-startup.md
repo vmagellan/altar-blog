@@ -73,7 +73,7 @@ _language:nodejs location:london followers:20..50_
 
 When the search returns the results, you will want to filter the search to users – it should look a little something like this:
 
-![How to use Github search to find developers](images/How-to-Github-1024x477.png)
+![How to use Github search to find developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-to-Github-1024x477.png)
 
 You can use the sort feature to list them in order of:
 
@@ -89,7 +89,7 @@ Many users will display their email publicly on their Github profile, so you can
 
 [Gun.io](https://www.gun.io/) is a platform dedicated to helping entrepreneurs hire developers – both full-time and on a freelance basis.
 
-![Best Developer Websites - gun.io](images/Best-Developer-Websites-1024x460.png)
+![Best Developer Websites - gun.io](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Best-Developer-Websites-1024x460.png)
 
 One of the benefits of using Gun.io is they vet developers **before** allowing them on their platform – verifying their skills with code exercises and gathering endorsements from previous employers.
 
@@ -109,11 +109,11 @@ Gun.io finds freelancers FAST, but what’s striking about their resource pool i
 
 To post your job on the platform you’ll need to go to Wellfound’s [recruit page](https://angel.co/recruit/overview). Once you’ve signed in you’ll be prompted to fill out a form listing your company.
 
-![Wellfound – Best websites to hire developers and find product managers](images/Screenshot-2023-01-24-at-17.04.13-1024x544.png)
+![Wellfound – Best websites to hire developers and find product managers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2023-01-24-at-17.04.13-1024x544.png)
 
 Once your account is set up you can publish job posts for free as well as a premium posting for $250 p/m. You can also contact them directly, and they will curate candidates for you.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 
@@ -125,7 +125,7 @@ Let's Talk
 
 [Upwork](https://www.upwork.com/) is the largest online community of freelancers. So it’s no surprise that it’s a fantastic platform to use when hiring developers.
 
-![Upwork - best websites to hire developers](images/Upwork-best-websires-to-hire-developers-1024x447.png)
+![Upwork - best websites to hire developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Upwork-best-websires-to-hire-developers-1024x447.png)
 
 Once you’re signed up, you can post your job on the platform. Freelance developers will then “bid” on your job. You can then use the platform to screen candidates and decide whether or not to invite them for an interview.
 
@@ -143,7 +143,7 @@ Upwork took a lot of stress off of growing with minimal resources
 
 Similarly to LinkedIn, Stack Overflow hosts a job board, where you can post adverts and hire developers.
 
-![Stack-Overflow - best websites to hire developers](images/Stack-Overflow-best-websites-to-hire-developers-1024x445.png)
+![Stack-Overflow - best websites to hire developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Stack-Overflow-best-websites-to-hire-developers-1024x445.png)
 
 You can also contact Stack Overflow to organise Enterprise solutions for your business, for a cost.
 
@@ -151,7 +151,7 @@ You can also contact Stack Overflow to organise Enterprise solutions for your bu
 
 [Dice](https://www.dice.com/hiring) is a dedicated job board for tech careers. They make it easy for you to hire developers for your startup.
 
-![](images/Dice-Hiring-best-websites-for-developers-1024x492.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dice-Hiring-best-websites-for-developers-1024x492.png)
 
 Using their “for employers” section you can either post a job or browse through the resumes of over 2.2M developers worldwide.
 
@@ -165,7 +165,7 @@ Dice is my go-to for tech positions. The database is fresh and full of great can
 
 If you want to hire developers to work remotely for your startup, you may find them through [Working Nomads](https://www.workingnomads.co/jobs).
 
-![Working-Nomads- best website to hire developers](images/Working-Nomads-best-website-to-hire-developers-1024x382.png)
+![Working-Nomads- best website to hire developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Working-Nomads-best-website-to-hire-developers-1024x382.png)
 
 It is one of the most well-known job boards for the digital nomad community – attracting some of the best in software development.
 
@@ -175,7 +175,7 @@ This, however, comes at a cost. Prices start at $150 per job posting, with reduc
 
 [Toptal](https://www.toptal.com/) is a platform with a large network of freelance developers, designers, product managers and project managers.
 
-![](images/Toptal-best-websites-to-hire-developers-1024x467.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Toptal-best-websites-to-hire-developers-1024x467.png)
 
 They too vet their developers, only putting the best of the best on their platform.
 
@@ -195,7 +195,7 @@ With Toptal, we are able to find talented developers in a matter of weeks instea
 
 [Guru](https://www.guru.com/) is another job board where you can post listings to hire developers for your specific needs.
 
-![](images/Guru-websites-to-hire-developers-1024x372.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Guru-websites-to-hire-developers-1024x372.png)
 
 The platform allows you to specify your search based on categories such as specialisation, location, ratings, prices, etc.
 
@@ -203,7 +203,7 @@ The platform allows you to specify your search based on categories such as speci
 
 The next dedicated platform to hire developers for your startup is [Upstack](https://upstack.co/).
 
-![Upstack – platform to hire developers](images/UPSTACK-1024x572.png)
+![Upstack – platform to hire developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/UPSTACK-1024x572.png)
 
 While on the surface, Upstack looks like they’re more focused on help you expand a pre-existing development team,  they’ve helped numerous startups bring their products to life.
 
@@ -215,7 +215,7 @@ They also allow you to work with one of their developers for 14 days for free, t
 
 [Lemon.io](https://lemon.io/) is a platform that is completely focused on matching developers with startups.
 
-![Lemon.io – platform to hire developers](images/LEMON-1024x542.png)
+![Lemon.io – platform to hire developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/LEMON-1024x542.png)
 
 Their key value proposition is that they’ll match you with a startup developer in just 24 hours (or less).
 
@@ -237,7 +237,7 @@ And there are more than a few reasons to [source your talent in Lisbon](https:/
 
 You can reach out to us using [this form](https://altar.io/start-a-project/), and we’ll get back to you and book an initial conversation so you can make sure we’re the right fit for you.
 
-![Altar - What is Saying](images/philip-apiax-1.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/philip-apiax-1.jpeg)
 
 We are very happy to work with Altar.io. The collaboration goes far beyond a standard IT service: with Altar.io we have a sparring partner that challenges us in our product decisions and is truly passionate about the results developed.
 

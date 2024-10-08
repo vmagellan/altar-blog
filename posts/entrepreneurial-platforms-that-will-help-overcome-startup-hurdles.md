@@ -36,7 +36,7 @@ Here are nine platforms you can use to help grow your network and get out into t
 
 ### 1. [LinkedIn](https://www.linkedin.com/)
 
-![Best entrepreneurial platforms – LinkedIn](images/Screenshot-2022-11-17-at-17.50.20-1024x515.png)
+![Best entrepreneurial platforms – LinkedIn](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.50.20-1024x515.png)
 
 No list of the best entrepreneurial platforms would be complete without mentioning LinkedIn.
 
@@ -50,7 +50,7 @@ Linkedin co-founder, Reid Hoffman, runs one of the best Podcasts for founders ou
 
 ## 2. [Meetup](https://www.meetup.com/)
 
-![Entrepreneurial platforms, Meetup](images/Screenshot-2022-11-17-at-17.50.36-1024x474.png)
+![Entrepreneurial platforms, Meetup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.50.36-1024x474.png)
 
 Meetup is arguably the best platform to get to know the entrepreneurial communities in your backyard and beyond.
 
@@ -62,7 +62,7 @@ And, the events aren’t just great for networking. They’re fantastic for stay
 
 ### 3. [Pavilion](https://www.joinpavilion.com/)
 
-![Entrepreneurial platforms, Pavilion](images/Screenshot-2022-11-17-at-17.50.45-1024x517.png)
+![Entrepreneurial platforms, Pavilion](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.50.45-1024x517.png)
 
 Pavilion is a paid community focused on helping business professionals network and improve their knowledge.
 
@@ -76,7 +76,7 @@ They offer formal training courses in sales, marketing, revenue operations, cust
 
 ### 4. [Startup Nation](https://community.startupnation.com/)
 
-![Entrepreneurial platforms, StartupNation](images/Screenshot-2022-11-17-at-17.51.29.png)
+![Entrepreneurial platforms, StartupNation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.51.29.png)
 
 Startup Nation is a great place to meet other entrepreneurs and discuss important topics on all things business.
 
@@ -84,7 +84,7 @@ More than a community, Startup Nation has a large library of content, from artic
 
 ### 5. [Founder’s Network](https://foundersnetwork.com/)
 
-![Entrepreneurial platforms, Founders Network](images/Screenshot-2022-11-17-at-17.51.43-1024x186.png)
+![Entrepreneurial platforms, Founders Network](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.51.43-1024x186.png)
 
 Founders Network is an exclusive online platform for entrepreneurs. The network is made up of over 600 tech founders with 30+ chapters across the globe.
 
@@ -94,11 +94,11 @@ They also give you access to a community of over 50 active investors as well as 
 
 ### 6. [Eventbrite](https://www.eventbrite.com/)
 
-![Entrepreneurial platforms, Eventbrite](images/Screenshot-2022-11-17-at-17.52.34-1024x554.png)
+![Entrepreneurial platforms, Eventbrite](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.52.34-1024x554.png)
 
 Like Meetup, Eventbrite doesn’t just cater to entrepreneurs. However, it’s become one of the best ways to find startup events and networking opportunities in your local area.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -108,7 +108,7 @@ Let's Talk
 
 ### 7. [Bizfluence](https://apps.apple.com/gb/app/bizfluence-business-network/id1547006576)
 
-![Entrepreneurial platforms, Bizfluence](images/Screenshot-2022-11-17-at-17.48.58.png)
+![Entrepreneurial platforms, Bizfluence](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.48.58.png)
 
 Bizfluence is much like LinkedIn, with an emphasis on positive user interactions and minimal censorship.
 
@@ -116,7 +116,7 @@ The platform is great for meeting entrepreneurs and, much like LinkedIn, can als
 
 ### 8. [Opportunity](https://www.myopportunity.com/)
 
-![Entrepreneurial platforms, Opportunity](images/Screenshot-2022-11-17-at-17.49.44-1024x462.png)
+![Entrepreneurial platforms, Opportunity](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.49.44-1024x462.png)
 
 Opportunity helps you connect with a network of over 5M entrepreneurs and startup professionals from around the world.
 
@@ -126,7 +126,7 @@ They use algorithms to scan your existing LinkedIn network to help match you wit
 
 ### 9. [Intch](https://intch.org/business)
 
-![Entrepreneurial platforms, Intch](images/Screenshot-2022-11-17-at-17.49.53-1024x518.png)
+![Entrepreneurial platforms, Intch](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.49.53-1024x518.png)
 
 Intch is a mobile app that helps you connect and grow your network as easily as possible.
 
@@ -146,7 +146,7 @@ Here are the 10 platforms our entrepreneurial community use to gain new insights
 
 ### 1. [Startups.com](https://www.startups.com/library) 
 
-![Entrepreneurial platforms, startups.com](images/Screenshot-2022-11-17-at-18.19.55-1024x469.png)
+![Entrepreneurial platforms, startups.com](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.19.55-1024x469.png)
 
 Startups.com is an entrepreneurial platform with an extensive library of resources all written by successful entrepreneurs who have *actually* built a startup.
 
@@ -158,7 +158,7 @@ It’s completely free and a must-read for any entrepreneur.
 
 ### 2. [A Smart Bear](https://blog.asmartbear.com/)
 
-![Entrepreneurial platforms, a Smart Bear](images/Screenshot-2022-11-17-at-18.20.06-1024x356.png)
+![Entrepreneurial platforms, a Smart Bear](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.20.06-1024x356.png)
 
 A Smart Bear is an entrepreneurial blog founded by [Jason Cohen](https://www.linkedin.com/in/jasoncohen/), a serial entrepreneur, investor and CTO with over 25 years of experience in tech.
 
@@ -168,7 +168,7 @@ He writes one to four articles per week (and has done for the last 15 years) and
 
 ### 3. [Forbes](https://www.forbes.com/)
 
-![Entrepreneurial platforms, Forbes](images/Screenshot-2022-11-17-at-18.20.21-1024x598.png)
+![Entrepreneurial platforms, Forbes](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.20.21-1024x598.png)
 
 Forbes is one of the biggest online libraries filled with entrepreneurial insights from business leaders and startup founders.
 
@@ -178,7 +178,7 @@ While Forbes is centred more around news rather than advice-driven content – 
 
 ### 4. [Inc.](https://www.inc.com/)
 
-![Entrepreneurial platforms, Inc.](images/Screenshot-2022-11-17-at-18.20.35-1024x627.png)
+![Entrepreneurial platforms, Inc.](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.20.35-1024x627.png)
 
 Inc. Magazine has been helping entrepreneurs build and grow their companies since 1979.
 
@@ -191,7 +191,7 @@ fresh, actionable tech and startup related insights and tips
 
 ### 5. [Fast Company](https://www.fastcompany.com/) 
 
-![Entrepreneurial platforms, Fast Copany](images/Screenshot-2022-11-17-at-18.20.50-1024x598.png)
+![Entrepreneurial platforms, Fast Copany](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.20.50-1024x598.png)
 
 Also published by Inc., Fast Company is a platform focused on small businesses. For this reason, it’s become a go-to for founders of startups and SMEs.
 
@@ -199,7 +199,7 @@ There is a strong focus on tech and work life, they also offer several podcasts 
 
 ### 6. [Entrepreneur](https://www.entrepreneur.com/)
 
-![Entrepreneurial platforms, Entrepreneur.com](images/Screenshot-2022-11-17-at-18.21.02-1024x521.png)
+![Entrepreneurial platforms, Entrepreneur.com](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.21.02-1024x521.png)
 
 No list on entrepreneurial platforms is complete without mentioning Entrepreneur. Much like Forbes, it’s packed with easy-to-digest articles packed with insights from global founders and business leaders.
 
@@ -209,7 +209,7 @@ Much like Forbes, it’s free to read. However, you can opt for the premium vers
 
 ### 7. [For Entrepreneurs](https://www.forentrepreneurs.com/)
 
-![Entrepreneurial platforms, For Entrepreneurs](images/Screenshot-2022-11-17-at-18.21.11-1024x452.png)
+![Entrepreneurial platforms, For Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.21.11-1024x452.png)
 
 For Entrepreneurs is a platform created by the 5-time serial entrepreneur turned VC, David Skok.
 
@@ -219,7 +219,7 @@ One of the great things about this platform is that there is an order to the art
 
 ### 8. [AllBusiness](https://www.allbusiness.com/)
 
-![Entrepreneurial platforms, AllBusiness](images/Screenshot-2022-11-17-at-18.21.27-1024x441.png)
+![Entrepreneurial platforms, AllBusiness](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.21.27-1024x441.png)
 
 AllBusiness is the second entrepreneurial platform on the list that focuses on advice for small businesses.
 
@@ -229,7 +229,7 @@ What's more, it’s completely free.
 
 ### 9.  [Medium](https://medium.com/)
 
-![Entrepreneurial platforms, Medium](images/Screenshot-2022-11-17-at-18.21.42-1024x413.png)
+![Entrepreneurial platforms, Medium](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.21.42-1024x413.png)
 
 Medium is one of the largest online platforms for content on any topic you can think of.
 
@@ -241,7 +241,7 @@ One thing that is worth mentioning is that *anyone* can publish on Medium for 
 
 ### 10. [Quicksprout](https://www.quicksprout.com/) 
 
-![Entrepreneurial platforms, Quicksprout](images/Screenshot-2022-11-17-at-18.21.51-1024x574.png)
+![Entrepreneurial platforms, Quicksprout](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.21.51-1024x574.png)
 
 Much like Startups.com, Quicksprout offers an extensive library of resources that aim to guide you through your startup journey.
 

@@ -1,9 +1,9 @@
 ---
 title: "Expert Interview: The One Thing You Can’t Miss When Building an MVP"
 date: "2020-08-28"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "mvp"
   - "product"
   - "product-development"
@@ -33,7 +33,7 @@ As our conversation progressed, Joe shared his insights on not just building an 
 
 Let’s jump straight into it.
 
-![Joe Procopio - startup expert and product manager and his advice on building an mvp](images/Joe-Procopio.png)
+![Joe Procopio - startup expert and product manager and his advice on building an mvp](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Joe-Procopio.png)
 
 ## About Joe Procopio
 
@@ -65,7 +65,7 @@ It's not a complicated thing -- I mean the execution of it is complicated - but 
 
 #### Q: What are the core elements to focus on as you build an MVP?
 
-**A:** I've written dozens of posts getting to the [heart of that question](https://medium.com/@jproco/how-to-build-a-minimum-viable-product-thats-immediately-valuable-9c73f29807da) but ultimately **i****t's about providing the most value with the least friction.**
+**A:** I've written dozens of posts getting to the [heart of that question](https://medium.com/@jproco/how-to-build-a-minimum-viable-product-thats-immediately-valuable-9c73f29807da) but ultimately **i\*\***t's about providing the most value with the least friction.\*\*
 
 The first step is to define the value proposition and **stick to it.** When building an MVP you must:
 
@@ -99,7 +99,7 @@ Write Story C first and work backwards to Story A. That’s how you build an MVP
 
 Now, you’re going to get some of the future details wrong, but it’s much easier to go back and rewrite Story B and Story C using what you’re learning from Story A. On the other hand, it’s almost impossible to start by writing Story A and then hoping and praying that your Story A results in a compelling Story B and Story C.
 
-Lastly, you need to build your MVP around the core – So what’s the core? It’s those features that show value immediately. The core has to get the customer to a quick understanding of why they need your startup product. And it has to do this flawlessly. Remember, **yo****ur MVP won’t work if your customers can’t see any value.**
+Lastly, you need to build your MVP around the core – So what’s the core? It’s those features that show value immediately. The core has to get the customer to a quick understanding of why they need your startup product. And it has to do this flawlessly. Remember, **yo\*\***ur MVP won’t work if your customers can’t see any value.\*\*
 
 This leads me back to the beginning of this answer – always think about value.
 
@@ -175,9 +175,7 @@ The growth stage is about building scalability to plan. You should always be thi
 
 However, if you build too far out, you'll wind up building in technical debt or building for use cases that aren't your primary use case. You'll wind up wasting time and money.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -198,8 +196,6 @@ I believe in flexibility and creativity.
 That said, there are common guidelines that you can wrap into a framework to package working strategies into a usable model.
 
 I've toyed with building something like that and I think it can be done, but you have to erase a lot of common misconceptions about how startup and MVP should work.
-
-
 
 Related: [3 Steps to Build a Successful Minimum Viable Product (MVP)](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -224,10 +220,6 @@ We’ll also need a plan for what to do next when our MVP neither succeeds nor f
 Before the first customer sees our MVP, we should go through every use case, every edge case, and every crazy thing we think our customers will do, out in the real world.
 
 We shouldn’t just make sure the MVP doesn’t break. It should break, and we need to figure out the likelihood of that happening and what we’ll do about it.
-
-
-
-
 
 ## Launching the MVP
 

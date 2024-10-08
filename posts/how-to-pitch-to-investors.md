@@ -189,7 +189,7 @@ To successfully get the coveted “second date” your pitch needs to have:
 
 Above all “Brevity is the soul of wit”. Communicate your knowledge, intelligence, wisdom and humour as succinctly as possible.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 

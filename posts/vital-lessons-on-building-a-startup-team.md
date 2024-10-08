@@ -8,7 +8,7 @@ slug: vital-lessons-on-building-a-startup-team
 author: Rui Lourenco
 ---
 
-![Altar - What is Saying](images/Screenshot-2022-04-06-at-16.13.29.png)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-04-06-at-16.13.29.png)
 
 I am fond of quoting that about 70% of my investment decision of an early-stage company is the team.
 
@@ -104,7 +104,7 @@ Never neglect the importance of this lesson. You’ll thank me later.
 
 Related: [Critical Traits to Consider if You Want to Find the Perfect Co-founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

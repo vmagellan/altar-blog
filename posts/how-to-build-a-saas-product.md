@@ -1,9 +1,9 @@
 ---
 title: "How to Build a SaaS Product That Gets Funded in 5 Steps"
 date: "2021-11-24"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "product"
   - "software-development"
@@ -36,8 +36,6 @@ And by successful I mean this process has helped over half of the startups we wo
 
 Let’s get right into it with the first step, finding your SaaS product’s value proposition.
 
- 
-
 #### Contents
 
 ## Step One: Your SaaS Product’s Value Proposition
@@ -64,7 +62,7 @@ For example, Henry Ford created the world’s first mass-produced car – puttin
 
 However, people were solving the problem of getting from A to B before the Model T hit the market. They were using horses. So as indirect as it may be, there was still competition in Ford’s market.
 
-Most likely, your target market already has a way to solve the problem you intend to tackle. It’s important to know both _how_ they’re solving it and _who_ is solving it for them.
+Most likely, your target market already has a way to solve the problem you intend to tackle. It’s important to know both *how* they’re solving it and *who* is solving it for them.
 
 ### Why is Your SaaS Product Better Than the Current Solution?
 
@@ -86,15 +84,9 @@ Your elevator pitch should be simple, stupid and crystal clear. The person readi
 
 Once you have that, you’re ready for step two: setting the assumptions you need to validate with your SaaS product.
 
- 
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -120,15 +112,7 @@ Once you’ve defined which assumptions need to be validated with a product, you
 
 With this information in hand, you’re ready for the next step: build something that validates those assumptions as quickly as possible.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/#how-to-build-an-mvp-3-steps)
-
-
-
-
-
-
 
 ## Step Three: Validate Your Assumptions As Quickly As Possible
 
@@ -184,11 +168,9 @@ For the purpose of this article, I won’t go too in-depth on this topic. My co-
 
 In short, my advice here is that:
 
-**If you’re able to find the right CTO/Technical Co-Founder from day one, then you should onboard them and never look back.** 
+**If you’re able to find the right CTO/Technical Co-Founder from day one, then you should onboard them and never look back.**
 
 Having a senior tech stakeholder on your team to deal with both building your SaaS product and growing your technical team is, undoubtedly, invaluable.
-
-
 
 Related: [How to Find a CTO for Your Startup: The Founder's Guide](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
 
@@ -198,11 +180,9 @@ With time-to-market always being a concern, many entrepreneurs will instead choo
 
 I recently sat down with CTO & Startup Advisor Nelly Yusupova [to discuss this exact problem.](https://altar.io/what-founders-should-know-before-hiring-a-cto-or-software-agency-expert-interview/) With nearly two decades of experience in the tech industry, she shared her thoughts on the topic and the notion of **earning a technical co-founder.**
 
-
-
 What you do is you build the first version of your product and build a community around your idea.  This not only shows off your marketing skills, it proves you’re not just an idea person but you can actually sell and market the product.
 
-**To build the product itself, you’re going to want to go with an agency or a team of freelance developers.** 
+**To build the product itself, you’re going to want to go with an agency or a team of freelance developers.**
 
 This is the fastest way to actually get your idea into the market so that you can get traction and essentially de-risk the opportunity for a potential technical co-founder.
 
@@ -214,7 +194,7 @@ Should you decide to work with freelancers, just keep in mind that you will be r
 
 More than that,
 
-**It’s vital to ensure that the technical stakeholders you onboard follow the best working practices.** 
+**It’s vital to ensure that the technical stakeholders you onboard follow the best working practices.**
 
 If the partner you work with doesn’t follow the industry standard, you could face problems down the road with user experience, scalability, security and reliability to name a few.
 
@@ -232,7 +212,7 @@ That’s not to say you can’t build a successful SaaS product with an agency. 
 
 Aside from ensuring that the technical stakeholder you choose follows the best working practices, there is one final element to take into account.
 
-**It’s critical that the technical stakeholder you choose aligns with your product and business vision.** 
+**It’s critical that the technical stakeholder you choose aligns with your product and business vision.**
 
 This applies to CTOs, freelancers and agencies alike. For sure you’re never going to agree with your technical stakeholder 100% of the time. However, you need to align on the big picture.
 

@@ -80,7 +80,7 @@ The promise is simple - instead of coding, drag and drop elements like - model X
 
 When you first go to the Flowise website, it prompts you to “Request Access”.
 
-![Getting started with Flowise to build an AI Agent team](images/Screenshot-2024-08-26-at-15.58.29.png)
+![Getting started with Flowise to build an AI Agent team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-15.58.29.png)
 
 At this point, you could leave your email and wait for a reply.  I haven’t received a reply from the access request I made last month, so my guess is that this is only a way to collect interest for a hosted SaaS service.
 
@@ -94,7 +94,7 @@ You can go ahead and install it directly on your computer, or in the cloud solut
 
 If you go to [Flowise’s GitHub repository](https://github.com/FlowiseAI/Flowise), you will find installation instructions:
 
-![Flowise Github installation instructions](images/Screenshot-2024-08-26-at-16.04.43-1024x767.png)
+![Flowise Github installation instructions](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.04.43-1024x767.png)
 
 **Failed to run it using npx:**
 
@@ -108,7 +108,7 @@ Then, I installed it via Docker and it worked perfectly!
 
 Docker has a beautiful desktop app which helps non-technical users run containers without having to go too deep into the technical concepts.
 
-![Docker Dashboard](images/Screenshot-2024-08-26-at-16.07.07-1024x543.png)
+![Docker Dashboard](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.07.07-1024x543.png)
 
 Put very simply, it allows you to run an application alongside everything it needs to operate it (all its dependencies), so other things you have installed in your machine do not interfere - processes are “contained”.
 
@@ -122,7 +122,7 @@ This will create a folder called “Flowise”.
 
 5 - Open the “Flowise” folder on VSCode and copy-paste ‘.env.example’ into a new file called ‘.env’:
 
-![.env file in VSCode](images/Screenshot-2024-08-26-at-16.11.51-1024x359.png)
+![.env file in VSCode](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.11.51-1024x359.png)
 
 Docker will use this environment file to define key variables like which port will be used to access the dashboard.
 
@@ -132,7 +132,7 @@ Docker will use this environment file to define key variables like which port wi
 
 Here you have it! 🥳
 
-![Flowise AI Chatflows dashboard](images/Screenshot-2024-08-26-at-16.14.38-1024x458.png)
+![Flowise AI Chatflows dashboard](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.14.38-1024x458.png)
 
 Now you will be able to see the Flowise dashboard, which is running on your computer, and you can start creating your AI agent teams. 🎉
 
@@ -154,7 +154,7 @@ If you run an AgentFlow, a Supervisor Agent will define what happens with your p
 
 In Agent Flows, which I used to build my team of AI agents, the default and simpler architecture is the one of a Supervisor Agent, plus, multiple Worker Agents:
 
-![AI Agent Team Communication workflow between User, Supervisor & Workers](images/Screenshot-2024-08-26-at-16.16.00.png)
+![AI Agent Team Communication workflow between User, Supervisor & Workers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.16.00.png)
 
 In this architecture, the user will define **roles** for each agent, where different workers have different roles.
 
@@ -168,7 +168,7 @@ Diving into the Flowise dashboard, we can see that there are a few concepts to u
 
 A good place to start is the _Marketplace_ tab, which offers a list of examples of workflows, which you can look into a test for yourself:
 
-![Flowise AI Agent Marketplace Dashboard](images/Screenshot-2024-08-26-at-16.17.31-1024x566.png)
+![Flowise AI Agent Marketplace Dashboard](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.17.31-1024x566.png)
 
 You can select a workflow you like and use it as a template, instead of starting from scratch.
 
@@ -180,11 +180,11 @@ Then, I:
 2. Connected my OpenAI API keys to each ChatOpenAI module
 3. Saved this flow as “Website Analysis Flow”
 
-![Flowise AI Agent Web Analysis Flow](images/Screenshot-2024-08-26-at-16.19.40-1024x531.png)
+![Flowise AI Agent Web Analysis Flow](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.19.40-1024x531.png)
 
 Then, I clicked the purple chat button on the top right corner and started interacting with the workflow:
 
-![Flowise AI Agent Chat Window](images/Screenshot-2024-08-26-at-16.21.00.png)
+![Flowise AI Agent Chat Window](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.21.00.png)
 
 The workflow was not able to extract information from my Linkedin profile. Probably due to restrictions from the Linkedin platform, however it was able to access and extract information from the Altar.io website.
 
@@ -194,19 +194,19 @@ Now, this workflow has been saved persistently under the “ChatFlows” tab, an
 
 In order to create my first AI Agent team from scratch, I went to \`Agentflows\` and clicked the “Add New” button:
 
-![Flowise AI Agent Flow Dashboard](images/Screenshot-2024-08-26-at-16.24.20-1024x355.png)
+![Flowise AI Agent Flow Dashboard](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.24.20-1024x355.png)
 
 Then, in the empty canvas, I clicked the “+” button.
 
 The first highlighted nodes are - _Supervisor_ and _Worker_. So, I dragged & dropped one _Supervisor_ and two _Workers_ into the canvas:
 
-![AI Agent Supervisor & 2 Workers in a flow](images/Screenshot-2024-08-26-at-16.25.27-1024x676.png)
+![AI Agent Supervisor & 2 Workers in a flow](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.25.27-1024x676.png)
 
 Next, I added a Chat Model as “the brain” of my agent flow and **connected** all the nodes.
 
 For this experiment, I used **Chat Models** > **ChatOpenAI**.
 
-![Adding ChatGPT to the AI Agent team](images/Screenshot-2024-08-26-at-16.26.55-1024x456.png)
+![Adding ChatGPT to the AI Agent team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.26.55-1024x456.png)
 
 Until now, I focused only on creating a generic team of three agents. Next, to get this team of three AI agents to run, I needed to connect my OpenAI API key to the first node and write prompts for the workers.
 
@@ -239,7 +239,7 @@ Hence, I started by testing the capabilities of these tools and later, I put it 
 
 To test the [Google Custom Search Tool](https://programmablesearchengine.google.com/about/), I started by creating a simpler version of the team, with a supervisor and 2 workers:
 
-![Event Curation AI Agent Team flow](images/Screenshot-2024-08-26-at-16.28.57.png)
+![Event Curation AI Agent Team flow](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.28.57.png)
 
 Here, both workers perform searches using the Google Custom Search tool, being that _Worker #1_ performs an open Google Search while _Worker #2_ searches specifically on Eventbrite.
 
@@ -249,13 +249,13 @@ When we open the chat and give it a topic and city:
 2. Calls _Worker #1_ with that prompt
 3. _Worker #1_ uses Google Search to find and list events
 
-![Giving instructions to the AI agent team](images/Screenshot-2024-08-26-at-16.30.36-1024x656.png)
+![Giving instructions to the AI agent team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.30.36-1024x656.png)
 
 Next, the _Supervisor_ calls _Worker #2_ with a prompt to search for events in Eventbrite
 
 _Worker #2_ then uses the same Google Search tool, to find and list events that are on Eventbrite
 
-![AI Agent Supervisor prompting workers](images/Screenshot-2024-08-26-at-16.33.02-1024x654.png)
+![AI Agent Supervisor prompting workers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.33.02-1024x654.png)
 
 By clicking on “More info”, I can verify that these events are listed on the Eventbrite website.
 
@@ -269,33 +269,33 @@ In order to set up email capabilities within Flowise, the [suggested method](htt
 
 Do not worry if this feels complicated, the UX and documentation is VERY straightforward, and it takes about 2 minutes to get it running.
 
-![Setting up an email webhook in Make[dot]com](images/Screenshot-2024-08-26-at-16.34.40.png)
+![Setting up an email webhook in Make[dot]com](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.34.40.png)
 
 Once I made and tested that the webhook connection to email was running, I added it to the workflow and the Email Sender agent was not able to email me a report.
 
-![Sending an email with your AI Agent Team](images/Screenshot-2024-08-26-at-16.36.02.png)
+![Sending an email with your AI Agent Team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.36.02.png)
 
 On the Flowise side, I added two more agents to our previously three-agent team, a _Report Writer_ and an _Email Sender_.
 
 The _Email Sender_ agent is connected to a Custom Tool, which is the one that connects to Make.com via webhook as documented [here](https://docs.flowiseai.com/use-cases/webhook-tool).
 
-![Connecting a custom tool to your AI Agent team](images/Screenshot-2024-08-26-at-16.39.02.png)
+![Connecting a custom tool to your AI Agent team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.39.02.png)
 
 The reason for adding an extra agent as a _Report Writer_ was that I needed to convert the text output into HTML.
 
 At first, I did not do that, and received an email that looked like this:
 
-![spaghetti from an ai agent email sender](images/Screenshot-2024-08-26-at-16.40.24-1024x205.png)
+![spaghetti from an ai agent email sender](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.40.24-1024x205.png)
 
 As you can see, not easy to read!
 
 By assigning an agent to report writing, the email arrived much cleaner:
 
-![AI agent report writer sending a properly formatted email](images/Screenshot-2024-08-26-at-16.42.31-1024x554.png)
+![AI agent report writer sending a properly formatted email](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.42.31-1024x554.png)
 
 I want to underline, I used very simple prompts for all _Worker_ AI agents. As an example, here is the _Report Writer’s_ prompt:
 
-![AI Agent Team example prompts](images/Screenshot-2024-08-26-at-16.44.58-1024x233.png)
+![AI Agent Team example prompts](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.44.58-1024x233.png)
 
 #### 3\. Putting it all together
 
@@ -312,7 +312,7 @@ I decided it was a good idea to create a team of six AI Agents:
 
 This is what it looks like on Flowise.
 
-![Full AI Agent Team procuring events and notifying the user](images/Screenshot-2024-08-26-at-16.47.08-1024x484.png)
+![Full AI Agent Team procuring events and notifying the user](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.47.08-1024x484.png)
 
 ## 3\. Results
 
@@ -320,17 +320,17 @@ Up until this point, the prompts were very simple and did not constrain behaviou
 
 I’m wondering if I should go to New York in September 2024 for work, so I ask my AI Agent team, and it lists relevant AI events there:
 
-![Pushing the AI Agent team](images/Screenshot-2024-08-26-at-16.50.18-1024x554.png)
+![Pushing the AI Agent team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.50.18-1024x554.png)
 
 I then received an email with a comprehensive list:
 
-![AI events list from the AI agent team](images/Screenshot-2024-08-26-at-16.51.39.png)
+![AI events list from the AI agent team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.51.39.png)
 
 I noted that an event in December is also listed, however, seems pretty relevant for me to know, so I’m even happy about it.
 
 I would like to also have links to every event that gets listed, so I simply add that to the prompt of the _Report Writer_ worker and _voila_:
 
-![Failed AI Agent email test](images/Screenshot-2024-08-26-at-16.53.07.png)
+![Failed AI Agent email test](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.53.07.png)
 
 It didn’t work! I received this without an attachment - oops! Haha.
 
@@ -340,7 +340,7 @@ It’s made me realise that it’s smart to put some guardrails in place, to mak
 
 Yet, after some tweaking, the results are pretty exciting!
 
-![Successful AI Agent Email for events](images/Screenshot-2024-08-26-at-16.54.33.png)
+![Successful AI Agent Email for events](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-26-at-16.54.33.png)
 
 Finally, I received a comprehensive list of events based on a prompt where I have a city, relevant topic and month…
 

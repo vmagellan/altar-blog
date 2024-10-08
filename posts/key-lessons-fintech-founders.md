@@ -38,7 +38,7 @@ But before that, he founded BillGuard, an “anti-virus for your bills” that b
 
 He [told me about](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/) a lesson he learnt the hard way when building his product:
 
-![Altar - What is Saying](images/Yaron-Samid-BillGuard-3.jpg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 When you’re launching a product you have to assess:
 
@@ -82,7 +82,7 @@ More than this, he is a partner of Endurance Companies where he leads a venture 
 
 All of this to say, solving the right problem is something he knows a thing or two about as he shared with me [in this interview](https://altar.io/lessons-from-a-fintech-unicorn/):
 
-![Altar - What is Saying](images/Tonelli-1.jpg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tonelli-1.jpg)
 
 I can’t emphasise enough for new entrepreneurs the concept of starting halfway down the field
 
@@ -102,7 +102,7 @@ Simply put, it’s not that you can’t solve a problem you know less about – 
 
 Alex Tonelli, Co-Founder & Partner, [Endurance Companies](https://www.endurancecos.com/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -120,7 +120,7 @@ So he built something better, and digitalised the process for business owners.
 
 Here’s one key lesson he shared with me in a [recent conversation](https://altar.io/founder-story-the-key-decisions-when-building-a-fintech/):
 
-![Altar - What is Saying](images/Nothacker_ProfilePic-scaled-1.jpg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1.jpg)
 
 You can have a great sales team, great marketing, great conversion, etc. But if your product is no good your clients will eventually go somewhere else.
 
@@ -140,7 +140,7 @@ Four years later, his fintech was acquired by California based fintech startup W
 
 I sat down with him to [hear his story](https://altar.io/founder-story-starting-and-selling-a-fintech-startup-in-less-than-4-years/), during which he told me one of the key lessons for him was the importance of building to scale:
 
-![Altar - What is Saying](images/Ankit-Forbes-30-under-30-founder-.webp)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Ankit-Forbes-30-under-30-founder-.webp)
 
 While it’s important to test out your MVP with a few hundred users who will become your “super-consumers”. But you have to build it for scale from the outset. It’s a balanced approach that startups need to take.
 
@@ -158,7 +158,7 @@ In [our conversation](https://altar.io/building-and-scaling-fintech-startup-by-
 
 And one of the biggest lessons he learnt, was trusting the people he brought on board to help him build his startup:
 
-![Altar - What is Saying](images/Screenshot-2020-09-18-at-19.42.04-1.png)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1.png)
 
 “If it’s very hard for you to trust people you’re going to have a tough time as a startup founder & entrepreneur.
 
@@ -182,7 +182,7 @@ He had a great fintech idea, with the industry knowledge to turn it into a busin
 
 Here’s [what he learned](https://altar.io/building-a-startup-without-a-technical-co-founder/) while trying to find a technical partner:
 
-![Altar - What is Saying](images/Dudley-Gould-1-copy.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dudley-Gould-1-copy.jpeg)
 
 Expect more than a few bumps along the way and prepare to be persistent.
 
@@ -202,7 +202,7 @@ This led to such a strong project foundation that it sparked the interest of fin
 
 In [our conversation](https://altar.io/selling-fintech-before-launch-leveraging-people/), Giacomo shared his incredible journey, including this key insight:
 
-![Altar - What is Saying](images/Giacomo-de-Lorenzo.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo.jpeg)
 
 Don’t underestimate the importance of being able to ask for people’s help.
 

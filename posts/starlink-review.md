@@ -1,7 +1,7 @@
 ---
 title: "Hands-On Starlink Review: Does it Live Up to the Hype?"
 date: "2022-07-27"
-categories: 
+categories:
   - "tech-knowledge"
 coverImage: "Starlink-Unbox-over-shoulder.png"
 slug: starlink-review
@@ -27,9 +27,7 @@ Inside the large grey Starlink packaging, you’ll find:
 - A power adaptor
 - A small metal Wi-Fi Router with its own PoE cable.
 
-
-
-![Starlink box contents](images/Starlink-unbox-1-1024x573.png)
+![Starlink box contents](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Starlink-unbox-1-1024x573.png)
 
 The initial set-up was incredibly simple:
 
@@ -43,7 +41,7 @@ To run it out of your house you’re looking at either drilling a hole in the wa
 
 The app is also well designed, with the consistent UX you would expect from a company like SpaceX. The seamless setup continues here with no login requirements – keeping the experience truly “plug and play”.
 
-![Starlink App Key Screens](images/Starlink-App-Collage-1024x471.png)
+![Starlink App Key Screens](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Starlink-App-Collage-1024x471.png)
 
 This brings me to the crux of this article, the internet tests.
 
@@ -89,15 +87,9 @@ The throughput of the tests depends on the distance between the 2 endpoints (Rou
 
 Per the Association for Computing Machinery (ACM) Recommendation, I executed the tests at randomly selected times throughout the day (including peak and off peak time).
 
-
-
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
-
-
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -107,11 +99,11 @@ Test #1: Throughput (Downstream, Upstream)
 
 Using the Native Ookla Application, I took 31 measurements at random intervals over two days against the fastest nearby server (automatically selected by the Ookla app).
 
-![Ookla Speedtest results using starlink at random intervals](images/Starlink-Ookla-Final-509x1024.jpeg)
+![Ookla Speedtest results using starlink at random intervals](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Starlink-Ookla-Final-509x1024.jpeg)
 
 Here are the throughput results for both the obstructed and unobstructed conditions:
 
-![Average, Median, Maximum & Minimum throuput results](images/Starlink-Throughput-Graph.png)
+![Average, Median, Maximum & Minimum throuput results](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Starlink-Throughput-Graph.png)
 
 Once I had completed the throughput tests, I moved on to test Latency & Timeouts
 
@@ -123,13 +115,13 @@ In the obstructed scenario (in my garden, 5 meters from my ~7 meters tall house)
 
 Meaning, there was the chance of an outage every minute:
 
-![Starlink Ping Timeouts under obstructed conditions](images/Ping-Timeouts-Obstructed.png)
+![Starlink Ping Timeouts under obstructed conditions](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Ping-Timeouts-Obstructed.png)
 
 In contrast, in the unobstructed scenario (open field) I observed 47 timeouts over the 260-minute test.
 
 Now, the chance of an outage had reduced to once every ~5 minutes:
 
-![Starlink Ping Timeouts under unobstructed conditions](images/Ping-Timeouts-Unobstructed.png)
+![Starlink Ping Timeouts under unobstructed conditions](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Ping-Timeouts-Unobstructed.png)
 
 ## Key Takeaways
 
@@ -145,7 +137,7 @@ In terms of power consumption, Starlink runs at about 100W – although this can
 
 I haven’t observed any overheating or thermal issues with any of the kit parts and the dish seems to sit at a comfortable 23ºC - 25ºC when in use.
 
-![Starlink Thermal Tests](images/Starlink-Thermals-Collage-1024x435.png)
+![Starlink Thermal Tests](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Starlink-Thermals-Collage-1024x435.png)
 
 ## Is Starlink a True Competitor to Rural Cable Broadband?
 
@@ -156,12 +148,6 @@ In areas where minimum cable broadband connections are unstable, however, is whe
 The other bonus of Starlink is the fact it doesn’t come with a contract. Therefore, if you’re heading to a rural area temporarily (where a 24-month contract wouldn’t be worth it)  then it may be work installing a Starlink kit.
 
 After all, once you’ve bought the kit it’s yours, and although you can’t resell it, if you don’t end up using it, it could make a nice (if very expensive) coffee table.
-
-
-
-
-
-
 
 ## Wrapping Up
 

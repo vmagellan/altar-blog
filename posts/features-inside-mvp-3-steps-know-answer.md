@@ -108,7 +108,7 @@ As entrepreneurs, we tend to be completely absorbed in the process of building a
 
 It’s important to avoid this. The best way to do that is to keep the user at the forefront of your mind and follow a structured process to build an MVP.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -320,7 +320,7 @@ Uber was born. Originally dubbed UberCab the basic platform allowed people in Sa
 
 In 2010 Kalanick tweeted what is arguably one of the most valuable tweets in the history of Twitter.
 
-![Travis Tweet Uber MVP](images/Travis-Tweet-Uber-MVP.webp)
+![Travis Tweet Uber MVP](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Travis-Tweet-Uber-MVP.webp)
 
 [Ryan Graves](https://www.forbes.com/profile/ryan-graves/#7e4d309a4a51) responded to this tweet simply saying:
 
@@ -328,7 +328,7 @@ Here’s a tip. email me :)
 
 He would later become Uber’s first CEO and now has a personal net worth of $1.6 billion with Uber’s net worth sitting at $75.5 billion when it [went public](https://www.entrepreneur.com/article/333583) in May 2019.
 
-![](images/UberCab-MVP-key-app-screen.webp)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/UberCab-MVP-key-app-screen.webp)
 
 The app has evolved through several iterations from this simple MVP platform over the years — with lots of newer features such as fare splitting and live driver tracking to name but a few.
 
@@ -340,7 +340,7 @@ Instagram’s predecessor, Burbn, was initially designed to allow users to check
 
 But it wasn’t all plain sailing for Burbn founder, Kevin Systrom. The initial app, in his words, “felt cluttered and overrun with features”. Adoption was poor, and users found the app confusing.
 
-![](images/Burbn-MVP-Key-App-Screens-1024x777.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Burbn-MVP-Key-App-Screens-1024x777.png)
 
 So Systrom made a tough choice. He took the Burbn MVP and completely overhauled it:
 
@@ -362,7 +362,7 @@ They took pictures of their apartment, uploaded it to Craigslist and had three p
 
 They quickly realised there was a market for this. So they decided to build an MVP to validate their assumptions and prove that people would be willing to use their product (called AirBed&Breakfast).
 
-![AirBed&Breakfast MVP Key Screens](images/AirBedBreakfast-MVP-Key-Screens.png)
+![AirBed&Breakfast MVP Key Screens](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AirBedBreakfast-MVP-Key-Screens.png)
 
 The rest, as they say, is history. Despite the hit they took due to the coronavirus pandemic, Airbnb is still [valued at $18B](https://skift.com/2020/04/08/airbnbs-valuation-almost-halved-to-18-billion/); all from creating an MVP to solve a simple problem.
 
@@ -388,7 +388,7 @@ To better answer this question, my content team, lead by my co-founder, Paolo, r
 
 Check out the infographic below for more info. You can also find the full results of the research [here](https://altar.io/how-long-it-takes-to-build-an-mvp/).
 
-![How Long it Takes to Build a Startup MVP by Product](images/How-Long-it-Takes-to-Build-an-MVP-by-Product-1024x812.png)
+![How Long it Takes to Build a Startup MVP by Product](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-Long-it-Takes-to-Build-an-MVP-by-Product-1024x812.png)
 
 What Comes Before Building an MVP?
 
@@ -402,7 +402,7 @@ It’s imperative that you have an in-depth understanding of your users and comp
 
 After you’ve launched your MVP, it’s time to employ the *Build, Measure, Learn* cycle:
 
-![Startup MVP Feedback Loop: Build Measure Learn Branded](images/Build-Measure-Learn-Branded.png)
+![Startup MVP Feedback Loop: Build Measure Learn Branded](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Build-Measure-Learn-Branded.png)
 
 Once your Minimum Viable Product is out in the wild, it’s time to gather user feedback **(Measure)**.
 
@@ -426,7 +426,7 @@ As we’ve seen throughout this article, there is one key takeaway to keep in mi
 
 Your MVP should be the shortest path to prove people will want and use your product.
 
-![The MVP process](images/Making-sense-of-MVP-.png)
+![The MVP process](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Making-sense-of-MVP-.png)
 
 Building a successful MVP relies, in part on strategy & analysis.
 

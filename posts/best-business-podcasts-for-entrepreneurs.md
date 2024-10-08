@@ -40,7 +40,7 @@ To ensure this article remains impartial, I did not reach out of the following p
 
 ## 1\. The Tim Ferriss Show
 
-![Business podcasts, the Tim Ferriss Show](images/Screenshot-2020-10-30-at-20.30.38-300x300.png)Tim Ferriss is a successful entrepreneur, probably best known by most for his New York Times #1 bestselling book [_The 4-Hour Workweek_](https://fourhourworkweek.com/)*.* His podcast, [_The Tim Ferriss Show_](https://tim.blog/podcast/), is one of the best business podcasts for entrepreneurs. It is regularly ranked as the number one business podcast on Apple Podcasts. It’s the first podcast to surpass 1M downloads and has now surpassed the 500M download mark.
+![Business podcasts, the Tim Ferriss Show](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.30.38-300x300.png)Tim Ferriss is a successful entrepreneur, probably best known by most for his New York Times #1 bestselling book [_The 4-Hour Workweek_](https://fourhourworkweek.com/)*.* His podcast, [_The Tim Ferriss Show_](https://tim.blog/podcast/), is one of the best business podcasts for entrepreneurs. It is regularly ranked as the number one business podcast on Apple Podcasts. It’s the first podcast to surpass 1M downloads and has now surpassed the 500M download mark.
 
 In each episode, Tim interviews leaders in an eclectic range of industries from business to art, extracting tactics, tools and processes that you can use in your day-to-day. This includes morning routines and exercise habits and more business focussed advice like time-management tips to name but one.
 
@@ -56,7 +56,7 @@ What Entrepreneurs Are Saying:
 
 ## 2\. This Week In Startups
 
-![business podcasts, This Week in Startups](images/Screenshot-2020-10-30-at-20.34.58-150x150.png)
+![business podcasts, This Week in Startups](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.34.58-150x150.png)
 
 One of the top-rated business podcasts for entrepreneurs, guests join host Jason Calacanis to bring you a weekly digest of the best, worst, and “most outrageous stories” from the tech industry.
 
@@ -70,7 +70,7 @@ What Entrepreneurs Are Saying:
 
 ## 3\. Masters of Scale
 
-![business podcasts for entrepreneurs masters of scale](images/Screenshot-2020-10-30-at-20.36.08-1-150x150.png)[_Masters of Scale_](https://mastersofscale.com/) is not only one of the most popular business podcasts for entrepreneurs on the web, it comes personally recommended to me by serial entrepreneur [Yaron Samid](https://www.linkedin.com/in/yaronsamid/), who we [recently interviewed](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/).
+![business podcasts for entrepreneurs masters of scale](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.36.08-1-150x150.png)[_Masters of Scale_](https://mastersofscale.com/) is not only one of the most popular business podcasts for entrepreneurs on the web, it comes personally recommended to me by serial entrepreneur [Yaron Samid](https://www.linkedin.com/in/yaronsamid/), who we [recently interviewed](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/).
 
 In each episode of this podcast host Reid Hoffman, the co-founder of LinkedIn & Investor at Greylock gives us a close look at legendary entrepreneurs and their companies. He deconstructs their stories to show how they have grown from anonymity to global recognition.
 
@@ -84,7 +84,7 @@ What Entrepreneurs Are Saying:
 
 ## 4\. The School of Greatness with Lewis Howes
 
-*![The school of greatness business podcast](images/Screenshot-2020-10-30-at-20.40.33-150x150.png)[The School of Greatness](https://lewishowes.com/sogpodcast/)* sits high on the list of business podcasts for entrepreneurs on all the popular podcast platforms. Hosted by Lewis Howes, best-selling author of *The School of Greatness* and *The Mask of Masculinity* has gained over 150 million downloads.
+*![The school of greatness business podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.40.33-150x150.png)[The School of Greatness](https://lewishowes.com/sogpodcast/)* sits high on the list of business podcasts for entrepreneurs on all the popular podcast platforms. Hosted by Lewis Howes, best-selling author of *The School of Greatness* and *The Mask of Masculinity* has gained over 150 million downloads.
 
 Joined by an impressive list of guests, he shares stories from entrepreneurship to fitness, mental health and mindset.
 
@@ -100,7 +100,7 @@ What Entrepreneurs Are Saying:
 
 ## 5\. The GaryVee Audio Experience
 
-![GaryVee Audio Experience business podcasts](images/Screenshot-2020-10-30-at-20.41.39-150x150.png)[_The GaryVee Audio Experience_](https://www.garyvaynerchuk.com/podcast/) is one of the most popular business podcasts for entrepreneurs. Why? Because of its host Gary Vaynerchuk.
+![GaryVee Audio Experience business podcasts](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.41.39-150x150.png)[_The GaryVee Audio Experience_](https://www.garyvaynerchuk.com/podcast/) is one of the most popular business podcasts for entrepreneurs. Why? Because of its host Gary Vaynerchuk.
 
 Vaynerchuk is entirely irreverent, to say he doesn’t give a s\*\*t  is an understatement. Of course, this alone wouldn’t be enough to make this business podcast successful.
 
@@ -114,7 +114,7 @@ What Entrepreneurs Are Saying:
 
 “It's simple: Listen + Apply = Improved Outcomes. Take even a shred of the content and put it into action. You will see a difference. You may not always like the style, the words, the delivery, etc - but you will gain an advantage by trying what's suggested in this podcast.” 5/5
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -124,7 +124,7 @@ Let's Talk
 
 ## 6\. How to Start a Startup
 
-![how to start a startup](images/Screenshot-2020-10-30-at-20.45.34-150x150.png)Originally a series of class lectures at *Stanford University*, [_How to Start a Startup_](https://startupclass.samaltman.com/) offers a series of 20 business podcasts in building a business.
+![how to start a startup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.45.34-150x150.png)Originally a series of class lectures at *Stanford University*, [_How to Start a Startup_](https://startupclass.samaltman.com/) offers a series of 20 business podcasts in building a business.
 
 Spearheaded by [_Y Combinator’s_](https://www.ycombinator.com/) Sam Altman, this series of video podcast provides firsthand, hard-won knowledge on everything startup.
 
@@ -138,7 +138,7 @@ What Entrepreneurs Are Saying:
 
 ## 7\. a16z
 
-![a16z business podcast](images/Screenshot-2020-10-30-at-20.47.02-150x150.png)Due to its insightful conversations, range of topics and an impressive list of guests, [_a16z_](https://a16z.com/a16z-podcast/) has become one of the de facto business podcasts for entrepreneurs.
+![a16z business podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.47.02-150x150.png)Due to its insightful conversations, range of topics and an impressive list of guests, [_a16z_](https://a16z.com/a16z-podcast/) has become one of the de facto business podcasts for entrepreneurs.
 
 Produced by [Andreesen Horrowitz](https://a16z.com/), a Silicon Valley-based VC firm, this podcast provides great insights on tech trends to how to grow a business with venture capital and everything in between.
 
@@ -152,7 +152,7 @@ What Entrepreneurs Are Saying:
 
 ## 8\. She Did It Her Way
 
-![She did it her way business podcast](images/Screenshot-2020-10-30-at-20.48.51-150x150.png)What started out as a hobby for host and entrepreneur Amanda Boelyn, [_She Did It Her Way_](https://shediditherway.com/) has been recognised by Forbes as one of the best business podcasts for entrepreneurs.
+![She did it her way business podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.48.51-150x150.png)What started out as a hobby for host and entrepreneur Amanda Boelyn, [_She Did It Her Way_](https://shediditherway.com/) has been recognised by Forbes as one of the best business podcasts for entrepreneurs.
 
 Designed to help women “navigate the journey from Corporate Cubicle to Becoming Your Own Boss”, Boelyn and her guests provide actionable tips in topics such as motivation, mindset and taking the leap to become an entrepreneur.
 
@@ -166,7 +166,7 @@ What Entrepreneurs Are Saying:
 
 ## 9\. How I Built This
 
-![How I built this business podcast](images/Screenshot-2020-10-30-at-20.52.16-150x150.png)One of many business podcasts from *NPR,* Guy Raz takes a close look at the stories behind some of the most successful businesses in the world.
+![How I built this business podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.52.16-150x150.png)One of many business podcasts from *NPR,* Guy Raz takes a close look at the stories behind some of the most successful businesses in the world.
 
 [_How I Built This_](https://www.npr.org/podcasts/510313/how-i-built-this?t=1603992592543) features companies like Yelp and Lush Cosmetics. Raz’s interview style is perfect for bringing the most valuable insights and details to the fore whilst tying it together with entertaining storytelling.
 
@@ -178,7 +178,7 @@ What Entrepreneurs Are Saying:
 
 ## 10\. Youpreneur
 
-![youpreneur business podcast](images/Screenshot-2020-10-30-at-20.53.44-150x150.png)[_Youpreneur_](https://youpreneur.com/podcast/) is the latest business podcast for entrepreneurs from British bestselling author and entrepreneur Chris Ducker.
+![youpreneur business podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.53.44-150x150.png)[_Youpreneur_](https://youpreneur.com/podcast/) is the latest business podcast for entrepreneurs from British bestselling author and entrepreneur Chris Ducker.
 
 This business podcast is dedicated to helping entrepreneurs develop their personal brand and understand what that takes in the 21st Century.
 
@@ -192,7 +192,7 @@ What Entrepreneurs Are Saying:
 
 ## 11\. The James Altucher Show
 
-![james altucher show business podcast](images/Screenshot-2020-10-30-at-20.57.19-150x150.png)In [_The James Altucher Show_](https://jamesaltucher.com/podcasts/) Altucher interviews some of the worlds most successful people, including Sir Richard Branson, Tony Hawk & Peter Thiel.
+![james altucher show business podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.57.19-150x150.png)In [_The James Altucher Show_](https://jamesaltucher.com/podcasts/) Altucher interviews some of the worlds most successful people, including Sir Richard Branson, Tony Hawk & Peter Thiel.
 
 Instead of just talking about their success, Alturcher strives to find what he calls his guests’ “Choose Yourself” story. Focusing on the moment when the person rose up from a personal struggle.
 
@@ -206,7 +206,7 @@ What Entrepreneurs Are Saying:
 
 ## 12\. Mixergy
 
-![Mixergy business podcasts](images/Screenshot-2020-10-30-at-20.57.57-150x150.png)[_Mixergy_](https://podcasts.apple.com/ee/podcast/recession-proof-startups-mixergy/id348690336?mt=2) features over 1,000 interviews with some of the most prosperous entrepreneurs in the world.
+![Mixergy business podcasts](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.57.57-150x150.png)[_Mixergy_](https://podcasts.apple.com/ee/podcast/recession-proof-startups-mixergy/id348690336?mt=2) features over 1,000 interviews with some of the most prosperous entrepreneurs in the world.
 
 Host Andrew Warner doesn’t hold back, asking his guests challenging questions to uncover the reasons behind the successes and failure of his guests.
 
@@ -222,7 +222,7 @@ Full Name Business Email Subscribe
 
 ## 13\. The Ambitious Entrepreneur Show
 
-![ambitious entrepreneur show](images/Screenshot-2020-10-30-at-21.00.31-150x150.png)Another award-winning business podcast for entrepreneurs, [*The* *Ambitious Entrepreneur Show*](https://ambitiousentrepreneurnetwork.com/ambitious-entrepreneur-show/) is a must-listen for any up and coming entrepreneur.
+![ambitious entrepreneur show](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.00.31-150x150.png)Another award-winning business podcast for entrepreneurs, [*The* *Ambitious Entrepreneur Show*](https://ambitiousentrepreneurnetwork.com/ambitious-entrepreneur-show/) is a must-listen for any up and coming entrepreneur.
 
 In this business podcast, host Annemarie Cross helps entrepreneurs navigate the rapidly changing and competitive business landscape. Providing actionable insights that change the way entrepreneurs do business.
 
@@ -236,7 +236,7 @@ What Entrepreneurs Are Saying:
 
 ## 14\. Smart Passive Income
 
-![Smart Passive Income](images/Screenshot-2020-10-30-at-21.02.29-150x150.png)In this popular business podcast, host Pat Flynn shares with entrepreneurs his strategies for building an online business, income success and marketing tips and tricks to help you stay ahead of the curve.
+![Smart Passive Income](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.02.29-150x150.png)In this popular business podcast, host Pat Flynn shares with entrepreneurs his strategies for building an online business, income success and marketing tips and tricks to help you stay ahead of the curve.
 
 In [_Smart Passive Income_](https://www.smartpassiveincome.com/shows/spi/) Flynn shares how he has amassed a six-figure salary all with passive income, while only working a few hours a week.
 
@@ -246,7 +246,7 @@ What Entrepreneurs Are Saying:
 
 ## 15\. Entrepreneurs On Fire
 
-![entrepreneurs on fire](images/Screenshot-2020-10-30-at-21.04.07-150x150.png)With over 2,600 episodes the award-winning business podcast [_Entrepreneurs On Fire_](https://www.eofire.com/podcast/) brings lessons that inspire and educate entrepreneurs.
+![entrepreneurs on fire](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.04.07-150x150.png)With over 2,600 episodes the award-winning business podcast [_Entrepreneurs On Fire_](https://www.eofire.com/podcast/) brings lessons that inspire and educate entrepreneurs.
 
 Guests include Seth Godin, Gary Vaynerchuk and Time Ferriss. Alongside this impressive guestlist host, John Lee Dumas strives to release a new episode nearly every weekday.
 
@@ -258,7 +258,7 @@ What Entrepreneurs Are Saying:
 
 ## 16\. Entrepreneurial Thought Leaders
 
-![ETL Stanford business podcasts](images/Screenshot-2020-10-30-at-21.05.17-150x150.png)[_Entrepreneurial Thought Leaders_](https://ecorner.stanford.edu/series/etl/) is a candid exploration of the entrepreneurial journey.
+![ETL Stanford business podcasts](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.05.17-150x150.png)[_Entrepreneurial Thought Leaders_](https://ecorner.stanford.edu/series/etl/) is a candid exploration of the entrepreneurial journey.
 
 Produced by Stanford University, this weekly business podcast brings valuable lessons and personal stories from entrepreneurs and innovators, to help you avoid the common hurdles faced by many business leaders.
 
@@ -272,7 +272,7 @@ What Entrepreneurs Are Saying:
 
 ## 17\. BizChix
 
-![BizChix business podcasts](images/Screenshot-2020-10-30-at-21.06.21-150x150.png)[_BizChix_](https://bizchix.com/category/bizchix/) is a popular podcast targeting women entrepreneurs. Host Natalie Eckdahl shares business advice, on-air coaching calls and expert interviews to help grow their companies and entrepreneurial mindset.
+![BizChix business podcasts](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.06.21-150x150.png)[_BizChix_](https://bizchix.com/category/bizchix/) is a popular podcast targeting women entrepreneurs. Host Natalie Eckdahl shares business advice, on-air coaching calls and expert interviews to help grow their companies and entrepreneurial mindset.
 
 Eckdahl’s candid approach to podcasting means that listeners gain true answers to burning questions many entrepreneurs have.
 
@@ -282,7 +282,7 @@ What Entrepreneurs Are Saying:
 
 ## 18\. As Told By Nomads
 
-![As told by nomads](images/Screenshot-2020-10-30-at-21.07.40-150x150.png)[_As Told By Nomads_](https://play.acast.com/s/astoldbynomads) brings interviews from entrepreneurs and multicultural global nomads who’re leaders in business, culture, travel and global affairs.
+![As told by nomads](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.07.40-150x150.png)[_As Told By Nomads_](https://play.acast.com/s/astoldbynomads) brings interviews from entrepreneurs and multicultural global nomads who’re leaders in business, culture, travel and global affairs.
 
 Host, author and digital marketing specialist Tayo Rockson takes a unique, imaginative approach to his business podcast. With the help of his guests, he focuses on embracing global identity to build and develop your business and marketing strategies.
 
@@ -294,7 +294,7 @@ What Entrepreneurs Are Saying:
 
 ## 19\. The Diary of a CEO
 
-![DiaryofaCEO Cover Podcast](images/DiaryofaCEO-Cover-150x150.jpeg)In [_The Diary of a CEO_](https://stevenbartlett.com/the-diary-of-a-ceo-podcast/), Steven Bartlett sits down with some of the world's most influential entrepreneurs, startup experts and thor leaders to discover their stories, insights and lessons.
+![DiaryofaCEO Cover Podcast](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DiaryofaCEO-Cover-150x150.jpeg)In [_The Diary of a CEO_](https://stevenbartlett.com/the-diary-of-a-ceo-podcast/), Steven Bartlett sits down with some of the world's most influential entrepreneurs, startup experts and thor leaders to discover their stories, insights and lessons.
 
 Past guests include Simon Sinek, Sir Richard Branson, Stephen Fry and Tom Blomfield. So it’s no surprise that Steven Bartlett has accrued over [one million subscribers on Youtube](https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw) alone.
 
@@ -306,7 +306,7 @@ Steven is a rare gem of a host. Listens well, but also shares about himself and 
 
 20\. Startup Nation Radio
 
-![Startup Nation Radio](images/Screenshot-2020-10-30-at-21.11.12-150x150.png)[_Startup Nation Radio_](https://startupnation.com/radio/) combines the “in-the-trenches” wisdom of brothers and business partners, Jeff & Rich Sloan. Every week, they’re joined by everyday entrepreneurs and breakthrough innovators. They share stories of both successes and failures so you can learn how (and how not) to build a successful business.
+![Startup Nation Radio](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-21.11.12-150x150.png)[_Startup Nation Radio_](https://startupnation.com/radio/) combines the “in-the-trenches” wisdom of brothers and business partners, Jeff & Rich Sloan. Every week, they’re joined by everyday entrepreneurs and breakthrough innovators. They share stories of both successes and failures so you can learn how (and how not) to build a successful business.
 
 The wisdom they provide has proven valuable to millions of entrepreneurs across the globe.
 
@@ -316,7 +316,7 @@ What Entrepreneurs Are Saying:
 
 ## Bonus: The Startup Journey Podcast by Altar.io
 
-![The Startup Journey Podcast Logo](images/Frame-979-150x150.png)I couldn’t share the list of the best business podcasts podcasts for entrepreneurs without mentioning our very own podcast, [The Startup Journey](https://altar.io/podcast/).
+![The Startup Journey Podcast Logo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Frame-979-150x150.png)I couldn’t share the list of the best business podcasts podcasts for entrepreneurs without mentioning our very own podcast, [The Startup Journey](https://altar.io/podcast/).
 
 Hosted by our Managing Partner & CMO, Rui, this podcast dives deep into the critical first few months of startup life, covering essential topics like product development, hiring the right talent, and go-to-market strategies.
 

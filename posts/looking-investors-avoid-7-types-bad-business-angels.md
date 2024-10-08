@@ -1,9 +1,9 @@
 ---
 title: "Looking for Investors? Avoid These 7 Types of Bad Business Angels"
 date: "2019-06-18"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "angel-investors"
   - "fundraising"
   - "startup"
@@ -22,23 +22,19 @@ Here are the time-waster profiles you should steer clear from as soon as you spo
 
 ### Bad Business Angels profiles and how to spot them
 
-1. The _Out_ _of Touch_
-2. The _Conglomerate Builder_
-3. The _Shark_
-4. The _Sheep_
-5. The _ROI Obsessed_
-6. The _Co-Founder_
-7. The _Hands-On_
-
-
+1. The *Out* *of Touch*
+2. The *Conglomerate Builder*
+3. The *Shark*
+4. The *Sheep*
+5. The *ROI Obsessed*
+6. The *Co-Founder*
+7. The *Hands-On*
 
 Related: [Startup Series Funding: Everything You Need To Know](https://altar.io/startup-series-funding-everything-you-need-to-know/)
 
 The Out of Touch
 
-
-
-![Bad Business Angels profiles - The Out of Touch](images/1COOD-YbxMXiml5P66HBpnw.jpeg)
+![Bad Business Angels profiles - The Out of Touch](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1COOD-YbxMXiml5P66HBpnw.jpeg)
 
 This Business Angel is possibly an older manager who had a great career in Telco or Investment Banking. He knows a lot about Management, Supply Chain, Distribution, Finance, even HR but probably never ran his own company, much less a Tech company. He will struggle to understand the dynamics of setting up and launching an online product, a tech workplace and an online distribution platform. Moreover, he will most likely give you bad advice and pushy demands due to his/her “leader” profile.
 
@@ -70,15 +66,9 @@ This investor has little self-confidence and knows his money is just money so he
 
 This investor will immediately ask you who is already committing to the round and if no resounding name is included he will ask you politely to talk to investors A, B and C. This investor plays it safe and knows he is only in financially. Of all the bad investors, this is one who might do you less harm but little more good than handing you money for the same terms as you do to great investors. Pray that he abides by your term sheet.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -96,7 +86,7 @@ An investor who asks how quickly you’ll be acquired is naive and going to caus
 
 The Co-Founder
 
-![Bad Business Angels profiles - The Co-Founder](images/170705879265bfa66809b30-1024x683.jpeg)
+![Bad Business Angels profiles - The Co-Founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/170705879265bfa66809b30-1024x683.jpeg)
 
 There are some angels out there who will only put (a small amount of) money on your project if you make them a co-founder. Their reasoning will be that the hours they’ll put in will be valuable (say $ 1000/hour) and they will then get big investors if you get them on board. And yes they will insist that that’s normal and ask you if you’ve seen “The Social Network” as that was the case with Facebook and Sean Parker. This is not fair and shows that they’re spouting a lot of hot air. If you need a broker you’d search for one.
 
@@ -112,17 +102,11 @@ With far more money than “The Co-Founder” but even more of a nuisance, there
 
 If you are unsure if this is the case of someone with an overwhelming personality, he probably has some invested startups that you can easily track and see how they are faring - likely they won’t be great as no investor should run your business.
 
-
-
-
-
-
-
 ### Final Thoughts
 
 Rely on referrals first, from your friends in the sector who are having good experiences with their investors.
 
-![Bad Business Angels profiles - Final Thoughts](images/1-iwOjZFxFDvzBpdtPIwt0w.jpeg)
+![Bad Business Angels profiles - Final Thoughts](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1-iwOjZFxFDvzBpdtPIwt0w.jpeg)
 
 A great investor will know about your vertical, help you reach higher, introduce you to talents, distributors, other friendly investors and of course question your thinking process and critical decisions BUT never steering you from your course, make you buy from specific suppliers, etc.
 

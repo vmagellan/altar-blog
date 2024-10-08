@@ -59,7 +59,7 @@ As well as sharing his insights surrounding the entrepreneurial mindset; he shar
 
 But first, let’s get to know Hector a little better.
 
-![Entrepreneur Hector Quintanilla](images/Hector-Q-1-768x672.jpeg)
+![Entrepreneur Hector Quintanilla](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Hector-Q-1-768x672.jpeg)
 
 #### Q: Did you always want to become an entrepreneur?
 
@@ -99,7 +99,7 @@ I was studying civil engineering because my father was a passionate architect. H
 
 There is a big lesson there. **I was trying to meet my dad’s expectations, not mine**. We will talk more about that later when we talk about what I call *The Three Pillars of Success.*
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -165,7 +165,7 @@ The Three Pillars of Success is a process which allows you to check things off a
 
 #### Q: Let’s talk about the first Pillar: Alignment. This is about the avoidance of working against yourself. Can you expand on this a bit?
 
-![Pillars of a Successful entrepreneur - #1 Alignment](images/Entrepreneurial-Pillars-of-Success-1-Alignment-1024x770.png)
+![Pillars of a Successful entrepreneur - #1 Alignment](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneurial-Pillars-of-Success-1-Alignment-1024x770.png)
 
 **A:** If you go back in history, every single company on earth started with the vision of one person. There are partnerships, Steve Jobs & Steve Wozniak for example. However, the vision came from one person, Jobs; he saw the opportunity, Wozniak had the technical ability.
 
@@ -179,7 +179,7 @@ A lot of people come to me with this idea of starting a business by inventing so
 
 #### In business, this means finding the right resources to make smart choices and applying your efforts on the things that provide the biggest return,  can you expand on this a little?
 
-![Pillars of a Successful entrepreneur - #2 Leverage](images/Entrepreneurial-pillar-2-Leverage-1024x770.png)
+![Pillars of a Successful entrepreneur - #2 Leverage](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneurial-pillar-2-Leverage-1024x770.png)
 
 #### **A:** If you look at your business you have to ask yourself: If I go down this road am I going to make a few dollars? Or do I have the potential to earn a lot while making a positive change?
 
@@ -231,7 +231,7 @@ Related: [Expert Interview: The Hidden Details When Funding Your Startup](https:
 
 #### Q: Let’s talk about Pillar Three: Effectiveness; making sure your business is relevant to your landscape. Why is this so important?
 
-![Pillars of a Successful entrepreneur - #3 Effectiveness](images/Entrepreneurial-Pillar-3-Effectiveness-1024x769.png)
+![Pillars of a Successful entrepreneur - #3 Effectiveness](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneurial-Pillar-3-Effectiveness-1024x769.png)
 
 #### **A:** As well as being one of *The Eight Levers*, Effectiveness is a Pillar in itself.
 

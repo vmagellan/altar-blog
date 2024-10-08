@@ -211,7 +211,7 @@ Summary: Why Should You Apply for a Startup Accelerator?
 2. A wealth of mentorship that will help your startup rapidly get from zero to one.
 3. Opportunities to gain funding. From both the accelerator itself and from investors after the accelerator has ended (using the “credential” to get through the door)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

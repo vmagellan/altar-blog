@@ -26,7 +26,7 @@ Delving into the multi-dimensional fit framework, we explore how various alignme
 
 Through detailed aspects of market assessment, product development, channel selection and business model we unravel the nuanced layers that build a thriving venture.
 
-![What's needed to build $100M+ product](images/Whats-needed-to-build-100M.png)
+![What's needed to build $100M+ product](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Whats-needed-to-build-100M.png)
 
 #### Contents
 
@@ -50,7 +50,7 @@ Address pressing problems or fulfil fundamental needs for your target audience. 
 - Inconvenience: Tackle common inconveniences or frustrations customers experience in the market, akin to how [Dyson](https://www.lb.dyson.com/en-LB/community/aboutdyson.aspx) revolutionized vacuum cleaners by addressing the common problem of losing suction.
 - Simplification: Create user-friendly products to reduce the knowledge gap between the market and the product. Enhance user knowledge of product usage through comprehensive articles, FAQs, tooltips, and customer service.
 
-![Knowledge Gap in Product Explained](images/Knowledge-Gap-in-Product-Explained.png)
+![Knowledge Gap in Product Explained](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Knowledge-Gap-in-Product-Explained.png)
 
 #### Wants
 
@@ -90,7 +90,7 @@ Consider economic conditions, consumer spending trends, and the investment clima
 
 Monitor shifts in consumer behaviour that might signal a growing need for your solution, similar to how the rise in remote working spiked demand for digital collaboration tools like [Zoom](https://www.vox.com/recode/21726260/zoom-microsoft-teams-video-conferencing-post-pandemic-coronavirus).
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -122,7 +122,7 @@ For products distributed via mobile apps, ensuring an intuitive and mobile-frien
 
 In each case, understanding and leveraging the unique properties of your chosen channel can significantly enhance the reach and appeal of your product, creating a more effective and satisfying experience for your users.
 
-![New Channels create New Companies](images/New-Channels-create-New-Companies-.png)
+![New Channels create New Companies](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/New-Channels-create-New-Companies-.png)
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -150,7 +150,7 @@ Businesses with lower ARPU should focus on channels that require lower investmen
 
 In summary, the choice of distribution channels should be closely aligned with your business model's revenue and cost structure to ensure efficient market penetration and sustainable growth.
 
-![Reaching Product Market Fit](images/Reaching-Product-Market-Fit.png)
+![Reaching Product Market Fit](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Reaching-Product-Market-Fit.png)
 
 Related: [How to Shape a Startup Product That Will Be Adopted by The Market](https://altar.io/how-to-shape-a-startup-product-that-will-be-adopted-by-the-market/)
 
@@ -190,7 +190,7 @@ Establish clear, measurable objectives and key performance indicators (KPIs). Th
 
 Overall, Business Model-Market Fit is about aligning your business model with the market’s financial landscape and strategically steering your venture towards growth, scalability, and stability.
 
-![North Star Product Metrics](images/North-Star-Product-Metrics.png)
+![North Star Product Metrics](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/North-Star-Product-Metrics.png)
 
 ## Founder-Product-Market Fit
 
@@ -218,7 +218,7 @@ This could include hands-on customer service or direct engagement with users, si
 
 The ability to make quick decisions and adapt swiftly is a cornerstone of startup success. This agility allows startups to pivot or make strategic changes in response to market feedback or changes. A notable example is [Instagram](https://medium.com/international-school-of-ai-data-science/the-tale-of-burbn-to-instagram-a9035df134b6), which quickly pivoted from a cluttered social app to a streamlined photo-sharing app based on user feedback and market trends.
 
-![Product Speed and agility in email marketing](images/Product-Speed-and-agility-in-email-marketing.png)
+![Product Speed and agility in email marketing](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Product-Speed-and-agility-in-email-marketing.png)
 
 Related: [12 Product Leaders You Should Follow as a Startup Founder](https://altar.io/product-leaders-you-should-follow-in-as-a-startup-founder/)
 

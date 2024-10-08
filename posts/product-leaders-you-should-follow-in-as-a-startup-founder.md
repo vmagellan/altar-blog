@@ -50,7 +50,7 @@ At this nascent phase, a Product Leader's focus is predominantly on developing a
 
 Once you've secured significant funding and have a product in the market, the role shifts. The Product Leader now specialises in scaling the product, retaining users, and implementing methods to generate revenue. The Series A stage demands a more holistic view of the product that goes beyond the MVP.
 
-![Series Funding Breakdown Chart](images/Series-Funding-Breakdown-Chart-1024x652.png)
+![Series Funding Breakdown Chart](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Series-Funding-Breakdown-Chart-1024x652.png)
 
 ### Product Leaders by Specialisation
 
@@ -80,7 +80,7 @@ If your primary goal is business expansion, these are your go-to experts. Skille
 
 Now, let’s move on to the list itself.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -114,19 +114,19 @@ Future of AI in Product Management: Stay ahead of the curve by tuning into Pete
 
 Peter's extensive involvement in transforming AI research into market-ready products makes him a beacon for those struggling with team silos.
 
-![Product Dev vs. Product Management](images/Product-Dev-vs.-Product-Management.png)
+![Product Dev vs. Product Management](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Product-Dev-vs.-Product-Management.png)
 
 His journey offers a roadmap on how to effectively communicate the complexities of research (like AI) into actionable product strategies, ensuring both R&D and Product teams are aligned.
 
 Plus, AI products usually require a new workflow (i.e. Machine Learning Operations - MLOps), distinct from standard DevOps (Development and Operations).
 
-![](images/MLOps-Process-Breakdown-1024x637.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/MLOps-Process-Breakdown-1024x637.png)
 
 AI Product Managers require a deep understanding of AI, known as Data and AI Fluency, and must be well-versed in industry-specific AI applications, termed Use-Case Familiarity.
 
 Their role demands consistent communication with top-tier leadership (Buy-In Alignment), flexibility in project goals, and the ability to set realistic expectations regarding AI capabilities and ROI.
 
-![Product Manager vs. AI Product Manager](images/Product-Manager-vs.-AI-Product-Manager-1024x633.png)
+![Product Manager vs. AI Product Manager](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Product-Manager-vs.-AI-Product-Manager-1024x633.png)
 
 Related: [How OpenAI Found Success by Being Product Driven (And How You Can Too)](https://altar.io/how-openai-found-success-by-being-product-driven-and-how-you-can-too/)
 
@@ -170,7 +170,7 @@ Related: [How OpenAI Found Success by Being Product Driven (And How You Can Too)
 
 **Clarifying Misconceptions**: By addressing prevalent AI myths, Josh aids businesses in making informed decisions. For instance, he clarifies that using advanced techniques like Deep Learning doesn't always equate to more value, encouraging businesses to use techniques that best suit their needs.
 
-![MVP Value vs. Features](images/MVP-Value-vs.-Features-1024x418.png)
+![MVP Value vs. Features](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/MVP-Value-vs.-Features-1024x418.png)
 
 Related: [6 Critical Qualities You Need in a Product Manager for Your Startup](https://altar.io/qualities-product-manager-startup/)
 
@@ -198,7 +198,7 @@ Related: [6 Critical Qualities You Need in a Product Manager for Your Startup](h
 
 Unlike the conventional 'bare minimum' strategy, Fadell emphasises quality and user experience from the get-go. Through his work from Apple to Nest Labs, he advocates for MVPs that are high quality. His perspective offers a refreshing contrast to prevailing startup advice of building quickly and dirty, urging innovators to prioritise excellence over expediency.
 
-![](images/MVP-FunctionDesireUsability-1024x654.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/MVP-FunctionDesireUsability-1024x654.png)
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -228,7 +228,7 @@ Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](htt
 
 In essence, David Cancel's unique perspective stands as a testament to the power of customer obsession. His hands-on approach, from direct engagements with users to developing frameworks that prioritise their feedback, highlights the pivotal role customers play in successful product management. If you're seeking to foster a genuine customer-centric ethos in your endeavours, David's insights are indispensable.
 
-![](images/Customer-Driven-Feedback-1024x759.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Customer-Driven-Feedback-1024x759.png)
 
 ### 6\. Teresa Torres
 
@@ -274,7 +274,7 @@ Related: [The Ultimate Guide to Successfully Hire a Product Manager for Your Sta
 
 By following Paweł Huryn, you're essentially gaining a guide on how to avoid the pitfalls of 'vision without execution'. His advice offers more than just high-level planning; it provides a concrete path from where you are to where you want to be, solving real pains and issues that startups commonly face at each stage of their journey.
 
-![Start With Why Diagram](images/Start-With-Why-Diagram-1024x575.png)
+![Start With Why Diagram](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Start-With-Why-Diagram-1024x575.png)
 
 ### 8\. Aakash Gupta
 
@@ -312,7 +312,7 @@ By following Paweł Huryn, you're essentially gaining a guide on how to avoid th
 
 **Collaboration with Engineering:** Norton’s background and experience give him a deep understanding of how product and engineering teams can best collaborate. He often underscores the importance of mutual respect and clear communication.
 
-![Product Leaders 2024 Alignment Autonomy](images/Product-Leaders-2024-Alignment-Autonomy.png)
+![Product Leaders 2024 Alignment Autonomy](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Product-Leaders-2024-Alignment-Autonomy.png)
 
 ### 10\. Melissa Perri
 
@@ -332,7 +332,7 @@ By following Paweł Huryn, you're essentially gaining a guide on how to avoid th
 
 **Customer Validation**: If you're struggling with knowing if you're building the right product, Melissa’s approaches to customer validation and hypothesis testing can be invaluable. She offers various techniques to validate your assumptions before you invest significant resources.
 
-![Customer Feedback Loop for Product Development](images/Customer-Feedback-Loop-for-Product-Development.png)
+![Customer Feedback Loop for Product Development](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Customer-Feedback-Loop-for-Product-Development.png)
 
 ### 11\. Ellen Chisa
 

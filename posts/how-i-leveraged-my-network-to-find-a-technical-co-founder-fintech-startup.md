@@ -14,7 +14,7 @@ Many attribute a large part of their success to networking and community. It’s
 
 Here’s the actual slide I used to illustrate how crucial this aspect is for these highly successful founders:
 
-![5 successful co-founders all attributing their success, in part, to community](images/Screenshot-2024-08-07-at-15.38.26.png)
+![5 successful co-founders all attributing their success, in part, to community](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-08-07-at-15.38.26.png)
 
 Connecting with the right people, sharing knowledge, and creating a supportive community are pivotal steps towards sustained growth and success.
 
@@ -56,7 +56,7 @@ I’ve been looking for a technical co-founder, and that’s how you and I got i
 
 Pitch decks vary significantly. Capwave AI provides tailored, relevant feedback to that particular startup founder on how they should present their business to investors. With investors receiving 100+ decks a week, it’s crucial to standout with an exceptional deck to secure that first meeting.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

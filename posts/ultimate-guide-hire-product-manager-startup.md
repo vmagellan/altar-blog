@@ -114,7 +114,7 @@ In both of these examples, however, the hurdles (and in Quibi’s case, ultimate
 
 So how do you go about hiring that all-important product manager?
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -144,7 +144,7 @@ Then use LinkedIn's search filters to narrow down potential candidates by locati
 
 Here’s an example of a quick search I did for product managers in the US working in tech who often use “#startup” in their posts:
 
-![Linkedin Search for Product Manager](images/Linkedin-Search-for-Product-Manager.png)
+![Linkedin Search for Product Manager](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Linkedin-Search-for-Product-Manager.png)
 
 ## This approach can help you build connections and initiate conversations with potential candidates about your startup.
 
@@ -158,7 +158,7 @@ While LinkedIn may not be specifically designed for hiring product managers, it�
 
 Otta is one of the more recent platforms to come to market to help connect employers and job candidates – and focuses solely on innovative tech companies.
 
-![Otta job platform](images/Otta-Product-Manager-platfrom-1024x490.png)
+![Otta job platform](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Otta-Product-Manager-platfrom-1024x490.png)
 
 Once you’ve completed the onboarding, you’re able to post jobs and browse relevant candidates for free – as well as create an enhanced company profile to showcase your employer brand and mission.
 
@@ -176,7 +176,7 @@ With its social media-like interface, job seekers can easily navigate through th
 
 To post your job on Wellfound, simply visit their recruit page and sign in. You will be prompted to fill out a form with details about your company.
 
-![Wellfound – Best websites to hire developers and find product managers](images/Screenshot-2023-01-24-at-17.04.13-1024x544.png)
+![Wellfound – Best websites to hire developers and find product managers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2023-01-24-at-17.04.13-1024x544.png)
 
 Posting jobs is free of charge, or you can opt for the premium posting service at $250 per month.
 
@@ -188,7 +188,7 @@ You can easily find the right fit for your team with the option to search for ca
 
 To post a job, simply head over to the “for employers” section of the website and click “post a job”. From there, you need to create an account and fill out their job posting form, including details such as the job title, location, description, and requirements.
 
-![Startup.jobs platform to hire product managers](images/Startup.jpbs-platform-to-hire-product-managers.png)
+![Startup.jobs platform to hire product managers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Startup.jpbs-platform-to-hire-product-managers.png)
 
 From there, you’ll need to choose a pricing plan. Sadly, there is no free plan to post on Startup.jobs. Each listing costs $399 and remains active for 30 days. If you’re posting multiple jobs, there are several discounts available - depending on the number of jobs you post.
 
@@ -200,7 +200,7 @@ It provides flexibility as you can hire a product manager on an “as-needed” 
 
 The great thing about using Toptal for this is that it curates its freelancers with a rigorous pre-screening process.
 
-![Toptal Product Managers](images/Toptal-Product-Managers-1024x486.png)
+![Toptal Product Managers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Toptal-Product-Managers-1024x486.png)
 
 For you, this means that you’ll only be out in touch with experienced product managers that have the skills you need.
 

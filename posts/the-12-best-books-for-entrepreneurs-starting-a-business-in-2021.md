@@ -32,7 +32,7 @@ Neither myself, Altar.io nor the entrepreneurs I spoke to create this list recei
 
 ## 1\. The Lean Startup by Eric Reis
 
-![The Lean startup books for entrepreneurs](images/01.-The-Lean-Startup-196x300.jpg)[_The Lean Startup_](http://theleanstartup.com/) is a must-read and easily tops the list of the best business books for entrepreneurs. This book is all about how to turn your startup idea into a sustainable business.
+![The Lean startup books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/01.-The-Lean-Startup-196x300.jpg)[_The Lean Startup_](http://theleanstartup.com/) is a must-read and easily tops the list of the best business books for entrepreneurs. This book is all about how to turn your startup idea into a sustainable business.
 
 The detailed approach Eric Ries takes can help you build a product or service that customers want, and are willing to pay for. All with minimum wasted time or effort.
 
@@ -48,13 +48,13 @@ Then he guides you to find quick and inexpensive ways to test and validate those
 
 The combination of these processes and insights will help you navigate the uncertainty all businesses face and give you the tools you need to build a lasting, sustainable company.
 
-![The Lean Startup Review](images/01.-Lean-Startup-Review-1024x349.png)
+![The Lean Startup Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/01.-Lean-Startup-Review-1024x349.png)
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 ## 2\. Zero to One by Peter Thiel
 
-![Zero to one - best books for entrepreneurs](images/02-Zero-to-One-200x300.jpg)In [_Zero to One_](https://www.goodreads.com/book/show/18050143-zero-to-one), legendary entrepreneur and investor Peter Thiel explains why you should “focus on businesses that create something new.”
+![Zero to one - best books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/02-Zero-to-One-200x300.jpg)In [_Zero to One_](https://www.goodreads.com/book/show/18050143-zero-to-one), legendary entrepreneur and investor Peter Thiel explains why you should “focus on businesses that create something new.”
 
 He talks about how many of today’s businesses are focused on moving the world from 1 to N. Or iterating and improving existing products.
 
@@ -64,11 +64,11 @@ He breaks this down further into actionable tips on what you need to do (and not
 
 Written in 2014, this is undoubtedly one of the best books for entrepreneurs out there and well worth adding to your reading list.
 
-![Zero-to-One Review](images/02.-Zero-to-One-Review-1024x246.png)
+![Zero-to-One Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/02.-Zero-to-One-Review-1024x246.png)
 
 ## 3\. Start with Why by Simon Sinek
 
-![Start With Why - Books for Entrepreneurs](images/03.-Start-With-Why-199x300.jpg)[_Start with Why_](https://simonsinek.com/product/start-with-why/) is an A to Z on how leaders inspire people to take action. If you apply this book to your business, it can help you attract loyal customers. It can also help you create a company culture and have a greater impact on the world.
+![Start With Why - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/03.-Start-With-Why-199x300.jpg)[_Start with Why_](https://simonsinek.com/product/start-with-why/) is an A to Z on how leaders inspire people to take action. If you apply this book to your business, it can help you attract loyal customers. It can also help you create a company culture and have a greater impact on the world.
 
 Sinek does this by sharing his insights on discovering the deeper, underlying purpose of your business, brand & product.
 
@@ -84,7 +84,7 @@ His solution is that you inspire your audience by starting with why. He poses th
 
 _Start with Why_ is one of the best books for entrepreneurs looking to hone their leadership skills and inspire customers, employees & colleagues alike.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -94,7 +94,7 @@ Let's Talk
 
 ## 4\. Thinking, Fast and Slow by Daniel Kahnema
 
-![Thinking, Fast & Slow - Books for entrepreneurs](images/04.-Thinking-Fast-and-Slow-195x300.jpg)[_Thinking, Fast and Slow_](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) is one of the best books for entrepreneurs for breaking down the psychology behind decision making and judgement.
+![Thinking, Fast & Slow - Books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/04.-Thinking-Fast-and-Slow-195x300.jpg)[_Thinking, Fast and Slow_](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) is one of the best books for entrepreneurs for breaking down the psychology behind decision making and judgement.
 
 He splits this psychology into two systems:
 
@@ -104,11 +104,11 @@ _System 2 allocates attention to the effortful mental activities that demand it,
 
 Throughout this book Kahneman looks closely at the differences between System 1 & 2, explaining them in great detail to help you understand how and why you make the decisions you make and how to identify which system you’re using and which you *should* be using.
 
-![Thinking, Fast and Slow Review](images/04.-Thinking-Fast-Slow-Review-1024x347.png)
+![Thinking, Fast and Slow Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/04.-Thinking-Fast-Slow-Review-1024x347.png)
 
 ## 5\. The Mom Test by Rob Fitzpatrick
 
-![The Mom Test - Books For Entrepreneurs](images/05.-The-Mom-Test-194x300.jpg)Primarily focused on startups that are bringing a new product or service to market, [_The Mom Test_](http://momtestbook.com/) helps you learn how to properly talk to customers and how you can learn more from them.
+![The Mom Test - Books For Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/05.-The-Mom-Test-194x300.jpg)Primarily focused on startups that are bringing a new product or service to market, [_The Mom Test_](http://momtestbook.com/) helps you learn how to properly talk to customers and how you can learn more from them.
 
 The book's cover hook sums it up perfectly: *“How to talk to customers & learn if your business is a good idea when everyone is lying to you.”*
 
@@ -124,11 +124,11 @@ They will then reflect on the problem, and how they would want it to be solved. 
 
 This is just the first idea Fitzpatrick covers in his book. This is one of the best books for entrepreneurs when it comes to learning the strategies and tips to ensure you’re talking to your customers in a way that garners valuable feedback on your idea.
 
-![The mom test review](images/05.-The-Mom-Test-Review-1024x330.png)
+![The mom test review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/05.-The-Mom-Test-Review-1024x330.png)
 
 ## 6\. The 4-Hour Workweek by Tim Ferriss
 
-![The 4-Hour Workweek - Books for Entrepreneurs](images/06.-The-4-Hour-Workweek-199x300.jpg)[_The 4-Hour Workweek_](https://fourhourworkweek.com/) is essentially a blueprint to free yourself of your 9-to-5, create a business and live like a millionaire (without actually having to be one).
+![The 4-Hour Workweek - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/06.-The-4-Hour-Workweek-199x300.jpg)[_The 4-Hour Workweek_](https://fourhourworkweek.com/) is essentially a blueprint to free yourself of your 9-to-5, create a business and live like a millionaire (without actually having to be one).
 
 The key idea Ferriss starts with is to be **effective**, *not* **efficient**. Here Ferriss uses the idea of the [80/20 rule](https://www.forbes.com/sites/kevinkruse/2016/03/07/80-20-rule/?sh=5dd7a44f3814) – also known as the Pareto Principle to explain this.
 
@@ -140,11 +140,11 @@ Throughout this book, Ferriss provides you with the tools to accomplish this *N
 
 This is one of the best books for entrepreneurs looking to take their passion and turn it into their full-time job.
 
-![4-Hour Workweek Review](images/4-hour-workweek-Review-1024x227.png)
+![4-Hour Workweek Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/4-hour-workweek-Review-1024x227.png)
 
 ## 7\. The Hard Thing About Hard Things by Ben Horowitz
 
-![The Hard Things About Hard Things - books for entrepreneurs](images/07.-The-Hard-Thing-About-225x300.jpg)[_The Hard Thing About Hard Things_](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) is a candid, brutally honest look at how hard it is to run a business.
+![The Hard Things About Hard Things - books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/07.-The-Hard-Thing-About-225x300.jpg)[_The Hard Thing About Hard Things_](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) is a candid, brutally honest look at how hard it is to run a business.
 
 Horowitz was very conscious of the fact that he didn’t want to write “just another management book”.
 
@@ -166,13 +166,13 @@ Furthermore, Horowitz provides advice on how to control your own psychology. As 
 
 At the risk of violating the sacred rule, I will attempt to describe the condition and prescribe some techniques that helped me. In the end, this is the most personal and important battle that any CEO will face.”
 
-![The Hard Things About Hard Things Review](images/07.-The-Hard-Thing-About.-review-1024x198.png)
+![The Hard Things About Hard Things Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/07.-The-Hard-Thing-About.-review-1024x198.png)
 
 Related: [From Being Fired to Building a Multi-Million Dollar Fintech Startup](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/)
 
 ## 8\. Crossing the Chasm by Geoffrey A. Moore
 
-![Crossing The Chasm - books for entrepreneurs](images/08.-Crossing-The-Chasm-202x300.jpg)[_Crossing the Chasm_](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm) is all about how to market and sell disruptive products to mainstream customers. It focuses on any new service or product that asks customers to change or alter their behaviour in a significant way.
+![Crossing The Chasm - books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/08.-Crossing-The-Chasm-202x300.jpg)[_Crossing the Chasm_](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm) is all about how to market and sell disruptive products to mainstream customers. It focuses on any new service or product that asks customers to change or alter their behaviour in a significant way.
 
 Moore starts the book by describing what he calls The Technology Adoption Lifecycle – breaking people into five groups and how each group adopts disruptive tech solutions, they are:
 
@@ -194,11 +194,11 @@ Moore continues through these groups in greater detail. But, critically, the boo
 
 This is one of the best books for entrepreneurs when it comes to working out how to reach the most profitable groups of customers in your market.
 
-![Crossing the Chasm Review](images/08.-Crossing-the-Chasm-Review-1024x380.png)
+![Crossing the Chasm Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/08.-Crossing-the-Chasm-Review-1024x380.png)
 
 ## 9\. The $100 Startup by Chris Guillebeau
 
-![09. The $100 Startup books for entrepreneurs](images/09.-The-100-Startup-198x300.jpg)The aim of [_The $100 Startup_](https://100startup.com/) is to help prospective entrepreneurs gain awareness of the challenges that come from building a successful small business and escape the 9-to-5.
+![09. The $100 Startup books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/09.-The-100-Startup-198x300.jpg)The aim of [_The $100 Startup_](https://100startup.com/) is to help prospective entrepreneurs gain awareness of the challenges that come from building a successful small business and escape the 9-to-5.
 
 Throughout the book, Guillebeau lays out the possibility of starting and running a successful business with a small team of one to five people. He uses real-life case studies to achieve this.
 
@@ -224,11 +224,11 @@ He continues to say that taking action and adjusting your course along the way a
 
 This is one of the best books for entrepreneurs who’re looking to start a side-business and scale it to their full-time job. Guillebeau has packed this book with actionable insights and tips that any entrepreneur could benefit from learning or re-learning.
 
-![The $100 Startup Review](images/09.-The-100-Startup-Review--1024x286.png)
+![The $100 Startup Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/09.-The-100-Startup-Review--1024x286.png)
 
 ## 10\. The Effective Executive by Peter Drucker
 
-![The Effective Executive – books for entrepreneurs](images/10.-The-Effective-Exec-198x300.jpg)Since its initial publication in 1967, Peter Drucker’s [_The Effective Executive_](https://www.goodreads.com/book/show/48019.The_Effective_Executive) has helped millions of executives (or knowledge workers as Drucker calls them) improve their effectiveness.
+![The Effective Executive – books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/10.-The-Effective-Exec-198x300.jpg)Since its initial publication in 1967, Peter Drucker’s [_The Effective Executive_](https://www.goodreads.com/book/show/48019.The_Effective_Executive) has helped millions of executives (or knowledge workers as Drucker calls them) improve their effectiveness.
 
 Throughout this book, Drucker shows how you can develop personal effectiveness.  The idea behind the book is that in a world that is increasingly dependant on knowledge-based work, the more knowledge workers need to improve their effectiveness.
 
@@ -242,11 +242,11 @@ Drucker poses there are five habits that are crucial to becoming an effective ex
 
 Despite the time it was written, Drucker’s insights are just as relevant today as they were then. Drucker’s timeless insights and observations make *The Effective Executive* one of best books for entrepreneurs to read.
 
-![The Effective Executive Review](images/10.-Effective-Exec-Review-1024x202.png)
+![The Effective Executive Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/10.-Effective-Exec-Review-1024x202.png)
 
 ## 11\. The 7 Habits of Highly Effective People by Stephen R. Covey
 
-![the 7 habits of highly effective people - books for entrepreneurs](images/11.-The-7-Habits-196x300.jpg)Similarly to *The Effective Executive,* [_The 7 Habits of Highly Effective People_](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) sets out a series of behaviours that will make you more effective. Covey takes an integrated approach to help entrepreneurs improve their personal and interpersonal development.
+![the 7 habits of highly effective people - books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/11.-The-7-Habits-196x300.jpg)Similarly to *The Effective Executive,* [_The 7 Habits of Highly Effective People_](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) sets out a series of behaviours that will make you more effective. Covey takes an integrated approach to help entrepreneurs improve their personal and interpersonal development.
 
 The book is designed in a way that each habit (when implemented in order) will prepare you for the next and strengthen the previous.
 
@@ -268,11 +268,11 @@ Finally, habit seven teaches you how to balance and renew the preceding habits.
 
 This is by far one of the best books for entrepreneurs looking to improve their daily habits to become more effective both professionally and personally.
 
-![The 7 Habits of Highly Effective People Review](images/11.-The-7-Habits.-Review-1024x163.png)
+![The 7 Habits of Highly Effective People Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/11.-The-7-Habits.-Review-1024x163.png)
 
 ## 12\. How to Win Friends & Influence People by Dale Carnegie
 
-![How to Win Friends and Influence People - books for entrepreneurs](images/12.-How-to-Win-Friends-185x300.jpg)In [_How to Win Friends and Influence People_](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)*,* Dale Carnegie brings us a series of techniques on navigating relationships and influencing the people around you, without offending them.
+![How to Win Friends and Influence People - books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/12.-How-to-Win-Friends-185x300.jpg)In [_How to Win Friends and Influence People_](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)*,* Dale Carnegie brings us a series of techniques on navigating relationships and influencing the people around you, without offending them.
 
 The first idea Carnegie brings up in the book is the idea that you can’t win an argument, and that they should be avoided at all costs. He poses that nine times out of ten, an argument ends with both parties believing that they are absolutely right.
 
@@ -286,11 +286,11 @@ These are just two of the many insights Carnegie imparts in what has become one 
 
 The book is packed full of actionable tips from why remembering names is so important to why you should ask people to do things instead of giving orders.
 
-![How to Make Friends & Influence People Review](images/12.-How-to-Influence.-Review-1024x333.png)
+![How to Make Friends & Influence People Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/12.-How-to-Influence.-Review-1024x333.png)
 
 ## 13\. Radical Candor by Kim Scott
 
-![Radical Candor by Kim Scott books for entrepreneurs](images/Radical-Candor-by-Kim-Scott-207x300.jpeg)In [_Radical Candor_](https://www.goodreads.com/book/show/29939161-radical-candor)*,* successful manager Kim Scott shares what she calls a “vital new approach” to effective management.
+![Radical Candor by Kim Scott books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Radical-Candor-by-Kim-Scott-207x300.jpeg)In [_Radical Candor_](https://www.goodreads.com/book/show/29939161-radical-candor)*,* successful manager Kim Scott shares what she calls a “vital new approach” to effective management.
 
 Throughout the book, she condenses her years of experience managing at companies like Google and Apple into actionable lessons.
 
@@ -302,11 +302,11 @@ Scott has identified three simple principles to build better relationships with 
 
 She explores these throughout the book to help you create an environment where your employees feel both challenged and cared for.
 
-![Radical Candor Review](images/Radical-Candor-Review.png)
+![Radical Candor Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Radical-Candor-Review.png)
 
 ## 14\. Mindset by Carol Dweck
 
-![Best books for entrepreneurs - Mindset Carol Dweck cover](images/Mindset-Carol-Dweck.jpeg)Carol Dweck describes her work as bridging developmental psychology, social psychology, and personality psychology. She examines the mindsets people use to structure the “self” and guide their behaviour.
+![Best books for entrepreneurs - Mindset Carol Dweck cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Mindset-Carol-Dweck.jpeg)Carol Dweck describes her work as bridging developmental psychology, social psychology, and personality psychology. She examines the mindsets people use to structure the “self” and guide their behaviour.
 
 The result of this extensive research is manifested in [_Mindset: The New Psychology of Success_](https://www.goodreads.com/book/show/34403537-mindset#).
 
@@ -320,11 +320,11 @@ In the latest edition, Dweck has expanded her mindset beyond the individual – 
 
 This is one of those books for entrepreneurs that is considered a must-read for anyone looking to motivate and lead their team.
 
-![Mindset by Carol Dweck Review](images/Mindset-by-Carol-Dweck-Review.png)
+![Mindset by Carol Dweck Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Mindset-by-Carol-Dweck-Review.png)
 
 ## 15\. Unapologetically Ambitious by Shellye Archambeau
 
-![Unapologetically Ambitious by Shellye Archambeau](images/Unapologetically-Ambitious-by-Shellye-Archambeau-199x300.jpeg)Named a Best Business Book of 2020 by Fortune, [_Unapologetically Ambitious_](https://www.goodreads.com/book/show/50998942-unapologetically-ambitious?ac=1&from_search=true&qid=K9Em17tP69&rank=1) tells the story of Shellye Archambeau – one of Silicon Valley's first female African American CEOs.
+![Unapologetically Ambitious by Shellye Archambeau](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Unapologetically-Ambitious-by-Shellye-Archambeau-199x300.jpeg)Named a Best Business Book of 2020 by Fortune, [_Unapologetically Ambitious_](https://www.goodreads.com/book/show/50998942-unapologetically-ambitious?ac=1&from_search=true&qid=K9Em17tP69&rank=1) tells the story of Shellye Archambeau – one of Silicon Valley's first female African American CEOs.
 
 Archambeau recounts how she overcame the challenges of managing her personal and professional responsibilities while climbing the ranks at IBM as a young black woman, wife and mother.
 
@@ -340,11 +340,11 @@ In the book, she shares practical strategies and tools that you can use to incre
 
 This bold and inspiring book teaches you how to carefully navigate the entrepreneurial journey and give yourself the best chances of success.
 
-![Unapologetically Ambitious Review](images/Unapologetically-Ambitious-Review.png)
+![Unapologetically Ambitious Review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Unapologetically-Ambitious-Review.png)
 
 ## 16\. Rework by Jason Fried David and Heinemeier Hansson
 
-![Rework Cover books for entrepreneurs](images/Rework-Cover-188x300.jpeg)From the founders of [37signals](https://37signals.com/) – the company behind [Basecamp](https://basecamp.com/) and [Ruby on Rails](https://rubyonrails.org/) – [_Rework_](https://basecamp.com/books/rework) explores personal experiences of building startups.
+![Rework Cover books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Rework-Cover-188x300.jpeg)From the founders of [37signals](https://37signals.com/) – the company behind [Basecamp](https://basecamp.com/) and [Ruby on Rails](https://rubyonrails.org/) – [_Rework_](https://basecamp.com/books/rework) explores personal experiences of building startups.
 
 But, their approach to entrepreneurship is far from traditional. There are several, disruptive themes that appear throughout the book.
 
@@ -360,11 +360,11 @@ The book’s language is straightforward, with the focus being on actionable ins
 
 It shows you a better, faster, easier way to succeed in business, with the idea of “stop talking and start working” at its core.
 
-![Rework review, books for entrepreneurs](images/REWORK-REVIEW.png)
+![Rework review, books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/REWORK-REVIEW.png)
 
 ## 17\. Purple Cow by Seth Godin
 
-![Purple Cow Cover books for entrepreneurs](images/Purple-Cow-Cover-212x300.jpeg)If you’re looking to gain some knowledge on marketing strategies, Seth Godin’s [_Purple Cow_](https://seths.store/purple-cow/) is a must-read.
+![Purple Cow Cover books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Purple-Cow-Cover-212x300.jpeg)If you’re looking to gain some knowledge on marketing strategies, Seth Godin’s [_Purple Cow_](https://seths.store/purple-cow/) is a must-read.
 
 Here, Godin uses the analogy of a purple cow to share his secrets to successful marketing strategies.
 
@@ -380,7 +380,7 @@ Purple Cow is also extremely easy to read. Godin avoids deep analyses in favour 
 
 ## 18\. Influence: The Psychology of Persuasion by Robert Cialdini
 
-![Influence Cover books for entrepreneurs](images/Influence-Cover-201x300.jpeg)[_Influence_](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) is one of the classic books for entrepreneurs on persuasion.
+![Influence Cover books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Influence-Cover-201x300.jpeg)[_Influence_](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) is one of the classic books for entrepreneurs on persuasion.
 
 It explains the psychology of why people say yes, and how to apply these understandings.
 
@@ -396,11 +396,11 @@ Author Dr. Robert Cialdini is an expert in the field of influence and persuasion
 
 This is one of the best books for entrepreneurs looking to understand the psychology behind why people are able to sell you their ideas. It's also a great read for anyone interested in human psychology – despite its direct links to selling and marketing.
 
-![Influence review](images/INFLUENCE-Review.png)
+![Influence review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/INFLUENCE-Review.png)
 
 ## 19\. Mastery by Robert Greene
 
-![MASTERY Cover books for entrepreneurs](images/MASTERY-Cover-200x300.jpeg)In [_Mastery_](https://www.amazon.com/Mastery-Robert-Greene-Collection/dp/178125091X), Robert Greene calls on examples from famous historical figures to help you:
+![MASTERY Cover books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/MASTERY-Cover-200x300.jpeg)In [_Mastery_](https://www.amazon.com/Mastery-Robert-Greene-Collection/dp/178125091X), Robert Greene calls on examples from famous historical figures to help you:
 
 - Extract the best from your mentorship period
 - How to find goof mentors
@@ -409,11 +409,11 @@ This is one of the best books for entrepreneurs looking to understand the psycho
 
 Greene brings the lives of “the ancient masters” like Mozart and Darwin to the fore. This is one of the best books for entrepreneurs looking to enrich their personal development and find business success.
 
-![MASTERY REVIEW](images/MASTERS-REVIEW.png)
+![MASTERY REVIEW](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/MASTERS-REVIEW.png)
 
 ## 20. The 22 Immutable Laws of Marketing by Al Ries and Jack Trout
 
-![22 Laws cover books for entrepreneurs](images/22-Laws-Cover-197x300.jpeg)This book comes recommended directly from my CMO Rui, who describes it as: *“A complete master's degree in marketing.”*
+![22 Laws cover books for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/22-Laws-Cover-197x300.jpeg)This book comes recommended directly from my CMO Rui, who describes it as: *“A complete master's degree in marketing.”*
 
 [_The 22 Immutable Laws of Marketing_](https://www.amazon.com/22-Immutable-Laws-Marketing/dp/1861976100) is a short book packed with valuable insights and examples.
 
@@ -423,81 +423,81 @@ The insights stand the test of time and present a clear path to successful produ
 
 This is a mandatory book for marketers. For entrepreneurs, it’s highly recommended. It will put you ahead of the pack in terms of your startup’s marketing.
 
-![22 laws review](images/22-Laws-Review.png)
+![22 laws review](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/22-Laws-Review.png)
 
 ## 21\. Crush It! by Gary Vaynerchuk
 
-![Crush It! Books for Entrepreneurs](images/Crush-It-Books-for-Entrepreneurs-204x300.jpeg)[_Crush It!_](https://www.goodreads.com/book/show/6474550-crush-it) by Gary Vaynerchuk is a definitive guide for entrepreneurs seeking to maximize their personal brand and influence. Vaynerchuk, a renowned entrepreneur and social media expert, delves into the power of online platforms to build and grow a business.
+![Crush It! Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Crush-It-Books-for-Entrepreneurs-204x300.jpeg)[_Crush It!_](https://www.goodreads.com/book/show/6474550-crush-it) by Gary Vaynerchuk is a definitive guide for entrepreneurs seeking to maximize their personal brand and influence. Vaynerchuk, a renowned entrepreneur and social media expert, delves into the power of online platforms to build and grow a business.
 
 This book offers practical advice on harnessing social media channels to create a loyal following and turn passions into profitable ventures. Gary’s storytelling weaves in success stories, demonstrating how a strong personal brand can be a game-changer.
 
 *Crush It!* is not just about becoming successful but about being significant in the digital age, making it an essential read for modern entrepreneurs.
 
-![Review - Crush It!](images/Review-Crush-It.png)
+![Review - Crush It!](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Crush-It.png)
 
 ## 22\. The Execution Factor by Kim Perell
 
-![The Execution Factor – Books for Entrepreneurs](images/The-Execution-Factor-E28093-Books-for-Entrepreneurs-200x300.jpeg)In [_The Execution Factor_](https://www.goodreads.com/book/show/38636897-the-execution-factor)*,* Kim Perell emphasizes one crucial skill for success: execution. This book stands out for its focus on action as the cornerstone of entrepreneurial achievement.
+![The Execution Factor – Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/The-Execution-Factor-E28093-Books-for-Entrepreneurs-200x300.jpeg)In [_The Execution Factor_](https://www.goodreads.com/book/show/38636897-the-execution-factor)*,* Kim Perell emphasizes one crucial skill for success: execution. This book stands out for its focus on action as the cornerstone of entrepreneurial achievement.
 
 Perell, a successful entrepreneur and angel investor, shares her insights and experiences, outlining the key components necessary for executing a vision. The book is filled with practical strategies to turn ideas into actions and actions into results.
 
 For entrepreneurs looking to transform their vision into a thriving business, *The Execution Factor* offers the roadmap for success.
 
-![Review - The Execution Factor](images/Review-The-Execution-Factor.png)
+![Review - The Execution Factor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-The-Execution-Factor.png)
 
 ## 23\. How I Built This by Guy Raz
 
-![How I Built This - Books for Entrepreneurs](images/How-I-Built-This-Books-for-Entrepreneurs-scaled-1-199x300.jpeg)Guy Raz's [_How I Built This_](https://www.goodreads.com/book/show/48930275-how-i-built-this?from_search=true&from_srp=true&qid=t6WxbeBXZ8&rank=1) offers an inspiring look at the paths taken by some of the world's most influential entrepreneurs. Based on his popular podcast, Raz shares stories of innovators, entrepreneurs, and idealists, revealing the challenges and triumphs of building a successful business.
+![How I Built This - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-I-Built-This-Books-for-Entrepreneurs-scaled-1-199x300.jpeg)Guy Raz's [_How I Built This_](https://www.goodreads.com/book/show/48930275-how-i-built-this?from_search=true&from_srp=true&qid=t6WxbeBXZ8&rank=1) offers an inspiring look at the paths taken by some of the world's most influential entrepreneurs. Based on his popular podcast, Raz shares stories of innovators, entrepreneurs, and idealists, revealing the challenges and triumphs of building a successful business.
 
 The book provides an in-depth exploration of the entrepreneurial journey, showcasing the unexpected routes to success. It's a compilation of wisdom, failures, and victories, making it an invaluable resource for anyone eager to understand the realities of starting and growing a business.
 
-![Review - How I Built This](images/Review-How-I-Built-This.png)
+![Review - How I Built This](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-How-I-Built-This.png)
 
 ## 24\. Why Didn’t Anybody Tell Me This Sh\*t Before? by Marcella Allison and Laura Gale
 
-![Why Didn't Anybody Tell Me This Sh*t Before?- Wit and Wisdom from Women in Business - Books for Entrepreneurs](images/Why-Didnt-Anybody-Tell-Me-This-Sht-Before-Wit-and-Wisdom-from-Women-in-Business-Books-for-Entrepreneurs-200x300.jpeg)[_Why Didn’t Anybody Tell Me This Sh\*t Before?_](https://www.goodreads.com/book/show/45732580-why-didn-t-anybody-tell-me-this-sh-t-before)" by Marcella Allison and Laura Gale is a candid collection of wisdom from successful women in business. This book brings together stories and lessons that are often left out of traditional business narratives.
+![Why Didn't Anybody Tell Me This Sh*t Before?- Wit and Wisdom from Women in Business - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Why-Didnt-Anybody-Tell-Me-This-Sht-Before-Wit-and-Wisdom-from-Women-in-Business-Books-for-Entrepreneurs-200x300.jpeg)[_Why Didn’t Anybody Tell Me This Sh\*t Before?_](https://www.goodreads.com/book/show/45732580-why-didn-t-anybody-tell-me-this-sh-t-before)" by Marcella Allison and Laura Gale is a candid collection of wisdom from successful women in business. This book brings together stories and lessons that are often left out of traditional business narratives.
 
 The authors provide a diverse range of experiences and insights, offering valuable perspectives on navigating the business world as a woman.
 
 It’s an honest, witty, and empowering read, especially for female entrepreneurs who seek guidance and inspiration from those who have paved the way.
 
-![Review - Why Didn't Anybody Tell Me This Sh*t Before?: Wit and Wisdom from Women in Business](images/Review-Why-Didnt-Anybody-Tell-Me-This-Sht-Before-Wit-and-Wisdom-from-Women-in-Business.png)
+![Review - Why Didn't Anybody Tell Me This Sh*t Before?: Wit and Wisdom from Women in Business](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Why-Didnt-Anybody-Tell-Me-This-Sht-Before-Wit-and-Wisdom-from-Women-in-Business.png)
 
 ## 25\. Your Next Level Life by Karen Arrington
 
-![Your Next Level Life - Books for Entrepreneurs](images/Your-Next-Level-Life-Books-for-Entrepreneurs-214x300.jpeg)Karen Arrington’s [_Your Next Level Life_](https://www.goodreads.com/book/show/45836033-your-next-level-life?ac=1&from_search=true&qid=fuD1lxMGyk&rank=1) is a powerful guide for African-American women striving for success in business. This book offers seven rules of power, confidence, and opportunity, tailored to uplift and inspire.
+![Your Next Level Life - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Your-Next-Level-Life-Books-for-Entrepreneurs-214x300.jpeg)Karen Arrington’s [_Your Next Level Life_](https://www.goodreads.com/book/show/45836033-your-next-level-life?ac=1&from_search=true&qid=fuD1lxMGyk&rank=1) is a powerful guide for African-American women striving for success in business. This book offers seven rules of power, confidence, and opportunity, tailored to uplift and inspire.
 
 Arrington, a mentor and coach, provides actionable advice for overcoming obstacles and seizing opportunities. The book is a unique resource, focusing on empowering Black women to achieve their entrepreneurial dreams and create impactful legacies.
 
-![Review - Your next level life](images/Review-Your-next-level-life.png)
+![Review - Your next level life](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Your-next-level-life.png)
 
 ## 26\. Black Magic by Chad Sanders
 
-![Black Magic - books for Entrepreneurs](images/Black-Magic-books-for-Entrepreneurs-197x300.jpeg)In [_Black Magic_](https://www.goodreads.com/book/show/58438443-black-magic?ac=1&from_search=true&qid=vbW1dum2Uy&rank=1)*,* Chad Sanders explores the unique experiences and lessons learned by Black leaders. This book provides a deep dive into how trauma and triumph have shaped the journeys of these influential figures.
+![Black Magic - books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Black-Magic-books-for-Entrepreneurs-197x300.jpeg)In [_Black Magic_](https://www.goodreads.com/book/show/58438443-black-magic?ac=1&from_search=true&qid=vbW1dum2Uy&rank=1)*,* Chad Sanders explores the unique experiences and lessons learned by Black leaders. This book provides a deep dive into how trauma and triumph have shaped the journeys of these influential figures.
 
 Sanders weaves together stories that highlight resilience, creativity, and leadership. *Black Magic* is not just a collection of success stories; it's an exploration of the powerful ways in which adversity can be transformed into strength, making it a crucial read for entrepreneurs of all backgrounds.
 
-![Review - Black Magic](images/Review-Black-Magic.png)
+![Review - Black Magic](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Black-Magic.png)
 
 ## 27\. That Will Never Work by Marc Randolph
 
-![That Will Never Work - Books for Entrepreneurs](images/That-Will-Never-Work-Books-for-Entrepreneurs-194x300.jpeg)Marc Randolph's [_That Will Never Work_](https://www.goodreads.com/book/show/44428950-that-will-never-work) narrates the birth and rise of Netflix, offering an insider’s view of the challenges and triumphs of building a disruptive company. Randolph, a co-founder of Netflix, shares candid stories of the company’s early struggles and unexpected successes.
+![That Will Never Work - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/That-Will-Never-Work-Books-for-Entrepreneurs-194x300.jpeg)Marc Randolph's [_That Will Never Work_](https://www.goodreads.com/book/show/44428950-that-will-never-work) narrates the birth and rise of Netflix, offering an insider’s view of the challenges and triumphs of building a disruptive company. Randolph, a co-founder of Netflix, shares candid stories of the company’s early struggles and unexpected successes.
 
 This book is a testament to the power of innovative ideas and perseverance. Entrepreneurs will find valuable lessons in Randolph’s approach to problem-solving and risk-taking, making *That Will Never Work* a source of inspiration and practical insights.
 
-![Review - That Will Never Work](images/Review-That-Will-Never-Work.png)
+![Review - That Will Never Work](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-That-Will-Never-Work.png)
 
 ## 28\. The Soul-Sourced Entrepreneur by Christine Kane
 
-![The Soul-Sourced Entrepreneur - books for Entrepreneurs](images/The-Soul-Sourced-Entrepreneur-books-for-Entrepreneurs-201x300.jpeg)[_The Soul-Sourced Entrepreneur_](https://www.goodreads.com/book/show/54200442-the-soul-sourced-entrepreneur) by Christine Kane is a guide for those who approach entrepreneurship with creativity and sensitivity. Kane, an entrepreneur and coach, presents an unconventional success plan for the highly creative and ambitious.
+![The Soul-Sourced Entrepreneur - books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/The-Soul-Sourced-Entrepreneur-books-for-Entrepreneurs-201x300.jpeg)[_The Soul-Sourced Entrepreneur_](https://www.goodreads.com/book/show/54200442-the-soul-sourced-entrepreneur) by Christine Kane is a guide for those who approach entrepreneurship with creativity and sensitivity. Kane, an entrepreneur and coach, presents an unconventional success plan for the highly creative and ambitious.
 
 The book emphasizes the importance of aligning business strategies with one's inner values and strengths. It’s an essential read for entrepreneurs who want to succeed without compromising their creative integrity or personal well-being.
 
-![Review - The Soul-Sourced Entrepreneur](images/Review-The-Soul-Sourced-Entrepreneur.png)
+![Review - The Soul-Sourced Entrepreneur](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-The-Soul-Sourced-Entrepreneur.png)
 
 ## 29\. The Daily Entrepreneur by S.J. Scott and Rebecca Livermore
 
-![The Daily Entrepreneur - Books for Entrepreneurs](images/The-Daily-Entrepreneur-Books-for-Entrepreneurs-226x300.jpeg)[_The Daily Entrepreneur_](https://www.goodreads.com/book/show/23462396-the-daily-entrepreneur) by S.J. Scott and Rebecca Livermore is a practical handbook for small business owners, freelancers, and those aspiring to escape the 9-to-5 routine.
+![The Daily Entrepreneur - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/The-Daily-Entrepreneur-Books-for-Entrepreneurs-226x300.jpeg)[_The Daily Entrepreneur_](https://www.goodreads.com/book/show/23462396-the-daily-entrepreneur) by S.J. Scott and Rebecca Livermore is a practical handbook for small business owners, freelancers, and those aspiring to escape the 9-to-5 routine.
 
 The book outlines 33 success habits that can help entrepreneurs stay productive and motivated.
 
@@ -505,37 +505,37 @@ Scott and Livermore offer actionable tips for daily routines, emphasizing the im
 
 This book is a valuable resource for those looking to make every day count on their entrepreneurial journey.
 
-![Review - The Daily Entrepreneur](images/Review-The-Daily-Entrepreneur.png)
+![Review - The Daily Entrepreneur](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-The-Daily-Entrepreneur.png)
 
 ## 30\. Virtual Freedom by Chris Ducker
 
-![Virtual Freedom - Books for Entrepreneurs](images/Virtual-Freedom-Books-for-Entrepreneurs-201x300.jpeg)[_Virtual Freedom_](https://www.goodreads.com/book/show/18406455-virtual-freedom) by Chris Ducker is a must-read for entrepreneurs looking to leverage virtual staff. This book provides insights into how virtual teams can free up time, increase productivity, and support the growth of a dream business.
+![Virtual Freedom - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Virtual-Freedom-Books-for-Entrepreneurs-201x300.jpeg)[_Virtual Freedom_](https://www.goodreads.com/book/show/18406455-virtual-freedom) by Chris Ducker is a must-read for entrepreneurs looking to leverage virtual staff. This book provides insights into how virtual teams can free up time, increase productivity, and support the growth of a dream business.
 
 Ducker, an expert in virtual entrepreneurship, offers strategies for finding, hiring, and managing remote workers effectively.
 
 The book is an invaluable guide for entrepreneurs in the digital age, demonstrating how virtual teams can be a game-changer for business operations.
 
-![Review - Virtual Freedom](images/Review-Virtual-Freedom.png)
+![Review - Virtual Freedom](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Virtual-Freedom.png)
 
 ## 31\. Dare To Lead by Brené Brown
 
-![Dare To Lead - Books for Entrepreneurs](images/Dare-To-Lead-Books-for-Entrepreneurs-225x300.jpeg)[_Dare To Lead_](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brené Brown is a groundbreaking book on leadership, crucial for entrepreneurs who aspire to lead with courage and empathy. Brown, a renowned researcher and speaker, delves into the qualities that make great leaders.
+![Dare To Lead - Books for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dare-To-Lead-Books-for-Entrepreneurs-225x300.jpeg)[_Dare To Lead_](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brené Brown is a groundbreaking book on leadership, crucial for entrepreneurs who aspire to lead with courage and empathy. Brown, a renowned researcher and speaker, delves into the qualities that make great leaders.
 
 This book challenges traditional notions of leadership, advocating for vulnerability, resilience, and connection.
 
 Entrepreneurs who want to lead effectively in today’s complex world will find *Dare To Lead* an insightful and transformative read.
 
-![Review - Dare To Lead](images/Review-Dare-To-Lead.png)
+![Review - Dare To Lead](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Dare-To-Lead.png)
 
 ## 32\. Shoe Dog by Phil Knight
 
-![](images/Shoe-Dog-Books-for-Entrepreneurs-199x300.jpeg)Phil Knight's [_Shoe Dog_](https://www.goodreads.com/book/show/27220736-shoe-dog) offers a raw and riveting account of the journey of creating Nike. This exclusive biography details Knight's entrepreneurial path, full of challenges, setbacks, and triumphs.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Shoe-Dog-Books-for-Entrepreneurs-199x300.jpeg)Phil Knight's [_Shoe Dog_](https://www.goodreads.com/book/show/27220736-shoe-dog) offers a raw and riveting account of the journey of creating Nike. This exclusive biography details Knight's entrepreneurial path, full of challenges, setbacks, and triumphs.
 
 *Shoe Dog* provides an honest look at the realities of starting and growing a business, from the perspective of one of the world's most successful entrepreneurs.
 
 Knight's story is not just about building a global brand, but about the passion, perseverance, and spirit needed to make a dream a reality.
 
-![Review - Shoe Dog](images/Review-Shoe-Dog.png)
+![Review - Shoe Dog](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Review-Shoe-Dog.png)
 
 ## Wrapping Up
 

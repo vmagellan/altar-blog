@@ -1,7 +1,7 @@
 ---
 title: "A Tech Founder's Perspective on Collaborating with a Software Development Company"
 date: "2023-07-12"
-categories: 
+categories:
   - "looking-for-development"
 coverImage: "fotis-fotopoulos-DuHKoV44prg-unsplash-scaled-1.jpg"
 slug: building-a-startup-with-a-software-development-company-tech-founders-perspective
@@ -21,8 +21,6 @@ I’ll also cover how my co-founder and I went through the due diligence process
 Finally, I’ll share some tips and tricks for setting up the founder-agency relationship the right way, so you can increase your chances of success should you decide to build your startup with an outsourced partner
 
 But first, I’d like to give you a bit more background on the idea behind Ovvio.
-
- 
 
 #### Contents
 
@@ -76,19 +74,11 @@ This caused us to actually revisit the idea of building in-house. And we’d pla
 
 Which is when we found Altar. We saw that not only did they have a depth of knowledge in product, UX/UI and software development, but they also get completely invested in the projects they work on.
 
-
-
 I’ve said it before, but I’ll say it again, the team at Altar really became an extended team of co-founders for us.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -118,8 +108,6 @@ Moreover, it gives you an insight into how interactions will be with the agency 
 
 It gives you much more information on which to make the final decision.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 ## Onboarding an Agency & Kicking the Project Off
@@ -137,8 +125,6 @@ It comes down to open communication & transparency on both sides and having clea
 A good example of when it doesn’t work is an engagement we recently took up with a social media agency to help us manage marketing.
 
 The communication simply wasn’t there and we couldn’t work out a mechanism to get visibility from them. And because of that, it simply didn’t work and we ended the business relationship.
-
-
 
 Related: [How I Found the Right Software Development Company for My Startup](https://altar.io/finding-a-software-development-company-startup/)
 
@@ -164,8 +150,6 @@ Chief among them is that they take away a lot of the headaches that come with ma
 
 It also gives you a lot of flexibility in that respect. You’re able to make shorter-term contracts based on your development need, meaning you're not paying for development when you don’t need it.
 
-
-
 Related: [My Experience Building a Tech Startup Without a Technical Co-Founder](https://altar.io/building-a-startup-without-a-technical-co-founder/)
 
 ## Looking Back on The Collaboration
@@ -173,12 +157,6 @@ Related: [My Experience Building a Tech Startup Without a Technical Co-Founder](
 Our original idea when it came to bringing on a software development company was to have an external team simply help us build the product.
 
 What we got was a much deeper business relationship in which we had full alignment with a group of product and technical experts who were capable of fully understanding our vision. Moreover, they were able to help us scope it in such a way that I feel like we even overachieved in the collaboration.
-
-
-
-
-
-
 
 ## Final Advice to Entrepreneurs Considering Building Their Product with an Agency
 

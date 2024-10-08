@@ -1,9 +1,9 @@
 ---
 title: "How a Startup Accelerator Catapulted my Entrepreneurial Journey (Founder Interview)"
 date: "2022-09-02"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "startup"
@@ -19,7 +19,7 @@ In it, he shared an in-depth process of how to apply for the top 10 on that list
 
 One of those reviews came from 500 Startups Alumni, Bethany Stachenfeld.
 
-![Bethany, co-founder and accelerator alumni](images/Bethany-500-Startups-300x300.jpeg)
+![Bethany, co-founder and accelerator alumni](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bethany-500-Startups-300x300.jpeg)
 
 She’s the co-founder and CEO of [Sendspark](https://www.sendspark.com/), a startup that’s revolutionising how companies connect with their customers using video communication.
 
@@ -47,9 +47,7 @@ That was the end of 2018. In 2019 we officially launched Sendspark with a focus 
 
 Since then the whole world has changed thanks to COVID. We’re still really big on video but we’ve expanded from email marketing to all kinds of sales and customer communication. With Sendspark, you can easily create personalized videos at scale, which is especially helpful for sales prospecting and customer success.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -76,8 +74,6 @@ So one, we wanted the accelerator program but, more importantly, we wanted a com
 For the most part, when it comes to an idea, you’re still trying to figure it out, so share it. Even now, I’ll go to happy hours and talk about features we’re considering and ask people if they would use them. Normally after a beer or two, people are more than happy to share their thoughts and tell the truth.
 
 So I’m not scared to share ideas.
-
-
 
 Related: [Entrepreneurial Mindset Lessons from Startup Founders that Raised Millions](https://altar.io/entrepreneurial-mindset-lessons/)
 
@@ -106,8 +102,6 @@ We just didn’t align on the vision for the startups' growth. Even if the miles
 We really liked the people and we completely aligned with them. They also have a huge global founders network which, as a remote team especially, makes you feel like part of a global community, not just a Silicon Valley bubble.
 
 It comes down to the people, at the end of the day and we just aligned with them the best.
-
-
 
 Related: [Selling a Fintech Before Launch by Leveraging Your Most Valuable Resource: People](https://altar.io/selling-fintech-before-launch-leveraging-people/)
 
@@ -156,10 +150,6 @@ I do think there’s a benefit to being in person and letting serendipity happen
 It’s what we do at Sendspark. We’re never going to have an office but we try to have at least two offsites a year. Like in a few weeks we’re going to Columbia to stay in one huge Airbnb together for like a week.
 
 That way we still get to meet and be together – I feel like 500 is going that way as well.
-
-
-
-
 
 #### R: What would you say are the main benefits of working with 500 Startups?
 

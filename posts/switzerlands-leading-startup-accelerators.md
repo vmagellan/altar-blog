@@ -48,7 +48,7 @@ You can apply at any time via the [form on their website](https://www.ventureki
 
 Portfolio companies include [Lunaphore](https://www.crunchbase.com/organization/lunaphore-technologies), [Araris Biotech](https://www.crunchbase.com/organization/araris-biotech) & [Bicycle Therapeutics](https://www.crunchbase.com/organization/bicycle-therapeutics).
 
-What the Alumni are Saying ![Altar - What is Saying](images/Vincent-Forster.jpeg)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Vincent-Forster.jpeg)
 
 I doubt that Stripe would have worked without the YC accelerator program. It’s that simple.
 
@@ -56,7 +56,7 @@ Acquiring early customers, figuring out who to hire, closing deals with banks, r
 
 Vincent Forster, CEO, [Versantis](https://www.swissbiotech.org/listing/versantis-ag/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -76,7 +76,7 @@ You can apply to MassChallenge via their website.
 
 Portfolio companies include [Aternity](https://www.crunchbase.com/organization/aternity), [Butter](https://www.crunchbase.com/organization/joinbutter) & [Shep](https://www.crunchbase.com/organization/compl-ai).
 
-What the Alumni are Saying ![Altar - What is Saying](images/Amy-VanHaren-Founder-CEO.jpeg)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Amy-VanHaren-Founder-CEO.jpeg)
 
 Five years ago, I entered the Mass Challenge accelerator with little more than a big vision for my company. The experience gave us knowledge, resources, founder community, access to capital, amazing mentors, and a boatload of cheering on, which helped us truly take key steps toward bringing our vision to life.
 
@@ -98,7 +98,7 @@ Additionally, they offer an academy designed to aid in the development of an inn
 
 The Intrapreneurship Program is a 10-week validation journey, providing the final impetus needed to launch a sustainable enterprise. Throughout the program, participants not only learn effective collaboration techniques for innovative projects but also become acquainted with relevant tools, methodologies, and a mindset geared towards change. Interested parties can submit applications through the Kickstart Innovation website.
 
-What the Alumni are Saying ![Altar - What is Saying](images/Swisscoms-Chief-Digital-Officer-Roger-Wuthrich-Hasenbohler.jpeg)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Swisscoms-Chief-Digital-Officer-Roger-Wuthrich-Hasenbohler.jpeg)
 
 Swisscom Ventures invested in a STEM startup – Labster in 2018. They went through Kickstart Innovation’s program, which is how we met them. The scaleup has raised over CHF 60 million by now. It’s just one of the many alumni stories from Kickstart that show the possibility of scale, growth and success.
 

@@ -1,9 +1,9 @@
 ---
 title: "A Software Development Agency Must Challenge A Startup Founder"
 date: "2019-06-29"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "management"
   - "mvp"
   - "startup"
@@ -23,8 +23,6 @@ In this article, I am going to outline why challenging ideas and assumptions can
 
 In a startup environment, the risk is that (most of the time) you may not have the resources to recover from partnering with the wrong agency. This makes choosing the right one vital for survival.
 
-
-
 Related: [How to Outsource Software Development Successfully](https://altar.io/founders-guide-how-to-outsource-software-development-2020/)
 
 Often a more “salesy” agency will say yes to every request you make - greedy to increase its client base and quickly produce billables. Without taking a second to learn about your business vision or market fit they will start building your product. They don’t care if you get what you need at the end of the process because it’s not their business - therefore it’s not their problem.
@@ -39,8 +37,6 @@ In my experience most of the time founders come with Idea A, we suggest Idea B a
 
 By not taking valuable advice when it’s given you are risking your business. In fact, [this article from Inc.](https://www.inc.com/nicolas-cole/the-majority-of-startups-fail-heres-why-thats-a-founder-problem-not-a-startup-problem.html) argues that startups don’t fail because they’re startups - they fail because of their founders:
 
-
-
 Founders fail because they want to believe they have it all figured out, even when they don't.
 
 Founders fail because they want to be seen as the smartest person in the room - and not seen as the student.
@@ -49,19 +45,11 @@ Founders fail because they can't admit when they're wrong.
 
 By allowing yourself to be challenged you will become wiser throughout your business journey. You will have a clearer idea of where to invest your time & money - thanks, in part, to that outside eye. After all, if you are talking to an experienced agency they have probably faced many of the pitfalls and mistakes you are likely to encounter.
 
+![A Software Development Agency Must Challenge A Startup Founder - Benefits For The Startup Founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/charles-deluvio-AT5vuPoi8vc-unsplash-1024x498.jpg)
 
-
-![A Software Development Agency Must Challenge A Startup Founder - Benefits For The Startup Founder](images/charles-deluvio-AT5vuPoi8vc-unsplash-1024x498.jpg) 
-
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -85,8 +73,6 @@ If in the process of challenging the startup the discussion becomes counterprodu
 
 The process of challenging a founder demonstrates that you are dealing with an honest agency. An intelligent founder will appreciate this and is more likely to consider the agency for further work or referrals.
 
-
-
 Related: [Software Development for Startups: The Entrepreneurs’ Guide](https://altar.io/how-a-dev-agency-can-be-your-startups-best-friend/)
 
 ## Final Thoughts
@@ -96,9 +82,3 @@ It takes time and hard work for both the founder and the agency to create positi
 For founders, my advice is to partner with entities that put passion and professionalism in what they’re doing. Who use their expertise to challenge your decisions - in order to help to create a high-quality product that achieves your business goals.
 
 For the agencies, my advice is to look for founders that are committed and open to criticism. Look for people that pursue their work with passion and have a clear vision for their venture. Who respect and value the time they spend working with you.
-
-
-
-
-
-

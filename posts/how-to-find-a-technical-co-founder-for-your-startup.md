@@ -22,7 +22,7 @@ And the fact is, there’s no secret playbook, and sometimes the perfect match a
 
 I usually mention an example from a really smart entrepreneur [I got to know a few months ago](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/), Jan-Philipp Kruip, the founder of FitSense.
 
-![fintech product founder Jan-Philipp Kruip](images/Screenshot-2020-09-18-at-19.42.04-1-qjbj339yjy0piigdpzke4fo95logbxie0owgpf2u88.png "fintech product founder Jan-Philipp Kruip")
+![fintech product founder Jan-Philipp Kruip](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1-qjbj339yjy0piigdpzke4fo95logbxie0owgpf2u88.png "fintech product founder Jan-Philipp Kruip")
 
 He was looking for entrepreneurial opportunities in Singapore when he stumbled upon a platform that was essentially Tinder for co-founders.
 
@@ -42,7 +42,7 @@ But not all stories are as peculiar as Jan-Philipp’s. It’s a lot more common
 
 This is exactly what happened with [another entrepreneur I met recently](https://altar.io/selling-fintech-before-launch-leveraging-people/), Giacomo De Lorenzo.
 
-![Tools for Entrepreneurs, Giacomo de Lorenzo](images/Giacomo-de-Lorenzo.jpeg)
+![Tools for Entrepreneurs, Giacomo de Lorenzo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo.jpeg)
 
 It was the experience of working together at a startup that told them they were the right match when it came to founding their fintech, Moneymour.
 
@@ -112,7 +112,7 @@ This doesn’t even need to be something technical, it can be a roadmap, budget 
 
 Failure to meet the delivery date is a huge red flag. After all, if they can’t carry out a simple deliverable now how will they cope when you’re both in the trenches of product development?
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -251,7 +251,7 @@ fresh, actionable tech and startup related insights and tips
 
 Just a few weeks ago [I was speaking to a CTO and technical co-founder](https://altar.io/what-founders-should-know-before-hiring-a-cto-or-software-agency-expert-interview/) with nearly 20 years of experience on this exact topic, Nelly Yusupova.
 
-![](images/nelly-headshot-large-how-to-find-a-tech-co-founder.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/nelly-headshot-large-how-to-find-a-tech-co-founder.png)
 
 Throughout our conversation, she shared a number of tips and insights on the relationship between an entrepreneur and a technical stakeholder, including what a technical co-founder is looking for in an entrepreneur.
 

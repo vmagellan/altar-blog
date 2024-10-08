@@ -62,7 +62,7 @@ Throughout the rest of this article, I will list all of the qualities you need t
 
 Before that, however, I want to take a moment to define what I mean by product.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -76,7 +76,7 @@ Product is a fairly new discipline in the startup world – at least compared w
 
 Product is the intersection of **business**, **technology** and **user experience**.
 
-![Product at the centre of Business tech & UX](images/Product-at-the-centre-of-Business-tech-UX.png)
+![Product at the centre of Business tech & UX](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Product-at-the-centre-of-Business-tech-UX.png)
 
 Only someone who is deeply experienced in these three aspects can be a great product manager.
 

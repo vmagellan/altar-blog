@@ -1,7 +1,7 @@
 ---
 title: "Our 10 Best Entrepreneurship Articles of 2022 [Rated by Over 150k Entrepreneurs]"
 date: "2023-01-06"
-categories: 
+categories:
   - "startup-advice"
 coverImage: "jason-leung-Xaanw0s0pMk-unsplash-scaled-1.jpg"
 slug: best-entrepreneurship-articles-2022
@@ -23,8 +23,6 @@ Out of all of the articles we created, there were 10 that our 150k+ strong commu
 So we dug into the data to find out which they were.
 
 I’ve listed them below and I can confidently say that the information in all of them will certainly help you avoid some of the pitfalls all entrepreneurs face on their startup journey.
-
- 
 
 #### Contents
 
@@ -81,15 +79,9 @@ He decided to move on without a technical co-founder. And learned some valuable 
 
 You can find the whole story [here](https://altar.io/building-a-startup-without-a-technical-co-founder/).
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -145,8 +137,6 @@ In this part of the conversation, Garrett draws on his 25 years of experience bu
 
 Advice like how in startup culture:
 
-
-
 It all starts with you. The Founder. The company is a full-blown extension of you.
 
 You have to bring the same values that you have in your life, in your family, to the startup.
@@ -183,12 +173,6 @@ But we’ve seen how valuable the right process can be to mitigate the risks.
 
 Check out the [full article](https://altar.io/7-steps-bring-your-startup-idea-to-life/) for more.
 
-
-
-
-
-
-
 ## 8\. How an Experience in Turkey Led to a Million-Dollar Startup \[Founder Interview\]
 
 Another great conversation, which culminated in the eighth interview in our [Startup Journey](https://altar.io/category/startup-journey-interviews/) series.
@@ -221,11 +205,11 @@ I hope you enjoy it.
 
 It’s one of the most contentious questions in the startup world:
 
-_Should you hire a CTO to build your startup product or outsource to a software development company?_ 
+_Should you hire a CTO to build your startup product or outsource to a software development company?_
 
 Some will tell you the **only** way to build a startup is to hire a CTO.
 
-Others will tell you that it doesn’t matter _who_ builds your product, just that your product gets to market quickly.
+Others will tell you that it doesn’t matter *who* builds your product, just that your product gets to market quickly.
 
 But there is another line of thought…
 

@@ -82,7 +82,7 @@ But before you classify yourself as “technical” or “non-technical”, I wa
 
 As [Andrej Karpathy](https://karpathy.ai/), one of the founding members of OpenAI, puts it:
 
-![Andrej Karpathy on Twitter: Nice read on reverse engineering of GitHub Copilot 🪄. Copilot has dramatically accelerated my coding, it's hard to imagine going back to "manual coding". Still learning to use it but it already writes ~80% of my code, ~80% accuracy. I don't even really code, I prompt. & edit.](images/Screenshot-2024-05-13-at-19.24.23-1024x311.png)
+![Andrej Karpathy on Twitter: Nice read on reverse engineering of GitHub Copilot 🪄. Copilot has dramatically accelerated my coding, it's hard to imagine going back to "manual coding". Still learning to use it but it already writes ~80% of my code, ~80% accuracy. I don't even really code, I prompt. & edit.](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.24.23-1024x311.png)
 
 Coding used to be a no-go for many business-oriented “non-technical” users, given the steep learning curve. However, the steepness of the learning curve is lower than ever before. With tools like [Github co-pilot](https://github.com/features/copilot) and [code interpreter](https://platform.openai.com/docs/assistants/tools/code-interpreter), learning to code just enough Python for your needs is fairly accessible.
 
@@ -98,7 +98,7 @@ Let’s do a quick experiment!
 
 3 - Prompt it to, based on your data, generate the Python code required to visualise a graph
 
-![Generating python code to track startup KPIs on ChatGPT](images/Screenshot-2024-05-13-at-18.56.04-1024x746.png) ![Generating python code to track startup KPIs on ChatGPT - bar chart output](images/Screenshot-2024-05-13-at-18.56.11-1024x676.png)
+![Generating python code to track startup KPIs on ChatGPT](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-18.56.04-1024x746.png) ![Generating python code to track startup KPIs on ChatGPT - bar chart output](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-18.56.11-1024x676.png)
 
 It should already output a graph based on your data. _Easy huh?_
 
@@ -110,7 +110,7 @@ It should already output a graph based on your data. _Easy huh?_
 
 6 - Prompt chatGPT to explain this line to you:
 
-![Generating python code to track startup KPIs on ChatGPT -explanation output](images/Screenshot-2024-05-13-at-19.02.41.png)
+![Generating python code to track startup KPIs on ChatGPT -explanation output](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.02.41.png)
 
 The above exercise should convince you that, much like DeepL allows you to speak Italian fairly well (when you’re in desperate need of a pizza in Napoli 🍕), LLMs allow you to get by with writing the code you need to build the graphs you want.
 
@@ -118,7 +118,7 @@ It won’t be perfect from the start, but AI will remove most of the frustration
 
 [According to McKinsey](https://www.mckinsey.com/featured-insights/mckinsey-explainers/whats-the-future-of-generative-ai-an-early-view-in-15-charts), generative AI has the potential to reduce frustration, increase happiness, and foster ‘flow’ states associated with writing code.
 
-![McKinsey Data on Generative AI and the developer experience](images/Screenshot-2024-05-13-at-19.06.00-1024x615.png)
+![McKinsey Data on Generative AI and the developer experience](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.06.00-1024x615.png)
 
 ##### Looking to Integrate AI into Your Business?
 
@@ -145,7 +145,7 @@ However, there are **limitations and downsides**:
 2. **Predictive Analytics:** These platforms generally offer limited support for advanced predictive analytics and machine learning algorithms. This restricts users from performing more sophisticated data analysis that could anticipate future trends and patterns.
 3. **Painful to Debug:** When dashboards fail or display errors, troubleshooting is often painful. Parts of these systems are built as a black box, making it hard to quickly trace and resolve issues:
 
-![Google Data Studio Visualisation Errors](images/Screenshot-2024-05-13-at-19.08.19-1024x489.png)
+![Google Data Studio Visualisation Errors](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.08.19-1024x489.png)
 
 🤔 _Is it just me, or everyone who has ever created a BI dashboard has had the painful moment of seeing its nicely crafted graphs disappear into a wall of warning signs?_
 
@@ -157,7 +157,7 @@ For more technical data analytics practitioners, wearing a hat of “data scient
 
 Python has been around since 1991, but its popularity has seen a large growth in the last decade, making it today [the most used programming language in the world](https://www.tiobe.com/tiobe-index/):
 
-![TIOBE Programming Community Index line chart – with Python leading the charge](images/Screenshot-2024-05-13-at-19.10.16-1024x337.png)
+![TIOBE Programming Community Index line chart – with Python leading the charge](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.10.16-1024x337.png)
 
 For the data practitioner, Python’s flexibility enables the performance of complex data manipulations, sophisticated predictive models, and custom visualisations. Its open-source nature nurtures shared community resources and means that you are free to embed Python into your commercial applications.
 
@@ -185,7 +185,7 @@ Right now, my favourite tool to build data apps is [Streamlit](https://streamlit
 
 Streamlit allows you to, using Python, create a fully functioning multi-page data app, with [authentication](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/) and interactive data visualisations. To understand the potential of data apps to understand data interactively, here is an [example of an interactive Streamlit forecasting data app](https://blog.streamlit.io/forecasting-with-streamlit-prophet/).
 
-![Example of tracking KPIs using Streamlit app](images/Screenshot-2024-05-13-at-19.13.53.png)
+![Example of tracking KPIs using Streamlit app](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.13.53.png)
 
 **A quick disclaimer:** Streamlit was acquired in March 2022 by Snowflake. I do not have any affiliation with either organisation, I simply love it for its simplicity.
 
@@ -203,7 +203,7 @@ By connecting your app’s Github repo to Streamlit Cloud, you simply need to pu
 
 Streamlit allows you to get data from various data sources (S3, Google Sheets and multiple databases), and existing data systems. It includes simple [guides on how to connect your data to Streamlit](https://docs.streamlit.io/develop/tutorials/databases).
 
-![How to connect streamlit to your data sources to track KPIs effectively](images/Screenshot-2024-05-13-at-19.16.24.png)
+![How to connect streamlit to your data sources to track KPIs effectively](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.16.24.png)
 
 ##### Sign up for our newsletter
 
@@ -218,11 +218,11 @@ The goal of all of this is to be able to visualise how your company is performin
 
 Streamlit offers lots of pre-built chart elements - see [docs](https://docs.streamlit.io/develop/api-reference/charts) which allow you to generate the graphs you want out of your data.
 
-![Streamliy Chart elements that allow you to visualise your data](images/Screenshot-2024-05-13-at-19.18.02.png)
+![Streamliy Chart elements that allow you to visualise your data](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.18.02.png)
 
 If this is not enough, and you want some special sauce, there are a lot of third-party community-created components which seamlessly add to the built-in functionalities - you can find them [here](https://streamlit.io/components?category=graphs).
 
-![community created components from streamlit](images/Screenshot-2024-05-13-at-19.19.20-1024x545.png)
+![community created components from streamlit](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.19.20-1024x545.png)
 
 ### Fetching Financial Data from Stripe API
 
@@ -254,7 +254,7 @@ Here is how I handled it:
 
 **1\. Created an “all_time_charges_data.csv” file with entries ordered by date.**
 
-![Uploading CSV file to data app to track KPIs](images/Screenshot-2024-05-14-at-11.15.20.png)
+![Uploading CSV file to data app to track KPIs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-14-at-11.15.20.png)
 
 **2\. Wrote the following function to get the last datetime fetched - this way I could know which data timeframe I needed to fetch**
 
@@ -266,7 +266,7 @@ Here is how I handled it:
 
 **4\. Added a button that runs the function and fetches new data:**
 
-![](images/Image-from-Altar-via-Slack.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Image-from-Altar-via-Slack.png)
 
 Alternatively, you can create a [cron job](https://en.wikipedia.org/wiki/Cron) to run the update_charges_all_time() function.
 

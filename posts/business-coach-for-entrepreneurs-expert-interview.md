@@ -25,11 +25,11 @@ Having a business coach to go to for advice, almost like a business therapist, w
 
 Someone like serial entrepreneur and business coach [Diane Prince](https://www.linkedin.com/in/dianeprincejohnston/).
 
-![Diane Prince - Entrepreneur and startup advisor](images/Peacock-Chair-Diane-Square-768x568.jpg)
+![Diane Prince - Entrepreneur and startup advisor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Peacock-Chair-Diane-Square-768x568.jpg)
 
 She launched her first business in 1996, a recruitment startup, OnStaff. Just six years later the company was making an annual revenue of $50M, at which point they sold the business to a strategic partner (check out the paperwork involved in the acquisition below!)
 
-![file-folders-day-Onstaff-Sold by Diane Prince.– entrepreneur and business coach](images/file-folders-day-Onstaff-Sold-by-Diane-Prince.–-entrepreneur-and-business-coach-1024x480.jpeg) Since then, Diane has built several companies, across several verticals. Alongside this, she has served as a business coach for many entrepreneurs.
+![file-folders-day-Onstaff-Sold by Diane Prince.– entrepreneur and business coach](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/file-folders-day-Onstaff-Sold-by-Diane-Prince.–-entrepreneur-and-business-coach-1024x480.jpeg) Since then, Diane has built several companies, across several verticals. Alongside this, she has served as a business coach for many entrepreneurs.
 
 So, my CMO Rui and I sat down with Diane to talk to her about everything you need to know to be in the best position to find and hire the right business coach for you.
 
@@ -107,7 +107,7 @@ Related: [Expert Interview: The Ultimate Guide to Startup Advisors](https://alta
 
 **D:** Yeah, I think that’s a really good way to put it. Definitely.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 

@@ -99,7 +99,7 @@ If, once you’ve gone through this process for your own startup, there is any a
 
 If your elevator pitch is absolutely “SSCC” you’re ready for step two.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -191,7 +191,7 @@ This makes it much more appealing than if you were to just tell them about the f
 
 Instead, he told the crowd that with the iPod, you could carry 1,000 songs in your pocket.
 
-![How apple communicated the unique value proposition of the original iPod](images/ipod-say-hello-1024x497.jpg)
+![How apple communicated the unique value proposition of the original iPod](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/ipod-say-hello-1024x497.jpg)
 
 Potential stakeholders could instantly contextualise 1,000 songs in your pocket, whereas few will understand what a 5GB hard drive *actually* means.
 

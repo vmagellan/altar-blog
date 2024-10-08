@@ -38,7 +38,7 @@ Incubators focus on helping startups that are yet to develop a full product and 
 
 Whereas accelerators help startups who already have a basic product (like an MVP or POC) out in the market. They focus on helping startups scale and grow.
 
-![Startup Incubators vs. Startup Accelerators](images/Incubators-vs.-Accelerators.png)
+![Startup Incubators vs. Startup Accelerators](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Incubators-vs.-Accelerators.png)
 
 ## How Startup Incubators & Accelerators Can Help You
 
@@ -92,7 +92,7 @@ Once you leave the accelerator, you’re added to Startupbootcamp’s Alumni Net
 
 You can find out which accelerators are open for applications [here](https://www.startupbootcamp.org/accelerator/).
 
-What the Alumni are Saying ![Altar - What is Saying](images/Startupbootcamp-Accelerator-Alumni-300x300-1.webp)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Startupbootcamp-Accelerator-Alumni-300x300-1.webp)
 
 Startupbootcamp proved invaluable. They have an amazing network and connected us with every investor in our seed round.
 
@@ -114,7 +114,7 @@ Once the program ends, you’re invited to join their alumni network, which you 
 
 The application process consists of a short form that allows you to showcase your education, experience and best achievements. All the application forms can be found [here](https://www.joinef.com/apply-now/).
 
-What the Alumni are Saying ![Altar - What is Saying](images/Entrepreneur-First-Alumni-Alex-Dalyac-CEO-Tractable-350x350-1.webp)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneur-First-Alumni-Alex-Dalyac-CEO-Tractable-350x350-1.webp)
 
 Entrepreneur First tells you: ‘you’re here to build billion dollar companies’. I remember thinking ‘that’s ridiculous.’
 
@@ -154,7 +154,7 @@ Month two is then taking what you achieved in month one, and using it to execute
 
 Month three is all about telling your story to set you up for fundraising and the demo day at the end of the program. You’ll craft your pitch deck, prepare investor collateral and, critically, learn how to communicate your vision.
 
-What the Alumni are Saying ![Altar - What is Saying](images/Adam-Wilson-Sphero-TechStars-Startup-Accelerator-Alumni.jpeg)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adam-Wilson-Sphero-TechStars-Startup-Accelerator-Alumni.jpeg)
 
 At critical moments throughout our history, somehow someone in the Techstars network pointed us in a direction that led us to where we are today.
 
@@ -174,7 +174,7 @@ They don’t define a specific amount when it comes to funding. They treat the f
 
 You can find the application form [here](https://foundersfactorystartups.typeform.com/to/WlDiIsRh#_ga=2.253600205.574094373.1660906954-2064936495.1660906954). You will be asked to extensively describe your startup and you’ll need to upload several supporting documents like a pitch deck.
 
-What the Alumni are Saying ![Altar - What is Saying](images/Founders-Factor-Alumni-Gerard-Keeley-Vidsy.webp)
+What the Alumni are Saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Founders-Factor-Alumni-Gerard-Keeley-Vidsy.webp)
 
 Working with Founders Factory helped us focus our business in the early stages. This was key to enabling us to structure our business to scale. The continued support and infrastructure has empowered us to go on to build a creative technology platform that is transforming the way the world’s largest brands create video advertising.
 

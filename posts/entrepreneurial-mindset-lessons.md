@@ -30,7 +30,7 @@ A phrase you’ve probably heard before, the idea of falling in love with the pr
 
 It’s a characteristic that is essential to the entrepreneurial mindset. Something made clear to me [in a conversation](https://altar.io/founder-story-fall-in-love-with-problems-not-solutions/) I had with serial entrepreneur, Ali Halabi.
 
-![Volt Lines Founder- Ali Halabi](images/DSCF4222-scaled-1-1024x576.jpg)
+![Volt Lines Founder- Ali Halabi](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DSCF4222-scaled-1-1024x576.jpg)
 
 After moving to Istanbul for his corporate job, he instantly fell in love with the city.
 
@@ -100,7 +100,7 @@ Every single time.
 
 All of this to say, there’s no such thing as a “Solopreneur” – so don’t be afraid to reach out to your network for support.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -126,7 +126,7 @@ That’s why I believe you should never stop asking “What if?” and “Why no
 
 A great example of this characteristic comes from Wade Eyerly. I [recently sat down with him](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/) to discuss several of the startups he’s launched. One of which being SurfAir, an airline that pioneered subscription-based flying.
 
-![Wade Eyerly, Founder of Surf Air](images/Wade-Surf-1024x512.jpeg)
+![Wade Eyerly, Founder of Surf Air](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf-1024x512.jpeg)
 
 The basic idea behind the company? “All you can fly” for $2,000 a month.
 
@@ -180,7 +180,7 @@ You should, however, listen to your intuition.
 
 Take Jan-Philipp’s story for example. I [recently sat down with him](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/) and he shared how he built his startup, FitSense.
 
-![entrepreneur Jan-Philip & his co-founder](images/Jan-Philip-his-co-founder.png)
+![entrepreneur Jan-Philip & his co-founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Jan-Philip-his-co-founder.png)
 
 Before founding the startup he worked in banking but was keen to work on something he could shape.
 
@@ -212,7 +212,7 @@ I could write a whole article about this trait, but two examples stick out in my
 
 The first comes from [a conversation I had with Illit Geller](https://altar.io/building-a-fintech-by-listening-to-the-market-founder-interview/). She’s an entrepreneur with over 21 years of experience building startups.
 
-![Entrepreneur Illit Geller](images/llit-1.jpeg)
+![Entrepreneur Illit Geller](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/llit-1.jpeg)
 
 She dealt with the work-life balance of building a startup by actively including her family in the journey:
 
@@ -242,7 +242,7 @@ Illit isn’t the only entrepreneur who did everything possible to reach the nex
 
 Another great example of this characteristic [comes from Sean Yu](https://altar.io/how-an-experience-in-turkey-led-to-a-million-dollar-startup-founder-interview/). His first entrepreneurial journey began in Turkey, where he built a multi-million dollar fintech.
 
-![Sean Yu, Startup Founder](images/image005.jpg)
+![Sean Yu, Startup Founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image005.jpg)
 
 One of his strongest memories of the early days of his startup was being flexible enough to fill whatever role needed filling to get the job done:
 
@@ -272,7 +272,7 @@ But Sean isn’t the only entrepreneur who showed true humility.
 
 When I sat down with multi-exit founder Yaron Samid, [he shared a story](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/) that also showed true humility in the name of startup success.
 
-![Multi-exit Fintech Founder Yaron Samid](images/Yaron-Samid-BillGuard-3.jpg)
+![Multi-exit Fintech Founder Yaron Samid](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 Yaron is the founder behind BillGuard, a multi-million dollar fintech app that helps you save money.
 

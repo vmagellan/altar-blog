@@ -28,7 +28,7 @@ I took to LinkedIn to share some of the ideas the book had taught me about how I
 
 It was nice, then, to receive a message from [Geoff Smart](https://www.linkedin.com/in/drgeoffsmart/) thanking me for my post.
 
-![Geoff Smart, Author of Who: The A Method for Hiring](images/Geoff-Smart-2-768x598.jpg)
+![Geoff Smart, Author of Who: The A Method for Hiring](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Geoff-Smart-2-768x598.jpg)
 
 I asked Geoff how he would feel about sitting down with me to talk further about his hiring process, and how entrepreneurs can improve their ability to onboard top talent.
 
@@ -85,7 +85,7 @@ According to [Employee Benefit News](https://www.benefitnews.com/news/avoidable
 
 Maybe the focus shouldn’t be on hiring slow and firing fast, but on hiring right and avoiding unnecessary staff turnover.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -130,7 +130,7 @@ Related: [What Startup Investors Look for In Entrepreneurs and Their Teams](http
 
 In terms of finding out if they’re persistent. Well if I talk to candidates about every accomplishment, low point, their education, their work experience, etc. All of those aspects will paint a relatively clear picture as to how persistent they are.
 
-![How to hire, Geoff Smart conducting an interview](images/Geoff_consultant-1024x587.jpg)
+![How to hire, Geoff Smart conducting an interview](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Geoff_consultant-1024x587.jpg)
 
 Even creativity, you can tell from the way someone describes their accomplishments. Imagine a marketing candidate who’s telling you they increased brand awareness by 28%. If you ask them how they did it and they reply, we bought ads – not very creative. But if they tell you: “We came up with a whole new way to access a whole different market and it boosted our sales by 400% and we won awards.” – That’s a creative candidate.
 

@@ -170,7 +170,7 @@ It depends on a number of factors, like how long it will be before you onboard s
 
 I highly recommend, however, thinking about this now. Or you could be faced with the awkward position of hiring someone to take control of your startup’s technical department and ousting the developer who’s been with you since day one.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

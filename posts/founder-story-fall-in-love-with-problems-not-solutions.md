@@ -47,7 +47,7 @@ The market instantly found value in Ali’s new solution – and since launching
 
 Throughout our conversation, Ali shared the trials he faced on his journey, as well as actionable advice that any entrepreneur could benefit from.
 
-![Volt Lines Founder- Ali Halabi](images/DSCF4222-scaled-1-1024x576.jpg)
+![Volt Lines Founder- Ali Halabi](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DSCF4222-scaled-1-1024x576.jpg)
 
 One piece of advice that stuck out to me was how Ali dealt with the mistakes he made – and what he would do differently looking back.
 
@@ -123,7 +123,7 @@ We only launched this a couple of months ago, we’ve just signed our first majo
 
 We see DRT being the most in-demand part of our service moving forward.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -351,7 +351,7 @@ It wasn’t on any App Stores yet. The employer Web app was still in development
 
 But what we did have are the designs on [Marvel](https://marvelapp.com/). They showed the concept was pretty well developed. The sales booklet was also ready.
 
-![Volt Lines App Screens](images/1_NU_NTWjr72LhrsRkWXQFOg.png)
+![Volt Lines App Screens](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1_NU_NTWjr72LhrsRkWXQFOg.png)
 
 That first Angel Investor saw all of these materials and we raised $50,000.
 
@@ -469,7 +469,7 @@ If you’re waiting for everything to be perfect, you’ll never make it out of 
 
 It’s like when I talk to entrepreneurs about the concept of MVP. I explain the concept of starting at a skateboard and building until you have a car.
 
-![The MVP process](images/Making-sense-of-MVP-.png)
+![The MVP process](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Making-sense-of-MVP-.png)
 
 When you build your startup you need to be efficient but you also need to deliver on the value proposition.
 

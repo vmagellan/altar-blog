@@ -66,7 +66,7 @@ From customer-facing applications to internal decision-making tools, a robust AI
 8. Strategic decisions made in the board meeting guide the company's direction.
 9. The company revises its goals based on these insights, continuing this cycle of improvement.
 
-![How AI enablement can help business operations for a medium-sized web company](images/AI-Enablement-768x768.png)
+![How AI enablement can help business operations for a medium-sized web company](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AI-Enablement-768x768.png)
 
 This scenario illustrates just one of countless workflows where AI can be integrated to create a chain of value, demonstrating that the potential of "AI enablement" extends far beyond individual contributions to encompass the entire company.
 
@@ -102,7 +102,7 @@ It's about laying the groundwork for a future where every piece of information, 
 
 <figure>
 
-![Before and After Generative AI: Before generative AI (left), regular companies could only process typical quantitative data at a large scale. With Generative AI (right), all types of data are now available for processing without complex implementations. Content, Audio, Video, Images and much more can now be interpreted and used for insight generation and decision-making.](images/AI-Enablement-1-1024x729.png)
+![Before and After Generative AI: Before generative AI (left), regular companies could only process typical quantitative data at a large scale. With Generative AI (right), all types of data are now available for processing without complex implementations. Content, Audio, Video, Images and much more can now be interpreted and used for insight generation and decision-making.](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AI-Enablement-1-1024x729.png)
 
 <figcaption>
 

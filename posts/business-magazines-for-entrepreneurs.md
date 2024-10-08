@@ -35,7 +35,7 @@ Neither myself, Altar.io or the entrepreneurs I spoke to create this list receiv
 
 ## 1\. Entrepreneur Magazine
 
-![Entrepreneur Business Magazine](images/Entrepreneur-225x300.jpeg)We can’t talk about business magazines without mentioning [Entrepreneur](https://www.entrepreneur.com/).
+![Entrepreneur Business Magazine](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneur-225x300.jpeg)We can’t talk about business magazines without mentioning [Entrepreneur](https://www.entrepreneur.com/).
 
 It’s become a go-to for many entrepreneurs and business leaders, including the founding team here at Altar.io (In fact, our co-founder Daniel [wrote a piece](https://www.entrepreneur.com/article/307526) for them).
 
@@ -59,7 +59,7 @@ Aside from the magazine itself, Entrepreneur also has an extensive library of on
 
 ## 2\. Harvard Business Review
 
-![HBR business magazine Cover](images/HBR-Cover-242x300.png)[Harvard Business Review](http://hbr.org/) is one of the most trusted business magazines for many entrepreneurs.
+![HBR business magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/HBR-Cover-242x300.png)[Harvard Business Review](http://hbr.org/) is one of the most trusted business magazines for many entrepreneurs.
 
 They cover a wide range of topics across several facets of entrepreneurship– from leadership and operations to marketing and business strategy.
 
@@ -77,7 +77,7 @@ Related: [9 Crucial Lessons I Learned from Interviewing Successful Entrepreneurs
 
 ## 3\. Forbes
 
-![Forbes business Magazine Cover](images/Forbes-Cover-2024-234x300.jpeg)[Forbes](https://www.forbes.com/) is one of the most famous magazines for entrepreneurs out there, and for good reason.
+![Forbes business Magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Forbes-Cover-2024-234x300.jpeg)[Forbes](https://www.forbes.com/) is one of the most famous magazines for entrepreneurs out there, and for good reason.
 
 The focus here is on wealth and money – specifically how billionaires get to where they are through business.
 
@@ -95,7 +95,7 @@ Forbes pricing starts at **$6.99 billed monthly**. They also offer a subscripti
 
 Forbes also provides a back catalogue of useful resources and articles – many of which can be accessed free of charge.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -105,7 +105,7 @@ Let's Talk
 
 ## 4\. Inc.
 
-![Inc. business magazine Cover](images/Inc.-Cover-229x300.jpeg)Since 1979, [Inc.](https://www.inc.com/) has been the industry leader in reporting on small companies and startups.
+![Inc. business magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Inc.-Cover-229x300.jpeg)Since 1979, [Inc.](https://www.inc.com/) has been the industry leader in reporting on small companies and startups.
 
 It’s one of the most comprehensive business magazines for entrepreneurs, providing in-depth special reports, startup case studies, guides on every facet of entrepreneurship and much more.
 
@@ -125,7 +125,7 @@ Related: [The Best Books for Entrepreneurs Starting a Business](https://altar.io
 
 ## 5\. Wired
 
-![Wired Business Magazine Cover](images/Wired-Cover-221x300.jpg)[Wired](https://www.wired.com/) is one of the younger business magazines for entrepreneurs on this list. Founded in 1993, Wired publishes monthly issues and focuses on business, tech, science, lifestyle and culture.
+![Wired Business Magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wired-Cover-221x300.jpg)[Wired](https://www.wired.com/) is one of the younger business magazines for entrepreneurs on this list. Founded in 1993, Wired publishes monthly issues and focuses on business, tech, science, lifestyle and culture.
 
 While informative, Wired is one of the more “easy-reading” magazines on the list. They offer a balanced range of entertaining and informative content.
 
@@ -145,7 +145,7 @@ Wired also offers articles for free via its website.
 
 ## 6\. Fast Company
 
-![Fast Company business magazine Cover](images/Fast-Company-Cover-228x300.jpg)[Fast Company](https://www.fastcompany.com/) is another, relatively new, business magazine for entrepreneurs.
+![Fast Company business magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Fast-Company-Cover-228x300.jpg)[Fast Company](https://www.fastcompany.com/) is another, relatively new, business magazine for entrepreneurs.
 
 First published in 1995, Fast Company puts its editorial focus on innovation in technology, leadership and design.
 
@@ -163,7 +163,7 @@ The Fast Company provides a number of resources and articles for free, outside o
 
 ## 7\. Bloomberg Business Week
 
-![Bloomberg Business Magazine Cover](images/Bloomberg-Cover-225x300.jpeg)[Bloomberg Business Week](https://www.bloomberg.com/businessweek) is one of the only business magazines for entrepreneurs that publishes on a weekly basis.
+![Bloomberg Business Magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bloomberg-Cover-225x300.jpeg)[Bloomberg Business Week](https://www.bloomberg.com/businessweek) is one of the only business magazines for entrepreneurs that publishes on a weekly basis.
 
 They focus on keeping you up to date and “ahead of the competition” sharing the latest in business and entrepreneurial news from around the world.
 
@@ -181,7 +181,7 @@ Bloomberg Business Week provides one article a month for free on its website.
 
 ## 8\. Fortune
 
-![](images/Fortune-Cover-225x300.jpg)[Fortune](https://fortune.com/) competes directly with the likes of Forbes and Bloomberg Business Week.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Fortune-Cover-225x300.jpg)[Fortune](https://fortune.com/) competes directly with the likes of Forbes and Bloomberg Business Week.
 
 As the name suggests they focus on investment and stories from the wealthiest entrepreneurs in the world, including the infamous “Fortune 500” list.
 
@@ -199,7 +199,7 @@ Related: [The Best Business Podcasts for Entrepreneurs](https://altar.io/best-bu
 
 ## 9\. The Economist
 
-![Economist busines magazine cover](images/Economist.png)Renowned as one of the forefront business magazines for entrepreneurs, [The Economist](https://www.economist.com/) provides insights into the global state of business.
+![Economist busines magazine cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Economist.png)Renowned as one of the forefront business magazines for entrepreneurs, [The Economist](https://www.economist.com/) provides insights into the global state of business.
 
 The Economist has provided weekly issues since 1843. Each issue is filled with articles on world news, politics, economics, business and finance.
 
@@ -215,7 +215,7 @@ The Economist allows you to read up to five articles per month for free.
 
 ## 10\. Adweek
 
-![Adweek Business Magazine Cover](images/Adweek-Cover.jpeg)As is suggested in the title, [Adweek](https://www.adweek.com/) is a magazine that focuses on the marketing ecosystem.
+![Adweek Business Magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adweek-Cover.jpeg)As is suggested in the title, [Adweek](https://www.adweek.com/) is a magazine that focuses on the marketing ecosystem.
 
 First published in 1979, they provide weekly actionable insights on tech, creativity, client-agency relationships, global advertising, brand & performance marketing and more.
 
@@ -231,7 +231,7 @@ Once you’ve signed up for free, Adweek allows you to read three digital articl
 
 ## 11\. Creative Review
 
-![Best Entrepreneur Magazines Adweek](images/Best-Entrepreneur-Magazines-150x150-1.jpeg)[Creative Review](https://www.creativereview.co.uk/) is a magazine that highlights the leading trends and figures in marketing, advertising design, photography, branding and all things to do with commercial creativity.
+![Best Entrepreneur Magazines Adweek](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Best-Entrepreneur-Magazines-150x150-1.jpeg)[Creative Review](https://www.creativereview.co.uk/) is a magazine that highlights the leading trends and figures in marketing, advertising design, photography, branding and all things to do with commercial creativity.
 
 First published in the UK in 1981, they shine a light on industry trends critical analyses of advertising and branding campaigns and insights from entrepreneurial creative leaders.
 
@@ -243,7 +243,7 @@ You can subscribe to the digital version of Creative Review for **$246** a yea
 
 ## 12\. Success
 
-![Success Magazine Cover – Best business magazines for entrepreneurs](images/Success-Magazine-Cover-E28093-Best-business-magazines-for-entrepreneurs-219x300.jpeg)[Success Magazine](https://www.success.com/) has been focusing on the people behind successful companies since 1897.
+![Success Magazine Cover – Best business magazines for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Success-Magazine-Cover-E28093-Best-business-magazines-for-entrepreneurs-219x300.jpeg)[Success Magazine](https://www.success.com/) has been focusing on the people behind successful companies since 1897.
 
 They publish real-life stories and interviews with world-class leaders in the business world with the goal of providing personal and professional development to budding entrepreneurs.
 

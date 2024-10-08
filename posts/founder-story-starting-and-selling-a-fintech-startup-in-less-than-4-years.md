@@ -20,11 +20,11 @@ I’ve [worked with many fintech startups](https://altar.io/work/) over the ye
 
 This time, I'm sharing an action-packed conversation with a [Forbes 30 under 30](https://www.forbes.com/30-under-30/2020/asia/finance-vc/#11ddfd4a56c7) founder with years of experience in the financial technologies landscape.
 
-![Ankit Singh](images/0JTJR7BdF8xMBamwo-1024x669.jpg)
+![Ankit Singh](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0JTJR7BdF8xMBamwo-1024x669.jpg)
 
 In 2015, [Ankit Singh](https://www.linkedin.com/in/kmaquasar/) founded fintech startup [MyPoolin](https://www.crunchbase.com/organization/mypoolin) - a peer to peer payment platform that disrupted the Indian fintech market.
 
-![MyPoolin](images/0EiQwbgq8oQdQBBou.png)
+![MyPoolin](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0EiQwbgq8oQdQBBou.png)
 
 Less than four years later MyPoolin was acquired by California-based fintech startup [Wibmo](https://www.wibmo.co/). Ankit remained with Wibmo as director of business and product for a further three years.
 
@@ -78,7 +78,7 @@ While we were doing this something called UPI (Unified Payments Interface) launc
 
 Compared to seamless bank-to-bank payment experiences, our wallet-to-wallet P2P payment wasn’t that good an experience. So we then incorporated the UPI into our product - and built on top of it.
 
-![MyPoolin 2](images/0Yg1Ghf2YgzJ17gko.png)
+![MyPoolin 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0Yg1Ghf2YgzJ17gko.png)
 
 That was successful to a good extent. But eventually, we saw the arrival of Google Pay and WhatsApp Pay in India.
 
@@ -191,19 +191,19 @@ If I’m going out with four friends of mine then I would make the payment for t
 
 Next, I could either scan the bill or I could manually punch in the amount and split the bill.
 
-![MyPoolin3](images/0lDjERw0KDfaqMN6f.png)
+![MyPoolin3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0lDjERw0KDfaqMN6f.png)
 
 I could then select a group of people through a premade group on the app (for example “Flatmates”) or I could select them one by one.
 
-![MyPoolin4](images/0lCIwnPqny-ZegGqn.png)
+![MyPoolin4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0lCIwnPqny-ZegGqn.png)
 
 Then I could initiate a payment request.
 
-![MyPoolin5](images/0iEFkorplTOEYRHB5.png)
+![MyPoolin5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0iEFkorplTOEYRHB5.png)
 
 They would then receive a notification, select my contact and use their 4 digit PIN to authorise the payment. The money would then transfer directly from their bank account to mine.
 
-![MyPoolin6](images/0MSLRIShyDjZf1P6Z.png)
+![MyPoolin6](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0MSLRIShyDjZf1P6Z.png)
 
 #### Q: This is what I like to call SSCC: Stupid Simple, Crystal Clear. And I believe that it’s absolutely mandatory when making a consumer app in its first iteration.
 
@@ -292,7 +292,7 @@ When that led to the first few thousand people signing up we knew we had somethi
 
 At that moment, we started looking at MyPoolin as a startup; not a side project.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

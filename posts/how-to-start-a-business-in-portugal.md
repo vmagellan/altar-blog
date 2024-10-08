@@ -35,7 +35,7 @@ If you are an **EU/EFTA National**, you are free to travel and work in Portugal
 
 Regardless of if you are an EU or Non-EU national, you will need to sign up for a Tax Number from the [Portuguese Tax Office](https://www.portaldasfinancas.gov.pt/at/html/index.html). As well as Social Security Number from the [Portuguese Social Security](http://www.seg-social.pt/inicio). Both of which I would recommend doing **as soon as possible**.
 
-![Lisbon street](images/start-a-business-in-portugal-2-.jpeg)
+![Lisbon street](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/start-a-business-in-portugal-2-.jpeg)
 
 ## 2\. Register Your Company 
 
@@ -51,7 +51,7 @@ If you feel confident enough to go it alone, then there are two easy ways to set
 
 The first and arguably the easiest method is [**setting up online (Empresa Online)**](https://eportugal.gov.pt/en/servicos/criar-uma-empresa-online). This allows you to register online for around €360. You will receive your registration within 1-2 business days.
 
-![Praca commercio start a business in portugal](images/start-a-business-in-portugal-3-.jpeg)
+![Praca commercio start a business in portugal](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/start-a-business-in-portugal-3-.jpeg)
 
 If you don’t want to wait 1-2 business days, or would rather register your business in person then you can. The service is called [**“Establish on-the-spot” (Empresa na Hora)**](https://eportugal.gov.pt/en/servicos/criar-uma-empresa-na-hora). Using this method sole traders and limited companies can be registered within an hour. This will cost the same as setting up online: €360.
 
@@ -65,7 +65,7 @@ If you want to open a branch or subsidiary of your company in Portugal you will 
 
 If you own a business that has been operating in at least two EU countries for the last two years you can create a [European Company](https://europa.eu/youreurope/business/running-business/developing-business/setting-up-european-company/index_en.htm). This allows you to easily expand into Portugal and other EU countries.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -87,7 +87,7 @@ This not only saves you time and money but also provides constant visibility on 
 
 The two most startup-friendly products are [Sage One](https://www.sage.com/pt-pt/produtos/sage-one/?utm_source=GOOGLE&utm_medium=Paid-Search&utm_campaign=PT%7CGOOGLE%7CSEM%7CACCOUNTING%7CSage-One%7CNew-Keywords%7CBMM&utm_term=%2Binvoiceexpress&gclid=CjwKCAiAj53SBRBcEiwAT-3A2F0uNjYA-6eiHX9Dhm0eZjOrHKpaGd2V1QP6oU6O8rCniEKRznwk0xoCGusQAvD_BwE) and [InvoiceExpress](https://invoicexpress.com/) – I would advise you to use one of these.
 
-![Start a business in portugal, Porto](images/start-a-business-in-portugal-4.jpeg)
+![Start a business in portugal, Porto](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/start-a-business-in-portugal-4.jpeg)
 
 ## 5\. Pay Your Taxes
 
@@ -95,7 +95,7 @@ The Portuguese tax year runs from the 1st January until 31st December. As I ment
 
 When you become profitable you will need to start paying a progressive corporate tax. Most companies pay around  [21%](https://tradingeconomics.com/portugal/corporate-tax-rate#:~:text=Corporate%20Tax%20Rate%20in%20Portugal%20is%20expected%20to%20reach%2021.00,according%20to%20our%20econometric%20models.), which is one of the lowest in Europe. If you happen to have a very large company then your profit will be taxed progressively up to slightly above 30%.
 
-![business tax rates in Portugal](images/start-a-business-in-portugal-5.png)
+![business tax rates in Portugal](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/start-a-business-in-portugal-5.png)
 
 Before that, however, you will need to pay some [payroll taxes](https://home.kpmg/xx/en/home/insights/2011/12/portugal-other-taxes-levies.html#:~:text=Social%20security%20tax,-Are%20there%20social&text=*Portuguese%20residents%20and%20non%2Dresident,%E2%80%9D%20or%20%E2%80%9CGerentes%E2%80%9D).). These include a social security tax of 11% (paid by the employee) and a 23.75% levee paid by the company. In addition, there is a progressive [Income Tax](https://europa.eu/youreurope/citizens/work/taxes/income-taxes-abroad/portugal/index_en.htm) that is partly paid by the company.
 
@@ -120,7 +120,7 @@ In regard to a more traditional Law firm, I would recommend [PLMJ](https://www.
 
 For a less traditional law firm, you could go to [Linkilaw.](https://linkilaw.com/) Although it’s not based in Portugal; this firm is designed specifically for startups and Entrepreneurs.  The importance of a startup lawyer should not be underestimated. Investment expert [Paul O’Brien](https://www.linkedin.com/in/paulobrien/) pointed out the importance of a startup lawyer in a [recent interview](https://altar.io/expert-interview-funding-your-startup/) with Altar.io co-founder Paolo Dotta:
 
-![legal advice when launching a startup in portugal](images/start-a-business-in-portugal-6.png)
+![legal advice when launching a startup in portugal](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/start-a-business-in-portugal-6.png)
 
 If you need more institutional help; for example, if you are backed by International Private Equity or Venture Capital, Portugal has you covered. Some of the biggest law firms, such as [Linklaters](https://www.linklaters.com/en/locations/portugal) and [DLA Piper](https://www.dlapiper.com/en/portugal/), operate in here with offices in Lisbon.
 
@@ -146,7 +146,7 @@ Both of these banks have made great strides in their tech transformation recentl
 
 If you are looking to co-work in Lisbon, there are many [great places available](https://altar.io/10-best-coworking-spaces-lisbon-entrepreneurs/) with plenty more to come. We’d suggest checking out [Cowork Central](https://www.coworkcentral.pt/en/home) and [Second Home](https://secondhome.io/location/lisboa/). Both round the corner from the trendy, sun-drenched, riverside strip of Lisbon.
 
-![co-working space in Lisbon Portugal](images/start-a-business-in-portugal-7.png)
+![co-working space in Lisbon Portugal](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/start-a-business-in-portugal-7.png)
 
 Many of these spaces also offer office space for bigger teams. However, you can also find your dream HQ through [Idealista](http://idealista.pt/arrendar-escritorios/lisboa/mapa) or [CBRE](https://www.imoveis.cbre.pt/en-PT), commercial property agents. Both will advise on suitable offices, areas and other property needs.
 

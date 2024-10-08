@@ -1,9 +1,9 @@
 ---
 title: "Altar.io Named Leading B2B Company by Clutch.co"
 date: "2019-10-20"
-categories: 
+categories:
   - "news-from-our-world"
-tags: 
+tags:
   - "awards"
   - "leading-it-companies"
 coverImage: "award-2020-clutch-leading-clutch-agency.png"
@@ -21,9 +21,7 @@ We really appreciate those words. And it touches an underlying truth. We go abov
 
 We feel privileged to get to know these amazing people and help them on their journey. And I think it shows:
 
-
-
-![Altar - What is Saying](images/scardovi-alix.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/scardovi-alix.jpeg)
 
 Altar.io has some of the most interesting and future-ready FinTech initiatives with a clear focus to provide solutions that are relevant, critical and pragmatic in nature.
 
@@ -33,13 +31,9 @@ Claudio Scardovi, Global Head of Financial Services, [AlixPartners](https://www.
 
 Thank you, Claudio
 
-
-
 Related: [The Real Reason Why Altar.io Was Named A Top Agency In 2020](https://altar.io/the-reason-why-altar-won-top-agency-2020/)
 
-
-
-![Altar - What is Saying](images/image-placeholder-small.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-placeholder-small.jpg)
 
 With the MVP developed with Altar.io, we won a pilot project with a global financial institution. The other success story was that we were able to put together a seed round using the MVP. Our further development wouldn’t have been possible without it.
 
@@ -53,11 +47,7 @@ Philip Schoch, Co-Founder & CEO, [Apiax](https://www.apiax.com/)
 
 Thank you, Philip.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -65,9 +55,7 @@ From the product and business reasoning to streamlining your MVP to the most imp
 
 Let's Talk
 
-
-
-![Altar - What is Saying](images/1811669_original.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1811669_original.jpeg)
 
 Although our website has not yet launched, Altar.io’s product development and design have fostered successful pre-sales.
 

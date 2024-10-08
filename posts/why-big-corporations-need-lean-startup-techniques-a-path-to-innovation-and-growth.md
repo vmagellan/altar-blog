@@ -106,7 +106,7 @@ Large corporations, like General Electric (GE), have applied similar principles.
 
 The outcome was impressive: GE brought a new product, the Durathon battery, from concept to market in just two years, half the time it would usually take. It's a testament to how Lean principles can expedite product development, even for established conglomerates.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

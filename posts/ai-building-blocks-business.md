@@ -38,7 +38,7 @@ Having spent my entire career working in tech, from robotics to crypto, to AI, I
 1.  **Distribution** - AI has a quick path to distribution across the whole internet layer via API access and integration ([chatGPT set the record for fastest app to ever reach 100M users](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/))
 2.  **Added Value** - AI tools can very rapidly and clearly add value to existing or new products.
 
-![Open AI product adoption](images/Open-AI-product-adoption-.png)
+![Open AI product adoption](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Open-AI-product-adoption-.png)
 
 In this guide, I’ll explore how you can leverage AI's building blocks to position your startup at the forefront of this new era of innovation. Whether it's enhancing your existing products, creating new business lines or revolutionising internal processes, the promise of AI is immense — and it's time to seize it.
 
@@ -72,7 +72,7 @@ In this section, I will start with the latest (and hot) [Large Language Models (
 
 [OpenAI’s release of GPT-3](https://openai.com/blog/gpt-3-apps) in June 2020 was probably the most notorious tech release of the decade. It sheds light on the capacity of LLMs for diverse applications and human-like reasoning, making us question how far we are from Artificial General Intelligence (AGI).
 
-![The Evolution of LLMs - the AI building blocks for your startup](images/image-5-1024x853.png)
+![The Evolution of LLMs - the AI building blocks for your startup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-5-1024x853.png)
 
 Diverse LLM models have and will continue to come up from players like Google, Meta, [Anthropic](https://www.anthropic.com/), [Mistral AI](https://mistral.ai/), [AI21 Labs](https://www.ai21.com/), [Databricks](https://www.databricks.com/product/machine-learning/large-language-models) and the obvious OpenAI.
 
@@ -91,7 +91,7 @@ To simplify this choice, Vellium AI has nicely put together an interactive [LLM 
 
 <figure>
 
-![](images/image-3.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-3.png)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ The LLM Leaderboard
 
 <figure>
 
-![LLM Performance Comparison Table](images/Screenshot-2024-04-23-at-17.35.50.png)
+![LLM Performance Comparison Table](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.35.50.png)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ LLM Performance Comparison Table
 
 <figure>
 
-![LLM Price & Context Window Comparison](images/Screenshot-2024-04-23-at-17.34.38.png)
+![LLM Price & Context Window Comparison](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.34.38.png)
 
 <figcaption>
 
@@ -136,7 +136,7 @@ LLMs are hot and will continue to evolve. Given the fast-moving space, let me le
 
 At the edge of LLM implementations, is the concept of multi-agent systems, where multiple “expert agents” are capable of joint problem-solving through dialog and access to tools.
 
-![](images/Screenshot-2024-04-23-at-17.37.26.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.37.26.png)
 
 It’s still early days, and benchmarks are lacking on the true capabilities of using multi-agent systems, versus a simple LLM implementation, but it looks promising!
 
@@ -144,7 +144,7 @@ The leading AI tools, frameworks and resources in this space are [LangGraph](htt
 
 <figure>
 
-![](images/image-2.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image-2.png)
 
 <figcaption>
 
@@ -214,7 +214,7 @@ Innovations in this space are leveraging the nuances of language and music theor
 
 A true revolution for content creation and entertainment, offering personalisation and copyright-free content, in a blend of creativity and technology that was previously unimaginable.
 
-![Text to Music AI Process](images/Text-to-Music-AI-Process.png)
+![Text to Music AI Process](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Text-to-Music-AI-Process.png)
 
 The top solutions to look into here are:
 
@@ -225,7 +225,7 @@ The top solutions to look into here are:
 
 A few other companies offer text-to-music embedded into their products, see - [Mubert](https://mubert.com/render/tags/text-to-music), [AIVA](https://www.aiva.ai/), [Soundraw](https://soundraw.io/), and [Google's Magenta Studio](https://magenta.tensorflow.org/studio/).
 
-![Text to Audio AI Soundwave](images/Text-to-Audio-AI-Soundwave.png)
+![Text to Audio AI Soundwave](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Text-to-Audio-AI-Soundwave.png)
 
 #### Text to Speech (TTS) / Speech Synthesis
 
@@ -277,7 +277,7 @@ By 2017, computer vision was hot. After the early problems of object and charact
 
 Interestingly today, image generation from text has become much more popular than image processing, even if the former was only possible by the research and dataset building of the ladder.
 
-![Captcha before AI](images/Captcha-before-AI.png)
+![Captcha before AI](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Captcha-before-AI.png)
 
 Computer vision as a field treats many subproblems which typically output an enhanced image - e.g. “an image with faces identified and squares drawn around the contours of the face“ - or attribution of the image to a specific category. Some examples of applications are:
 
@@ -306,23 +306,23 @@ It is fully open source, which means you can embed both the model and the genera
 
 This is particularly awesome for creatives and entrepreneurs! Until now, the use of stock images from platforms like [Unsplash](https://unsplash.com/) was the way to go if you just wanted to get something going, but with these free high-quality options, there is no reason not to ask for precisely what you want.
 
-![Stable Diffusion AI Image Catalogue](images/Screenshot-2024-04-23-at-17.25.19.png)
+![Stable Diffusion AI Image Catalogue](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.25.19.png)
 
 To generate images, you can run stable diffusion on your own infrastructure, by running the “txt2img.py” or “img2img.py” scripts available in the open-source repo. For easier testing, [Stability AI’s Dream Studio (beta)](https://beta.dreamstudio.ai/generate) is the place to go.
 
-![](images/Screenshot-2024-04-23-at-17.39.39.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.39.39.png)
 
 The Dream Studio allows you to play with parameters such as negative prompt, image input, image strength, and style. You can embed stable diffusion into your products via the [Stability AI REST API](https://platform.stability.ai/docs/api-reference).
 
 Generating amazing images, with stable diffusion requires iteration and creating a graph of rules and prompts. For deeper control over the generation process take a look at [ComfyUI](https://stable-diffusion-art.com/comfyui/)
 
-![](images/Screenshot-2024-04-23-at-17.39.48.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.39.48.png)
 
 **Imagen 2 by Google Deepmind**
 
 [Imagen 2](https://deepmind.google/technologies/imagen-2/) is Google’s most advanced text-to-image diffusion model. It is already available on Gemini, and it’s easy to test on [Google Labs’ ImageFX](https://aitestkitchen.withgoogle.com/tools/image-fx). It is also available via the [Imagen API on Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview), Google’s Machine Learning Ops (MLOps) platform.
 
-![Imagen 2 AI generated Monolith image on mars](images/Screenshot-2024-04-23-at-17.39.58.png)
+![Imagen 2 AI generated Monolith image on mars](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.39.58.png)
 
 **DALL·E 3 by OpenAI**
 
@@ -330,7 +330,7 @@ Probably the most used diffusion model by now, given its integration within the 
 
 For artist copyright reasons, “DALL·E 3 is designed to decline requests that ask for an image in the style of a living artist. Creators can now also opt their images out from training of our future image generation models.”
 
-![DALL-E 3 AI Image generation](images/Screenshot-2024-04-23-at-17.40.16.png)
+![DALL-E 3 AI Image generation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-23-at-17.40.16.png)
 
 **Midjourney**
 
@@ -338,7 +338,7 @@ Popularised for its fantastic image quality, [Midjourney](https://www.midjourney
 
 For creators, Midjourney is a fantastic AI tool, with a paid subscription starting at $10 per month, and available via Discord. For builders, it does not allow for easy embedding since the models are closed-source and not available via API.
 
-![Midjourney AI example images](images/Screenshot-2024-04-22-at-19.38.52.png)
+![Midjourney AI example images](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.38.52.png)
 
 ##### Sign up for our newsletter
 
@@ -375,7 +375,7 @@ We can envision a future where digital creation is separate from the person on d
 
 You can embed HeyGen into your product using [HeyGen API](https://docs.heygen.com/docs/quick-start), which includes functionalities like video generation, avatar streaming, and video translation.
 
-![](images/Screenshot-2024-04-22-at-19.41.46.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.41.46.png)
 
 For further automation, connect these solutions to your app via [Zapier integrations for HeyGen](https://zapier.com/apps/heygen/integrations) and [Zapier integrations for Synthesia](https://zapier.com/apps/synthesia/integrations).
 
@@ -385,7 +385,7 @@ Beyond the frame of a human speaking to a virtual camera, the possibility of gen
 
 Storytelling is transcending traditional boundaries, with the capacity to generate impossible scenes from a text prompt - like a “racoon trying to reach a burrito in space”:
 
-![PIKA AI Video generation tool](images/Screenshot-2024-04-22-at-19.43.23.png)
+![PIKA AI Video generation tool](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.43.23.png)
 
 Text-to-video technology can already generate impressive videos, with interesting use cases for many industries from video advertising to the traditional film industry.
 
@@ -464,7 +464,7 @@ They are also copyright-free, which means you can call it your own after a coupl
 
 In 2024, the place to go for open-source models is [Hugging Face](https://huggingface.co/models), where you can find all types of models, and use them by deploying directly into your infrastructure of choice.
 
-![Hugging Face – AI model library](images/Screenshot-2024-04-22-at-19.46.27.png)
+![Hugging Face – AI model library](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.46.27.png)
 
 For a while Nvidia has also offered numerous CUDA-enabled container models in their [Nvidia NGC Catalog](https://catalog.ngc.nvidia.com/?filters=&orderBy=weightPopularDESC&query=).
 
@@ -472,17 +472,17 @@ Container models can be easily deployed in various environments, ensuring consis
 
 Yet, as of March 18 2024, Nvidia is migrating its models to [Nvidia’s New API Catalog](https://build.nvidia.com/explore/discover), with an interesting array of models and applications - definitely worth a look!
 
-![](images/Screenshot-2024-04-22-at-19.49.08.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.49.08.png)
 
 Despite its lesser focus on AI, [Docker Hub](https://hub.docker.com/), as a large container repository, does have some ML containers, worth testing.
 
-![Docker AI Container Responsibility](images/Screenshot-2024-04-22-at-19.49.19.png)
+![Docker AI Container Responsibility](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.49.19.png)
 
 Finally, if you’re looking for stable diffusion models for image and short-video generation, [CivitAI](https://civitai.com/) is a good repository of [LoRA models](https://stable-diffusion-art.com/lora/).
 
 LoRA Models are a small type of stable diffusion model that offers a good trade-off between file size and training power required to get to the image quality you desire.
 
-![](images/Screenshot-2024-04-22-at-19.49.33.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.49.33.png)
 
 #### Commercial APIs & Cloud ML Platforms
 

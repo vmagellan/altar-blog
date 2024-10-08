@@ -1,9 +1,9 @@
 ---
 title: "Why Micro Teams are the Future of Software Development"
 date: "2021-07-09"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "dedicated-team"
   - "distributed-team"
   - "entrepreneurship"
@@ -38,8 +38,6 @@ That’s why many founders are turning to distributed micro teams for help. By e
 But what exactly is a micro team of software developers? And how can you leverage one to push your business to its next milestone?
 
 Throughout this article, I will cover these questions, and more, including a structured process to help you set up your own team.
-
- 
 
 #### Contents
 
@@ -87,15 +85,9 @@ Often, entrepreneurs will do this to find a solution that will enable an additio
 
 Other times, the goal is to rebuild the entirety of the existing project within a microservices architecture & with new technology.
 
- 
-
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
-
-
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -167,12 +159,6 @@ The problem – the tech team have a full plate and can’t facilitate this new 
 Instead, the team can define this as a separate project – outlining its goals, potential hurdles and the timeframe in which should be delivered.
 
 Once this has been outlined, the team can move on to step two: speaking to technical talent.
-
-
-
-
-
-
 
 ### Step Two: Talk with Potential Stakeholders
 

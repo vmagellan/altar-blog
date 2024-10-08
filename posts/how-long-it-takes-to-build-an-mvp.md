@@ -45,13 +45,13 @@ Gathering data from our experience building MVPs at Altar.io, as well as data fr
 
 We’ve organised the data below taking into account both the types of products surveyed and the team composition used to build them.
 
-![How Long to Build an MVP Overview](images/How-Long-to-Build-an-MVP-Overview-769x1024.png)
+![How Long to Build an MVP Overview](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-Long-to-Build-an-MVP-Overview-769x1024.png)
 
 Disclaimer
 
 Within each industry, the product composition can vary wildly depending on a number of factors, this is for statistical significance Now let’s pick apart the data so you can understand how we arrived at these conclusions.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -65,7 +65,7 @@ I started by looking back at the MVPs my team and I have built over the last cou
 
 From the entrepreneurs that agreed to share their information publically, I found that, on average, it took around **four months** to build those MVPs – across different industries.
 
-![](images/How-Long-to-Build-an-MVP-our-Experience-1024x694.png) **Note:** All of the above data takes into account a  fully scoped product (defined in the next section of the article).
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-Long-to-Build-an-MVP-our-Experience-1024x694.png) **Note:** All of the above data takes into account a  fully scoped product (defined in the next section of the article).
 
 However, I didn’t want to leave you with just [examples based on our work](https://altar.io/work/).
 
@@ -73,7 +73,7 @@ So, over the last few weeks, my team and I have reached out to our extended netw
 
 Here’s the data they shared:
 
-![](images/How-Long-to-Build-an-MVP-everyone-else-1024x812.png) According to my experience, but also my philosophy (lean methodologies), most MVPs should take 3 to 4 months to bring to the market.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-Long-to-Build-an-MVP-everyone-else-1024x812.png) According to my experience, but also my philosophy (lean methodologies), most MVPs should take 3 to 4 months to bring to the market.
 
 And now that you have an idea of what to expect, let’s talk about the caveats I mentioned earlier and the importance of scoping your product in a way that will allow you to arrive at a precise estimation and stick to it.
 

@@ -156,7 +156,7 @@ Moreover, a team that is committed to your vision will work collaboratively with
 
 Their investment in your success is reflected in their attention to detail, responsiveness to feedback, and flexibility to adapt to changing needs.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking to Integrate AI into Your Business?
 

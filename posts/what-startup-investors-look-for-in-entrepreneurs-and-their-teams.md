@@ -18,7 +18,7 @@ When building your startup you can have a great idea and the perfect market cond
 
 Just look at this slide I found from Alexander Jarvis on Quora:
 
-![Alexander Jarvis](images/alex-jarvis.png)
+![Alexander Jarvis](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/alex-jarvis.png)
 
 You and your startup team, especially at a management level, are a huge factor as to whether you secure investment or if your pitch ends up in an investor’s trash can.
 
@@ -116,7 +116,7 @@ Another important factor is ensuring your values, expectations and business goal
 
 You need to ask yourself if your personalities are compatible. [Gary Tan](https://techcrunch.com/2017/02/18/co-founder-conflict/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9reWxld29uZy8yMDE4LzA3LzI2L2hvdy10by1waWNrLXRoZS1yaWdodC1jb2ZvdW5kZXJzLWFuZC13aHktaXQtaW1wcm92ZXMteW91ci1jdXN0b21lci1leHBlcmllbmNlLw&guce_referrer_sig=AQAAAEtIKZoxIkLDJGeNlqJVPCniIv_oDI2VMfIzQ8MoJFst1Y1LpVPlj_dgeGnWBxvuTx9vTEPU8-Lvvf4l34V7ZmlCoi71qW367ATIsBoEnNZ0Pybpbb0jkw9IphJ8mm-GJetR8PtNUn8-Pv5Rvdh2cXfZ_aO-Kk5hLP--l9aOGQXp), Managing Partner at Initialized Capital and previously at YCombinator puts it perfectly:
 
-![](images/Gary-Tan.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Gary-Tan.png)
 
 ### Will you be able to embrace the conflict with this person? Discussing disagreements on a level playing field to improve your business?
 
@@ -140,7 +140,7 @@ As [Sean Sheppard](https://www.linkedin.com/in/seansheppard/) puts it:
 
 You need to be able to trust and count on your co-founders. Choose correctly and you will have a strong foundation on which to move onto the next step: building a startup team.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -207,7 +207,7 @@ It is important to balance your team with different personalities. By this, I me
 
 In a [previous article](https://altar.io/the-well-performing-digital-team-for-your-agile-projects/), I’ve talked about how all members of your startup team need to have a “Musketeer’s Attitude” of “all for one and one for all.”
 
-![Musketeer’s Attitude](images/Musketeers-Attitude.png)
+![Musketeer’s Attitude](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Musketeers-Attitude.png)
 
 This is imperative for any startup team. They should take ownership, as a group, that the job is carried out. When one person wins, the whole group wins. When one fails, the whole team takes that failure on their shoulders and support each other to find a solution.
 
@@ -237,7 +237,7 @@ At the early stages, it’s important to negotiate your valuation so you don’t
 
 I recently [interviewed](https://altar.io/expert-interview-funding-your-startup/) [Paul O’Brien](https://www.linkedin.com/in/paulobrien/), Founder and CEO of [MediaTech Ventures](https://mediatech.ventures/), this is how he summed up the issue of control:
 
-![](images/Paul-O´Brien-3.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Paul-O´Brien-3.png)
 
 ###### Wrapping Up
 
@@ -247,4 +247,4 @@ So even though your team is just [one aspect](https://vortexbladeless.com/steps
 
 I’ll leave you with another quote from Simon Sinek which, in my opinion, encapsulates why the right startup team is so important to investors:
 
-![Simon Sinek](images/Simon-Sinek.png)
+![Simon Sinek](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Simon-Sinek.png)

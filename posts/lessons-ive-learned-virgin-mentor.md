@@ -1,9 +1,9 @@
 ---
 title: "Lessons I’ve Learned Mentoring and Co-Founding Successful Startups"
 date: "2019-10-05"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "mentor"
   - "startup"
   - "virgin"
@@ -35,15 +35,9 @@ However, there are some behaviours that will help you separate the what from the
 5. To learn new skills and help to improve existing ones whilst increasing your capabilities and knowledge.
 6. To gain meaningful connections – a definite plus. In the ideal world, they’ll be able to introduce you to an established network that could help you grow your business.
 
- 
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -61,8 +55,6 @@ Here’s my guide to the key points:
 4. An ability to listen, to say ‘no’ and question your problems: jumping to quick conclusions rarely works. As well as being able to express your ideas and plans, you must be able to accept constructive criticism. A collaborator who always says ‘yes’ is dangerous – their interest might be to close an agreement as soon as possible for a short-term gain.
 5. The ability to invest time on your project without pushing to close a sales agreement asap. A great collaborator understands good clients come on board because of the knowledge they can offer. They must be able to explain the steps that are needed to move your business forward, even if the advice goes against your initial thoughts – but also they might go against the collaborator’s best interest. For example, a consultant may advise you to do additional research before moving into a commercial agreement – while doing so will obviously delay the signing of a contract, it’s a positive sign they’re looking and thinking of a long term relationship.
 
-
-
 Related: [How to Outsource Software Development Successfully](https://altar.io/founders-guide-how-to-outsource-software-development-2020/)
 
 ## And Finally …
@@ -70,9 +62,3 @@ Related: [How to Outsource Software Development Successfully](https://altar.io/f
 In the early stages of your startup, your investment in time and money should be as precise and accurate as possible. Concentrate on what you’re good at and look for mentors, co-founders and or collaborators who will be able to bring real value and help in your weaker areas.
 
 If you choose the right people you’ll quickly see that they will become a part of your extended work team, with your best interests at heart. They will be there to act as your wise and trusted advisor, just like Mentor was with Telemachus.
-
-
-
-
-
-

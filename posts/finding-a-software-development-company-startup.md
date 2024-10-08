@@ -51,7 +51,7 @@ Just to do that operation is hours of work for the analysts. We were finding tha
 
 With Synch, we’ve built a platform that automatically executes all of those manual interventions that you would have to do with the legacy systems. All of this is embedded in what we call “one-click technology”.
 
-![Synch Platform – built with the help of a Software Development Company](images/IMG_0384-scaled-1-1024x768.jpeg)
+![Synch Platform – built with the help of a Software Development Company](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/IMG_0384-scaled-1-1024x768.jpeg)
 
 The simple idea is: I care to look at something, I click a button and I can see it all rendered for me in every format I need to.
 
@@ -59,7 +59,7 @@ Our overall goal is to give users a new, three-dimensional, contextualised view 
 
 We had the industry experience to pull this off, what we didn’t have in the beginning was the technical stakeholder to execute it.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

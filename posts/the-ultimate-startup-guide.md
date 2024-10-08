@@ -159,7 +159,7 @@ So, before you set out to bring your vision to life, ensure you’re truly passi
 
 If you’re not, you won’t have the perseverance to get through the inevitable hurdles that come up on your startup journey.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -335,7 +335,7 @@ It needs to summarise your value proposition in a way that’s easy to understan
 
 Here’s a nifty template you can use to help you get started:
 
-![How to Write a Startup Elevator Pitch](images/How-to-Write-an-Elevator-Pitch-1024x611.png)
+![How to Write a Startup Elevator Pitch](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-to-Write-an-Elevator-Pitch-1024x611.png)
 
 To contextualise this template a little, let me give you an example of it in action.
 
@@ -676,7 +676,7 @@ It's a strategic management template that provides a framework for developing ne
 
 Here’s a visual representation of what a business model canvas looks like and the key components you would normally include:
 
-![Key Elements of a Business Model Canvas for your startup](images/Key-Elements-of-a-Business-Model-Canvas-1024x707.png)
+![Key Elements of a Business Model Canvas for your startup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Key-Elements-of-a-Business-Model-Canvas-1024x707.png)
 
 I recommend starting simple when it comes to creating your business model canvas. A Miro board or even using a large piece of paper will do.
 
@@ -1035,7 +1035,7 @@ We learned that **most MVPs take three months to build**. While **on average i
 
 Here’s the organised data taking into account both the types of products surveyed and the team composition used to build them.
 
-![How Long it Takes to Build a Startup MVP by Product](images/How-Long-it-Takes-to-Build-an-MVP-by-Product-1024x812.png)
+![How Long it Takes to Build a Startup MVP by Product](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-Long-it-Takes-to-Build-an-MVP-by-Product-1024x812.png)
 
 My co-founder, Paolo, has a resource that goes much more in-depth on this topic – [you can check it out here](https://altar.io/how-long-it-takes-to-build-an-mvp/#the-research).
 
@@ -1225,7 +1225,7 @@ Firstly, they help lead you to product-market fit.
 
 As Geoffrey Moore points out in his book, [Crossing the Chasm](https://www.goodreads.com/en/book/show/61329) (a read I highly recommend if you’ve not checked it out), early adopters are a special breed.
 
-![Crossing The Chasm as a Startup](images/Crossing-the-Chasm-1024x576.png)
+![Crossing The Chasm as a Startup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Crossing-the-Chasm-1024x576.png)
 
 Unlike the mainstream market, early adopters care less about perfection. Rather, they care about things like core value, functionality, and your product giving them a competitive advantage.
 
@@ -1313,7 +1313,7 @@ Here’s the framework in a nutshell.
 - **Measure:** Once your MVP is live, track how your users are interacting with it. Utilise tools like Google Analytics or Mixpanel to capture key metrics such as user engagement, retention rate, and conversion rates.
 - **Learn:** Analyse the data collected. If you see a high user drop-off at a particular feature, dig deeper into why. Conduct user interviews or A/B tests to understand the issue. Is the feature confusing, or is it not valuable to the user?
 
-![Startup MVP Feedback Loop: Build Measure Learn Branded](images/Build-Measure-Learn-Branded.png)
+![Startup MVP Feedback Loop: Build Measure Learn Branded](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Build-Measure-Learn-Branded.png)
 
 #### The Cycle in Action
 

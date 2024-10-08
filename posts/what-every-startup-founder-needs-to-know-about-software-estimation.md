@@ -31,11 +31,11 @@ The process involves predicting future work and accounting for uncertainties in 
 
 This creates a **“software estimation variability curve,"** where project costs and timelines can significantly fluctuate. On one end, a simpler project may closely align with its initial software estimation. On the other hand, more complex, evolving projects often grow beyond the original scope.
 
-![Graph of the Software estimation cone of uncertainty](images/Software-Quote-Screenshot-Sept-12-1024x435.png)
+![Graph of the Software estimation cone of uncertainty](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-1024x435.png)
 
 As project complexity increases, so does the variability of estimates. With more moving parts and decision trees to navigate, unforeseen obstacles are more likely to arise.
 
-![Flowchart of how complexity can affect your software estimation as a startup founder](images/Software-Quote-Screenshot-Sept-12-1-1024x416.png)
+![Flowchart of how complexity can affect your software estimation as a startup founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-1-1024x416.png)
 
 ### Don’t Decide on Software Estimation—Learn From It
 
@@ -52,11 +52,11 @@ Instead of letting an estimate be the deciding factor, view it as a learning opp
 
 Additionally, it helps gauge the reasoning ability of the team giving you the software estimation. The way an estimate is presented often reflects the type of working relationship you’ll have with the team.
 
-![Image depicting how you can understand the building blocks of your product using a software estimation](images/Software-Quote-Screenshot-Sept-12-2-1024x692.png)
+![Image depicting how you can understand the building blocks of your product using a software estimation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-2-1024x692.png)
 
 In the end, a software estimation should serve as a learning tool—not a deciding factor. It will help you better understand your product and assess the team you’re considering as a partner.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -84,7 +84,7 @@ A black-box software estimation, typical of fixed-bid contracts, don’t work we
 
 **A transparent software estimation process, on the other hand, allows both sides to collaborate without bias.**
 
-![Key differences between black box and transparent software estimation](images/Software-Quote-Screenshot-Sept-12-3-1024x699.png)
+![Key differences between black box and transparent software estimation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-3-1024x699.png)
 
 As the project progresses, a transparent team will keep you informed about what they’re building and provide regular updates on progress and roadblocks.
 
@@ -98,7 +98,7 @@ Understanding what drives software development costs is crucial. At a high level
 
 It’s common for founders to seek multiple quotes and be surprised by the wide range of software estimates they receive. Often, lower-cost options seem appealing, but this can lead to overlooking critical non-functional requirements, resulting in "technical debt"—the need for costly fixes or overhauls in the future.
 
-![Line Graph depicting the real cost of quality](images/Software-Quote-Screenshot-Sept-12-4-1024x664.png)
+![Line Graph depicting the real cost of quality](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-4-1024x664.png)
 
 A cheap solution may work at the beginning, but as your user base grows, performance issues or infrastructure limitations could require expensive fixes. If these challenges aren’t accounted for from the start, you could risk losing customers and damaging your business’s credibility. An experienced agency will guide you through these considerations so you can make informed decisions.
 
@@ -110,7 +110,7 @@ When getting a quote, consider breaking your project into multiple releases rath
 
 [Iterative development](https://asana.com/resources/iterative-process) allows you to focus on core features, gather user feedback, and make adjustments along the way. By launching in phases, you can manage costs more effectively and remain flexible in adjusting features or timelines based on real-world needs.
 
-![Grapoh depicting how transparent software estimation and iterative development can benefit your startup](images/Software-Quote-Screenshot-Sept-12-5-1024x496.png)
+![Grapoh depicting how transparent software estimation and iterative development can benefit your startup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-5-1024x496.png)
 
 ### How to Send a Good Request for Proposal
 
@@ -120,7 +120,7 @@ To tie everything together, here are some tips for writing a solid request for a
 2. **Be specific about the solution you envision** and clearly outline both functional and non-functional requirements.
 3. **Stay minimalistic**—focus on essential features that will provide maximum value to your customers in the first iteration
 
-![Graph on how to cut features that don't benefit your customer](images/Software-Quote-Screenshot-Sept-12-6-1024x564.png)
+![Graph on how to cut features that don't benefit your customer](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Software-Quote-Screenshot-Sept-12-6-1024x564.png)
 
 Finally, be transparent about your roadmap and budget. This will help the agency give you a more focused software estimation that aligns with your expectations. A good agency will adapt solutions to fit your constraints while being open about their decision-making process. If you're looking for transparency, you need to lead by example.
 

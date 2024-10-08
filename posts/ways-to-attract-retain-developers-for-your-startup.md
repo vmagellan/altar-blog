@@ -46,7 +46,7 @@ This will make it much easier to attract a developer – as they’ll already be
 
 Nailing your story ([your reason “why”)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) now won’t just attract developers. It’ll also help you attract investors, potential customers and any other relevant stakeholders for your startup.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

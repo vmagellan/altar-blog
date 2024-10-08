@@ -24,7 +24,7 @@ Their experiences highlight the importance of resilience, innovation, and a stro
 
 ## 1\. Wade Eyerly – Multi-Exit Unicorn Founder
 
-![Wade Eyerly, startup Founder of Surf Air](images/Wade-Surf-150x150.jpeg)Wade Eyerly is a remarkable founder.
+![Wade Eyerly, startup Founder of Surf Air](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf-150x150.jpeg)Wade Eyerly is a remarkable founder.
 
 He started by pioneering subscription-based flying with his airline, which became a unicorn startup and recently completed a successful IPO. He then created an innovative fintech product to address a [national student debt crisis](https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact).
 
@@ -40,7 +40,7 @@ Full interview: [How This Unicorn Founder Built an Airline Out of Necessity](htt
 
 ## 2\. Diane Prince – Seven-Time Founder and Startup Advisor
 
-![Diane Prince - Entrepreneur and startup advisor](images/Peacock-Chair-Diane-Square-150x150.jpg)Diane Prince is a seasoned entrepreneur with nearly three decades of experience in nurturing startups into successful businesses.
+![Diane Prince - Entrepreneur and startup advisor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Peacock-Chair-Diane-Square-150x150.jpg)Diane Prince is a seasoned entrepreneur with nearly three decades of experience in nurturing startups into successful businesses.
 
 Having built seven companies that collectively generated over $300M in revenue and achieved five successful exits, Diane has left an indelible mark on the startup ecosystem.
 
@@ -58,7 +58,7 @@ Full interview: [30-Year-Old Startup Lessons You Can’t Afford to Ignore](https
 
 ## 3\. Bethany Stachenfeld - Sendspark
 
-![Bethany, co-founder and accelerator alumni](images/Bethany-500-Startups-150x150.jpeg)Bethany Stachenfeld, the co-founder and CEO of Sendspark, is revolutionising how companies connect with their customers through video communication.
+![Bethany, co-founder and accelerator alumni](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bethany-500-Startups-150x150.jpeg)Bethany Stachenfeld, the co-founder and CEO of Sendspark, is revolutionising how companies connect with their customers through video communication.
 
 In just three years, Bethany and her co-founders have raised over $1 million in funding and grown Sendspark to over 10,000 users.
 
@@ -74,7 +74,7 @@ Full interview: [How a Startup Accelerator Catapulted my Entrepreneurial Journey
 
 ## 4\. Yaron Samid – BillGuard
 
-![Multi-exit Fintech Founder Yaron Samid](images/Yaron-Samid-BillGuard-3-150x150.jpg)Yaron Samid, a multi-exit startup founder, has seen his companies acquired by tech giants like Microsoft and Cisco.
+![Multi-exit Fintech Founder Yaron Samid](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3-150x150.jpg)Yaron Samid, a multi-exit startup founder, has seen his companies acquired by tech giants like Microsoft and Cisco.
 
 He is also a regular lecturer at Stanford and Columbia business schools and the founder of TechAviv, one of the largest founder clubs in the world.
 
@@ -90,7 +90,7 @@ Full interview: [From Being Fired to Building a Multi-Million Dollar Fintech Sta
 
 ## 5\. Matt Willamson – Vizzly
 
-![Matt Willamson - Startup founder of Vizzly](images/Matt-Willamson-150x150.jpeg)Matt Williamson, a first-time founder with an extensive background in business development and product from his time at Skyscanner and Duffel.
+![Matt Willamson - Startup founder of Vizzly](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Matt-Willamson-150x150.jpeg)Matt Williamson, a first-time founder with an extensive background in business development and product from his time at Skyscanner and Duffel.
 
 He founded Vizzly to make data accessible and digestible through customer-facing dashboards.
 
@@ -106,7 +106,7 @@ Full interview: [Navigating Rapid Startup Growth: From Bootstrapping to Y Combin
 
 ## 6\. Garrett Gafke - Serial Entrepreneur & Silicon Valley Veteran
 
-![Entrepreneur Garrett Gafke](images/Garrett-Thumbnail-150x150.webp)Garrett Gafke, a seasoned serial entrepreneur, pioneered the digital identity industry with his startup IdentityMind, founded in 2011.
+![Entrepreneur Garrett Gafke](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Garrett-Thumbnail-150x150.webp)Garrett Gafke, a seasoned serial entrepreneur, pioneered the digital identity industry with his startup IdentityMind, founded in 2011.
 
 After securing over $21M in funding and establishing IdentityMind as an industry leader, it was successfully acquired by Acuant.
 
@@ -135,7 +135,7 @@ Full interview: [Lessons Learned From Over 25 Years in Silicon Valley](https://a
 
 ## 7\. Adarsh Jain - ThirdWatch
 
-![Adarsh Jain, Startup Founder Thirdwatch](images/Adarsh-150x150.jpeg)Adarsh Jain, a technical founder with over 12 years of experience as a CTO and entrepreneur, co-founded Thirdwatch to combat e-commerce fraud using AI, machine learning, and data sciences.
+![Adarsh Jain, Startup Founder Thirdwatch](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adarsh-150x150.jpeg)Adarsh Jain, a technical founder with over 12 years of experience as a CTO and entrepreneur, co-founded Thirdwatch to combat e-commerce fraud using AI, machine learning, and data sciences.
 
 His startup was the first acquisition of RazorPay, a rapidly growing fintech valued at $7.5B.
 
@@ -149,7 +149,7 @@ Adarsh’s journey is a testament to the power of technical expertise in buildin
 
 Full interview: [From Struggling to Buy a TV to Getting Acquired by a $7.5B Fintech](https://altar.io/from-struggling-to-buy-a-tv-to-startup-acquisition/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -159,7 +159,7 @@ Let's Talk
 
 ## 8\. Giacomo De Lorenzo – Moneymour
 
-![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](images/Giacomo-de-Lorenzo-150x150.jpeg)Giacomo De Lorenzo, the co-founder of fintech startup Moneymour, leveraged his network to build a strong foundation for his business.
+![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo-150x150.jpeg)Giacomo De Lorenzo, the co-founder of fintech startup Moneymour, leveraged his network to build a strong foundation for his business.
 
 His approach to gathering valuable feedback and advice from early connections led to a robust project that attracted the interest of fintech unicorn Klarna even before its launch.
 
@@ -175,7 +175,7 @@ Full interview: [Selling a Fintech by Leveraging Your Most Valuable Resource: Pe
 
 ## 9\. Alex Tonelli – Fintech Founder and Serial Entrepreneur
 
-![Startup team advice from fintech founder Alex Tonelli](images/Tonelli-1-150x150.jpg)Back in 2009, Alex faced the daunting challenge of securing a small business loan for his chain of fitness centres, despite having six profitable units.
+![Startup team advice from fintech founder Alex Tonelli](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tonelli-1-150x150.jpg)Back in 2009, Alex faced the daunting challenge of securing a small business loan for his chain of fitness centres, despite having six profitable units.
 
 The bureaucratic hurdles and endless paperwork led him to solve this problem for other small businesses. Today, his solution is a unicorn fintech startup making small business financing easy and affordable.
 
@@ -193,7 +193,7 @@ Full interview: [Lessons Learned from the Early Days of a Fintech Unicorn](https
 
 ## 10\. Peter Fishman – Mozart Data
 
-![Successful Data Startup Founder & CEO, Peter Fishman](images/Peter-Fish-150x150.png)With nearly two decades of tech experience, Peter Fishman’s impressive portfolio includes stints at Google, The Walt Disney Company, and a key role as Principal Data Science Manager at Microsoft.
+![Successful Data Startup Founder & CEO, Peter Fishman](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Peter-Fish-150x150.png)With nearly two decades of tech experience, Peter Fishman’s impressive portfolio includes stints at Google, The Walt Disney Company, and a key role as Principal Data Science Manager at Microsoft.
 
 Three years ago, he set out to build Mozart Data, an innovative startup that democratises the complex process of data management.
 
@@ -209,7 +209,7 @@ Full interview: [How a Y Combinator Lesson Helped Our Startup Scale to $19M](htt
 
 ## 11\. Jan-Philipp Kruip – FitSense
 
-![fintech product founder Jan-Philipp Kruip](images/Screenshot-2020-09-18-at-19.42.04-1-150x150.png)Jan-Philipp Kruip is the founder of FitSense, a B2B health and fitness fintech startup used by some of the largest multinational insurance companies in the world.
+![fintech product founder Jan-Philipp Kruip](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1-150x150.png)Jan-Philipp Kruip is the founder of FitSense, a B2B health and fitness fintech startup used by some of the largest multinational insurance companies in the world.
 
 In this conversation, Jan-Philipp shared how trusting his gut led to some of his biggest wins.
 
@@ -227,7 +227,7 @@ Full interview: [Building and Scaling a Fintech Startup by Trusting Your Gut](ht
 
 ## 12\. Christian Nothacker – PrestaCap
 
-![](images/Nothacker_ProfilePic-scaled-1-150x150.jpg)Christian Nothacker, founder of fintech startup PrestaCap, identified a significant market gap while working at mobile payments company SumUp.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1-150x150.jpg)Christian Nothacker, founder of fintech startup PrestaCap, identified a significant market gap while working at mobile payments company SumUp.
 
 Small business owners faced major inefficiencies in traditional bank financing processes. Seeing an opportunity, Christian built a team to digitalise these processes, creating PrestaCap.
 
@@ -243,7 +243,7 @@ Full interview: [The Key Decisions When Building a Fintech](https://altar.io/fou
 
 ## 13\. Bilal Dahlab – Moneco
 
-![Bilal, Moneco Founder & YC Alumnus](images/Bilal-YC-Headshot-150x150.jpeg)Bilal Dahlab transitioned from financial consulting to launching Moneco, a fintech startup that simplifies setting up bank accounts and making international money transfers for the African diaspora living in Europe.
+![Bilal, Moneco Founder & YC Alumnus](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bilal-YC-Headshot-150x150.jpeg)Bilal Dahlab transitioned from financial consulting to launching Moneco, a fintech startup that simplifies setting up bank accounts and making international money transfers for the African diaspora living in Europe.
 
 His journey through Y Combinator provided him with invaluable resources, mentorship, and a powerful network, significantly enhancing his startup experience.
 
@@ -260,7 +260,7 @@ Full Name Business Email Subscribe
 
 ## 14\. Ali Halabi – Volt Lines
 
-![Volt Lines Founder- Ali Halabi](images/DSCF4222-scaled-1-150x150.jpg)Ali Halabi moved to Istanbul in 2013 and quickly fell in love with the city but was frustrated by the daily traffic.
+![Volt Lines Founder- Ali Halabi](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DSCF4222-scaled-1-150x150.jpg)Ali Halabi moved to Istanbul in 2013 and quickly fell in love with the city but was frustrated by the daily traffic.
 
 Determined to solve this problem, he left his corporate job and founded an on-demand carpooling service called Volt in 2014. However, Volt struggled to achieve product-market fit and eventually failed.
 
@@ -278,7 +278,7 @@ Full interview: [How to Build a Million Dollar Startup by Falling in Love With a
 
 ## 15\. Illit Geller – TradAir
 
-![Entrepreneur and startup product founder Illit Geller](images/llit-1-150x150.jpeg)Illit Geller, a serial entrepreneur, founded TradAir, a fintech startup that recently raised $11M in its latest funding round.
+![Entrepreneur and startup product founder Illit Geller](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/llit-1-150x150.jpeg)Illit Geller, a serial entrepreneur, founded TradAir, a fintech startup that recently raised $11M in its latest funding round.
 
 Illit's approach to building a startup involved close collaboration with her target market, developing solutions directly with their input. Her focus on team dynamics and leadership has been a key factor in TradAir’s success.
 
@@ -292,7 +292,7 @@ Full interview: [Building a Successful Fintech by Listening to the Market](https
 
 ## 16\. Gary Lin – Airwork
 
-![Gary Lin, startup founder, Airwork](images/Gary-L-150x150.jpeg)Gary Lin, a seasoned software engineer with experience at tech giants like Facebook and NVIDIA, built Airwork, a platform that allows workers in Canada to pick up shifts at local businesses and get paid the same day.
+![Gary Lin, startup founder, Airwork](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Gary-L-150x150.jpeg)Gary Lin, a seasoned software engineer with experience at tech giants like Facebook and NVIDIA, built Airwork, a platform that allows workers in Canada to pick up shifts at local businesses and get paid the same day.
 
 Accepted into the Winter 2022 batch of Y Combinator, Gary’s startup has rapidly grown, raising over $1.5M and revolutionising accessibility to shift work in the Greater Toronto area.
 
@@ -306,7 +306,7 @@ Full interview: [How Y Combinator Taught Me What Matters When Building a Startup
 
 ## 17\. Sean Yu – Paraşüt
 
-![Sean Yu, Startup Founder](images/image005-150x150.jpg)Sean Yu began his career at Lehman Brothers and Gryphon Investors, with a rational path leading him towards business school and a stable finance career.
+![Sean Yu, Startup Founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image005-150x150.jpg)Sean Yu began his career at Lehman Brothers and Gryphon Investors, with a rational path leading him towards business school and a stable finance career.
 
 However, his interest in economic development led him to work with an NGO in Turkey, where he discovered his entrepreneurial passion.
 
@@ -324,7 +324,7 @@ Full interview: [How an Experience in Turkey Led to a Million-Dollar Startup](ht
 
 ## 18\. Reed Taussig – Outseer
 
-![Reed Taussig: Startup Advisor and Tech CEO](images/Reed_Taussig-150x150.jpg)Reed Taussig, an entrepreneur, business leader, and VC with over 35 years of experience, has led, advised, and invested in numerous tech corporations and startups.
+![Reed Taussig: Startup Advisor and Tech CEO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Reed_Taussig-150x150.jpg)Reed Taussig, an entrepreneur, business leader, and VC with over 35 years of experience, has led, advised, and invested in numerous tech corporations and startups.
 
 He notably managed Callidus Cloud from inception to IPO, spearheaded ThreatMatrix from pre-product launch to acquisition by Lexis Nexis Risk Solutions, and currently serves as CEO of Outseer.
 
@@ -340,7 +340,7 @@ Full interview: [Applying the Startup Mindset to Big Corp & Losing Half Your You
 
 ## 19\. Ankit Singh – MyPoolin
 
-![Ankit Forbes 30 under 30 fintech founder](images/Ankit-Forbes-30-under-30-founder--150x150.webp)Ankit Singh, a Forbes 30 under 30 founder, has extensive experience in the financial technologies landscape.
+![Ankit Forbes 30 under 30 fintech founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Ankit-Forbes-30-under-30-founder--150x150.webp)Ankit Singh, a Forbes 30 under 30 founder, has extensive experience in the financial technologies landscape.
 
 In 2015, he founded MyPoolin, a peer-to-peer payment platform that disrupted the Indian fintech market.
 

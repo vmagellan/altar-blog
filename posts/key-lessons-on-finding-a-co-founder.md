@@ -1,9 +1,9 @@
 ---
 title: "5 Key Lessons on Finding a Co-Founder From Award-Winning Entrepreneurs"
 date: "2022-08-09"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "guide"
@@ -36,8 +36,6 @@ From those conversations I've compiled the top 5 lessons on finding a co-founder
 
 Let’s jump straight in with the first lesson, which is all about the importance of the process itself.
 
- 
-
 #### Contents
 
 ## 1\. Don’t Underestimate The Importance of Finding the Right Co-Founder
@@ -49,8 +47,6 @@ Startup success is all about the team you're able to assemble.
 This is true for anyone you decide to bring in, from your first hire to an external development team. But above all is your founding team. Without full alignment; without a shared vision, you'll struggle even with the easiest decision (like what kind of furniture you want in your office).
 
 Take, for example, what I learned from successful entrepreneur and creator of one of the largest founder communities in the world, [Yaron Samid](https://www.linkedin.com/in/yaronsamid/). He emphasised how major this decision is [in a recent discussion with me](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/):
-
-
 
 The most important decision is your co-founder. I can’t stress this enough; it is literally the most important decision you will make as a founder.
 
@@ -64,8 +60,6 @@ There are several key traits to look for in “the right” co-founder. Technica
 
 But right at the top of that list are passion and commitment – which I’ll touch on soon. First, it’s important to remember the perfect co-founder could be anywhere.
 
-
-
 Related: [Critical Traits to Consider if You Want to Find the Perfect Co-Founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 
 ## 2\. Your Perfect Co-Founder Could Be Anywhere
@@ -77,8 +71,6 @@ If that doesn’t bear fruit – you can always try founder dating. Something th
 He’s the founder behind FitSense, a digital well-being platform that’s gone on to be used by some of the biggest insurance companies in the world.
 
 He explained his experience [in a recent conversation we had](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/):
-
-
 
 I was in Singapore and there was this platform that was essentially Tinder for co-founders.
 
@@ -98,8 +90,6 @@ Unicorn founder [Wade Eyerly](https://www.linkedin.com/in/wadeeyerly) faced th
 
 He found his co-founder in one of the most unlikely places I’ve ever seen.
 
-
-
 I met my co-founder on an email list server. He posted there saying, Hey, I’m looking for something new.
 
 So I reached out to him and said:
@@ -116,15 +106,9 @@ We worked together a little and then we worked together a lot and it was very cl
 
 It’s been an incredible dynamic. If you had handed me Aladdin’s lamp and said make a wish for your perfect co-founder I couldn’t have guessed that he existed.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -138,8 +122,6 @@ Trusting your co-founders is something I recently spoke to successful entreprene
 
 [During our conversation](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/), he underlined that, in the startup ecosystem, time is of the essence.
 
-
-
 My basic premise is that I first trust people and they can lose that trust. In a startup environment, you don’t have time to fully build trust before you have to start delegating to someone.
 
 If you’re someone who has a tough time trusting you need to take that into the hiring process. Ask yourself if you can trust that person from day one and start delegating.
@@ -149,8 +131,6 @@ To put it bluntly: You simply will not have the bandwidth to control every aspec
 Jan-Phillip isn’t the only founder who learned that you have to start trusting people quickly.
 
 Take another entrepreneur I’ve talked about already, Wade Eyerly, as an example:
-
-
 
 I knew my first co-founder, Reed, quite well and knew I wanted him. So I called and offered him a percentage of the company to come to join as a co-founder.
 
@@ -194,8 +174,6 @@ This will then have a knock-on effect when it comes to looking for funding. Inve
 
 Silicon Valley Veteran (with over 25 years of experience building startups) [Garrett Gafke](https://www.linkedin.com/in/garrettgafke/) summed it up perfectly in a [recent conversation](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/) I had with him on this exact topic:
 
-
-
 My co-founders and I saw a lack of demand when building our startup. Sure, we were told “no” a million times – like a lot of entrepreneurs.
 
 After all, failure is the primary denominator in the entrepreneurial process.
@@ -232,12 +210,6 @@ You might also consider talking to the people they worked with previously. This 
 
 Finally, it’s important their skill set complements yours.
 
-
-
-
-
-
-
 ## 5\. Find a Co-Founder With a Complementary Skillset to Yours
 
 If you can find a co-founder with complementary skillsets, it will make your startup that much stronger.
@@ -245,8 +217,6 @@ If you can find a co-founder with complementary skillsets, it will make your sta
 For example, if you're a great business strategist but not so good at the technical aspects of building a product, finding a co-founder who is a strong engineer will help balance out your team.
 
 It’s something that New York Times Bestseller and hiring expert, [Geoff Smart](https://www.linkedin.com/in/drgeoffsmart/) touched on [when I sat down with him recently](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/):
-
-
 
 You should find a co-founder that has a one-third overlap with you in skills and two-thirds complementary skills.
 
@@ -259,8 +229,6 @@ Then it’s about making sure that values and cultural aspects are consistent be
 But the main thing is to hire for skill complementarity. Do NOT hire someone just like you with the same skills as you, I’ve never seen that work.
 
 First, identify what skills you need. If you're not sure, ask your network and/or mentors for their input. Then, once you know what hard skills you’re looking for, get out there and start talking to people.
-
-
 
 Related: [How to Find a Technical Co-Founder For Your Startup](https://altar.io/how-to-find-a-technical-co-founder-for-your-startup/)
 

@@ -1,9 +1,9 @@
 ---
 title: "7 Dangerous Mistakes to Avoid When Building an MVP"
 date: "2021-10-22"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "mvp"
   - "product"
@@ -26,8 +26,6 @@ So I sat down with my co-founding team, to combine our 25+ years of experience i
 
 The result is a list of 7 mistakes you should avoid before you take your first step to introduce a new product to the market.
 
- 
-
 #### Contents
 
 ## 1\. Focusing on the “Minimum” More Than the “Viable”
@@ -43,8 +41,6 @@ Any product you launch into the world still needs to be technically excellent, w
 In other words, what’s the simplest way to collect the maximum amount of validated learnings from users while still delivering a high-value experience?
 
 Don’t fall into the trap of building a dozen half-assed features, when what you really need is two kick-ass features.
-
-
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -74,23 +70,15 @@ There was one feature, however, that every user adored. The ability to share pho
 
 So Systrom made a tough decision:
 
-
-
 We went out on a limb and basically cut everything in the Burbn app except for its photo, comment, and like capabilities. What remained was Instagram.
 
 Systrom listened to the market and built an app with the features needed to show off his value proposition.
 
 So, focus on the value, the problem your users have and build an MVP with the fewest features possible to show them that your solution is the best on the market for them.
 
- 
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -108,9 +96,7 @@ Aside from the obvious moral and ethical issues, it could kill your product, and
 
 Never put your customers at risk – no matter how small that risk may seem.
 
-Ensure your MVP is secure and you’ve taken every precaution to protect your users’ privacy _before_ you launch it.
-
-
+Ensure your MVP is secure and you’ve taken every precaution to protect your users’ privacy *before* you launch it.
 
 Related: [Crucial Lessons I Learned from Interviewing Successful Entrepreneurs](https://altar.io/crucial-lessons-learned-interviewing-successful-entrepreneurs/)
 
@@ -135,8 +121,6 @@ However, with an MVP out in the world, Yaron and his team quickly saw that adopt
 So they pivoted to a B2B model, attempting to sell their anti-fraud technology to the banks. However, as a young startup, they didn’t have the runway for the long sales cycle that comes with selling to large banks.
 
 So they had to pivot again:
-
-
 
 After two years of investing in a B2B marketing and sales team, with pilots in major banks, we made one of the hardest decisions we had to make. To pivot back to a consumer app.
 
@@ -168,7 +152,7 @@ This is the best way to gather targeted, high-quality feedback that will accurat
 
 A prime example of this is Facebook.
 
-Today Facebook is the most active social media platform in the world, boasting around [2.9 billion monthly active users](https://datareportal.com/essential-facebook-stats#:~:text=Number%20of%20people%20who%20use,)%3A%201.908%20billion%20(July%202021)&text=Share%20of%20Facebook's%20monthly%20active,%3A%2066%25%20(July%202021)&text=Size%20of%20Facebook's%20global%20advertising,2.252%20billion*%20(July%202021)).
+Today Facebook is the most active social media platform in the world, boasting around [2.9 billion monthly active users](https://datareportal.com/essential-facebook-stats#:~:text=Number%20of%20people%20who%20use,)%3A%201.908%20billion%20(July%202021)&text=Share%20of%20Facebook's%20monthly%20active,%3A%2066%25%20(July%202021)&text=Size%20of%20Facebook's%20global%20advertising,2.252%20billion\*%20(July%202021)).
 
 But when it launched in 2004 its initial audience was exclusively Harvard students.
 
@@ -183,12 +167,6 @@ The first iteration of Slack was built to solve a very specific problem – the
 So, build your MVP with a specific group of users in mind and launch solely for them.
 
 Gather their feedback, iterate your product and grow your audience gradually.
-
-
-
-
-
-
 
 ## 6\. Not Working With the Right Team
 
@@ -218,8 +196,6 @@ It’s something Nelly Yusupova, a CTO and startup advisor with nearly 20 years 
 
 She told me that:
 
-
-
 Launching your early MVP and gaining traction will really help you attract a technical co-founder because you’ve taken the risk out of that opportunity for them.
 
 Let’s say you hire an agency and they start to build your MVP with a three to five-month timeline.
@@ -242,8 +218,6 @@ At Altar, we’ve worked with entrepreneurs who built their MVP with the wrong t
 
 In the worst cases we’ve seen, the code was so poor that we’ve had no choice but to scrap the codebase and start from scratch. Something not every startup can afford to do.
 
-
-
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 
 ## 7\. Ignoring User Feedback
@@ -254,11 +228,9 @@ This often happens when founders are too focused on the solution they want to bu
 
 Not listening to user feedback will result in you developing a product that nobody wants. This will lead to low adoption rates, barely any traction and it won’t be long before your startup reaches the end of the road.
 
-Always remember the why behind building an MVP – to test if the solution you have in mind will _actually_ solve the problem for your target users.
+Always remember the why behind building an MVP – to test if the solution you have in mind will *actually* solve the problem for your target users.
 
 The only way to know the results of that test is to listen to the people who are using your MVP.
-
-
 
 Related: [How to Build a Million Dollar Startup by Falling in Love With a Problem, Not a Solution \[Founder Story\]](https://altar.io/founder-story-fall-in-love-with-problems-not-solutions/)
 
@@ -272,7 +244,7 @@ So, my advice to avoid mistakes is to:
 
 - **Define and narrow down your value proposition** – What is the problem you intend to solve? And how? Why is this a 10x better way to solve than anything else out there?
 - **Build small, but at a high standard** – Choose the minimum features possible - while maintaining a meaningful product but also make sure they’re built to a high quality with security and privacy at the core.
-- **Only build features that test your value proposition** – anything else can wait until you _know_ that people want your product.
+- **Only build features that test your value proposition** – anything else can wait until you *know* that people want your product.
 - **Don’t take so long to build that you miss your shot** – Neither your competitors nor market will wait for you.
 - **Surround yourself with the best talent you can find** – Whether they’re in-house or a third party, make sure you’re working with professionals who know their onions.
 - **Listen to User Feedback** – Remember, your goal is to solve their problem better than anyone else on the market – without them your product can’t succeed.

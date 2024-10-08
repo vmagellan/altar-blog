@@ -58,7 +58,7 @@ At an agency level, you must assess its track records and ask for references.
 
 If you are choosing contractors, I will now identify the characteristics of those talents that you should be looking for. But first, if you’re not experienced in evaluating technical skills I would recommend learning some [tech basics](https://altar.io/blog/what-the-non-technical-entrepreneur-needs-to-know-about-tech/) before getting started. On top of this, you could ask a friend/colleague to assess them.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

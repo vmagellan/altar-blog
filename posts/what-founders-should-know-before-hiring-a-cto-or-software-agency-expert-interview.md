@@ -25,7 +25,7 @@ While there are [pros and cons to both approaches](https://altar.io/whats-the-b
 
 And, as a Founder and Mentor myself,  I couldn’t agree more.
 
-![Nelly Yusupova, CTO and Startup tech advisor](images/nelly-headshot-large-how-to-find-a-tech-co-founder.png)
+![Nelly Yusupova, CTO and Startup tech advisor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/nelly-headshot-large-how-to-find-a-tech-co-founder.png)
 
 She talked about how speed and a short time to market are key to a startups success, and that in waiting to find the perfect CTO you could miss your market opportunity.
 
@@ -85,7 +85,7 @@ Related: [Critical Steps to Select The Right Technical Partner To Help You Build
 
 The first TechSpeak I did was in 2012, it was an in-person Bootcamp. For many years I did it as a weekend Bootcamp where entrepreneurs would come and learn from me over two days.
 
-![](images/nelly-running-a-workshop-on-CTOs-and-software-development.jpeg) Post-COVID TechSpeak is completely online. Which gives me a huge opportunity to reach entrepreneurs on a global scale.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/nelly-running-a-workshop-on-CTOs-and-software-development.jpeg) Post-COVID TechSpeak is completely online. Which gives me a huge opportunity to reach entrepreneurs on a global scale.
 
 Something I’ve found is that TechSpeak can even improve the entrepreneur-software development company relationship.
 
@@ -119,7 +119,7 @@ It will help you know exactly when things are going wrong so that you can preven
 
 Personally, my goal is to improve my processes by 1% every deploy I do.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

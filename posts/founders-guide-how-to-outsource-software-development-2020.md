@@ -86,7 +86,7 @@ Software is a living organism — your needs will change throughout the proc
 
 By committing to a smaller, project-based, working relationship there is no real pressure to sustain it long term, which allows your company to hire “as and when” it is necessary. This not only makes everything more flexible but also reduces costs.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

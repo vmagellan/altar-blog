@@ -16,7 +16,7 @@ The exclusive list contains only the top 1%, most reputable companies who use th
 
 We're very proud to have companies like Clutch and Goodfirms recognize our hard work, just as we are proud to regularly feature in [articles](https://medium.com/@merdekiti/15-top-web-development-companies-in-2020-c666cd178476) and [lists](https://digital.com/custom-software-development-companies/) of the top development companies all over the world.
 
-![Clutch 1000 Award](images/CLUTCH-1000-HQ.png)
+![Clutch 1000 Award](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/CLUTCH-1000-HQ.png)
 
 But, as I’ve said [before](https://altar.io/altar-io-named-leading-b2b-company-by-clutch-co/), we are even prouder to see our clients succeed.
 

@@ -28,7 +28,7 @@ Here is the exact process I’ve used to successfully interview software develop
 
 ## Break The Ice
 
-![How to break the ice when interviewing developers 2022](images/How-to-break-the-ice-when-interviewing-developers-2022-1024x671.png)
+![How to break the ice when interviewing developers 2022](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/How-to-break-the-ice-when-interviewing-developers-2022-1024x671.png)
 
 ### 1\. Ask Targeted Questions to Establish Relatability
 
@@ -76,7 +76,7 @@ Notice here how this starts as an overview of the company as a whole – somethi
 
 Then, in the second half, it begins to focus on the information that is important for a developer: a focus on cutting edge technologies and the open-source community.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 
@@ -106,7 +106,7 @@ As with any aspect of your startup, aligning expectations is critical. The big q
 
 This helps you gauge if their intentions are noble. For example, wanting to work in cutting edge technology, [open-source projects](https://altar.io/open-source/), progress faster, move from corporate to startup or vice versa, etc.
 
-![The Most Popular programming languages](images/The-Most-Popular-programming-languages--1024x411.png)
+![The Most Popular programming languages](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/The-Most-Popular-programming-languages--1024x411.png)
 
 _The Most Popular programming languages among professional developers worldwide (_[_Stack Overflow Developer Survey_](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-language)_). Javascript leads the pack and is currently the programming language we get asked for the most in all its frameworks (Node, React, Angular, etc)._
 
@@ -135,7 +135,7 @@ Share which roles you think they would be suited to based on the information the
 
 Then, it’s time to talk about your startup once more, specifically to sell it to them.
 
-![Discussing potential roles, how to interview developers](images/Discussing-potential-roles-how-to-interview-developers-1024x681.png)
+![Discussing potential roles, how to interview developers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Discussing-potential-roles-how-to-interview-developers-1024x681.png)
 
 ### 8\. Describe the Lifestyle
 
@@ -193,4 +193,4 @@ Good luck with your search and thanks for reading.
 
 P.S. If you are looking to build a team in Lisbon, don’t forget to [reach out to us.](https://altar.io/build-a-dedicated-team/)
 
-![Find a developer in Lisbon](images/Find-a-developer-in-Lisbon.png)
+![Find a developer in Lisbon](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Find-a-developer-in-Lisbon.png)

@@ -21,7 +21,7 @@ And when it comes to finding those people, your relationships are as valuable as
 
 Something entrepreneur, and co-founder of fintech [Moneymour](https://www.linkedin.com/company/moneymour/), [Giacomo De Lorenzo](https://www.linkedin.com/in/giacomodelorenzo/) knows a thing or two about:
 
-![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](images/Giacomo-de-Lorenzo.jpeg)
+![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo.jpeg)
 
 I wouldn’t have imagined I could have had so much help from the people I talked to during the early stages of Moneymour, their advice had a hugely beneficial impact.
 
@@ -57,7 +57,7 @@ For the purpose of this discussion, it’s important to state that **Moneymour 
 
 Moneymour was a technology provider for our partner bank, Banca Reale. We were entitled from the bank to take on the whole user experience and the credit scoring, and pass the client to the bank who disbursed the loan.
 
-![Moneymour – full fintech startup timeline](images/Moneymour-–-full-startup-timeline-1024x556.png)
+![Moneymour – full fintech startup timeline](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Moneymour-–-full-startup-timeline-1024x556.png)
 
 #### P: How did you come up with the idea for the fintech?
 
@@ -121,7 +121,7 @@ Start developing relationships with people who’re relevant to your startup as 
 
 **[Yaron Samid](https://www.linkedin.com/in/yaronsamid/), Serial Entrepreneur & Startup Founder**
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -169,7 +169,7 @@ He had experience as a consultant working on banks’ credit scoring algorithms.
 
 So we onboarded him, and later another data scientist, Leonardo Totò, and a kick-ass full-stack developer, Antonio Trapani.
 
-![](images/Moneymour-Team--1024x803.jpeg) We had some help from [Digital Magics](http://www.digitalmagics.com/en/) at this time, in the form of a convertible loan. We used this to pay the employees.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Moneymour-Team--1024x803.jpeg) We had some help from [Digital Magics](http://www.digitalmagics.com/en/) at this time, in the form of a convertible loan. We used this to pay the employees.
 
 For us, the co-founders, it was a really hard time. We didn’t have any income for a year and a half. It was extremely stressful.
 

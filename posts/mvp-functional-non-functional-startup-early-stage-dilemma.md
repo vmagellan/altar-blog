@@ -1,9 +1,9 @@
 ---
 title: "Functional or Non-functional MVP? An Early-Stage Startup Problem"
 date: "2020-10-29"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "costs"
   - "marketing"
   - "mvp"
@@ -21,8 +21,6 @@ This is an important question. The answer can save you time, and money and ultim
 First, remember **why** you’re building an MVP. **Your MVP should be the shortest path to prove that people need your solution and will adopt your product.**
 
 Keep this in mind as I move on to discuss the differences between functional and non-functional MVPs.
-
- 
 
 #### Contents
 
@@ -56,19 +54,11 @@ Building a functional MVP is, in most cases, more expensive than a non-functiona
 
 For example, if you’re a non-tech founder, finding the right technical partner to execute the development of a functional MVP can take a lot of time and effort. There are however [options to solve this](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/), that can cut down both costs and time-to-market, without compromising on quality.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
- 
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -100,8 +90,6 @@ If you need to measure KPIs such as customer retention, whetting the market’s 
 
 You can only go so far as to measure customer intent, which can often be extremely different from customer action. A prime example of this comes from serial entrepreneur, Yaron Samid, who, in a [recent conversation with us](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/), noted about his product that:
 
-
-
 People had the intent, but when we launched, suddenly nobody stopped what they were doing to sign up and use it.
 
 Taking action is not free. People have to make the decision to go get your product. That requires a driving force.
@@ -109,12 +97,6 @@ Taking action is not free. People have to make the decision to go get your produ
 Although most non-functional MVPs allow you to build a list of potential users’ contacts, you still have to build a functional product. The race is on to get your product to market before those excited users start to lose interest.
 
 This short comparison of the two has undoubtedly already given you some clues as to which you should build. But there are some elements that can help you with this decision.
-
-
-
-
-
-
 
 ## Be Rational When Deciding Which MVP is Right for You
 
@@ -181,7 +163,7 @@ Your final consideration should be based on comparing the effort and output of b
 
 That being said, remember with a functional MVP, you are actually talking about real conversion, real retention and real cost per acquisition, not forecasts based on shown appetite. I’m also sure your investor’s appetite is much higher with real KPIs, even if the total numbers are low but with a promising conversion and sustainable cost structure.
 
-Let me leave you with this example. Say I am an investor and you say to me **“I have 10K users that submitted a form saying they are interested in my project”** 
+Let me leave you with this example. Say I am an investor and you say to me **“I have 10K users that submitted a form saying they are interested in my project”**
 
 Versus: **“I have 100 retained, paying users as a result of my MVP.”**
 

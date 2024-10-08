@@ -37,7 +37,7 @@ When I first spoke to him, I knew he had a lot to share - valuable lessons for a
 
 So my CMO Rui and I sat down with him to learn more about his story.
 
-![Altar.io Founder Interview 2021.03.18 Sean Yu](images/Altar.io-Founder-Interview-2021.03.18-Sean-Yu-1024x675.png)
+![Altar.io Founder Interview 2021.03.18 Sean Yu](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Altar.io-Founder-Interview-2021.03.18-Sean-Yu-1024x675.png)
 
 Throughout our conversation, he displayed several traits that all successful entrepreneurs share.
 
@@ -131,7 +131,7 @@ If I hadn’t worked with entrepreneurs at Endeavor, I wouldn’t have seen the 
 
 That’s what I mean when I say with B2B startups you really have to be there, talking to a lot of businesses to identify the pain points.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

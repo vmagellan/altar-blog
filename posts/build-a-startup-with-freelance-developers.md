@@ -78,7 +78,7 @@ If they don’t do any of the above or even miss out on one, it’s a red flag.
 
 If you’re unsure of how to assess this, I would recommend talking to a non-biased tech stakeholder (like a friend who is a CTO for example). You can also [reach out to us](mailto:altar@altar.io) here for an informal conversation – we’d be happy to put you in touch with our CTO for some further information.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 
@@ -282,7 +282,7 @@ Again, if you’re unsure which path to go down, I recommend [giving this artic
 
 Alternatively, for a quick, high-level view of the pros and cons of each, check out the table below.
 
-![Hiring a CTO vs Agency vs Freelancers – a high level view on time vs. effort](images/Frame-988-1024x574.png)
+![Hiring a CTO vs Agency vs Freelancers – a high level view on time vs. effort](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Frame-988-1024x574.png)
 
 Don’t forget to check out the companion articles I’ve written on both [finding a CTO](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/) and [working with an agency](https://altar.io/founders-guide-how-to-outsource-software-development-2020/) to explore these key factors further.
 

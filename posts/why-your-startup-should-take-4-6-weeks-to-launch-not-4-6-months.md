@@ -73,7 +73,7 @@ We are so in the trenches, building and rebuilding, that we often lose sight of 
 
 With all of these aspects in mind, here’s the MVP development process from start to finish.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -138,7 +138,7 @@ These two-week sprints should include:
 
 Here is an example of how we plan sprints at Altar –  in an entrepreneur-software agency environment:
 
-![The Startup MVP Development Process from A-Z - Sprints](images/dailyscrum.png)
+![The Startup MVP Development Process from A-Z - Sprints](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/dailyscrum.png)
 
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.iohttps://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 
@@ -152,7 +152,7 @@ Once any major issues have been identified and fixed, you can safely launch your
 
 After you launch your MVP, it’s time to employ the build, measure, learn cycle to gather feedback and iterate rapidly.
 
-![The Startup MVP Development Process from A-Z - build, measure, learn cycle](images/build-measure-learn-cycle-1024x669.png)
+![The Startup MVP Development Process from A-Z - build, measure, learn cycle](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/build-measure-learn-cycle-1024x669.png)
 
 ### This starts by measuring the feedback from your users – via tracking and metrics.
 

@@ -25,7 +25,7 @@ While all of these options are viable, if you find a CTO with the right tech ex
 
 I bet you keep hearing that "Finding your dream CTO is not easy”. It’s true; it takes a lot of time and commitment. That’s why many founders spend years looking for the perfect person for the job, myself included.
 
-![Batman & Alfred CTO](images/Batman-Alfred-CTO-1024x696.png)
+![Batman & Alfred CTO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Batman-Alfred-CTO-1024x696.png)
 
 When I first started founding startups, I experienced the hurdles of finding a CTO first-hand. Over the last 14 years, I have built many projects. It took me more than 30 months and more than 300 headaches before I found the right guy for the job.
 
@@ -57,7 +57,7 @@ Therefore, before we get to the list, it’s important to point out that **all*
 
 Your Robin should be more passionate about your idea than you are - or at least come a close second.
 
-![](images/Holy-Startup-Strategy-Batman-1024x696.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Holy-Startup-Strategy-Batman-1024x696.png)
 
 To be sure you’ve found your CTO remember: Passion is an essential trait highly correlated with the tenacity needed to traverse the dark alleys of the startup journey. Every startup faces hurdles. Unless you find a CTO that has a passion for your company; during the storms, you will be navigating the challenges alone.
 
@@ -88,7 +88,7 @@ My Advice:
 
 Passion is great but can make people blind. Make sure Robin is still sober enough to make responsible decisions.
 
-![Can your CTO actually be responsible](images/Can-your-CTO-actually-be-responsible-1024x696.png)
+![Can your CTO actually be responsible](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Can-your-CTO-actually-be-responsible-1024x696.png)
 
 With great power comes great responsibility. It’s important to find a CTO that is a responsible professional before onboarding them as your partner in crime.
 
@@ -101,7 +101,7 @@ My Advice:
 
 Make sure you’re talking to a real Robin; you may find an inexperienced guy behind that mask.
 
-![Does Your CTO have the Expertise](images/Can-your-CTO-be-Responsible-1024x696.png)
+![Does Your CTO have the Expertise](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Can-your-CTO-be-Responsible-1024x696.png)
 
 You will find many wannabe CTOs. Your CTO must have the depth of knowledge to make the right technical decisions for your startup. This requires evaluation. Of course, if you don’t have a technical background, you think, “Ok, but how do I evaluate the tech expertise”, don’t worry I have a precise way to deal with that (which I will go into later).
 
@@ -120,7 +120,7 @@ Related: [How to Avoid Failure When Building a Startup With a Software Developme
 
 Can you imagine a part-time Robin? Me neither!
 
-![](images/Is-Your-CTO-commited--1024x696.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Is-Your-CTO-commited--1024x696.png)
 
 You and your CTO will face many hurdles together on the road to success; if they don't fully commit, your success will get further and further out of reach.
 
@@ -136,7 +136,7 @@ And, before you start making big plans, sit down with your future CTO and hash o
 
 You and your Robin should agree on a plan before taking justice to the streets; you don’t want to face the Joker unprepared.
 
-![Alignment with Your CTO](images/Alignment-with-Your-CTO-1024x696.png)
+![Alignment with Your CTO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Alignment-with-Your-CTO-1024x696.png)
 
 You will spend many hours working directly with your CTO. So it’s crucial that you first like the person you onboard.
 
@@ -162,7 +162,7 @@ Discuss all the mentioned points (Product/Company roadmap, Equity split & salari
 
 As in any relationship, be ready to discuss contentious points and, at times, prepare to compromise. Don’t waste your time with someone who gets stuck in unnecessary details. As much as we would all like to admit, myself included, that energy is infinite, it is not.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -174,7 +174,7 @@ Let's Talk
 
 It’s vital that Robin can leave the Batcave and assemble a league of citizens to help clean up Gotham.
 
-![Is Your CTO a Leader?](images/Is-Your-CTO-a-Leader-1024x696.png)
+![Is Your CTO a Leader?](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Is-Your-CTO-a-Leader-1024x696.png)
 
 There are many [archetypes of developers](https://altar.io/looking-developers-10-developer-archetypes-youre-likely-encounter/), and a few stereotypes to boot. One of the most popular being that they share a disposition for sitting alone in their “cave” accompanied exclusively by seven monitors, a coffee machine, half a dozen red bull and very little light.
 
@@ -200,7 +200,7 @@ If your potential CTO only focuses on technical skills, they will never be a goo
 
 Robin has to commit to results, but if he makes promises he can’t keep, your credibility will be at stake.
 
-![Your CTO needs to keep his promises](images/Your-CTO-needs-to-keep-his-promises-1024x696.png)
+![Your CTO needs to keep his promises](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Your-CTO-needs-to-keep-his-promises-1024x696.png)
 
 Equally as important as leadership skills are management skills. What I mean by this is your CTO’s capability to evaluate the timeframe and effort needed to build your product. Most developers are very, and when I say very, I mean **very** optimistic, about the time it takes to build a product.
 
@@ -225,7 +225,7 @@ If they fail this small test, it could point to much more substantial time manag
 
 The dark streets of Gotham can get lonely without a partner in justice.
 
-![Where to Look for a CTO](images/Where-to-Look-for-a-CTO-1024x696.png)
+![Where to Look for a CTO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Where-to-Look-for-a-CTO-1024x696.png)
 
 It’s essential to find a CTO with the above qualities, but it’s also crucial to look in the right places.
 
@@ -256,7 +256,7 @@ There are also some online platforms dedicated to connecting entrepreneurs and t
 
 I see these sources as a way to grow your network, but as any other online community, you can get easily lost with the amount of content and opportunities.
 
-![Pick Your CTO](images/Pick-Your-CTO-1024x696.png)
+![Pick Your CTO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Pick-Your-CTO-1024x696.png)
 
 My Advice:
 
@@ -268,7 +268,7 @@ I would recommend limiting your time on this research (a reasonable 15 days max)
 
 You may not have found your Robin yet, but don’t worry; there are other superheroes out there who can help you serve Justice.
 
-![Alternatives to Finding a CTO](images/12-1024x696.png) As you’ve followed, it’s fair to say it ain't gonna be easy to find a CTO.
+![Alternatives to Finding a CTO](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/12-1024x696.png) As you’ve followed, it’s fair to say it ain't gonna be easy to find a CTO.
 
 There are many successful startups, however, that build their products before onboarding a CTO. You can fully outsource your MVP to a [custom software development company](https://altar.io/), for example.
 
@@ -278,7 +278,7 @@ They will give you precious help on strategy. As well as helping you build and m
 
 Honestly, both outsourcing software development and CTO as a service are [viable options to consider](https://altar.io/finding-the-right-tech-partner-for-your-startup/). As I’m sure, you’re aware, time to market matters. If you lose momentum, waiting for the perfect CTO, you risk a competitor taking your place on the market.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

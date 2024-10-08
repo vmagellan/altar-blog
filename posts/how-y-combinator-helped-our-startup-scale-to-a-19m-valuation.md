@@ -17,7 +17,7 @@ For the third instalment of our series of articles sitting down with successful 
 
 With nearly two decades of tech experience under his belt, Peter's portfolio boasts impressive stints at Google, The Walt Disney Company, and a key role as Principal Data Science Manager at Microsoft.
 
-![Successful Data Startup Founder & CEO, Peter Fishman](images/Peter-Fish.png)
+![Successful Data Startup Founder & CEO, Peter Fishman](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Peter-Fish.png)
 
 Three years ago, he set out to build [Mozart Data](https://mozartdata.com/data-transformation/). An innovative startup that’s democratising the complex process of data management.
 
@@ -63,7 +63,7 @@ The thing that we're building is the easiest tool to execute it. So, not just yo
 
 Not only the bringing of data to that warehouse, and then also the cleaning up of that data so that you can visualize it and start making insights and build the company from there.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

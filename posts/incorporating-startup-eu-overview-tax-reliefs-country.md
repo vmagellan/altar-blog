@@ -71,7 +71,7 @@ If you meet these conditions, you can attract any Belgian taxpayer to invest up 
 
 They will then be able to claim a tax reduction of 30% (if the investment has been made into an SME) or 45% (if Micro-enterprise) of the amount invested on their annual tax declaration.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

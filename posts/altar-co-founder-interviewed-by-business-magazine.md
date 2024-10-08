@@ -1,7 +1,7 @@
 ---
 title: "Altar Co-founder Interviewed by Business Magazine"
 date: "2021-10-13"
-categories: 
+categories:
   - "news-from-our-world"
 coverImage: "absolutvision-WYd_PkCa1BY-unsplash-scaled-1.jpg"
 slug: altar-co-founder-interviewed-by-business-magazine
@@ -16,7 +16,7 @@ Here's the full transcript from the interview.
 
 ## The Eyes of the World in a Boutique Portuguese Agency
 
-**Altar.io has been in business for six years and is an international benchmark in building B2B and B2C software for startups and big corporations.** 
+**Altar.io has been in business for six years and is an international benchmark in building B2B and B2C software for startups and big corporations.**
 
 **According to Daniel de Castro Ruivo (Co-Founder & Head of Product), Altar.io works mainly for the US, UK and Switzerland and competes for the top 3 worldwide in the most authoritative international rankings (such as [clutch.co](https://clutch.co/profile/altario#summary)).**
 
@@ -54,9 +54,7 @@ We’re extremely proud of these results, that wouldn’t be possible without th
 
 This reputation brings us clients such as an HSBC CEO from across the continent and a YouTube product director – and we feel like this is just the start.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -88,8 +86,6 @@ I also believe that before we encourage the founder to invest time and budget to
 
 Many times the entrepreneurs and business leaders we work with don't have a robust answer to these questions. That's where we come in. We're committed to the success of every product we touch. That's our key strategy.
 
-
-
 Related: [Altar's Product Scope, The Process Behind Successful Product Development](https://altar.io/service-product-scope/)
 
 #### VM: What is The Product Scope?
@@ -105,13 +101,11 @@ During this time we sit down with the founder of the startup and analyse, in-dep
 - Stakeholders
 - The problem they face
 - The market, including
-    - Direct and indirect competition
-    - their capacity to iterate
-    - their strengths and vulnerabilities, for us to exploit.
+  - Direct and indirect competition
+  - their capacity to iterate
+  - their strengths and vulnerabilities, for us to exploit.
 
 The main objective is to reach the end of the process with the strong belief that the product we are creating is 10 times better than the existing ones.
-
-
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -134,7 +128,3 @@ If you’d like to see the original interview (in Portuguese) you can check it o
 If you’d like to stay up-to-date on news and content from Altar, sign up for our newsletter using the form below.
 
 Thanks for reading.
-
-
-
-

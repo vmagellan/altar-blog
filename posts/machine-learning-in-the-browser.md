@@ -1,9 +1,9 @@
 ---
 title: "Machine Learning in the Browser with Tensorflow.js"
 date: "2020-01-07"
-categories: 
+categories:
   - "tech-knowledge"
-tags: 
+tags:
   - "edge-machine-learning"
   - "machine-learning"
   - "machine-learning-in-the-browser"
@@ -77,12 +77,12 @@ This is the standard flow used by data scientists for machine learning:
 2. Data Integration
 3. Data Preparation & Cleaning
 4. Data Vis & Analysis:
-    - Model Training
-    - Parameter Tuning
-    - Model Evaluation
+   - Model Training
+   - Parameter Tuning
+   - Model Evaluation
 5. Model Deployment:
-    - Generate Predictions (%) based on Inputs
-    - Monitoring & Debugging
+   - Generate Predictions (%) based on Inputs
+   - Monitoring & Debugging
 
 When we use machine learning in the browser — or in the edge, as developers, it’s a bit more straightforward because with Tensorflow.js you only need to:
 
@@ -93,23 +93,13 @@ When we use machine learning in the browser — or in the edge, as developer
 
 Meaning we can halve the time it takes to get things off the starting block.
 
- 
-
 ##### Sign up for our newsletter
-
-
 
 Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
 
-
-
-
-
 Neural Networks
 
-
-
-![Machine Learning in the Browser with Tensorflow.js - Neural Networks](images/0FfIJlhTr8b0TXXTh.png)
+![Machine Learning in the Browser with Tensorflow.js - Neural Networks](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0FfIJlhTr8b0TXXTh.png)
 
 Neural Networks are the engine in Machine Learning. They are nothing more than a bunch of functions wired together to form a net. You have:
 
@@ -119,7 +109,7 @@ Neural Networks are the engine in Machine Learning. They are nothing more than a
 
 - - An output layer which gives you our end result
 
-![Machine Learning in the Browser with Tensorflow.js - Neural Networks 2](images/0-9I9XOlzbeVTV-_P.png)
+![Machine Learning in the Browser with Tensorflow.js - Neural Networks 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0-9I9XOlzbeVTV-_P.png)
 
 When training the model, on the first run, you get random outputs, at which point the model will begin a backpropagation cycle until it gets smart enough to process any data you passed to it (in accordance with the model labels, of course)
 
@@ -152,9 +142,7 @@ To train and deploy the model here is an example of three used ways ordered by w
 
 This Heavy Machine Learning approach is typically used by the Data Scientist.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -162,7 +150,7 @@ From the product and business reasoning to streamlining your MVP to the most imp
 
 Let's Talk
 
- Edge Machine Learning
+Edge Machine Learning
 
 This is where things get a little more exciting, and where we are going to focus as IoT, web and mobile developers.
 
@@ -204,15 +192,13 @@ And [many more](https://github.com/tensorflow/tfjs-models)
 
 So how do we get the model to this stage? We have two options — Blank Training or Transfer Learning.
 
-
-
 Related: [Angulartics2 – A Powerful Analytics tool for Angular Applications](https://altar.io/powerful-analytics-tool-for-angular-applications-angulartics2/)
 
 Blank Training
 
 When blank training the model you first have to define it. Take a sequential model, the first job is to set the epoch — the number of times the model scans the dataset (70%) and quizzes itself for accuracy (30%).
 
-![Machine Learning in the Browser with Tensorflow.js - Blank Training](images/0oDkHgDV7053nW1U6.png)
+![Machine Learning in the Browser with Tensorflow.js - Blank Training](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0oDkHgDV7053nW1U6.png)
 
 If we only run the dataset through the model once (Epoch: 1x) we see that it is very inaccurate — and really quite dumb — with only 10% accuracy. By running the epoch to 5x our accuracy jumps to a staggering 98.1% accuracy. Finally, by using an epoch of 10x it will run with 98.9% accuracy.
 
@@ -222,7 +208,7 @@ My point? Your epoch becomes very important. The number of times you repeat the 
 
 Here is an example of Transfer Learning:
 
-![Machine Learning in the Browser with Tensorflow.js - Transfer Learning](images/0WToJbOjZDvmYeSn0.png)
+![Machine Learning in the Browser with Tensorflow.js - Transfer Learning](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0WToJbOjZDvmYeSn0.png)
 
 We pick a pre-trained model — called a Base Recognizer in Tensorflow.js. We then transfer that knowledge from the pre-trained model into our model — the Transfer Recognizer.
 
@@ -237,8 +223,6 @@ Not only do you have an extensive list of pre-trained models available on [Gith
 The important thing to remember when we talk about the pre-trained models is that we are only focussed on the neural networks. The important thing is that we have that optimised neural network at our fingertips.
 
 Here is a [demo](https://github.com/claudiotx/ml-edge-playground) I prepared using transfer learning with a pre-trained model.
-
-
 
 Related: [Explore The Tech We Use](https://altar.io/tech/)
 

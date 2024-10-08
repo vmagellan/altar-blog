@@ -1,9 +1,9 @@
 ---
 title: "9 Crucial Lessons I Learned from Interviewing Successful Entrepreneurs"
 date: "2021-05-20"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "product"
@@ -28,23 +28,19 @@ So we've always tried to be more than a service provider. To be somewhat of "an 
 
 So when I joined the team a year and a half ago to lead the marketing department, the combination of our founder’s story and what our clients were saying...
 
-
-
-![Ovvio Testimonial](images/Ovvio-Testimonial.png)
+![Ovvio Testimonial](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Ovvio-Testimonial.png)
 
 ...made one thing absolutely clear to me: this had to be at the core of our strategy.
 
 Since then, we’ve been focused on providing valuable resources for entrepreneurs on the main aspects of launching a startup.
 
-As part of that, we've created a series of interviews titled _The Startup Journey_, in which we've sat down with several successful entrepreneurs who agreed to take some time from their busy agendas to share their journeys and experience.
+As part of that, we've created a series of interviews titled *The Startup Journey*, in which we've sat down with several successful entrepreneurs who agreed to take some time from their busy agendas to share their journeys and experience.
 
 Our main goal was to bring their lessons and advice to help entrepreneurs reduce their odds of failure, but I have to admit I was also eager to learn from these amazing people.
 
 And if you speak with enough people who've turned their ideas to unicorns, trust me, you'll learn a thing or two.
 
 So today I wanted to share some of the lessons I kept with me from the last year of conversations.
-
- 
 
 #### Contents
 
@@ -58,9 +54,7 @@ The NGO he worked for focuses on economic development through supporting entrepr
 
 It was while working with those entrepreneurs that Sean started noticing a pattern. While they all had a developed business vision and story behind their startups, the finance side was getting left behind:
 
-
-
-![Altar - What is Saying](images/image005.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image005.jpg)
 
 All of these successful entrepreneurs didn’t have a clue about the finance side. Which is like driving a car with no idea how fast you’re going or how much gas is left in the tank. You’re running the startup, you’re in the right market, right sector, you’re growing and that’s great. But you still have to do all the monitoring work that allows you to actually run the business.
 
@@ -76,9 +70,7 @@ It was a gap in the market that inspired him to launch his fintech startup, Pres
 
 While working as an early employee of another fintech, mobile payments company SumUp, he noticed that small business owners were facing major inefficiencies when it came to the financing process offered by traditional banks:
 
-
-
-![Altar - What is Saying](images/Nothacker_ProfilePic-scaled-1.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1.jpg)
 
 We heard stories of customers queuing at their bank with a paper invoice, handing it over at the counter and waiting five days for a reply.
 
@@ -92,8 +84,6 @@ Christian and Sean’s stories are not unique. In fact, nearly all of the succes
 
 So don’t waste time looking for the next Facebook or Amazon. Instead, look for the problems people around you face and try to solve those problems in a better way.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 ## 2\. Genuine Curiosity is a Superpower
@@ -106,9 +96,7 @@ Wade not only built an airline that invented subscription-based flying, his new 
 
 He explained how taking a genuine interest in both things and people can lead you to do anything you want to do:
 
-
-
-![Altar - What is Saying](images/Wade-Surf.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf.jpeg)
 
 Genuine curiosity is a superpower. It’s just rocket fuel for entrepreneurs.
 
@@ -136,9 +124,7 @@ And the fact is, you need traction before they will open their wallets.
 
 Paul O’Brien really hit the nail on the head [in our conversation](https://altar.io/expert-interview-funding-your-startup/):
 
-
-
-![Altar - What is Saying](images/Paul-OBrien-200x200-1.jpeg)  _The biggest mistake I see entrepreneurs make is they try to raise capital to start. Here’s the bottom line: **no startup in the history of the world can raise money just to get going.** Unless you’re Elon Musk, unless you’re Mark Zuckerberg, no one is going to give anybody money just to start something._
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Paul-OBrien-200x200-1.jpeg) _The biggest mistake I see entrepreneurs make is they try to raise capital to start. Here’s the bottom line: **no startup in the history of the world can raise money just to get going.** Unless you’re Elon Musk, unless you’re Mark Zuckerberg, no one is going to give anybody money just to start something._
 
 _Startup finance has to start with:_
 
@@ -158,9 +144,7 @@ That being said, you should be networking with investors as soon as possible.
 
 Something [Yaron Samid talked about](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/) when I spoke to him about startup investors:
 
-
-
-![Altar - What is Saying](images/Yaron-Samid-BillGuard-3.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 My main advice to first-time entrepreneurs is to create a network with investors early. Reach out and build relationships with investors before you ask them for money.
 
@@ -186,17 +170,9 @@ Tell them your idea, and your plan to execute it. Get their advice and ask them 
 
 Then, get out there and do it!
 
- 
-
 ##### Sign up for our newsletter
 
-
-
 Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
-
-
-
-
 
 ## 4\. Share Your Idea with as Many People as Possible
 
@@ -204,11 +180,9 @@ Throughout my conversations, entrepreneurs have shared with me time and time aga
 
 Something Giacomo De Lorenzo did when starting out his fintech company.
 
-Take this example he shared [in our conversation](https://altar.io/selling-fintech-before-launch-leveraging-people/):  
+Take this example he shared [in our conversation](https://altar.io/selling-fintech-before-launch-leveraging-people/):
 
-
-
-![Altar - What is Saying](images/Giacomo-de-Lorenzo.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo.jpeg)
 
 Don’t underestimate the importance of sharing your idea and being able to ask for people’s help.
 
@@ -230,9 +204,7 @@ And most seasoned entrepreneurs are more than happy to give you some of their ti
 
 Something Wade Eyerly [shared his thoughts](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/) on when I spoke with him:
 
-
-
-![Altar - What is Saying](images/Wade-Surf.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf.jpeg)
 
 As entrepreneurs, we’ve all needed so much help to get to where we are, that we understand and most of us are still calling people looking for help!
 
@@ -248,9 +220,7 @@ However, many entrepreneurs are scared to share their idea. They worry that the 
 
 Wade again had some advice on this common concern. He likened a business idea to a newborn baby when we talked about sharing your idea as an entrepreneur:
 
-
-
-![Altar - What is Saying](images/Wade-Surf.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf.jpeg)
 
 One look at your baby and you’re like: “He’s going to be a Supreme Court Justice.” You see every future, all the different things he could be. A pro baseball player, a rocket scientist, whatever it is.
 
@@ -270,9 +240,7 @@ Wade Eyerly, Unicorn Founder, [Degree Insurance](https://altar.io/founder-interv
 
 Wade is not the only interviewee who warned me about asking investors for NDAs. Serial entrepreneur and Angel Investor, Armando Biondi, also spoke about this at length [in our conversation](https://altar.io/what-angel-investors-look-for-in-entrepreneurs-and-their-startups-expert-interview/):
 
-
-
-![Altar - What is Saying](images/armando-biondi.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/armando-biondi.jpeg)
 
 For me, if you ask for an NDA the conversation is over. There is a level of trust where you need to be willing to give to people playing this game, as a founder.
 
@@ -307,9 +275,7 @@ Like dealing with investors, [finding the right co-founder for your startup](ht
 
 Some of the entrepreneurs I’ve sat down with would argue that it’s the most important decision you will make, like serial entrepreneur Yaron Samid:
 
-
-
-![Altar - What is Saying](images/Yaron-Samid-BillGuard-3.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 I can’t stress this enough; choosing your co-founder is literally the most important decision you will make as a founder.
 
@@ -323,9 +289,7 @@ When looking for that person to go to battle with you should be looking for an o
 
 When [I talked to him about spotting the perfect co-founder](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/) he had this to say:
 
-
-
-![Altar - What is Saying](images/Geoff-Smart-2.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Geoff-Smart-2.jpg)
 
 You should find a co-founder that has a one-third overlap with you in skills and a two thirds complementary skills.
 
@@ -341,9 +305,7 @@ Geoff Smart, Entrepreneur, [NY Times Bestselling Author](https://altar.io/expert
 
 When it comes to finding that perfect person who compliments your skills, they may pop up in the weirdest of places. Something [Jan-Phillip experienced first hand](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/):
 
-
-
-![Altar - What is Saying](images/Screenshot-2020-09-18-at-19.42.04-1.png) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1.png)
 
 I was in Singapore and there was this platform that was essentially Tinder for co-founders. It was designed to match tech and non-technical founders. I remember there were 70 profiles. 69 of them were completely wrong for me. Then I saw his profile and I thought “He seems reasonably interesting.”
 
@@ -361,9 +323,7 @@ And Jan-Phillip is not alone when it comes to finding a co-founder in an unconve
 
 [Wade Eyerly stumbled across his perfect fit co-founder](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/) on a listserv:
 
-
-
-![Altar - What is Saying](images/Wade-Surf.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf.jpeg)
 
 I had a friend of a friend who posted it on a listserv of our friends saying, Hey, I’m looking for something new.
 
@@ -399,8 +359,6 @@ More than that, find someone who has complementary skills to you. If you excel a
 
 Finally, make sure you find someone who has similar values to you and is ready to put in the same level of work as you to get the job done.
 
-
-
 Related: [Critical Traits to Consider if You Want to Find the Perfect Co-Founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 
 ## 6\. Do Whatever it Takes to Drive Your Business to Its Next Milestone
@@ -413,9 +371,7 @@ Take Illit Geller as an example here.
 
 [In our conversation](https://altar.io/building-a-fintech-by-listening-to-the-market-founder-interview/), she talked about the many hats she wore when she launched her startups.
 
-
-
-![Altar - What is Saying](images/llit-1.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/llit-1.jpeg)
 
 Teamwork and collaboration is the name of the game – Initially you’re a small team that does everything, just like any startup.
 
@@ -433,9 +389,7 @@ Illit Geller, Co-Founder, [TradAir](https://altar.io/building-a-fintech-by-liste
 
 Sean Yu also [spoke of the importance of doing whatever it takes](https://altar.io/how-an-experience-in-turkey-led-to-a-million-dollar-startup-founder-interview/):
 
-
-
-![Altar - What is Saying](images/image005.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/image005.jpg)
 
 I honestly think that’s what the “CEO” character is in an early startup. The guy who’s a bit of a jack of all trades and does anything needed to get the job done. Whether it’s marketing, sales, project management, being the janitor – whatever it is.
 
@@ -455,10 +409,6 @@ You need to get stuck in and do whatever it takes to drive your business to its 
 
 However, a big part of that is knowing when to step back and focus on the aspects of the business where you’re most effective.
 
-
-
-
-
 ## 7\. Don’t Underestimate the Importance of Product
 
 The Lean Methodology states that you should build an MVP and get to market as quickly as possible to gather feedback and iterate – and we believe in that wholeheartedly.
@@ -471,9 +421,7 @@ If you don’t make sure you’re solving a real problem while presenting the us
 
 Fintech entrepreneur Christian Nothacker summed this up perfectly [in our recent conversation](https://altar.io/founder-story-the-key-decisions-when-building-a-fintech/):
 
-
-
-![Altar - What is Saying](images/Nothacker_ProfilePic-scaled-1.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1.jpg)
 
 You can have a great sales team, great marketing, great conversion, etc. But if your product is no good your clients will eventually go somewhere else.
 
@@ -485,9 +433,7 @@ Christian Nothacker, Founder, PrestCap
 
 I was fortunate enough to also cover this topic with CPO and Product Expert Joe Procopio:
 
-
-
-![Altar - What is Saying](images/Joe-Procopio.png) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Joe-Procopio.png)
 
 Your core product has to give the customer a quick understanding of why they need your product. And it has to do this flawlessly. Remember your product won’t work if your customers can’t see any value.
 
@@ -504,8 +450,6 @@ The first version of your product has to do two things from the get-go:
 
 Make sure you either have this competence in-house or reach out to a product expert to help you.
 
-
-
 Related: [The Process Behind Successful Product Development](https://altar.io/service-product-scope/)
 
 ## 8\. Listen to Your Market & Don’t Hesitate to Pivot
@@ -520,9 +464,7 @@ The ability to let go and iterate quickly - even when that forces you to some to
 
 Take [Christian Notacker’s story](https://altar.io/key-lessons-fintech-founders/) as an example:
 
-
-
-![Altar - What is Saying](images/Nothacker_ProfilePic-scaled-1.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1.jpg)
 
 We quickly decided our model wasn’t a very feasible business plan, so we took the decision to pivot.
 
@@ -532,9 +474,7 @@ Christian Nothacker, Founder, PrestCap
 
 Or [Yaron Samid’s](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/):
 
-
-
-![Altar - What is Saying](images/Yaron-Samid-BillGuard-3.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 Early on, we realised our Cost per Acquisition (CPA) was going to be too high; so we pivoted to a B2B model. We tried to sell the technology to the banks.
 
@@ -564,9 +504,7 @@ One thing I’ve learnt from my conversations with entrepreneurs is that to be s
 
 And when it comes to the team, you don’t have time to micro-manage, something [Wade Eyerly faced first-hand](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/) when seeking out his founding team:
 
-
-
-![Altar - What is Saying](images/Wade-Surf.jpeg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Wade-Surf.jpeg)
 
 I decided early on that I’m going to hire adults and trust them to be adults. I’m not the guy who asks you to be my accountant and then double-checks all your math.
 
@@ -576,9 +514,7 @@ Wade Eyerly, Unicorn Founder, [Degree Insurance](https://altar.io/founder-interv
 
 These conversations have also reminded me of the importance of delegation, like [this nugget of wisdom from Jan-Phillip Kruip](https://altar.io/key-lessons-fintech-founders/):
 
-
-
-![Altar - What is Saying](images/Screenshot-2020-09-18-at-19.42.04-1.png) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1.png)
 
 To put it bluntly: You simply will not have the bandwidth to control every aspect of your startup, you’ll burn out. The sooner you learn to delegate, the better.
 
@@ -590,9 +526,7 @@ Jan-Philip Kruip, Co-Founder, [Fitsense](https://altar.io/building-and-scaling-f
 
 But to trust them, you first have to find the right people for the job, something [Geoff Smart knows a thing or two about](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/):
 
-
-
-![Altar - What is Saying](images/Geoff-Smart-2.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Geoff-Smart-2.jpg)
 
 As boring as it sounds, you should find out:
 
@@ -618,9 +552,7 @@ Geoff Smart, Entrepreneur, [NY Times Bestselling Author](https://altar.io/expert
 
 Serial entrepreneur Yaron Samid also has some [useful insights](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/) on this all-important topic:
 
-
-
-![Altar - What is Saying](images/Yaron-Samid-BillGuard-3.jpg) 
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg)
 
 When hiring for a startup, I would optimise on intelligence and learning fast on the job over fancy degrees from fancy universities.
 
@@ -637,8 +569,6 @@ To increase your chances of entrepreneurial success you need to find the right p
 They need to be creative, agile and have expertise in what you’re hiring for. But more than that you need to be able to trust them.
 
 If you’re able to trust them you can delegate with ease and know the job will get done.
-
-
 
 Related: [Critical Steps to Select The Right Technical Partner To Help You Build a Startup](https://altar.io/finding-the-right-tech-partner-for-your-startup/)
 

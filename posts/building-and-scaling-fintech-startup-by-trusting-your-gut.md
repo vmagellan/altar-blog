@@ -1,9 +1,9 @@
 ---
 title: "Founder Story: Building and Scaling a Fintech Startup by Trusting your Gut"
 date: "2020-09-18"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "mvp"
   - "product"
@@ -22,7 +22,7 @@ But knowing when to trust your gut is, I believe, something every entrepreneur s
 
 If this is you, I think you’re going to like my conversation with [Jan-Philipp Kruip](https://www.linkedin.com/in/janphilippkruip/).
 
-![fintech product founder Jan-Philipp Kruip](images/Screenshot-2020-09-18-at-19.42.04-1-768x598.png)
+![fintech product founder Jan-Philipp Kruip](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1-768x598.png)
 
 He is the founder of FitSense, a B2B health and fitness fintech startup that is being used by some of the biggest multinational insurance companies in the world.
 
@@ -51,7 +51,7 @@ That’s what drew me to entrepreneurship and startups. I was essentially lookin
 
 Then I met my co-founder.
 
-![entrepreneur Jan-Philip & co-founder of their startup product fitsense](images/Jan-Philip-his-co-founder.png)
+![entrepreneur Jan-Philip & co-founder of their startup product fitsense](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Jan-Philip-his-co-founder.png)
 
 I was in Singapore and there was this platform that was essentially Tinder for co-founders.
 
@@ -64,8 +64,6 @@ He’d already developed the technology to build an MVP. But he needed help to c
 I felt I had the right skill set to do that, so I gave myself two years to see if we could make it work.
 
 Only later did I realise that it was this process that makes me entrepreneurial. It definitely wasn’t something I always had in mind early on.
-
-
 
 Related: [Expert Interview: The 3 Pillars to Become a Successful Entrepreneur](https://altar.io/expert-interview-become-a-successful-entrepreneur/)
 
@@ -109,9 +107,7 @@ By making our platform available for free they gain daily users who start to eng
 
 So it drives a lot of engagement and that’s really what the product morphed in to. Two years ago we partly exited the business. Now we’re part of the Zurich group – they’re our main partner. However, we also have external customers.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -129,7 +125,7 @@ In hindsight, we should’ve gone directly to consumers to prove the product. Th
 
 We didn’t do that. We were too fixated on the B2B2C distribution model.
 
-So, instead, we tried to convince the insurers to test collaborate with us and test it with _their_ customers. That is a very slow way of validating your product.
+So, instead, we tried to convince the insurers to test collaborate with us and test it with *their* customers. That is a very slow way of validating your product.
 
 Something else that was a mistake, a very typical one, is we just constantly built sh\*t. “I’ve got an idea, let’s build it!” And building features is so time-consuming – there’s so much you can test before you do it.
 
@@ -153,11 +149,9 @@ We were a fintech startup who basically rocked up to the insurers and said: “W
 
 It was very naive but at the time it seemed like a very reasonable request from our side.
 
-![](images/Fitsense-Fintech-MVP-Screen-1024x828.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Fitsense-Fintech-MVP-Screen-1024x828.png)
 
 So the challenge for us was to monetise the user for data they’re sharing with the insurers.
-
-
 
 Related: [From Being Fired to Building a Multi-Million Dollar Fintech Startup](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/)
 
@@ -169,15 +163,11 @@ What we quite quickly realised was our power users were the 40-50-year-olds. The
 
 We have a slightly older demographic than many other app-based companies.
 
-
-
-
-
 #### Q: How was your user base dealing with the problem of getting bored with their wearable before you created your fintech startup to reward them?
 
 **A:** There was already one solution out in the market. Theoretically, you could already do what we were doing. A lot of other customers just used other health and fitness apps.
 
-As an entrepreneur, it’s worth remembering that **y****our customers will define their problem differently from how you define their problem.**
+As an entrepreneur, it’s worth remembering that **y\*\***our customers will define their problem differently from how you define their problem.\*\*
 
 You’ll often look at your solution, like we did, and say: “We’re the only one, this problem is unaddressed.” But then you’ll observe what your users are doing right now and it may not be the same as your solution, but it gives them the same satisfaction.
 
@@ -189,7 +179,7 @@ People wanted to get the maximum level of motivation to go exercising and the UX
 
 **A:** We completely doubled down on UX/UI. We invested a lot of money there. A lot of our competitors went for quantity. They would show off 360 amazing features that you could use. But you would look at them and it would be this third-grade laggy app.
 
-![Fitsense Early-stage fintech startup team](images/Fitsense-Early-stage-fintech-startup-team.png)
+![Fitsense Early-stage fintech startup team](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Fitsense-Early-stage-fintech-startup-team.png)
 
 We had a small, light team – so we set out to find the two or three different features customers valued the most and wrap it in a beautiful UX/UI. We had some funding already so we invested heavily in good talent and we started to implement a very lean product. It didn’t have much but it was very engaging and suddenly how users responded to our product started to go up exponentially in terms of traction and KPIs.
 
@@ -239,7 +229,7 @@ That translated to a very painful first two years in my case. Then we had the fi
 
 **A:** Assume you don’t know and test everything. And test early. There is an element of intuition. You need to use your intuition, it will save you a lot of time.
 
-Aside from that **f****ocus on getting the value proposition incredibly clear. If your grandma doesn’t understand it’s probably not clear.**
+Aside from that **f\*\***ocus on getting the value proposition incredibly clear. If your grandma doesn’t understand it’s probably not clear.\*\*
 
 Crafting a clear marketing message on what you’re trying to provide takes a lot of time. But it’s very important, it will serve as a guide for you so don’t skip it.
 
@@ -256,8 +246,6 @@ It’s not a good idea to raise funding just because you’re running out of mon
 All a good investor cares about is what next milestone will you accomplish with their money.
 
 So think about this. **What is your long-term journey? What are your startup milestones and how does that tie in with your funding strategy?**
-
-
 
 Related: [Expert Interview: The Hidden Details When Funding Your Startup](https://altar.io/expert-interview-funding-your-startup/)
 

@@ -91,7 +91,7 @@ Giacomo’s story is a much more common example of finding a technical co-founde
 
 Equally common, however, is when an entrepreneur spends months focused on finding their dream technical founder and still comes up empty-handed.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -198,7 +198,7 @@ Then you can use LinkedIn’s filters to narrow down your search based on locati
 
 Here’s a quick example I carried out searching for javascript developers:
 
-![javascript developer search on linkedin](images/javascript-developer-search-on-linkedin-1024x127.png)
+![javascript developer search on linkedin](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/javascript-developer-search-on-linkedin-1024x127.png)
 
 ### This is a great way to start building connections and start the conversation about your startup.
 
@@ -210,7 +210,7 @@ Joining these groups gives you another avenue to start sharing your ideas, and s
 
 Much like LinkedIn, [Slack](https://slack.com/) communities can be a great way to gather connections and find a technical co-founder.
 
-![Where to find a technical co-founder – Slack](images/Slack-new-logo-1024x536.png)
+![Where to find a technical co-founder – Slack](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Slack-new-logo-1024x536.png)
 
 ### And even if you don’t find your dream technical co-founder, they are great places to build connections and get involved in the community.
 
@@ -222,7 +222,7 @@ Groups such as [Startup Study Group](http://startupstudygroup.com/slack/), [#T
 
 So it’s no surprise that there are a large number of groups and events for co-founders.
 
-![](images/Meetup-Co-Founder-Search-1024x491.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Meetup-Co-Founder-Search-1024x491.png)
 
 ### This is another platform that is designed to help you expand your network, and start sharing your idea.
 
@@ -236,7 +236,7 @@ To post your technical co-founders jobs on the platform you’ll need to go to W
 
 Once you’ve signed in you’ll need to create a profile for your company.
 
-![Wellfound – Best websites to hire developers and find product managers](images/Screenshot-2023-01-24-at-17.04.13-1024x544.png)
+![Wellfound – Best websites to hire developers and find product managers](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2023-01-24-at-17.04.13-1024x544.png)
 
 Once you’ve set up your account you’ll be able to post adverts for your job for free. There is, however, a paid option you can use where AngelList will curate potential partners for you.
 
@@ -244,7 +244,7 @@ Once you’ve set up your account you’ll be able to post adverts for your job 
 
 [CoFoundersLab](https://cofounderslab.com/) is like a dating network for entrepreneurs. They boast a worldwide community consisting of over 400,000 “innovators, entrepreneurs & industry leaders.”
 
-![](images/CoFounders-Lab-1024x420.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/CoFounders-Lab-1024x420.png)
 
 It’s completely free to join and on the basic plan you can reach out to up to five technical co-founders per month.
 
@@ -254,7 +254,7 @@ There is also a paid version, which enables you to reach out to as many potentia
 
 [Starthawk](https://www.starthawk.io/) is one of the newest startups aiming to build a co-founder community online.
 
-![Starthawk co founder platform](images/Starthawk-1024x532.png)
+![Starthawk co founder platform](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Starthawk-1024x532.png)
 
 Much like CoFoundersLab, it’s free to sign up with a premium option available that brings perks such as unlimited messaging & premium filters.
 
@@ -271,7 +271,7 @@ This is a great way to narrow down the search for your technical co-founder imme
 
 [Y Combinator Co-founder Matching](https://www.startupschool.org/cofounder-matching) is arguably one of the most rigorous platforms to find a technical co-founder.
 
-![co-founder matching](images/co-founder-matchimg-1024x497.png)
+![co-founder matching](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/co-founder-matchimg-1024x497.png)
 
 The huge benefit here for you is the vetting process that YC undertake – meaning you’re only going to find high-quality technical co-founders on the platform.
 

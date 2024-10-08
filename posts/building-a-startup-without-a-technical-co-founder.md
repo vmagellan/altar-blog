@@ -55,7 +55,7 @@ Just have a look at the [Open Banking App Store](https://www.openbanking.org.uk
 
 My idea was to **use open banking to provide auditors with secure, real-time access to client bank statements directly from the bank**.
 
-![Audapio's MVP (built by an agency, not a non-technical founder)](images/AUDAPIO-1-1024x487.png)
+![Audapio's MVP (built by an agency, not a non-technical founder)](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AUDAPIO-1-1024x487.png)
 
 Not only is this much easier for auditors to work with but it also gives auditors the much-needed assurance that they are working with complete and accurate bank statements**.**
 
@@ -99,7 +99,7 @@ Related: [From Being Fired to Building a Multi-Million Dollar Fintech Startup](h
 
 It was clear my search for a technical co-founder wasn’t bearing any fruit. So I decided to explore the option of working with a custom software development company.
 
-![](images/Benji-Hyams-predictions-on-freelancers-in-the-coming-years-1024x741.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Benji-Hyams-predictions-on-freelancers-in-the-coming-years-1024x741.png)
 
 A friend of mine put me in touch with a software development company in London that he was working with. But naturally, their being a top agency in central London meant that they were too expensive.
 
@@ -131,7 +131,7 @@ So, I got back in touch with Daniel at Altar.io and told him what happened.
 
 **10 minutes later, I had booked my flights to Lisbon**.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 
@@ -147,7 +147,7 @@ I remember arriving at their offices in Lisbon and my first thought was “thank
 
 The Product Scope was an intensive 5-day structured process. It started with an immersive focus session with the team to dive into the product vision from a business standpoint. From there, we created the user stories for the design of the Minimum Viable Product.
 
-![Meeting with softrware development company, Altar.io](images/Meeting-with-softrware-development-company-Altar.io--1024x520.png)
+![Meeting with softrware development company, Altar.io](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Meeting-with-softrware-development-company-Altar.io--1024x520.png)
 
 I was very impatient and excited to get started. I remember sitting down to do the Product Scope; the last thing I wanted to do was start from the beginning again. But it allowed us to all get on the same page and clearly define the business case.
 

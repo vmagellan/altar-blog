@@ -26,7 +26,7 @@ But traction (or lack of it) isn’t the only aspect that angel investors will l
 
 So to find out exactly what angel investors look for in entrepreneurs and their startups, I sat down with Armando Biondi.
 
-![armando biondi startup angel investor](images/armando-biondi.jpeg)
+![armando biondi startup angel investor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/armando-biondi.jpeg)
 
 Armando is a successful entrepreneur and multiple-time founder. One of his most well-known projects was AdEspresso: a “Facebook ads made easy” tool that was acquired by Hootsuite.
 
@@ -72,7 +72,7 @@ There’s a rule of thumb there, about 5%-ish of the companies started every yea
 
 **The whole name of the game is, how do you minimize investing in the bottom 80%-ish while maximizing investment in the top 5%-ish.**
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

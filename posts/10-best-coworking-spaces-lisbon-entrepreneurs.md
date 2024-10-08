@@ -84,7 +84,7 @@ For larger teams, they offer Studio membership for 20–90 people. Fixed desk me
 
 **Website:** [Second Home — Coworking Lisbon](https://secondhome.io/location/lisboa/) **Contact Email:** [hola.lisboa@secondhome.io](mailto:hola.lisboa@secondhome.io) **Google Reviews:** 4.4/5.0 (187 Reviews)![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Second Home Coworking Space Lisbon - Top Review](https://cdn-images-1.medium.com/max/720/0*tCL7RJeBkp1ztcyl)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
 
@@ -162,7 +162,7 @@ Located in Cais do Sodré, 3 minutes walk from Time Out Market in the heart of t
 
 One of the most interesting things about Outsite is, on top of the trendy cafe/coworking spaces combo, they offer coliving just upstairs with a desk in every room. So if you are travelling through or thinking of starting your business in Lisbon, its a perfect way to “test drive” the city.
 
-![Entrepreneurs working at Outsite Cowork Café](images/1*nqonrIHn-ZRGrBXirz2R1g.jpeg)**Monthly Price (Fixed Desk):** N/A **Monthly Price (Hotdesk):** €150 Incl. VAT **Daily Price (Hotdesk):** €15 Incl. VAT **Meeting Rooms Available?:** Yes — Included in membership **Opening Times**: 8 am — 10 pm, Monday — Friday **Other Features:**
+![Entrepreneurs working at Outsite Cowork Café](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*nqonrIHn-ZRGrBXirz2R1g.jpeg)**Monthly Price (Fixed Desk):** N/A **Monthly Price (Hotdesk):** €150 Incl. VAT **Daily Price (Hotdesk):** €15 Incl. VAT **Meeting Rooms Available?:** Yes — Included in membership **Opening Times**: 8 am — 10 pm, Monday — Friday **Other Features:**
 
 - Outsite Coliving from ~€50 a night
 - High-speed internet

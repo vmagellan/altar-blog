@@ -23,7 +23,7 @@ Through all of these experiences,  I’ve come to realise that the majority of 
 
 And while finding someone with all these traits won’t spell success, it will decrease your chances of failure.
 
-![Top 20 Reasons Startup Fail – founder related highlights](images/Top-20-Reasons-Startup-Fail-–-founder-related-highlights.png) Throughout this article, I’ll dig into these eight traits and share with you why they’re so important.
+![Top 20 Reasons Startup Fail – founder related highlights](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Top-20-Reasons-Startup-Fail-–-founder-related-highlights.png) Throughout this article, I’ll dig into these eight traits and share with you why they’re so important.
 
 Before I do that, however, I think it’s important to share three vital “ground rules” I’ve used when I need to find a co-founder
 
@@ -87,7 +87,7 @@ In other words, everything still needs to be in writing – [and you should get
 
 Finally, here are the eight traits you need to consider when looking for a co-founder:
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 

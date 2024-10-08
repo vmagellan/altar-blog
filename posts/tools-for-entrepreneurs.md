@@ -32,13 +32,13 @@ This article does **not** contain affiliate links. Meaning neither I nor Altar.i
 
 ### 1\. Adi Azaria, CEO of [Workiz Inc.](https://www.linkedin.com/company/workizinc/)
 
-![Tools for Entrepreneurs – Adi Azaria](images/Adi-Azaria.jpeg)Workiz Inc. is a SaaS CRM platform for small to medium-sized on-demand field service businesses, such as locksmith services, carpet cleaning and appliance repair.
+![Tools for Entrepreneurs – Adi Azaria](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adi-Azaria.jpeg)Workiz Inc. is a SaaS CRM platform for small to medium-sized on-demand field service businesses, such as locksmith services, carpet cleaning and appliance repair.
 
 **Tool Choice**: *“*[**_MixMax_**](https://www.mixmax.com/)*,* [**_Canva_**](https://www.canva.com/en_gb/) *and* [**_Headspace_**](https://www.headspace.com/)_.”_
 
 ### 2\. Alon Hendelman,Co-Founder & CEO of [Engie](https://www.linkedin.com/company/engie1/)
 
-![Tools for Entrepreneurs – Alon Hendelman](images/Alon-Hendelman-150x150.jpeg)Engie is a connected car maintenance solution for every car on the road. Engie's technology provides fault diagnostics and maintenance information in a simple way.
+![Tools for Entrepreneurs – Alon Hendelman](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Alon-Hendelman-150x150.jpeg)Engie is a connected car maintenance solution for every car on the road. Engie's technology provides fault diagnostics and maintenance information in a simple way.
 
 As well as being the Co-Founder of Engie, Alon is a Forbes 30 Under 30 Entrepreneur.
 
@@ -46,7 +46,7 @@ As well as being the Co-Founder of Engie, Alon is a Forbes 30 Under 30 Entrepren
 
 ### 3\. André Lopes, Co-Founder of [Altar.io](https://altar.io/)
 
-![Tools for Entrepreneurs – André Lopes](images/AndreCC81-Lopes-150x150.png)Before co-founding Altar.io André built Table & Friends, a themed dinner & social restaurant booking platform that allowed anyone to create their own event, lock in a discount (10-50%), book a table within 3500 restaurants and invite friends for the dinner event.
+![Tools for Entrepreneurs – André Lopes](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/AndreCC81-Lopes-150x150.png)Before co-founding Altar.io André built Table & Friends, a themed dinner & social restaurant booking platform that allowed anyone to create their own event, lock in a discount (10-50%), book a table within 3500 restaurants and invite friends for the dinner event.
 
 **Tool Choice**: *“I use* [**_WhatsApp_**](https://www.whatsapp.com/?lang=en) *with long term clients, teams and even interviews.*
 
@@ -56,25 +56,25 @@ As well as being the Co-Founder of Engie, Alon is a Forbes 30 Under 30 Entrepren
 
 ### 4\. Bar Mor,  Co-Founder & CEO of [Agora](https://www.agorareal.com/)
 
-![Tools for Entrepreneurs – Bar Mor](images/Bar-Mor-150x150.jpeg)Agora is a designated Investment management SaaS solution for real estate investment firms and funds.
+![Tools for Entrepreneurs – Bar Mor](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bar-Mor-150x150.jpeg)Agora is a designated Investment management SaaS solution for real estate investment firms and funds.
 
 **Tool Choice**: *“*[**_Notion_**](https://www.notion.so/)*,* [**_Hubspot_**](https://www.hubspot.com/) *&* [**_Seamless_**](https://www.seamless.com/)_.”_
 
 ### 5\. Dotan Galron, Project Management at [Asurion](https://www.asurion.com/)
 
-![Tools for Entrepreneurs – Dotan Galron](images/Dotan-Galron-150x150.jpeg)Asurion is the go-to solution for all things tech – their Experts can repair, replace and resolve nearly any tech issue. They’re easy to reach via call, chat, and in-person, too.
+![Tools for Entrepreneurs – Dotan Galron](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dotan-Galron-150x150.jpeg)Asurion is the go-to solution for all things tech – their Experts can repair, replace and resolve nearly any tech issue. They’re easy to reach via call, chat, and in-person, too.
 
 **Tool Choice**: *“My core stack includes,* [**_Slack_**](https://slack.com/)*,* [**_Notion_**](https://www.notion.so/)*,* [**_Figma_**](https://www.figma.com/)_.”_
 
 ### 6\. Dudley Gould, Founder of [Audapio](https://www.audapio.com/)
 
-![Tools for Entrepreneurs – Dudley Gould](images/Dudley-Gould-1-copy-150x150.jpeg)Audapio provides secure, real-time access to auditors clients’ bank statements directly from their bank, and provides stakeholders with advanced analytics.
+![Tools for Entrepreneurs – Dudley Gould](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dudley-Gould-1-copy-150x150.jpeg)Audapio provides secure, real-time access to auditors clients’ bank statements directly from their bank, and provides stakeholders with advanced analytics.
 
 **Tool Choice**: *“*[**_LinkedIn_**](https://www.linkedin.com/)*,* [**_Spotify_**](https://www.spotify.com/) *&* **_Boxing_\***. I think about work all the time – unless I’m boxing – it’s the only time I completely switch off. Oh, and\* [**_UberEats_**](https://www.ubereats.com/)_, I’m so busy I often forget I need to eat.”_
 
 ### 7\. Giacomo De Lorenzo - Founder of [Moneymour](https://www.linkedin.com/company/moneymour/)
 
-![Tools for Entrepreneurs, Giacomo de Lorenzo](images/Giacomo-de-Lorenzo-150x150.jpeg)Moneymour (acquired by [Klarna](https://www.klarna.com/us/)) can estimate people’s creditworthiness better than a bank, allowing instant, simple and transparent access to credit.
+![Tools for Entrepreneurs, Giacomo de Lorenzo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo-150x150.jpeg)Moneymour (acquired by [Klarna](https://www.klarna.com/us/)) can estimate people’s creditworthiness better than a bank, allowing instant, simple and transparent access to credit.
 
 Their revolutionary credit scoring algorithm uses customers’ bank accounts information, enabled by PSD2, to make a highly informed decision in an instant.
 
@@ -86,7 +86,7 @@ Their revolutionary credit scoring algorithm uses customers’ bank accounts inf
 
 ### 8\. Hector Quintanilla, Founder of [Be Business Smart](https://www.bebusinesssmart.com/3pillars)
 
-![Tools for Entrepreneurs – Hector Quintanilla](images/Hector-Q-150x150.jpeg)Hector Quintanilla is a Startup Expert, Investor, Mentor & Founder.
+![Tools for Entrepreneurs – Hector Quintanilla](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Hector-Q-150x150.jpeg)Hector Quintanilla is a Startup Expert, Investor, Mentor & Founder.
 
 **_Tool Choice_\***: “My Thinking weapons: My\* **_Moleskine notebook_** \*+ my three pens (black, blue, red)\*
 
@@ -106,7 +106,7 @@ _DO NOT wait to have something to sell to start building your audience.”_
 
 ### 9\. Jan-Philipp Kruip, Co-Founder of [FitSense](https://www.linkedin.com/company/fitsense/)
 
-![fintech product founder Jan-Philipp Kruip](images/Screenshot-2020-09-18-at-19.42.04-1-150x150.png)FitSense is a B2B health and fitness fintech startup that is being used by some of the biggest multinational insurance companies in the world.
+![fintech product founder Jan-Philipp Kruip](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-09-18-at-19.42.04-1-150x150.png)FitSense is a B2B health and fitness fintech startup that is being used by some of the biggest multinational insurance companies in the world.
 
 **Tool choice:** *“I’ve become a big fan of* [**_Miro_**](https://miro.com/) *which is a great way to workshop efficiently remotely.*
 
@@ -116,7 +116,7 @@ _DO NOT wait to have something to sell to start building your audience.”_
 
 ### 10\. Marco Caputo, Founder of [Hotbox Food](https://www.linkedin.com/company/hotboxfood/)
 
-![Tools for Entrepreneurs – Marco Caputo](images/Macro-Caputo-150x150.jpeg)Hotbox Food has invented and patented a novel technology that allows you to transport food at 85ºC with a dehumidifier to extract the excess steam that makes food soggy.
+![Tools for Entrepreneurs – Marco Caputo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Macro-Caputo-150x150.jpeg)Hotbox Food has invented and patented a novel technology that allows you to transport food at 85ºC with a dehumidifier to extract the excess steam that makes food soggy.
 
 This allows delivery companies to keep food hot for over 40mins while keeping the quality high.
 
@@ -128,13 +128,13 @@ This allows delivery companies to keep food hot for over 40mins while keeping th
 
 ### 11\. Maria Rybak, Founder & CEO of [PVLSE](https://thepvlse.com/)
 
-![Tools for Entrepreneurs – Maria Rybak](images/Maria-Rybak--150x150.jpeg)PVLSE is a passion economy platform that enables users to monetise their skills and start their “side-hustle”. The company provides an all in one solution for users offering online and offline services, with a built-in billing engine, booking engine, custom portfolio and more.
+![Tools for Entrepreneurs – Maria Rybak](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Maria-Rybak--150x150.jpeg)PVLSE is a passion economy platform that enables users to monetise their skills and start their “side-hustle”. The company provides an all in one solution for users offering online and offline services, with a built-in billing engine, booking engine, custom portfolio and more.
 
 **Tool Choice**: *“My picks are* [**_Slack_**](https://slack.com/)*,* [**_Zoom_**](https://zoom.us/) *and* [**_Google Drive_**](https://workspace.google.com/)_.”_
 
 ### 12\. Nelly Yusupova – Founder of [TechSpeak](https://www.techspeakforentrepreneurs.com/)
 
-![](images/Nelly-Yusupova-150x150.jpeg)TechSpeak for Entrepreneurs is an online platform that teaches entrepreneurs the most efficient and effective way to manage development teams and projects.
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nelly-Yusupova-150x150.jpeg)TechSpeak for Entrepreneurs is an online platform that teaches entrepreneurs the most efficient and effective way to manage development teams and projects.
 
 Nelly is a CTO, Startup Advisor and Entrepreneur with 18 years of industry experience.
 
@@ -142,7 +142,7 @@ Nelly is a CTO, Startup Advisor and Entrepreneur with 18 years of industry exper
 
 ### 13\. Paolo Dotta, Co-Founder of [Altar.io](https://altar.io/)
 
-![Paolo Dotta, Co-Founder of Altar](images/paolo-dotta-150x150.png)Before building Altar.io, Paolo built Venga - a Social Events Marketplace to enable hosts and participants to come together at amazing events such as themed dinners and retreats.
+![Paolo Dotta, Co-Founder of Altar](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/paolo-dotta-150x150.png)Before building Altar.io, Paolo built Venga - a Social Events Marketplace to enable hosts and participants to come together at amazing events such as themed dinners and retreats.
 
 **Tool Choice**: *“ The first one has to be* [**_Google Workspace_**](https://workspace.google.com/)_. Moving from banking, where everything was Excel-based, to the collaborative workflows of the startup ecosystem changed my life._
 
@@ -152,13 +152,13 @@ _Finally, my **notebook**. I use it to note down ideas for everything from pres
 
 ### 14\. Paul O’Brien, CEO & Founder of [MediaTech Ventures](https://mediatech.ventures/)
 
-![Tools for Entrepreneurs – Paul O'Brien](images/Paul-OBrien-150x150.jpeg)MediaTech Ventures is a venture development group and holding company connecting innovation with capital.
+![Tools for Entrepreneurs – Paul O'Brien](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Paul-OBrien-150x150.jpeg)MediaTech Ventures is a venture development group and holding company connecting innovation with capital.
 
 **Tool Choice**: \*“**_*Analytics*_**,_  [***LinkedIn***](https://www.linkedin.com/) _&\* **_Coffee_**_!”_
 
 ### 15\. Yaron Samid, Founder of [TechAviv](https://www.techaviv.com/)
 
-![Multi-exit Fintech Founder Yaron Samid](images/Yaron-Samid-BillGuard-3-150x150.jpg)TechAviv is one of the largest founder clubs in the world.
+![Multi-exit Fintech Founder Yaron Samid](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3-150x150.jpg)TechAviv is one of the largest founder clubs in the world.
 
 Yaron is a multi-exit founder whose companies have been acquired by the likes of Microsoft and Cisco, to name but two.
 
@@ -242,7 +242,7 @@ Lion is a founder and executive of a number of unicorn companies. On top of this
 
 **Tool Choice:** \*“**_*Email*_**,_ [***Google Docs***](https://workspace.google.com/)_,\* [**_WhatsApp_**](https://www.whatsapp.com/?lang=en)_. Those are the basic building blocks of communication. Real-time (WhatsApp), asynchronous (email) and in-depth (docs),_
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -258,7 +258,7 @@ Here’s a detailed rundown of all of the tools for entrepreneurs mentioned abov
 
 [Trello](https://trello.com/) is, by far, one of the easiest ways to organise, assign and keep track of tasks as a team. It’s one of the most popular project management tools for entrepreneurs on the market.
 
-![Trello Overview Tools for Entrepreneurs](images/Trello-Overview-1024x538.webp)
+![Trello Overview Tools for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Trello-Overview-1024x538.webp)
 
 It follows the [Kanban structure](https://medium.com/paymo/12-kanban-board-examples-for-beginners-d56cee5df832#:~:text=A%20basic%20Kanban%20board%20structure,as%20your%20chosen%20workflow%20allows.), allowing you to organise projects into topics (or boards as Trello calls them). In each board, you and your team members can create cards for specific tasks and track its progress.
 
@@ -274,7 +274,7 @@ When it’s time to upgrade they offer a “Business Class” model for $9.99 pe
 
 [Google Workspace](https://workspace.google.com/) is Google’s suite of apps. It’s one of the dream tools for entrepreneurs for its many, unparalleled benefits
 
-![Google Workspace Tools for Entrepreneurs](images/Google-Workspace-1024x456.png)
+![Google Workspace Tools for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Google-Workspace-1024x456.png)
 
 #### Gmail
 
@@ -318,7 +318,7 @@ They also offer an *Enterprise* plan which adds noise cancellation and in-doma
 
 [MailChimp](https://mailchimp.com/) is one of the markets leading email tools for entrepreneurs.
 
-![MailChimp Tool for Entrepreneurs](images/MailChimp-Tool-for-Entrepreneurs-1024x488.png)
+![MailChimp Tool for Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/MailChimp-Tool-for-Entrepreneurs-1024x488.png)
 
 Email marketing is a time-tested strategy for both B2B & B2C companies. And MailChimp makes it easy to create professional, well-designed newsletters. So all you need to focus on is the copy.
 
@@ -332,7 +332,7 @@ The premium versions, starting at $9.99/month open the door to email templates, 
 
 [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision) helps you track the incoming traffic to your website. It’s by far one of the most useful marketing tools for entrepreneurs.
 
-![Google Analytics](images/Google-Analytics-1024x574.png)
+![Google Analytics](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Google-Analytics-1024x574.png)
 
 Essentially, it allows you to see what’s working and what’s not. This crucial information can help you create better marketing campaigns and increase your conversion rate.
 
@@ -344,7 +344,7 @@ Google Analytics is free as long as one of your website pages doesn’t exceed 5
 
 [Hubspot](https://www.hubspot.com/) is one of the most popular customer relationship management platforms on the market.
 
-![Hubspot from 24 Entrepreneurs](images/Hubspot-from-24-Entrepreneurs-1024x464.png)
+![Hubspot from 24 Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Hubspot-from-24-Entrepreneurs-1024x464.png)
 
 The platform centralises your contacts and offers a range of features that make expediting sales and marketing workflows convenient and easy.
 
@@ -360,7 +360,7 @@ At $50 per month, you can upgrade to the marketing and sales starter bundle unlo
 
 [Slack](https://slack.com/) is one of the go-to tools for entrepreneurs and their teams. The communication tool makes it easy to reach out to your colleagues in both group conversations and direct messages.
 
-![](images/Entreprene-1024x420.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entreprene-1024x420.png)
 
 Features include the ability to create channels, to organise discussion by topic, voice calls and video calls (for premium users). One of the benefits of using Slack is its integration with other tools (such as Trello & Google Workplace).
 
@@ -380,7 +380,7 @@ If you choose Slack’s *Plus* subscription you will gain access to advanced i
 
 [Zoom](https://zoom.us/) has quickly become one of the most used communication tools for entrepreneurs on the planet.
 
-![Entrepreneurs Slack](images/Entrepreneurs-1024x511.png)
+![Entrepreneurs Slack](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneurs-1024x511.png)
 
 It offers video and web conferencing, cross-platform messaging and file-sharing features. It supports screen sharing, recording and HD audio & visual quality.
 
@@ -394,7 +394,7 @@ Zoom’s *Pro* plan starts at $14.99 per license per month. On this plan, the 
 
 From note-taking to kanban boards, [Notion](https://www.notion.so/) is one of the best all-in-one tools for entrepreneurs.
 
-![Notion Cover](images/Notion-Cover-1024x374.png)
+![Notion Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Notion-Cover-1024x374.png)
 
 It’s adaptable to any type of team from software development and design to marketing and HR.
 
@@ -410,7 +410,7 @@ Their *Team* plan starts at $8 per member per month and includes unlimited tea
 
 [LinkedIn](https://www.linkedin.com/) is one of the best tools for entrepreneurs to build their professional network.
 
-![](images/LinkedIn-tools-for-entrepreneurs-1024x512.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/LinkedIn-tools-for-entrepreneurs-1024x512.png)
 
 It enables entrepreneurs an unprecedented ability to locate and connect with a variety of stakeholders. Investors, employees, partners, customers are all with reach for practically zero cost.
 
@@ -424,7 +424,7 @@ Arguably the best premium plan for entrepreneurs is their Business plan. It give
 
 Adobe Express is a professional-grade tool for entrepreneurs, offering a user-friendly platform for graphic design, featuring customizable templates, a rich stock image library, and powerful design elements to create professional visuals quickly.
 
-![Adobe Express website screenshot – Best Tools for entrepreneurs](images/Screenshot-2024-05-08-at-15.41.18-1024x450.png)
+![Adobe Express website screenshot – Best Tools for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-08-at-15.41.18-1024x450.png)
 
 A key feature of Adobe Express is its video editing capability. Users can [edit videos with Adobe Express](https://www.adobe.com/express/feature/video/editor) using straightforward tools that simplify video adjustments and enhancements, ideal for social media and marketing videos.
 
@@ -438,7 +438,7 @@ Adobe Express offers a free tier with basic tools and templates. The premium pla
 
 [Canva](https://www.canva.com/) is an easy-to-use, no-experience-required graphic design platform. It’s one of the essential tools for entrepreneurs looking to create graphic elements for everything from social media to infographics.
 
-![Canva tools for entrepreneurs](images/Canva-tools-for-entrepreneurs-1024x392.png)
+![Canva tools for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Canva-tools-for-entrepreneurs-1024x392.png)
 
 It’s a simple, drag-and-drop tool that offers a library of over one million photos, graphic elements and fonts.
 
@@ -454,7 +454,7 @@ You can also schedule and publish social media content to seven platforms, direc
 
 [Miro](https://miro.com/) is one of the go-to tools for entrepreneurs for collaboration. The digital whiteboard is a must-have for any teams working remotely.
 
-![Miro tools for entrepreneurs](images/Miro-tools-for-entrepreneurs-1024x460.png)
+![Miro tools for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Miro-tools-for-entrepreneurs-1024x460.png)
 
 It allows teams to brainstorm together in real-time. With features like pre-built templates, freeform digital pens and wireframing – all built on an “infinite canvas” you can keep throwing out ideas until you find your diamond.
 
@@ -468,7 +468,7 @@ Starting at 8$ a month, the premium features include unlimited boards, project o
 
 [ClickFunnels](https://www.clickfunnels.com/) is a landing page builder that focuses on building a sales funnel for your business.
 
-![ClickFunnels cover](images/ClickF-1024x485.png)
+![ClickFunnels cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/ClickF-1024x485.png)
 
 It boasts an easy-to-use drag-and-drop editor, A/B testing capabilities and integrations to email and payment platforms.
 
@@ -486,7 +486,7 @@ $297 will get you unlimited funnels across unlimited pages, with the ability to 
 
 [Quora](https://www.quora.com/) is one of the most popular Q&A platforms on the web. It’s quickly become one of the best tools for entrepreneurs to ask their target users questions, and drive business growth.
 
-![Entrepreneurs Tools - Quora](images/Entrepreneurs-Tools-2024-1024x419.png)
+![Entrepreneurs Tools - Quora](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Entrepreneurs-Tools-2024-1024x419.png)
 
 Many entrepreneurs leverage Quora by:
 
@@ -504,7 +504,7 @@ Full Name Business Email Subscribe
 
 [Adobe XD](https://www.adobe.com/products/xd.html) is a vector-based design tool for websites and apps.
 
-![Adobe-XD](images/Adobe-XD-1024x463.png)
+![Adobe-XD](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adobe-XD-1024x463.png)
 
 This user-experience design tool is quickly becoming one of the most popular on the market for wireframing and prototyping. One of the reasons for this is the easy-to-use interface and cross-platform support Adobe offers.
 
@@ -516,7 +516,7 @@ Adobe XD starts at $9.99 for professionals and small teams. However, as it is pa
 
 A competitor to Adobe XD, [Sketch](https://www.sketch.com/) is a digital design tool for mobile, wearable & web apps and icon design.
 
-![Sketch from Entrepreneurs tools](images/Sketch-from-Entrepreneurs-1024x480.png)
+![Sketch from Entrepreneurs tools](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Sketch-from-Entrepreneurs-1024x480.png)
 
 Sketch is currently one of the leading tool for UX/UI design. It can be used for everything from prototyping and wireframing to creating vector illustrations and social media images.
 
@@ -530,7 +530,7 @@ If you plan to use Sketch as a team, it will set you back $99 per year per contr
 
 [Optimizely](https://www.optimizely.com/) is “the world's leading experience optimization platform.”
 
-![Optimizely from 24 Entrepreneurs](images/Optimizely-from-24-Entrepreneurs-1024x516.png)
+![Optimizely from 24 Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Optimizely-from-24-Entrepreneurs-1024x516.png)
 
 It has a long list of features, for everything from product & marketing to Engineering and Data. But one of the most popular is its A/B testing feature.
 
@@ -544,7 +544,7 @@ Optimizely’s Pricing plans are available on request.
 
 [Asana](https://asana.com/), like Trello, is a project management tool for entrepreneurs and businesses.
 
-![Asana from 24 Entrepreneurs](images/Asana-from-24-Entrepreneurs-1024x487.png)
+![Asana from 24 Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Asana-from-24-Entrepreneurs-1024x487.png)
 
 There is a steeper learning curve with Asana than with Trello. That being said, Asana offers some more powerful tools for delegating tasks and managing multiple projects.
 
@@ -564,7 +564,7 @@ As with many of the tools for entrepreneurs in this list, Asana offers an enterp
 
 [Calendly](https://calendly.com/) allows you to easily schedule meetings by simply sharing a link, and has quickly become one of the must-have tools from entrepreneurs.
 
-![Calendly from 24 Entrepreneurs](images/Calendly-from-24-Entrepreneurs-1024x459.png)
+![Calendly from 24 Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Calendly-from-24-Entrepreneurs-1024x459.png)
 
 Calendly’s simple yet effective interface allows you to sync multiple calendar accounts and block out the hours you’re available.
 
@@ -582,7 +582,7 @@ The premium version, starting at $8 a month, allows you to book group events, po
 
 [Buffer](https://buffer.com/) allows you to take your social media game to the next level.
 
-![Buffer tool](images/Buffer-tool-1024x324.png)
+![Buffer tool](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Buffer-tool-1024x324.png)
 
 It’s one of the best tools for entrepreneurs looking to easily schedule, publish and analyse social media content.
 
@@ -601,7 +601,7 @@ When signing up to Buffer you will be asked to start a 14-day free trial for one
 
 [Hunter.io](https://hunter.io/) allows you to discover business emails quickly and easily.
 
-![Hunter.io tools for entrepreneurs](images/Hunter.io-tools-1024x489.png)
+![Hunter.io tools for entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Hunter.io-tools-1024x489.png)
 
 By simply inputting a company name into the search bar, Hunter.io will find any email address associated with the URL.
 
@@ -617,7 +617,7 @@ The premium plans start at $49 per month and allow you to increase your searches
 
 [WordPress](https://wordpress.com/) is the world's most popular website builder and CMS on the market, powering [43.2](https://www.manaferra.com/wordpress-statistics/)% of the internet. All companies need a website, from startup to enterprise. And if you plan to build yours yourself, WordPress is a must-have tool.
 
-![WordPress from 24 Entrepreneurs](images/WordPress-from-24-Entrepreneurs-1024x393.png)
+![WordPress from 24 Entrepreneurs](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/WordPress-from-24-Entrepreneurs-1024x393.png)
 
 WordPress offers social sharing features, design customisation, SEO tools and a vast range of widgets and plugins. It is the ideal place to start generating online traffic easily and cheaply
 
@@ -631,7 +631,7 @@ If you choose to upgrade to the business plan (at $25 a month, you gain access t
 
 [Salesforce](https://www.salesforce.com/eu/) is one of the best Customer Relationship Management (CRM) solutions on the market. It’s used by some of the biggest companies in the world such as Unilever, Aston Martin & Virgin Media.
 
-![Tools entrerpreneurs salesforce](images/Tools-2024-Screenshot-1024x548.png)
+![Tools entrerpreneurs salesforce](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Tools-2024-Screenshot-1024x548.png)
 
 Salesforce changed the business model when it came to CRMs. Before Salesforce, CRM solutions were hosted on a company’s own server. This meant lengthy installation processes and a huge cost.
 

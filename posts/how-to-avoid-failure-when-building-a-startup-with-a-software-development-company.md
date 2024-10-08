@@ -52,7 +52,7 @@ They should tick all the boxes not just for technical hard skills, but the all-i
 
 You should find a team that will [make you want to say this](https://clutch.co/profile/altario#review-1575713) at the end of the project:
 
-![Ovvio Testimonial](images/Ovvio-Testimonial.png)
+![Ovvio Testimonial](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Ovvio-Testimonial.png)
 
 On the other side of the coin, it’s vital that the software development company challenges and supports you. It’s one of the best ways to improve a product vision and increase the chances of success.
 
@@ -84,7 +84,7 @@ With such a complicated and data-heavy platform to create, anything less than a 
 
 To achieve this, here are two critical factors that a software development company needs to focus on if they’re to mimic an internal team. So before you onboard them, make sure you see the signs.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

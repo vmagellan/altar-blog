@@ -34,7 +34,7 @@ Want proof?
 
 Let’s look at a real-world situation…
 
-![Altar - What is Saying](images/philip-apiax-1.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/philip-apiax-1.jpeg)
 
 With our MVP, we won a pilot project with a global financial institution. The other success story was that we were able to put together a seed round using the MVP.
 
@@ -122,7 +122,7 @@ Well, you can start by getting to know the red flags and poor decisions that usu
 
 Starting with the most vital one – lack of alignment.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 
@@ -148,7 +148,7 @@ Your outsourced partner should be excited to be part of your journey, and be as 
 
 Look for someone who – at the end of your collaboration – can make you say something like this:
 
-![Altar - What is Saying](images/Haider-Baig.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Haider-Baig.jpeg)
 
 As a founder starting out, I was challenged, I was pushed and I was given support. In the same way my other co-founders pushed and challenged me throughout our journey.
 
@@ -196,7 +196,7 @@ It is essential that any potential partner follows the industry standards, espec
 
 If you can, get a techie friend to audit the company. You can also ask the agency for references.
 
-![Altar - What is Saying](images/Adil-Colour-e1706205763604.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adil-Colour-e1706205763604.jpeg)
 
 Outsourcing successfully is about the joint ownership of the outcome of your product.
 
@@ -294,7 +294,7 @@ Communication barriers can lead to a failure to understand the scope or an incre
 
 It’s vital to swiftly solve all communication barriers between you and the agency to whom you are outsourcing software development.
 
-![Altar - What is Saying](images/Dudley-Gould-1-copy.jpeg)
+![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Dudley-Gould-1-copy.jpeg)
 
 When it comes to building a startup, you’ll face more than a few bumps along the way – prepare to be persistent.
 

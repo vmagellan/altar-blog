@@ -110,7 +110,7 @@ Most accelerators offer a lot of the same things to startups over a 12-week peri
 
 [**Nikolai Tornøe Narvestad**](https://www.linkedin.com/in/nikolaitn/?originalSubdomain=no)**, Intrava**
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

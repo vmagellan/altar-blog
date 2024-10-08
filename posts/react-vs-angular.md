@@ -69,7 +69,7 @@ A plethora of tech giants have used React in production for years including:
 
 A quick look at Stack Overflow’s [annual developer report](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-webframe-prof) for last year will tell you that React is by far the most popular web framework among professional developers.
 
-![Developer Report popularity of React vs. Angular](images/Developer-Report-Angular-React.png)
+![Developer Report popularity of React vs. Angular](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Developer-Report-Angular-React.png)
 
 41.4% of developers preferred React. Angular came third with 26.23% of developers favouring the framework. One in four developers who aren’t already using React also wish they were, according to the same survey.
 
@@ -77,7 +77,7 @@ A quick look at Stack Overflow’s [annual developer report](https://insights.s
 
 Let’s delve into why that is, starting with Performance & DOM.
 
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
+![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
 

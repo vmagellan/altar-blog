@@ -1,9 +1,9 @@
 ---
 title: "Founder Story: The Key Decisions When Building a Fintech"
 date: "2020-11-12"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "fintech"
@@ -22,15 +22,11 @@ They come from entrepreneurs who can see unsolved problems and inefficiencies in
 
 Just like [Christian Nothacker](https://www.linkedin.com/in/nothacker/).
 
-
-
-![Christian Nothacker, Entrepreneur & Founder of Fintech Startup product PrestaCap](images/Nothacker_ProfilePic-scaled-1-1024x729.jpg)
+![Christian Nothacker, Entrepreneur & Founder of Fintech Startup product PrestaCap](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Nothacker_ProfilePic-scaled-1-1024x729.jpg)
 
 It was a gap in the market that inspired him to launch his fintech startup, [PrestaCap](https://www.crunchbase.com/organization/prestacap).
 
 While working as an early employee of another fintech, mobile payments company SumUp, he noticed that small business owners were facing major inefficiencies when it came to the financing process offered by [traditional banks](https://topmobilebanks.com/blog/digital-vs-traditional-banks/):
-
-
 
 We heard stories of customers queuing at their bank with a paper invoice, handing it over at the counter and waiting five days for a reply.
 
@@ -39,8 +35,6 @@ After researching, Christian found there were no other players in the market. So
 He quickly found that his value proposition was accurate, the business model behind it wasn’t. The series of key decisions he made to align these two factors led to PrestaCap being acquired just five years later, by one of the largest private-equity-backed banks in Italy, DEPObank for over $20M.
 
 I sat down with him to take a look at how he built and scaled his fintech startup, PrestaCap. I also picked his brains on the tips and insights he has for founders starting their entrepreneurial journey.
-
- 
 
 #### Contents
 
@@ -92,15 +86,9 @@ We always wanted to make it faster, easier and cheaper from a certain perspectiv
 
 Even though we pivoted from the lending side to a “digital factory” for banks it’s still following that same concept. The vision has remained the same, what’s changed is the application and how we implement that vision.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -132,8 +120,6 @@ For example, we were the first entity applying for certain licenses at a Europea
 
 From a product feature perspective, how the signup would work and how the platform would work, etc. We benchmarked competitors and adapted it to our local market needs and regulatory requirements.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 #### Q: That research is a key first step when building a startup, but it can only get you so far. The only way to validate assumptions surrounding customer retention and other key metrics is to build the MVP.
@@ -152,8 +138,6 @@ By this I mean:
 All of these assumptions needed to be validated by the product itself. We were wrong about a few – and we had to fix that quickly. This was again due to the number of stakeholders we were dealing with and the number of contracts going back and forth.
 
 These were the assumptions that had the biggest feedback loop.
-
-
 
 Related: [From Being Fired to Building a Multi-Million Dollar Fintech Startup](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/)
 
@@ -213,19 +197,13 @@ Our numbers were getting more interesting, we were getting closer to break-even.
 
 We were iterating the features in our fintech product. As well as adapting the way we approached and found the customers we wanted to lend to. We started to retain them, seeing them using our platform for multiple loans.
 
-
-
-
-
-
-
 ## Tips & Advice for Entrepreneurs Launching a Startup
 
 #### Q: What advice do you have for entrepreneurs on the importance of product?
 
 **A:** I think that at the end of the day the quality of your product determines how long you will last. By this I mean, you can have a great sales team, great marketing, great conversion, etc. But if your product is no good your clients will eventually go somewhere else.
 
-**Product is one of the key drivers for success.** 
+**Product is one of the key drivers for success.**
 
 In the fintech industry, I think there are a lot of startups that don’t have an optimal product. There is, let’s say, quite a lot of room for improvement. But the main limit there is from a regulatory perspective. As well as that traditional “Bank” mentality and system that’s difficult to change and integrate with fintech.
 

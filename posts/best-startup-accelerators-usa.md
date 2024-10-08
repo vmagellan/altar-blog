@@ -50,7 +50,7 @@ In short, incubators focus on startups that are in the product development phase
 
 Conversely, accelerators focus on speeding up the growth of a startup that has already built and launched an MVP. Their product is already in the hands of early adopters and they’ve achieved some sort of traction.
 
-![Startup Incubators vs. Startup Accelerators](images/Incubators-vs.-Accelerators.png)
+![Startup Incubators vs. Startup Accelerators](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Incubators-vs.-Accelerators.png)
 
 ## How Can Startup Incubators & Accelerators Help You
 
@@ -76,7 +76,7 @@ Startup accelerators and incubators give you access to successful entrepreneurs 
 
 You can learn from their mistakes and successes to help your startup reach its goals faster.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 
@@ -119,7 +119,7 @@ However, during the 3-month batch, you’ll still have access to all mentorship,
 
 While the batch lasts for three months, Y Combinator will continue to offer mentorship and warm introductions for as long as your startup needs it. Not to mention continued access to the YC alumni network.
 
-What the Alumni are saying ![Altar - What is Saying](images/Patrick-Collinson-acceleratorincubatpor-testimonial.jpeg) “I doubt that Stripe would have worked without the YC accelerator program. It’s that simple. Acquiring early customers, figuring out who to hire, closing deals with banks, raising money – YC’s partners were closely involved and crucially helpful.” Patrick Collison, Founder, [Stripe](https://stripe.com/)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Patrick-Collinson-acceleratorincubatpor-testimonial.jpeg) “I doubt that Stripe would have worked without the YC accelerator program. It’s that simple. Acquiring early customers, figuring out who to hire, closing deals with banks, raising money – YC’s partners were closely involved and crucially helpful.” Patrick Collison, Founder, [Stripe](https://stripe.com/)
 
 ### 2. [TechStars](https://www.techstars.com/)
 
@@ -159,7 +159,7 @@ In the final month, you’ll focus on telling your story. This is to set you up 
 
 TechStars will then continue to give you support via their alumni network.
 
-What the Alumni are saying ![Altar - What is Saying](images/Adam-Wilson-Sphero-TechStars-Startup-Accelerator-Alumni.jpeg)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adam-Wilson-Sphero-TechStars-Startup-Accelerator-Alumni.jpeg)
 
 “At critical moments throughout our history, somehow someone in the Techstars network pointed us in a direction that led us to where we are today.”
 
@@ -198,7 +198,7 @@ Here’s a quick overview of a typical week at 500 Startups:
 
 At the end of the four-month program, you’ll take part in a Demo Day in front of investors and industry leaders.
 
-What the Alumni are saying ![Altar - What is Saying](images/Bethany-Stachenfeld-E28093-500-startups-accelerator-alumni.jpeg)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Bethany-Stachenfeld-E28093-500-startups-accelerator-alumni.jpeg)
 
 “500 Startups does a great job of making sure that we have all of the programming and check-ins we need, without overdoing it. Very few events are required, and the ones that are, like the Investment Lead and EIR meetings, are hyper-personalized to our company, so they are incredibly valuable.”
 
@@ -232,7 +232,7 @@ You can also expect virtual networking and social events, office hours and an ad
 
 The accelerator culminates in a Demo Day to showcase your startup to investors and industry professionals.
 
-What the Alumni are saying ![Altar - What is Saying](images/Adam-Alpert-Mass-Challenge-accelerator-alumni.png)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Adam-Alpert-Mass-Challenge-accelerator-alumni.png)
 
 “We applied 3 times before we got accepted, and never gave up. Each time the process of applying (and the feedback we got) help us mould our vision and push to be better.
 
@@ -260,7 +260,7 @@ They will offer upto 20% of new rounds in subsequent seed and series investment 
 
 You can [apply to the program most relevant to your startup](https://sosv.com/programs/) via their website. Their process consists of an application form and subsequent interview before onboarding successful founders.
 
-What the Alumni are saying ![Altar - What is Saying](images/ryan-pandya-Perfect-Day-SOSV-accelerator-alumni.jpeg)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/ryan-pandya-Perfect-Day-SOSV-accelerator-alumni.jpeg)
 
 “The accelerator breathed life into what was previously just an idea…The team at SOSV truly understands that successful early stage investment is more than just throwing money at an idea - it takes support, advice, and a strong community. We’re lucky to be part of it, and it’s why we are where we are today.”
 
@@ -285,7 +285,7 @@ They offer expertise in a range of industries from Agtech and IoT to Fintech and
 - A network of over 300 Venture Capitalists with experience in a range of verticals
 - Office space in the heart of Silicon Valley
 
-What the Alumni are saying ![Altar - What is Saying](images/David-McIntosh-Plug-and-Play-startup-accelerator-Alumni.jpeg)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/David-McIntosh-Plug-and-Play-startup-accelerator-Alumni.jpeg)
 
 “Plug and Play was constantly on the lookout for opportunities helpful to Tenor, and backed Tenor all the way from its earliest financing round up until its acquisition by Google.”
 
@@ -305,7 +305,7 @@ The program includes connections to mentors, experts and alumni, weekly programm
 
 You can apply using the [contact form on their website](https://www.innovationworks.org/connect/).
 
-What the Alumni are saying ![Altar - What is Saying](images/Cassie-Guerin-Innovation-Works-startup-accelerator-alumni.png)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Cassie-Guerin-Innovation-Works-startup-accelerator-alumni.png)
 
 "Innovation Works brings with it an incredible community of advisors, mentors, and other inspiring founders.
 
@@ -336,7 +336,7 @@ They offer a six month program with dedicated tracks depending on your industry.
 - A Demo Day with a global group of investors
 - Permanent access to an exclusive network of mentors, investors, customers and alumni.
 
-What the Alumni are saying ![Altar - What is Saying](images/Gabor-Angeli-Alchemist-accelerator-alumni.jpeg)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Gabor-Angeli-Alchemist-accelerator-alumni.jpeg)
 
 “The role that Alchemist played in our particular startup venture was to get us exposed to the business side of things.
 
@@ -364,7 +364,7 @@ They also boast access to over 700 customers from their network of companies and
 
 You can [apply for StartX here](https://startx.com/application_spots/new) using the online application.
 
-What the Alumni are saying ![Altar - What is Saying](images/Osama_Beidier-StartX-startup-accelerator-alumni.jpeg)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Osama_Beidier-StartX-startup-accelerator-alumni.jpeg)
 
 “Through StartX, I’ve recruited highly qualified talent, and found the management team to be very engaged, deeply devoted and genuinely interested in successful outcomes for its founders.”
 
@@ -384,7 +384,7 @@ This is achieved through a program based on one-to-one mentorship, the cohort co
 
 To apply, [head to their homepage](https://angelpad.com/#do). Then, complete the online application, which is followed by an interview. AngelPad is one of the most selective startup accelerators on this list, accepting less than 1% of applicants.
 
-What the Alumni are saying ![Altar - What is Saying](images/Joel-Gascoigne-AngelPad-startup-accelerator-alumni.png)
+What the Alumni are saying ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Joel-Gascoigne-AngelPad-startup-accelerator-alumni.png)
 
 _“Getting into AngelPad was simply one of the most incredible moments of my life and I remember a real feeling of elation._
 

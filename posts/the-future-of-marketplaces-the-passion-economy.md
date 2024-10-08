@@ -1,9 +1,9 @@
 ---
 title: "The Future of Marketplaces is Here - The 2020s & The Passion Economy"
 date: "2020-01-22"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "marketplace"
   - "startup"
 coverImage: "wei-pan-eBE3pEIZjbc-unsplash-2.jpg"
@@ -13,8 +13,6 @@ author: Andre Lopes
 
 The future of marketplaces is unknown. However, the rise of the Passion Economy could be an opportunity to create marketplaces with passion-driven verticals.
 
-
-
 Civilization was born out of the need to fulfill one’s needs through others… — Vargas Llosa
 
 The next decade will be about passions, not gigs. — Li Jin
@@ -23,13 +21,11 @@ The next decade will be about passions, not gigs. — Li Jin
 
 What good is it if you want to follow your passion, tell your stories, cook your delicacy or make the most beautiful shoe if it doesn’t reach the eyes of the buyer?
 
-
-
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy](images/0YdKMz_iBmCEBQjb_.jpg)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0YdKMz_iBmCEBQjb_.jpg)
 
 From the grand markets of Venice and Bazaars of Istanbul to today’s Amazon and Alibaba, the core concept remains: [building marketplaces](https://altar.io/blog/eight-steps-follow-build-successful-marketplace/) is relevant because they serve both the sellers and buyers at scale. They help both find each other (discoverability) and give the seller a means to thrive (monetization).
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 2](images/0wyinWolMBBUe5r3u.png)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0wyinWolMBBUe5r3u.png)
 
 In the old days, you’d have to travel far to get what you wanted. Nowadays you have “buy now” buttons that order products from the other side of the world straight to your front door.
 
@@ -45,19 +41,19 @@ The well known Maslow pyramid of needs represents a person’s basic needs. From
 
 The same happened with civilization. The need for cereals and vegetables by sheepherders brought about basic trade, say sheep for vegetables. As there was no more trading to do people went further away in order to trade their produce. This gradually put people in contact for the benefit of fulfilling needs — which was achieved by these trade transactions.
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 3](images/0yYkeGp5kHzxujavv.png)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0yYkeGp5kHzxujavv.png)
 
 ### Our Basic Needs
 
 With the passage of time (helped by good weather, peace, fertile land and open borders) gradually trade routes are established. This creates a strong foothold in the “Basic Needs” section of the Pyramid as basic commodities travel from where there is a surplus to where there is a lack thereof for small sums.
 
-Today people still trying to get a foothold on the Basic Needs segment are those unlucky to be in a part of the world that is barely integrated into modern trade routes. Think of war or drought-stricken parts of Africa. Or those in the developed world without differential skills, doing odd jobs to pay for food, rent, medical bills. The overall feeling is that they do not possess the means to live well, but rather survive. Such people are condemned to the worst _local_ jobs.
+Today people still trying to get a foothold on the Basic Needs segment are those unlucky to be in a part of the world that is barely integrated into modern trade routes. Think of war or drought-stricken parts of Africa. Or those in the developed world without differential skills, doing odd jobs to pay for food, rent, medical bills. The overall feeling is that they do not possess the means to live well, but rather survive. Such people are condemned to the worst *local* jobs.
 
 ### Our Psychological Needs
 
 The second tier of the pyramid is Psychological Needs. It is related to the first in the sense that, with the basic needs attained, one can live outside the “survival mode”. This allows them to contribute to society and have some breathing space to enjoy and pursue relationships.
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 4](images/0tdCKcVd_YLFUlS-a.jpg)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0tdCKcVd_YLFUlS-a.jpg)
 
 We‘d put this on par with working to pay bills like rent and a car. Having a middle income allows for a certain feeling of accomplishment within the country. Generally speaking people in this echelon are employed in service jobs that are integrated within the global economy.
 
@@ -73,15 +69,9 @@ People who participate directly in the global market are those who own the compa
 
 Interestingly, as we shall see, the history of the internet has mimicked this upward flow. Now it is reaching the top tip of the pyramid which is a promising development.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -92,8 +82,6 @@ Let's Talk
 The 2010s proved the internet as serious business. It did so as technology companies finally outpaced the likes of AT&T, GE, EXXON MOBIL, JPMorgan to the absolute crown.
 
 Amazon, Alibaba, Microsoft, Apple, Facebook and Google are now the behemoths of the world. They are the global companies that once banks were, the appeal is wholly now on working for such companies, not banks.
-
-
 
 Related: [The List of the Most Active Marketplace Investors](https://altar.io/60-active-investors-focus-marketplaces/)
 
@@ -117,7 +105,7 @@ Around the turn of the millennium new apps began to appear. For example Amazon f
 
 Most went a little further and tried harder by offering non-vertical but rather generalist buffets of e-commerce products to buy. They offer…
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 5](images/0yRnHzK4TuvqQDgDX.png)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 5](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0yRnHzK4TuvqQDgDX.png)
 
 1. To actually purchase online, not just know that there are items for sale — now that these sites also became brands and garnered enough confidence for someone to buy with a credit card
 2. Far more items than any physical next door shop could
@@ -126,12 +114,6 @@ Most went a little further and tried harder by offering non-vertical but rather 
 This caused disruption to retail shops of all kinds from clothing to books. An example of extreme disruption is that of the video-club industry. Many kids are now growing up having never heard of Blockbuster and similar high-street video-clubs, for example.
 
 It is an unfair comparison since Amazon now derives its sales from many business lines. But it’s still staggering to compare its 90$ stock to Barnes and Nobles 30$ stock in 2007. Whereas now Amazon’s is worth over 1800$ and Barnes and Noble just over 6.5$.
-
-
-
-
-
-
 
 ### The 2010s: The Uber for X/Gig Economy
 
@@ -152,7 +134,7 @@ The web as the current height of civilization has mastered the mimicry of the py
 
 We’ve built on and matured from Maslow’s Basic needs — with basic tasks being attainable via the web (i.e. ordering food or a plumber or working as suppliers of such services).
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 6](images/0UkAMRccEoI0pmgrR.jpg)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 6](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0UkAMRccEoI0pmgrR.jpg)
 
 In terms of Psychological Needs, the web has brought apps to look for relationships as well as middle-income service jobs.
 
@@ -160,7 +142,7 @@ We have now reached the fulfilment stage where we look for masters who will tuto
 
 Such is the case of Skillshare.com (Est. 2010), where a wide array of grassroots experts teach everything from maths to photography to digital marketing. Masterclass.com (Est. 2012) is another example, where world-class experts are invited to recorded lectures. Etsy.com (Est. 2005) is a passion economy where small & local craftspeople are able to sell their handmade goods to the world.
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 7](images/0ncww9VFYphdeiZwK.png)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 7](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0ncww9VFYphdeiZwK.png)
 
 Yes, even Steve Martin is breaking into the Passion Economy!
 
@@ -170,7 +152,7 @@ In 2018 a [7-year-old reportedly earned himself 22 million](https://www.cbsnews
 
 Amateur gamers are being paid to game and broadcast. Even the relatively unknown “[StoneMountain64](https://zw.youtubers.me/stonemountain64/youtube-estimated-earnings)” might have earned up to $500k.
 
-![The Future of Marketplaces is Here – The 2020s & The Passion Economy 8](images/04N9QlnMvPTd2ZDZq.jpg)
+![The Future of Marketplaces is Here – The 2020s & The Passion Economy 8](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/04N9QlnMvPTd2ZDZq.jpg)
 
 Experts in many segments such as [Crypto](https://offthechain.substack.com/), the [Future](https://www.exponentialview.co/), [China matters](https://sinocism.com/), even [Victorian Writing](https://grace.substack.com/) and even “fact-based” [Journalism](https://thedispatch.com/) have started finding their desired monetization with [Substack.com](https://substack.com/) (Est. 2017). Top newsletters reportedly make over $10k per month and trending up.
 
@@ -180,8 +162,6 @@ Being one of the internet’s largest industries, porn is also undergoing a seis
 
 The recent rise of passion economy marketplaces in which each “star” creates content paid by subscribers, such as Manyvids.com (Est. 2014) and Onlyfans.com (Est. 2011) has brought new life into the amateur segment which now has a monetary incentive to broadcast its passion, quite literally.
 
-
-
 Related: [Steps to Follow to Build a Successful Marketplace](https://altar.io/eight-steps-follow-build-successful-marketplace/)
 
 ### From Then to Now
@@ -189,8 +169,8 @@ Related: [Steps to Follow to Build a Successful Marketplace](https://altar.io/ei
 Whereas the Gig Economy was about narrow tasks and one time fees, the characteristics of the Passion Economy Marketplaces are about one selling his/her hyper-personal knowledge, entertainment, skill or craft. This is superseding the limited one-to-one service basis, but rather selling digitally on a one to many basis. The passion industry often relies on a recurrent revenue subscription that scales without limit. Thus, the actual price per hour employed by the provider scales with its audience:
 
 1. 1. Subscription over one time fees. Instead of buying a book by a writer, a cd by a singer or a newspaper to read an article you subscribe to the newsletter or a podcast.
-    2. One-to-many leverage. Many people can buy-in. Instead of the Gig economy in which someone delivering your food can only deliver one at a time. In the Passion Economy, there are no set limits for who can buy.
-    3. Hyper Personal skills instead of undifferentiated mere task fulfilment.
+   2. One-to-many leverage. Many people can buy-in. Instead of the Gig economy in which someone delivering your food can only deliver one at a time. In the Passion Economy, there are no set limits for who can buy.
+   3. Hyper Personal skills instead of undifferentiated mere task fulfilment.
 
 The opportunity here lies essentially on opening the wide market of the web globally for knowledge professionals & amateurs and locally for services and products beyond those of a Basic Needs nature such as subscribing to a psychotherapist or yoga sessions at home.
 

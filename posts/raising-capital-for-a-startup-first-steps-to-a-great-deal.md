@@ -1,9 +1,9 @@
 ---
 title: "Raising Capital For A Startup: First Steps To a Great Deal"
 date: "2020-05-08"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "angel-investors"
   - "funding"
   - "funding-stages"
@@ -22,9 +22,7 @@ As a startup founder raising capital is about to become an important part of you
 
 Most companies fail to procure startup funding. Partly because it’s extremely difficult, but also because they fail to follow some basic steps. Fundraising requires understanding and a rock-solid approach to succeed. Here I will be taking you through the first steps of your funding journey. Starting with the basic preparation, to working out your funding roadmap and finally, how building your network may be the most valuable tool available to you.
 
-
-
-![Raising Capital For A Startup: First Steps To a Great Deal 1](images/0Wwxe4IJUEd6KvCP5-1024x683.jpg)
+![Raising Capital For A Startup: First Steps To a Great Deal 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0Wwxe4IJUEd6KvCP5-1024x683.jpg)
 
 ## Methods of Raising Capital For A Startup
 
@@ -67,8 +65,6 @@ There is one thing that will never change. People with money will always be loo
 
 Not so luckily, there is something else that will never change. It’s not what you know but who you know. Gaining access to investors is substantially easier when you know them yourself or have someone make an introduction.
 
-
-
 Related: [The List of Most Active Fintech Investors](https://altar.io/ultimate-list-active-150-fintech-investors/)
 
 According to Scott Shane, a business professor at [Case Western Reserve University](https://weatherhead.case.edu/faculty/scott-shane), most early-stage investors won’t look at you twice unless someone they know and trust has brought them the deal. Therefore, it’s no surprise that your personal connections are the most valuable currency you have, and you should nurture and grow your network as much as you can.
@@ -77,7 +73,7 @@ Thanks to social media, email and prospecting tools it’s easier than ever to f
 
 ### Find Expertise, Not Just Money
 
-![Raising Capital For A Startup: First Steps To a Great Deal 2](images/0iJwKFmVBeOG_FXfB-1024x683.jpg)
+![Raising Capital For A Startup: First Steps To a Great Deal 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0iJwKFmVBeOG_FXfB-1024x683.jpg)
 
 Three-quarters of founders who have experienced startup failure believe it was because they lacked expertise. When seeking investment you are forced to think about every aspect of your business strategically. You have to examine the fundamentals and make sure they are rock solid:
 
@@ -101,15 +97,9 @@ Getting investors to reach into their pockets takes trust. They are investing in
 
 It is even more important, therefore, that you do everything in your power to put your startup in a powerful position. You need to leverage your network to garner warm introductions to key players in your industry. Before you go out to find your investors, however, you need to create your funding roadmap.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -144,7 +134,7 @@ Professional investors will usually insist on preferred shares — which can a
 
 Debt has to be paid off before equity, therefore a debt-heavy startup capital structure is far less attractive to investors. To see how the equity in your company has been allocated (number of shares, preferred or common, etc.) **you need to create a capitalisation (cap) table**.
 
-![Raising Capital For A Startup: First Steps To a Great Deal - Capitalization Table](images/06xbecMH5gh05ncWw-1024x493.png)
+![Raising Capital For A Startup: First Steps To a Great Deal - Capitalization Table](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/06xbecMH5gh05ncWw-1024x493.png)
 
 ### Step 2: Know What You Want
 
@@ -168,12 +158,6 @@ As Paul Graham founder of YCombinator states in his blog post [_How To Raise Mo
 
 The important takeaway here is that funding shouldn’t be used to desperately save your startup from collapse. It should be used to enable your already growing business to progress faster. Those who seek funding from a position of desperation risk losing their company through dilution in the process of trying to save it.
 
-
-
-
-
-
-
 Step 3: Target the Right Investors
 
 What kind of investor do you want on your dream team? What qualities should they have? What should they bring to your startup? Market expertise? Customer insights? Connections? What weak links do you have that investors could strengthen? Is it purely about greater financial acumen?
@@ -195,7 +179,7 @@ Next, you should start reaching out to the investor directly. As you begin talki
 
 ### Step 4: Create Your Funding Roadmap and Stick to It
 
-![Raising Capital For A Startup: First Steps To a Great Deal - 3](images/0MbMz8uTfbo8qlELn-1024x683.jpg)
+![Raising Capital For A Startup: First Steps To a Great Deal - 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0MbMz8uTfbo8qlELn-1024x683.jpg)
 
 Now you are in a position to create a strategic roadmap to put in front of your selected investors for your startup in its current stage. Once you start the process it will become an important activity for the weeks (or months) it takes you to fundraise. And just like marketing, sales, product development, etc. having schedules and benchmarks will help keep you on the right path. Select one person, a co-founder — or CEO, to take point on the fundraising campaign while everyone else keeps focusing on building the business.
 

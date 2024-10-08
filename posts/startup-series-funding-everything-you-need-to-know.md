@@ -1,9 +1,9 @@
 ---
 title: "Startup Series Funding: Everything You Need To Know"
 date: "2020-03-11"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "funding"
   - "funding-stages"
   - "series-funding"
@@ -39,9 +39,7 @@ She turned her problem into a business opportunity. She set out to create an onl
 
 It took her three years of hard work before she got any kind of investment from Silicon Valley.
 
-
-
-![Startup Series Funding: Everything You Need To Know - Melanie Perkins](images/0Cq4wGQTilwZko_xn-1024x661.jpg)
+![Startup Series Funding: Everything You Need To Know - Melanie Perkins](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0Cq4wGQTilwZko_xn-1024x661.jpg)
 
 But in 2013 Canva launched backed by $3M, with former Google Executive Cameron Adams joining as a co-founder — which no doubt helped them secure funding in future rounds.
 
@@ -59,7 +57,7 @@ In a recent interview with [Forbes](https://www.forbes.com/sites/alexkonrad/201
 
 She claimed they’d been holding back on further investment because they’d “been profitable for the last two years,” but changed their mind because they want to “be used by every single enterprise across the globe.”
 
-![Startup Series Funding: Everything You Need To Know - Funding Raised](images/0WSubE5rtwLbV17FH-1024x350.png)
+![Startup Series Funding: Everything You Need To Know - Funding Raised](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0WSubE5rtwLbV17FH-1024x350.png)
 
 This is just one of many examples of what you can do when you get funding right. And although it wasn’t easy for Melanie and Canva (remember it took her three years just to get through the door), they wouldn’t be where they are today without it.
 
@@ -71,7 +69,7 @@ Well, first you learn how funding works.
 
 The first thing you need to know is that getting funding is a long and hard road. According to a DocSend survey, you need to [contact an average](https://www.forbes.com/sites/alejandrocremades/2018/08/05/top-50-angel-investors-based-on-investment-volume-and-successful-exits/#182d85ef7748) of just 58 investors, make 40 meetings, and take just 12.5 weeks to close your funding round.
 
-_Edit__: One of our readers, Karen Melonie Gould, pointed out that due to the COVID-19 situation the average time to close a funding round has increased to 9–12 months._
+_Edit\_\_: One of our readers, Karen Melonie Gould, pointed out that due to the COVID-19 situation the average time to close a funding round has increased to 9–12 months._
 
 With that said, let’s start with the two parties involved in funding.
 
@@ -88,8 +86,6 @@ Usually, people who invest in startups do so because they believe in your idea, 
 This is why Andreas von Bechtolsheim famously wrote Google their first-ever cheque for $100,000.
 
 Back in ’98, as I’m sure some of you will know, searching the internet wasn’t as easy as it is today. Andreas had this problem himself, he saw Google as a potential solution. [In his own words](https://www.dw.com/en/von-bechtolsheim-i-invested-in-google-to-solve-my-own-problem/a-4557608):
-
-
 
 _I cannot claim I foresaw how much \[Google\] would take off, I just thought good search was really, really important. \[…\] So I really invested in the company to solve my own problem which was how to find information on the internet easily_
 
@@ -111,8 +107,6 @@ If you get funding from VCs they will be looking for a high return on investment
 
 This [quote](https://hbr.org/1998/11/how-venture-capital-works) from Harvard Business Review explains it beautifully:
 
-
-
 _In return for financing one to two years of a company’s start-up, venture capitalists expect a ten times return of capital over five years._
 
 That can look scary, with an almost “loan-shark” feel to it but it doesn’t change the fact that venture capital is a great option if you want to scale quickly and go huge.
@@ -121,7 +115,7 @@ Just bear in mind that they will take a big stake of equity from your company. D
 
 Moreover, the competition for VC deals keeps getting fiercer. If we look at the US alone we see that [VC deal activity has yet again declined in Q1](https://www.cbinsights.com/research/report/venture-capital-q1-2020/) for the third consecutive quarter:
 
-![Startup Series Funding: Everything You Need To Know - US VC deal activity](images/US-VC-deal-activity-1024x593.webp)
+![Startup Series Funding: Everything You Need To Know - US VC deal activity](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/US-VC-deal-activity-1024x593.webp)
 
 ## Angel Investors
 
@@ -146,8 +140,6 @@ This means you will not only get a valuable monetary investment but a trustworth
 So those are the two most common types of investors you will encounter. Before we delve into the series rounds there are a few more basic concepts you need to understand.
 
 I want to talk about Valuation.
-
-
 
 Related: [Looking for Investors? Avoid These Types of Bad Business Angels](https://altar.io/looking-investors-avoid-7-types-bad-business-angels/)
 
@@ -176,7 +168,7 @@ Pre-money is the valuation of your business before an investment round.
 
 Post-money is the value of your company after an investment round.
 
-![Startup Series Funding: Everything You Need To Know - Pre vs Post Money](images/1RTxlOJzOjDHilDOuyzrZ_Q.png)
+![Startup Series Funding: Everything You Need To Know - Pre vs Post Money](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1RTxlOJzOjDHilDOuyzrZ_Q.png)
 
 Let me break it down with an example.
 
@@ -186,7 +178,7 @@ Your company starts to become successful and you go to an investor for some addi
 
 You find a VC and negotiate an investment of $2M for a $10M post-money valuation (the valuation of your company including the $2M investment).
 
-![Startup Series Funding: Everything You Need To Know - Pre vs Post money example](images/1iBVjcIt61OBIA4qfTEVszg.png)
+![Startup Series Funding: Everything You Need To Know - Pre vs Post money example](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1iBVjcIt61OBIA4qfTEVszg.png)
 
 So what does this mean in terms of ownership percentage for you, your co-founder and your new VC?
 
@@ -206,15 +198,9 @@ Bear in mind that investors at the later stages will season the investment agre
 
 Now let’s take an in-depth look at each funding round.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -228,19 +214,13 @@ At this point, you and your co-founders will be working with a very small team (
 
 The money here comes predominantly from bootstrapping — building the company from the ground up but nothing with personal savings and, if you are lucky, income from initial sales.
 
-![Startup Series Funding: Everything You Need To Know - Pre-Seed & Bootstrapping](images/0kmJRQbYUPovQNkME.jpg)
+![Startup Series Funding: Everything You Need To Know - Pre-Seed & Bootstrapping](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0kmJRQbYUPovQNkME.jpg)
 
 Other ways of pre-seeding include:
 
 - Taking out a small business loan — in the form of a traditional bank loan or credit card.
 - Crowdfunding — on platforms such as [Seedrs](https://www.seedrs.com/), [Kickstarter](https://www.kickstarter.com/) or [Indiegogo](https://www.indiegogo.com/).
 - Borrowing from friends & family — often in return for an equity stake or convertible note in the company.
-
-
-
-
-
-
 
 Seed Funding
 
@@ -266,9 +246,7 @@ Potential investors at this stage include:
 
 Your company will on average raise between $100,000 and $2M at this stage of funding. Although the numbers can vary massively as you can see in the chart below:
 
-![Startup Series Funding: Everything You Need To Know - Seed Round](images/0tSfFvfdBemp394qP-1024x452.png) 
-
-
+![Startup Series Funding: Everything You Need To Know - Seed Round](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0tSfFvfdBemp394qP-1024x452.png)
 
 Related: [Download Pitch Decks That Helped Companies like Transfewise or Linkedin Raise Millions](https://altar57146.activehosted.com/f/17)
 
@@ -304,7 +282,7 @@ As well as Crowdfunding and [Angel Investors](https://www.crunchbase.com/hub/an
 
 You will be raising anything between $3M and $20M. Here are some more examples:
 
-![Startup Series Funding: Everything You Need To Know - Series A](images/0sOS-wN7Xa57PFNnl-1024x452.png)
+![Startup Series Funding: Everything You Need To Know - Series A](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0sOS-wN7Xa57PFNnl-1024x452.png)
 
 ## Series B Funding
 
@@ -328,7 +306,7 @@ According to [TechCrunch](https://techcrunch.com/2012/07/09/payments-startup-st
 
 Typically Series B funding can raise anywhere between $15M and $70M:
 
-![Startup Series Funding: Everything You Need To Know - Series B](images/06DqmkokCmD7nrKLl-1024x452.png)
+![Startup Series Funding: Everything You Need To Know - Series B](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/06DqmkokCmD7nrKLl-1024x452.png)
 
 Series B tends to feature the same key investors as Series A.
 
@@ -356,7 +334,7 @@ What they are looking to do is put huge sums of money on a “sure thing” to
 
 Companies at this point tend to raise anything above $50m:
 
-![Startup Series Funding: Everything You Need To Know - Series C](images/0aNjnCC4ijE-S2gxK-1024x452.png)
+![Startup Series Funding: Everything You Need To Know - Series C](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0aNjnCC4ijE-S2gxK-1024x452.png)
 
 Commonly, Series C funding is the final push to prepare a company for an IPO — or acquisition from a big fish.
 
@@ -394,7 +372,7 @@ Venture Capital Firms are the usual suspects at this round of investment.
 
 The amount raised at this stage ranges drastically based on your companies needs as we can see here:
 
-![Startup Series Funding: Everything You Need To Know - Series D](images/0WxKPXRG8f0yRCBZH-1024x452.png)
+![Startup Series Funding: Everything You Need To Know - Series D](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0WxKPXRG8f0yRCBZH-1024x452.png)
 
 ## Series E Funding
 
@@ -406,7 +384,7 @@ In the case of fintech giant [Stripe](https://stripe.com/), a [spokesperson fo
 
 Again the money you raise here differs substantially depending on your companies situation.
 
-![Startup Series Funding: Everything You Need To Know - Series E](images/0kFpe04Ov0jjFu_UL-1024x452.png)
+![Startup Series Funding: Everything You Need To Know - Series E](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0kFpe04Ov0jjFu_UL-1024x452.png)
 
 ## Putting the Fun into Funding
 

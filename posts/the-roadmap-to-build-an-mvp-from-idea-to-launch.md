@@ -1,7 +1,7 @@
 ---
 title: "The Right Roadmap to Build an MVP: From Idea to Launch"
 date: "2021-08-17"
-categories: 
+categories:
   - "startup-advice"
 coverImage: "The-Right-Roadmap-to-MVP.jpeg"
 slug: the-roadmap-to-build-an-mvp-from-idea-to-launch
@@ -13,8 +13,6 @@ As a business person without the tech skills to build an MVP, it can be tempting
 It’s a common trap that many entrepreneurs fall into. But, before even thinking about development,  you should be focussing on your product reasoning.
 
 It’s like entrepreneur and product expert Joe Procopio [recently told me](https://altar.io/expert-interview-building-an-mvp/#importance-of-product):
-
-
 
 You can do everything else right but if the product isn’t right, you’re doomed.
 
@@ -30,15 +28,13 @@ Inspired by founder Kevin Systrom’s love of fine whiskeys and bourbons, it was
 
 He and his co-founder Mike Kreiger, spend a year building Burbn, releasing a fully-fledged product to the market.
 
-**But the product missed the mark.** 
+**But the product missed the mark.**
 
 Adoption was poor, and users found the app confusing. Even [Systrom himself commented](https://techcrunch.com/2010/11/08/instagram-a-pivotal-pivot/) that the product felt “cluttered and overrun with features.”
 
 This could’ve been the end of the story for Burbn & Instagram, but **Systrom and Kreiger went back to the core product and re-evaluated everything**.
 
 They focused on the one feature that all their users loved: **easy photo sharing**:
-
-
 
 We went out on a limb and basically cut everything in the Burbn app except for its photo, comment, and like capabilities. What remained was Instagram.
 
@@ -49,8 +45,6 @@ This is just one example of why startups should be putting more importance on th
 Throughout this article, I will show you the blueprint to prepare your product for its development phase. It’s the blueprint we use with all the startups we work with at Altar. I will also cover how a product expert can help you fill out this blueprint.
 
 Then I will look at the MVP development stage itself. I’ll cover the options you have when it comes to selecting a tech stakeholder and how to avoid some common mistakes I’ve seen entrepreneurs make (myself included).
-
- 
 
 #### Contents
 
@@ -64,15 +58,9 @@ Depending on the stage your business is at, a product expert will generally divi
 2. Define the Assumptions to Validate
 3. Play the Mirror Game
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
-
-
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -99,7 +87,7 @@ It should look something like this:
 
 To take this concept one step further, here is an elevator pitch example for Uber (information taken from Uber’s original pitch deck – [which you can see here](https://medium.com/@gc/the-beginning-of-uber-7fb17e544851)):
 
-**Uber** has been conceived for **people who want a taxi service** who **are tired of the poor, inefficient service provided by overpriced taxis**. **Uber** is a **fast and efficient on-demand car service**. Unlike **traditional taxi services,** we provide **the ability for the user to use an app to hail a cab to their exact GPS location with ease. Moreover, we provide the ability to “rate your trip” to ensure drivers are accountable for the service they provide (and passengers for how they behave).** 
+**Uber** has been conceived for **people who want a taxi service** who **are tired of the poor, inefficient service provided by overpriced taxis**. **Uber** is a **fast and efficient on-demand car service**. Unlike **traditional taxi services,** we provide **the ability for the user to use an app to hail a cab to their exact GPS location with ease. Moreover, we provide the ability to “rate your trip” to ensure drivers are accountable for the service they provide (and passengers for how they behave).**
 
 Once you have this, you’ll have completed the session and it will be time to move onto the next step – defining the assumptions to validate.
 
@@ -154,8 +142,6 @@ To take it a step further, here’s an example using Airbnb – starting with t
 
 Once you’ve compared all of the features you **want** with the assumptions you **need to prove** you’ll have taken into account all the product considerations you need to build a truly lean MVP.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/#how-to-build-an-mvp-3-steps)
 
 ### The Practical Advantages of a Product Expert
@@ -171,12 +157,6 @@ A Product Expert can also help you compile all of the documents you need to brin
 Once you have this documentation in place, you’re finally ready to move forward to the development stage with a structured business vision.
 
 Significantly decreasing your chances of being ripped off and significantly increasing your chances of building an MVP that’s in line with your target users needs.
-
-
-
-
-
-
 
 ## With Your Structured Business Vision in Hand, It’s Time to Approach Developers
 
@@ -202,7 +182,7 @@ It’s something that Dudley Gould, a UK based entrepreneur I worked with recent
 
 For this reason, many entrepreneurs look to freelance developers to help them build their MVP.
 
-**_For more information_** _on finding your dream CTO,_ [_check out this guide_](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)_. It explains the exact set of characteristics you should be looking for in a CTO._ 
+**_For more information_** *on finding your dream CTO,* [_check out this guide_](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)_. It explains the exact set of characteristics you should be looking for in a CTO._
 
 ### Build an MVP with Freelance Developers
 
@@ -240,8 +220,6 @@ This is something I [discussed recently with Nelly Yusupova](https://altar.io/w
 
 Here’s what she had to say on how building an MVP can help you find a CTO:
 
-
-
 It’s about traction. Showing technical stakeholders that this isn’t just an idea. It’s a painkiller and people want it. You’re saying to them, look what I’ve already done without you, imagine what we can achieve together.
 
 That doesn’t mean, however, that working with an agency doesn’t come with its own set of risks.
@@ -260,7 +238,7 @@ Luckily, he had enough money to start from scratch. But not everyone has this lu
 
 My point is, if it seems too good to be true, it probably is.
 
-**_For more information_** _on outsourcing successfully with a software development company,_ [_check out this guide_](https://altar.io/founders-guide-how-to-outsource-software-development-2020/)_. It will lead you through the entire process, including the red flags to look out for._ 
+**_For more information_** *on outsourcing successfully with a software development company,* [_check out this guide_](https://altar.io/founders-guide-how-to-outsource-software-development-2020/)_. It will lead you through the entire process, including the red flags to look out for._
 
 Once you’ve found your technical stakeholder, and built the MVP, it's time for the next step: the launch.
 
@@ -268,7 +246,7 @@ Once you’ve found your technical stakeholder, and built the MVP, it's time for
 
 Once you’ve built your MVP, it’s time to put it in the hands of your users, and employ the build, measure, learn cycle.
 
-![Startup MVP Feedback Loop: Build Measure Learn Branded](images/Build-Measure-Learn-Branded.png)
+![Startup MVP Feedback Loop: Build Measure Learn Branded](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Build-Measure-Learn-Branded.png)
 
 The first step is to **measure** the feedback from your users.
 
@@ -286,7 +264,7 @@ When it comes to the interaction stage of your MVP, you have the same options yo
 - Stick with the freelance devs
 - Continue with a software development company.
 
-It’s worth noting, however, that **w****ith a successful MVP launch, you are now in a much stronger position to attract a CTO**
+It’s worth noting, however, that **w\*\***ith a successful MVP launch, you are now in a much stronger position to attract a CTO\*\*
 
 Remember [Nelly’s advice](https://altar.io/what-founders-should-know-before-hiring-a-cto-or-software-agency-expert-interview/) that I shared earlier in the article.
 

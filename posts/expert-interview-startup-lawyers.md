@@ -1,9 +1,9 @@
 ---
 title: "What Every Entrepreneur Should Know About Startup Lawyers  [Expert Interview]"
 date: "2021-03-16"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "startup"
@@ -43,7 +43,7 @@ As a startup founder, before you know it you’ll need to: Incorporate your star
 
 To help you avoid some of these costly mistakes, our team reached out to [Ryan Shaening Pokrasso](https://www.linkedin.com/in/ryanshaeningpokrasso/), the Founder of [SPZ Legal](https://www.spzlegal.com/), a boutique law firm specialized in legal counselling for startups.
 
-![Startup Lawyer Ryan Pokrasso](images/Startup-Lawyer-Ryan-Pokrasso-1024x660.jpeg)
+![Startup Lawyer Ryan Pokrasso](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Startup-Lawyer-Ryan-Pokrasso-1024x660.jpeg)
 
 In our conversation, he shared the importance of onboarding the right startup lawyer for your business, as well as tips on how to go about filling this crucial startup role.
 
@@ -69,7 +69,7 @@ I think this issue happens a lot when people start businesses with friends – b
 
 I started my law firm with friends so I know what it’s like to work with friends.
 
-![](images/Founders-Startup-Lawers-SPZ-Legal-1024x625.jpeg)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Founders-Startup-Lawers-SPZ-Legal-1024x625.jpeg)
 
 You hear a lot that friends and business shouldn’t be mixed. However, my experience is that friends can make awesome business partners.
 
@@ -91,8 +91,6 @@ Another time to bring in a startup lawyer would be when you’re ready to start 
 
 There’s a lot of good online services for incorporating a business. That being said, if you use one of these automated services and you don’t fully understand the documentation sent by the service you should have a startup lawyer explain it to you as well.
 
-
-
 Related: [Critical Traits to Consider if You Want to Find the Perfect Co-founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 
 #### Q: We work with a lot of entrepreneurs and we usually advise them to start speaking with potential hires, investors, lawyers, any stakeholder you can think of as soon as possible.
@@ -111,7 +109,7 @@ Then they came to us and said: “Hey, now we’ve gained some traction and we�
 
 So we did. It turned out that they didn’t properly execute some of their legal documents. Essentially, they never had anybody who worked on the company assign IP rights to the company.
 
-More than that **t****hey’d never issued stock in the company to themselves or anyone else, so they didn’t even own their company.**
+More than that **t\*\***hey’d never issued stock in the company to themselves or anyone else, so they didn’t even own their company.\*\*
 
 Fortunately, on the IP front, the company had good relationships with the people that had done work for them and they were able to get agreements to assign the IP.
 
@@ -151,7 +149,7 @@ And don’t forget the basic things too. I’ve had clients so focused, down in 
 
 This leads me to an important point.
 
-**I****f you’re going to start a company you need to make sure you’re ready to actually run the company, not just build a product. And if you’re not doing that you should bring in someone who will do that for you.**
+**I\*\***f you’re going to start a company you need to make sure you’re ready to actually run the company, not just build a product. And if you’re not doing that you should bring in someone who will do that for you.\*\*
 
 The most effective teams have that. You have the person down in the trenches working on the product. Then you have the other person who’s great on the business side.
 
@@ -163,8 +161,6 @@ Hire software developers if you’re not a developer.
 
 Bring in lawyers if you’re not a lawyer.
 
-
-
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 
 By definition, entrepreneurs are people who like to do things themselves. First and foremost, they don’t want to work for someone else - they want to build their own thing.
@@ -175,9 +171,7 @@ And yes as an entrepreneur you probably could figure it out on your own. But it 
 
 All of this to say, as an entrepreneur your time is better-used building your business and bringing the vision to life.
 
-
-
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -229,7 +223,7 @@ If this is your first round with friends and family it’s normally done through
 
 It’s good to be generous because people who invest early should get rewarded for doing so and taking the risk early but if you give people a 70% discount then when the next round happens your venture capitalist is gonna say, “This person’s getting way too much for the 10k they put in, you’re asking me for a million and I’m going to end up with the same equity as them.”
 
-This is obviously an exaggeration but the point is **d****on’t give terms that are overly favourable. I recommend sticking with the market ranges in this case.**
+This is obviously an exaggeration but the point is **d\*\***on’t give terms that are overly favourable. I recommend sticking with the market ranges in this case.\*\*
 
 If you’re working with convertible notes, make sure the maturity date is set long enough out to where you’ll actually be able to raise a future round before that note matures.
 
@@ -247,10 +241,6 @@ Then there are the more obvious business terms. Making sure you’re getting the
 
 Another important legal issue is to make sure that you’re not giving out of the ordinary blocking rights. You want to retain enough autonomy so that you can make business decisions without going to the investor every time you want to change something.
 
-
-
-
-
 #### Q: When entrepreneurs outsource, or partner with a third party entity like a software development company, what should they be careful with?
 
 **A:** The biggest one is making sure you own or have a very broad exclusive license to IP that’s unique to your business.
@@ -264,8 +254,6 @@ The worst would be a long, exclusive relationship with a third-party partner, wh
 The next thing you have to do is ensure that compensation (regardless of whether it’s equity or cash) is earned based on satisfactory performance and completion of deliverables.
 
 Those are the core things to be careful of. If you wanted to go further into the weeds then we should mention making sure that the software developer provides assurance that they have the rights to use the code they’re providing you with, that’s a big one.
-
-
 
 Related: [10+ Reasons Why Outsourcing Software Development Fails](https://altar.io/10-reasons-why-outsourcing-software-development-fails/)
 
@@ -291,7 +279,7 @@ Next is making sure that the contracts that you use are appropriately addressed 
 
 The next one is less of a legal point but it’s an important one.
 
-**The biggest risk for your startup is not being a good communicator.** 
+**The biggest risk for your startup is not being a good communicator.**
 
 Lack of communication can leave you with a lot of legal claims.
 
@@ -353,7 +341,7 @@ You rely on outside advice for a reason so making sure you engage them every tim
 
 #### Q: Are there any resources you can recommend for entrepreneurs?
 
-**A:** It’s an old book that’s completely outdated but the general concepts still apply. It’s called [_The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It_](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)_._ 
+**A:** It’s an old book that’s completely outdated but the general concepts still apply. It’s called [_The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It_](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)_._
 
 The idea in that book is that if you’re building a business you should build it as if you’re going to franchise it – even if you never intend to.
 

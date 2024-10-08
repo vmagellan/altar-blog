@@ -48,7 +48,7 @@ Let’s get started with Yaron Samid.
 
 Yaron Samid is the founder behind multimillion-dollar fintech startup, BillGuard.
 
-![Multi-exit Fintech Founder Yaron Samid](images/Yaron-Samid-BillGuard-3.jpg) His startup seemingly shot to success, with the personal finance app seeing rapid adoption when it launched.
+![Multi-exit Fintech Founder Yaron Samid](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Yaron-Samid-BillGuard-3.jpg) His startup seemingly shot to success, with the personal finance app seeing rapid adoption when it launched.
 
 The first iteration of BillGuard however, wasn’t a personal finance app, but a “set & forget” security app designed to identify fraudulent credit card transactions.
 
@@ -88,7 +88,7 @@ What could easily be seen as an overnight success actually took years of pivotin
 
 Related: [Crucial Lessons I Learned from Interviewing Successful Entrepreneurs](https://altar.io/crucial-lessons-learned-interviewing-successful-entrepreneurs/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
+![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
@@ -100,7 +100,7 @@ Let's Talk
 
 Ali Halabi is the brain behind Volt Lines – a subscription-based transportation service aimed at corporations.
 
-![Volt Lines Founder- Ali Halabi](images/DSCF4222-scaled-1-1024x576.jpg) Volt Lines has rapidly become the leading corporate transport service in Turkey – and to the outside eye, it’s easy to think that Volt Lines went from $0 to $7.5M in funding in a heartbeat.
+![Volt Lines Founder- Ali Halabi](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DSCF4222-scaled-1-1024x576.jpg) Volt Lines has rapidly become the leading corporate transport service in Turkey – and to the outside eye, it’s easy to think that Volt Lines went from $0 to $7.5M in funding in a heartbeat.
 
 As you can probably guess, that couldn’t be further from the truth.
 
