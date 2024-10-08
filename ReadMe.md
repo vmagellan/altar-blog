@@ -3,6 +3,8 @@
 - Double check links and correct for new webflow slug once uplaoded
 - Double check external links if they all exist
 - Double check for potential garbage in the content
+- Correct image size to get some consistency
+- Update images when necesary
 
 
 ## Files that miss from metadata csv:
