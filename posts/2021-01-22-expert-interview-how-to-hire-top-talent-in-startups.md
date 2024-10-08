@@ -1,9 +1,9 @@
 ---
 title: "Expert Interview: How to Hire Top Talent in Startups"
 date: "2021-01-22"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "guide"
   - "hiring"
   - "startup"
@@ -12,23 +12,19 @@ tags:
 coverImage: "Geoff_consultant.jpg"
 ---
 
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 The secret of my success is that we have gone to exceptional lengths to hire the best people in the world.
 
 This quote, famously coined by Steve Jobs, perfectly sums up the importance people play in your business.
 
 And, as a co-founder at Altar.io, I’m always looking for new processes to onboard the best talent possible.
 
-The last book I read on the subject was [_Who: The A Method for Hiring_](https://whothebook.com/) by Geoff Smart & Randy Street_._ 
+The last book I read on the subject was [_Who: The A Method for Hiring_](https://whothebook.com/) by Geoff Smart & Randy Street*.*
 
 After reading it, I was impressed.  I could see why the book featured on both the New York Times & Wall Street Journal’s bestseller list.
 
 I took to LinkedIn to share some of the ideas the book had taught me about how I could improve my hiring process.
 
 It was nice, then, to receive a message from [Geoff Smart](https://www.linkedin.com/in/drgeoffsmart/) thanking me for my post.
-
-
 
 ![Geoff Smart, Author of Who: The A Method for Hiring](images/Geoff-Smart-2-768x598.jpg)
 
@@ -50,12 +46,12 @@ List:
 
 - Exactly what you want a person to accomplish in this role
 - The outcomes and competencies which ensure:
-    - Behavioural fit, e.g. Intelligence, analytical skills, attention to detail, proactivity, etc.
-    - Cultural fit.
+  - Behavioural fit, e.g. Intelligence, analytical skills, attention to detail, proactivity, etc.
+  - Cultural fit.
 
 #### Step Two – Source
 
-Systematically source talent _before_ you have roles to fill. The best way to source candidates is to tap into your personal & professional networks to ask for referrals.
+Systematically source talent *before* you have roles to fill. The best way to source candidates is to tap into your personal & professional networks to ask for referrals.
 
 #### Step Three – Select
 
@@ -65,7 +61,7 @@ Select through a series of structured interviews which build on each other and a
 
 Persuade them to join your team.
 
-**_To read the full process for optimal hiring check out Geoff’s book_** [**_here_**](https://whothebook.com/)**_._** 
+**_To read the full process for optimal hiring check out Geoff’s book_** [**_here_**](https://whothebook.com/)**_._**
 
 If I talk to an audience of entrepreneurs and I tell them hiring is a slow process and firing is a fast process I think it gives them the wrong mindset. The mindset should be one of process, discipline and speed.
 
@@ -79,9 +75,7 @@ I do think firing can be fast. But in this legally sensitive world, if you treat
 
 However, you should make that decision quickly. If you think you need to fire someone, put them on a performance improvement plan, give them three months plus to prove themselves, meet with them weekly, try to coach and develop them and if it doesn’t work out you fire them.
 
-**I think hire slow, fire fast is stupid advice for entrepreneurs. If you follow it you won’t be hiring the right people quickly enough and you’ll end up in a lot of legal trouble.** 
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+**I think hire slow, fire fast is stupid advice for entrepreneurs. If you follow it you won’t be hiring the right people quickly enough and you’ll end up in a lot of legal trouble.**
 
 The Brass Tacks
 
@@ -89,23 +83,17 @@ According to [Employee Benefit News](https://www.benefitnews.com/news/avoidable
 
 Maybe the focus shouldn’t be on hiring slow and firing fast, but on hiring right and avoiding unnecessary staff turnover.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
 Let's Talk
 
-#### P: In _Who: The A Method for Hiring,_ You write about the characteristics of A players. How do you detect high-quality candidates in a short space of time?
+#### P: In *Who: The A Method for Hiring,* You write about the characteristics of A players. How do you detect high-quality candidates in a short space of time?
 
-**G:** There are a lot of bad ways to evaluate a candidate. Let’s start with **bad methods**. Take _The_ _Handbook of Industrial and Organisational Psychology_ for example. This is filled with different methods for evaluating a human being.
+**G:** There are a lot of bad ways to evaluate a candidate. Let’s start with **bad methods**. Take *The* *Handbook of Industrial and Organisational Psychology* for example. This is filled with different methods for evaluating a human being.
 
 Starting with psychology tests – which are always filled with obvious questions. For example, there's a question on a psychology test for Sales Leaders that asks “Where would you rather be on a Friday night? At a library or at a cocktail party?”
 
@@ -136,8 +124,6 @@ So, as boring as it sounds, you should find out:
 
 That kind of data is very useful because it happened in the past and you can pair that with reference checks to verify what they said. Those two things give you 90% accuracy when hiring.
 
-
-
 Related: [What Startup Investors Look for In Entrepreneurs and Their Teams](https://altar.io/what-startup-investors-look-for-in-entrepreneurs-and-their-teams/)
 
 In terms of finding out if they’re persistent. Well if I talk to candidates about every accomplishment, low point, their education, their work experience, etc. All of those aspects will paint a relatively clear picture as to how persistent they are.
@@ -156,8 +142,6 @@ So I asked him, Like what? And he kept talking and as it turned out the guy fals
 
 Then you have your references where you can crosscheck what the candidate is saying. And when talking to references outright you can ask them, “How creative is this person from 1-10?”
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 The Brass Tacks
 
 According to Statista, it takes an average of 41 days to onboard a new member of staff for companies with 1-500 employees.
@@ -175,8 +159,6 @@ It’s important to start thinking about onboarding new team members before you 
 “Oh, my college roommate is good at a bunch of things. He’s willing to work for little to no money and a bunch of stock options. Also, we don’t have a lot of startup capital so I can’t hire a bunch of specialists. I need to hire people who can wear lots of hats and then when we get bigger we can bring on the specialists.”
 
 Where I think that’s flawed is that I firmly believe that humans aren’t good at lots of things. From my 25 years of assessing thousands of people is that there aren’t that many generalists who are good at lots of things. There are people who are willing to do lots of things, but they’re not great at it.
-
-
 
 Related: [The Best Websites to Hire Developers for Your Startup](https://altar.io/best-websites-to-hire-developers-for-startup/)
 
@@ -210,8 +192,6 @@ The only place for a generalist I can think of in any business is actually the C
 
 But between 0 and 1 billion+ in revenue, you should hire the specialist your business needs.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 Most startups fail because of some sort of HR dynamic. The vision might be good, the market might be good, but if your team can’t execute against it, then you’re already one foot in the grave.
@@ -237,8 +217,6 @@ I helped a unicorn tech founder create a nano-tech research lab. Neither of us k
 Then because of that, we were able to find a list of candidates who were the right fit. I remember this one candidate told me he didn’t like to follow processes. He liked to be very intuitive, and we didn’t need that. Our scorecard said we needed a process-oriented candidate.
 
 So with that scorecard that we developed with the help of experts, we were able to build the research lab.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 The Brass Tacks
 
@@ -268,12 +246,6 @@ It’s said that around half of the hiring mistakes out there happen because of 
 
 **Make sure that you don’t just hire clones and you’re hiring for excellence from a diverse background.**
 
-
-
-
-
-
-
 #### P: How do you spot the perfect co-founder and handle the interview process?
 
 **G:** You should find a co-founder that has a one-third overlap with you in skills and a two thirds complementary skills.
@@ -285,8 +257,6 @@ You’re experts in different fields but you’re able to speak the same languag
 Then it’s about making sure that values and cultural aspects are consistent between you as well. As well as how hard you’re going to work you need to be on the same page about that as well.
 
 But the main thing is to hire for skill complementarity. Do NOT hire someone just like you with the same skills as you, I’ve never seen that work.
-
-
 
 Related: [How to Find a CTO for Your Startup: The Founder's Guide](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
 

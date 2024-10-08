@@ -1,9 +1,9 @@
 ---
 title: "What Startup Investors Look for In Entrepreneurs and Their Teams"
 date: "2020-06-19"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "funding-stages"
   - "fundraising"
@@ -16,8 +16,6 @@ When building your startup you can have a great idea and the perfect market cond
 
 Just look at this slide I found from Alexander Jarvis on Quora:
 
-
-
 ![Alexander Jarvis](images/alex-jarvis.png)
 
 You and your startup team, especially at a management level, are a huge factor as to whether you secure investment or if your pitch ends up in an investor’s trash can.
@@ -28,7 +26,7 @@ And the first person investors look at as they decide whether or not you are des
 
 Investors, like most educated gamblers, bet on the jockey - not the horse. Making you the most important asset for a successful fundraising round - especially if you have a proven track record. [Studies show](https://medium.com/startupsoft/why-vcs-almost-blindly-invest-in-founders-with-previous-exits-23824334a260) that:
 
- **“Successful serial entrepreneurs are more likely to replicate the success of their past companies.” and “Nearly 80% of \[startup\] unicorns had at least one co-founder who had previously founded a company of some sort.”** 
+**“Successful serial entrepreneurs are more likely to replicate the success of their past companies.” and “Nearly 80% of \[startup\] unicorns had at least one co-founder who had previously founded a company of some sort.”**
 
 However, regardless of your previous success investors need to get to know you before they consider investing. They need to trust that you can execute your milestones and that you will provide a valuable ROI. To earn their trust and ultimately win them over you need these essential qualities:
 
@@ -66,7 +64,7 @@ Do you listen well? Can you learn quickly and effectively? These are two factors
 
 A good (smart money) investor will want to nurture a mentor-mentee relationship with you. A receptive mind is a vital quality that you will need. [Ron Conway](https://www.forbes.com/profile/ron-conway/#4900daef67ac), an active early-stage investor in Google and Paypal (and Founder of [SV Angel](https://www.svangel.com/index)) puts it this way:
 
-**“Coachability enables a willingness to be open and make the necessary and often numerous course corrections and morphing that startups require.”** 
+**“Coachability enables a willingness to be open and make the necessary and often numerous course corrections and morphing that startups require.”**
 
 ### The Red Flags & Dealbreakers for Investors
 
@@ -102,17 +100,9 @@ Own your weaknesses. Investors will be put off if you act like you have all the 
 
 As a founder, it is your responsibility to make as easy as possible for investors to say yes to both you and your startup. You have to put yourself in the best position to form a great partnership that will be a lucrative deal for all parties involved. And the next step in that process is choosing your founding team.
 
- 
-
 ##### Sign up for our newsletter
 
-
-
 Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
-
-
-
-
 
 ### Choosing Your Co-Founders
 
@@ -148,8 +138,6 @@ As [Sean Sheppard](https://www.linkedin.com/in/seansheppard/) puts it:
 
 You need to be able to trust and count on your co-founders. Choose correctly and you will have a strong foundation on which to move onto the next step: building a startup team.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
 ##### Building a Startup?
@@ -184,8 +172,6 @@ Building your startup team is an opportunity to find people who fill the talent 
 [Sam Altman](https://www.crunchbase.com/person/sam-altman) states that the first 100 hires at most tech companies typically come through referrals. However, I wouldn’t recommend hiring some purely because they have been referred by someone. All hires need to complete your interview process. It is the only way to ensure they have the abilities, experiences and, above all, the personality and soft skills to fit well into your startup’s ecosystem.
 
 As for actively seeking new hires, you can start by looking at other startups, entrepreneurial-based business programs, startup incubators, local coworking office spaces and trade shows. Startup employees tend to be younger, at earlier stages of their career and are therefore less locked in to the “big corp” culture. That being said never turn down a candidate purely based on their age or background.
-
-
 
 Related: [The Best Coworking Spaces in Lisbon For Entrepreneurs](https://altar.io/10-best-coworking-spaces-lisbon-entrepreneurs/)
 
@@ -223,8 +209,6 @@ In a [previous article](https://altar.io/the-well-performing-digital-team-for-y
 
 This is imperative for any startup team. They should take ownership, as a group, that the job is carried out. When one person wins, the whole group wins. When one fails, the whole team takes that failure on their shoulders and support each other to find a solution.
 
-
-
 Related: [Different Types of Developers You’re Likely to Find](https://altar.io/looking-developers-10-developer-archetypes-youre-likely-encounter/)
 
 ## Be Smart When it Comes to Compensation
@@ -242,8 +226,6 @@ Hiring both your founding and core team is a challenge. However, arguably, a lar
 Advisory boards are vital to your startup’s expansion - and some of your investors may join this board. And, as with smart money investors, the goal is to build a group with a broad knowledge and industry expertise. Without creating an imbalance within your in-house team. External advisors is another way to fill the gaps in your team’s expertise, with the added bonus of industry influence in many cases.
 
 An advisor’s responsibility is to help you and your founding team run the business. This is the key difference between a board of advisors and board of directors. They are important partners for your startup and are usually compensated with common shares, similar to management and employees. There are some cases where advisors are simply on your payroll.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 **Note:** This is different from a board of directors. They are responsible to the shareholders and, therefore, become the boss of the founders. Their responsibility is to make money for the company. In an ideal scenario, they do this by helping you and your founding team execute your vision. But sometimes they will just replace the founding team with more experienced management. Keeping Your Foundership as Your Company Grows
 

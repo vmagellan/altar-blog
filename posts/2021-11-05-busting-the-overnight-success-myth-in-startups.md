@@ -1,9 +1,9 @@
 ---
 title: "Busting the ‘Overnight Success’ Myth in Startups"
 date: "2021-11-05"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "mvp"
   - "product"
@@ -11,8 +11,6 @@ tags:
   - "startup"
 coverImage: "per-loov-oXqn2CXC_9Q-unsplash-1-scaled-1.jpg"
 ---
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 They came out of nowhere, now they’re making millions… They’re an overnight success!
 
@@ -32,9 +30,7 @@ As part of my work at Altar, I get to see first-hand the struggle that entrepren
 
 Success is never guaranteed. Even for entrepreneurs with years of industry experience, a top-notch solution to a very real problem, wrapped in a product with a beautiful UX/UI.
 
-In this article, I’ll share three stories from successful entrepreneurs who I sat down with as part of our content series _The Startup Journey._ They’re prime examples that startup life isn’t going to bed poor and waking up rich - no matter how good you are.
-
- 
+In this article, I’ll share three stories from successful entrepreneurs who I sat down with as part of our content series *The Startup Journey.* They’re prime examples that startup life isn’t going to bed poor and waking up rich - no matter how good you are.
 
 #### Contents
 
@@ -50,15 +46,11 @@ Let’s get started with Yaron Samid.
 
 Yaron Samid is the founder behind multimillion-dollar fintech startup, BillGuard.
 
-
-
 ![Multi-exit Fintech Founder Yaron Samid](images/Yaron-Samid-BillGuard-3.jpg) His startup seemingly shot to success, with the personal finance app seeing rapid adoption when it launched.
 
 The first iteration of BillGuard however, wasn’t a personal finance app, but a “set & forget” security app designed to identify fraudulent credit card transactions.
 
 But people weren’t excited about that product, so adoption was low. They had to pivot the business several times to achieve success, as [Yaron recalled recently](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/) when sharing his story with me.
-
-
 
 People had the intent, but when we launched, suddenly nobody stopped what they were doing to sign-up and use it
 
@@ -92,19 +84,11 @@ That drives massive organic adoption and growth. When we did this and made other
 
 What could easily be seen as an overnight success actually took years of pivoting (and overhauling the majority of the team) to achieve.
 
-
-
 Related: [Crucial Lessons I Learned from Interviewing Successful Entrepreneurs](https://altar.io/crucial-lessons-learned-interviewing-successful-entrepreneurs/)
-
-
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -121,8 +105,6 @@ As you can probably guess, that couldn’t be further from the truth.
 Volt Lines may have been received by the market with open arms, but Ali’s journey started four years before with his original idea “Volt” – a P2P carpooling service.
 
 He told me the full story in a [recent chat](https://altar.io/founder-story-fall-in-love-with-problems-not-solutions/):
-
-
 
 I quit my corporate job in 2013. Quite an irrational decision from someone who had only lived in the city a year – who still didn’t speak the language.
 
@@ -152,8 +134,6 @@ A startup that, before being successfully acquired last year, solidified its pla
 
 But this success certainly didn’t happen overnight for Garrett. He [told me recently](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/) that when he first had the idea, he and his team struggled to portrait its value to the market:
 
-
-
 We would talk about it with people and they would look at us blank-faced.
 
 I’ll give you an example of how far this goes back. I was meeting with people like Jeff Bezos, who was getting the bookstore (Amazon) going at the time.
@@ -169,8 +149,6 @@ We were pioneering the digital identity market. This meant lots of conversations
 After being told no countless times, Garrett and his team went into stealth mode for four years.
 
 What got him through it? His mindset and the people around him:
-
-
 
 Of course my co-founders and I saw the lack of demand. Sure, we were told “no” a million times – like a lot of entrepreneurs.
 
@@ -198,8 +176,6 @@ When times were tough, often what kept us going was our commitment to each other
 
 Garrett’s story is further proof that success comes from years of hard work and the grit to get through the toughest hurdles.
 
-
-
 Related: [Key Product Lessons I Learned Interviewing Successful Entrepreneurs](https://altar.io/key-product-lessons-i-learned-interviewing-successful-entrepreneurs/)
 
 ## Key Takeaways
@@ -220,8 +196,6 @@ Critically, while you’re doing all of these things, know that **there will be
 
 The best way to make your way back from those moments is, firstly, by not being afraid to ask for help. When I [sat down with another entrepreneur, Wade Eyerly](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/), he summed it up perfectly:
 
-
-
 We’ve all needed so much help to get to where we are, that we understand and most of us are still calling people looking for help!
 
 So when you call an entrepreneur and say:
@@ -235,8 +209,6 @@ Every single time.
 Pair that ability to ask for help with an entrepreneurial mindset of never giving up. Think about why you started this journey. Look at the team around you who have all committed to you and your startup.
 
 Always remember that **perseverance is a key trait to successful entrepreneurship**. As Garret told me:
-
-
 
 Whether or not your startup makes it depends on your ability to go past where most people would throw in the towel. Most entrepreneurs I know never throw in the towel.
 

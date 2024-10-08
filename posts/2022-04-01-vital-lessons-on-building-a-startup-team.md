@@ -1,14 +1,12 @@
 ---
 title: "6 Vital Lessons on Building a Startup Team from Multi-Million Dollar Entrepreneurs"
 date: "2022-04-01"
-categories: 
+categories:
   - "startup-advice"
 coverImage: "brooke-cagle-uHVRvDr7pg-unsplash-scaled-1.jpg"
 ---
 
-
-
-![Altar - What is Saying](images/Screenshot-2022-04-06-at-16.13.29.png) 
+![Altar - What is Saying](images/Screenshot-2022-04-06-at-16.13.29.png)
 
 I am fond of quoting that about 70% of my investment decision of an early-stage company is the team.
 
@@ -28,8 +26,6 @@ From the hiring process to nurturing your team, they share key insights that are
 
 And the first step comes long before you need to build a team.
 
- 
-
 #### Contents
 
 ## 1\. Build Relationships with Talent Long Before You Build a Team
@@ -39,8 +35,6 @@ The first lesson in building a startup team comes from [a conversation](https:/
 He also founded BillGuard, a multi-million dollar fintech platform focused on saving you money while protecting you from fraud.
 
 During the conversation, he highlighted the importance of building relationships with potential hires long before you think about building a startup team:
-
-
 
 You should be developing relationships with talent well before you launch your company.
 
@@ -64,8 +58,6 @@ A good startup team needs good foundations. For you, that means first finding an
 
 The road to startup success is full of hurdles and, [as Silicon Valley veteran Garrett Gafke saw first hand](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/), it’s your founding team that will be your first line of defence to get through them:
 
-
-
 Of course, my co-founders and I saw the lack of demand. Sure, we were told no a million times – like a lot of entrepreneurs.
 
 After all, failure is the primary denominator in the entrepreneurial process.
@@ -82,8 +74,6 @@ But commitment to each other is not the only important aspect of building a stro
 
 Something fintech founder Christian Nothacker pointed out to me [in a recent conversation](https://altar.io/founder-story-the-key-decisions-when-building-a-fintech/):
 
-
-
 If you have the right team, you can get through any barrier and achieve everything you want to. I can’t stress enough how important your team is.
 
 You need someone who’s fully dedicated to the project long term - especially when they’re a co-founder. But it stands true for new hires as well
@@ -91,8 +81,6 @@ You need someone who’s fully dedicated to the project long term - especially w
 The atmosphere you and your founding team create will be passed down to the rest of your team as you grow - from culture to day-to-day processes.
 
 But on top of that, they should also have complementary skills to you, as  New York Times Best Seller and Hiring Expert Geoff Smart [pointed out when we spoke](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/):
-
-
 
 You should find a co-founder that has a one-third overlap with you in skills and a two thirds complementary skills.
 
@@ -108,25 +96,15 @@ According to the vision of all the legends mentioned above, It’s vital you bri
 
 And although I agree 100%, my personal belief goes even one step further. I listened to a [Masters of Scale episode](https://mastersofscale.com/aneel-bhusri-the-elusive-formula-for-great-hiring/) recently that featured Aneel Bhusri and he resumed my thoughts beautifully:
 
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 The first 150 hires are your cultural co-founders. It’s up to you, the founder, to get every one right.
 
 Never neglect the importance of this lesson. You’ll thank me later.
 
-
-
 Related: [Critical Traits to Consider if You Want to Find the Perfect Co-founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
-
-
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -143,8 +121,6 @@ It’s also much harder to hire specialists. They’re scarcer and usually more 
 I recently had the opportunity to talk to New York Times Best Seller and Hiring Expert Geoff Smart [about this exact topic](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/).
 
 During the conversation, he actually advised against hiring generalists:
-
-
 
 Let’s start with the idea that startups need generalists, the argument always goes like this:
 
@@ -190,23 +166,21 @@ There are, however, some vital roles that any startup needs to have in the early
 
 This was another topic I touched on with Silicon Valle veteran Garrett Gafke. He attributes a large part of the success in his ventures to hiring a product person early:
 
-
-
-_A product person will be able to share and see where the vision of the business is going._ 
+_A product person will be able to share and see where the vision of the business is going._
 
 _I was lucky to have someone very disciplined on the product side for us. I’d also come from the product side. I was already kind of a nerd in that area, I’d been around a lot of good product people and understood the basics.  However, I still was not solid enough to be in the details._
 
 _**Our product person was a key player and critical in making our very extensive platform work.**_
 
-_It comes back to bringing in those foundational people early and growing them through the process._ 
+_It comes back to bringing in those foundational people early and growing them through the process._
 
 _You know you have a good product person when someone from the company says:_
 
-_“We need X feature for the platform, it’s a must-have!”_ 
+_“We need X feature for the platform, it’s a must-have!”_
 
-_And they turn around and say things like:_ 
+_And they turn around and say things like:_
 
-_“Great! Is it deployable across all customers? Is there revenue to be generated from this feature? Does it help to improve the users’ experience?”_ 
+_“Great! Is it deployable across all customers? Is there revenue to be generated from this feature? Does it help to improve the users’ experience?”_
 
 _You start to get into the typical business dynamics._
 
@@ -215,8 +189,6 @@ _So, it’s really important to lay the foundations of a great product team with
 Out of all the [reasons startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/) many are related directly to product – whether it’s poor quality, mistiming or just down to building something the market doesn’t need.
 
 Having the right person at the core of your product team will ensure you mitigate these risks.
-
-
 
 Related: [Key Product Lessons I Learned Interviewing Successful Entrepreneurs](https://altar.io/key-product-lessons-i-learned-interviewing-successful-entrepreneurs/)
 
@@ -232,8 +204,6 @@ As an entrepreneur, however, you have to keep in mind that you should be looking
 
 Something that an entrepreneur we already mentioned here, Yaron Samid, underlined [when we spoke](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/):
 
-
-
 When you hire your team you must focus on startup people. People who can take volatility and work for lower salaries than the market.
 
 They need to understand the value of the startup equity that they’re going to be getting. And you should be generous with your equity on your first few employees.
@@ -247,8 +217,6 @@ If you’re building a consumer product and you suddenly decide to pivot to a B2
 That requires a certain personality and skillset.
 
 Another entrepreneur [I spoke with](https://altar.io/lessons-from-a-fintech-unicorn/), Alex Tonelli, faced this issue first-hand when building his now unicorn startup. He learnt the hard way the difference between hiring a “startup person” and someone who, although very talented at the chosen field, simply wasn’t built for the startup environment:
-
-
 
 We hired an early Head of Credit, which was a very important position for our fintech. We hired him because of his background and his bio.
 
@@ -264,8 +232,6 @@ To be clear, we didn’t make him Head of Credit, but he took over a large part 
 
 So remember, as you build your startup team, you have to take into account the environments your candidates have experienced.
 
-
-
 Related: [Expert Interview: How to Hire Top Talent in Startups](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/)
 
 ## 6\. Gather Tangible Data on Potential Hires
@@ -275,8 +241,6 @@ A large part of building a startup team will revolve around the conversations yo
 Knowing the right questions to ask to learn as much tangible information as possible can be a challenge, especially if you’re new to the hiring process.
 
 It’s why [when I sat down with hiring expert Geoff Smart](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/), I asked for his advice on what you need to know when conducting interviews with potential candidates. Here’s his advice:
-
-
 
 _As boring as it sounds, you should find out:_
 
@@ -288,33 +252,27 @@ _As boring as it sounds, you should find out:_
 
 - _What would their bosses say their strengths and weaknesses are?_
 
-_That kind of data is very useful because it happened in the past and you can pair that with reference checks to verify what they said. Those two things give you 90% accuracy when hiring._ 
+_That kind of data is very useful because it happened in the past and you can pair that with reference checks to verify what they said. Those two things give you 90% accuracy when hiring._
 
 _In terms of finding out if they’re persistent. Well if I talk to candidates about every accomplishment, low point, education, work experience, etc._
 
 _All of those aspects will paint a relatively clear picture of how persistent they are._
 
-_Even creativity, you can tell from the way someone describes their accomplishments. Imagine a marketing candidate who’s telling you they increased brand awareness by 28%. If you ask them how they did it and they reply, we bought ads – not very creative. But if they tell you: “We came up with a whole new way to access a whole different market and it boosted our sales by 400% and we won awards.” – That’s a creative candidate._ 
+_Even creativity, you can tell from the way someone describes their accomplishments. Imagine a marketing candidate who’s telling you they increased brand awareness by 28%. If you ask them how they did it and they reply, we bought ads – not very creative. But if they tell you: “We came up with a whole new way to access a whole different market and it boosted our sales by 400% and we won awards.” – That’s a creative candidate._
 
 _All the answers to these characteristics are in the facts and the data. It will tell you how persistent or creative._
 
 _Then you have your references where you can crosscheck what the candidate is saying._
 
-_This is vastly better than doing the brain teasers that have become fashionable of late._ 
+_This is vastly better than doing the brain teasers that have become fashionable of late._
 
-_This is a very limited way of evaluating people. Google, McKinsey, and all these big firms that were known for doing brain teasers have moved away from that. Because they realise if you ask someone how many bowling balls you can put into a Boeing 747 it shows you a very narrow slice of their problem-solving skills. You don’t learn anything about persistence, project management, interpersonal communication, etc. by asking people brain teasers._ 
+_This is a very limited way of evaluating people. Google, McKinsey, and all these big firms that were known for doing brain teasers have moved away from that. Because they realise if you ask someone how many bowling balls you can put into a Boeing 747 it shows you a very narrow slice of their problem-solving skills. You don’t learn anything about persistence, project management, interpersonal communication, etc. by asking people brain teasers._
 
-_You end up over-indexing on good mathematicians, but they may not be good and managing people, managing deadlines and the long list of things that also matter._ 
+_You end up over-indexing on good mathematicians, but they may not be good and managing people, managing deadlines and the long list of things that also matter._
 
 _Brainteasers in an artificial setting aren’t a good litmus test for how people will perform in their job._
 
 To ensure you build the right team for you, from analysing their skills to working out if they’ll fit into your startup environment, you simply need to gather the right data and verify it.
-
-
-
-
-
-
 
 ## Bonus Lessons on Empowering Your Startup Team
 
@@ -334,8 +292,6 @@ He’s the entrepreneur behind FitSense, a B2B health and fitness fintech app th
 
 It was his ability to trust the people he brought into the fold that helped him succeed – [as he explained to me in a recent conversation](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/):
 
-
-
 My basic premise is, I first trust people and they can lose that trust. In a startup environment, you don’t have time to build trust before you have to start delegating to someone.
 
 If you’re someone who has a tough time trusting you need to take that into the hiring process. Ask yourself if you can trust that person from day one and start delegating.
@@ -350,15 +306,13 @@ Jan-Philipp is not the only founder who found success through trust and delegati
 
 Wade Eyerly, the pioneer of subscription-based flying and the entrepreneur who’s set out to solve the national crisis of student loan debt in the US, also brought up a key lesson when [I spoke to him](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/) about building a startup team:
 
-
-
 _My co-founder, Reed, suggested we bring in a third member of the founding team – a guy called Cory Cozzens._
 
-_I didn’t know Cory. The only interaction I’d had was with a girl Cory used to date, and I didn’t think much of her._ 
+_I didn’t know Cory. The only interaction I’d had was with a girl Cory used to date, and I didn’t think much of her._
 
-_I started wondering if I could trust Cory as a decision-maker because of that (as silly as that is)._ 
+_I started wondering if I could trust Cory as a decision-maker because of that (as silly as that is)._
 
-_Then I thought, I just gave Reed a piece of the business, if he tells me we should hire this guy I can either:_ 
+_Then I thought, I just gave Reed a piece of the business, if he tells me we should hire this guy I can either:_
 
 - _Trust my co-founder’s decision;_
 
@@ -380,8 +334,6 @@ Something [serial entrepreneur, Illit Geller,](https://altar.io/building-a-fint
 
 It was her “team focused” mindset that helped her succeed in her ventures:
 
-
-
 Teamwork and collaboration is the name of the game – Initially, you’re a small team that does everything, just like any startup.
 
 If I saw that my development team was working really hard on the next release and there wasn’t much I could do to help, then I would bake them cakes and bring them coffee – the point is there is always a way to help out!
@@ -391,8 +343,6 @@ In the office I would be hyper-focused on the team, making sure everyone underst
 I didn’t have an agenda to be the first one in and the last one out of the office. My agenda was to make sure that everybody was extremely focused, happy, doing their thing, understanding how what they do impacts the market and the client, and that they were supported and were able to look at the problems and face them the right way.
 
 It’s like Richard Branson says:
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 If you take care of your employees, they will take care of the clients
 

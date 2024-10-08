@@ -1,7 +1,7 @@
 ---
 title: "6 Critical Qualities You Need in a Product Manager for Your Startup"
 date: "2022-09-16"
-categories: 
+categories:
   - "startup-advice"
 coverImage: "kelly-sikkema-hLit2zL-Dhk-unsplash-1024x683-1.jpg"
 ---
@@ -16,9 +16,7 @@ But, more importantly, they need to have a range of skills and experience that n
 
 The crux of the matter is that this role can make a huge difference between joining the graveyard of 90%+ of startups that fail, or following the footsteps of startups like [Apiax](https://altar.io/case_study/apiax/) or [Fave](https://altar.io/case_study/fave/), that go to the market and raise millions.
 
-In this article, I’ll go over everything you need to look for in a potential product manager. But first, I want to highlight _why_ it’s important to onboard one in the first place – as many entrepreneurs and business leaders I speak with and read about still don’t fully understand why the role is so vital.
-
- 
+In this article, I’ll go over everything you need to look for in a potential product manager. But first, I want to highlight *why* it’s important to onboard one in the first place – as many entrepreneurs and business leaders I speak with and read about still don’t fully understand why the role is so vital.
 
 #### Contents
 
@@ -31,8 +29,6 @@ Most successful startups I know of have had a very strong product manager since 
 Don’t just take my word for it, head over to LinkedIn and ask a few successful founders how they did it. You’ll gain valuable insights and strengthen your network in the process. In my experience, most entrepreneurs will happily take the time to respond – just like Silicon Valley veteran Garrett Gafke did when [my team reached out to him recently](https://altar.io/lessons-learned-from-over-25-years-in-silicon-valley-founder-story/).
 
 Here’s what he had to say about the importance of onboarding a product person early on:
-
-
 
 Our product person was a key player and critical in making our very extensive platform work. A good product person will hear someone from the company say:
 
@@ -64,15 +60,9 @@ Throughout the rest of this article, I will list all of the qualities you need t
 
 Before that, however, I want to take a moment to define what I mean by product.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -94,8 +84,6 @@ More than that, they need to have experience in all three of these areas for one
 
 Knowing where to allocate your resources is critical in a startup. You need to be able to prioritise. The challenge for great product thinkers is this:
 
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 What is the minimum effort required to bring the maximum value to your product’s stakeholders?
 
 Often, there will be a battle of priority in your startup. The business minds will think the priority should be on their side. The technical minds will think tech is the biggest priority. The user experience minds will disagree, favouring priority on their side.
@@ -103,8 +91,6 @@ Often, there will be a battle of priority in your startup. The business minds wi
 This clash can only be mitigated by having someone in the middle, who has a deep understanding of all three universes, to get to the bottom of what your true priority is.
 
 I will dig into this further straight away as we move into the next section of the article – the qualities to look for in a Product Manager.
-
-
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -161,7 +147,7 @@ You don’t need to be an engineer, but a product person needs to have a strong 
 
 #### Product Pillar#3: User Experience
 
-Even if the business side of your product is solid, you have to realise that you’re building something people will use every day. So their journey through the product needs to be easy and delightful. \[/vc\_column\_text\]\[vc\_column\_text\]
+Even if the business side of your product is solid, you have to realise that you’re building something people will use every day. So their journey through the product needs to be easy and delightful. \[/vc_column_text\]\[vc_column_text\]
 
 ### 2\. Diverse Experience & Expertise
 
@@ -186,8 +172,6 @@ Normally, people are one of the other. Either they have a very strong analytical
 
 Be aware that this is not an easy person to find.
 
-
-
 Related: [How to Find a CTO for Your Startup: The Founder’s Guide](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
 
 ### 3\. An Entrepreneurial Background
@@ -209,12 +193,6 @@ More than making sure they’re still motivated, a great product manager needs t
 I’ve worked on many projects where it’s taken me ten minutes to understand the direction in which that product needs to go. But it’s then taken me three weeks to ensure that every other stakeholder on that team aligns and feels ownership of that direction.
 
 And your product manager needs to be able to do the same thing.
-
-
-
-
-
-
 
 ### 5\. Passionate
 

@@ -1,9 +1,9 @@
 ---
 title: "How to Build a Startup? CTO, Freelancers, Agency?"
 date: "2020-09-10"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "cto"
   - "developer"
   - "mvp"
@@ -20,8 +20,6 @@ It’s a problem every non-technical founder faces, myself included. Before crea
 In this article, I’ve taken my experience and created a list of the options you have to build a startup.
 
 Let's dive in.
-
- 
 
 #### Contents
 
@@ -40,15 +38,13 @@ Don’t underestimate:
 
 My advice is to be laser-focused on what you can do better from a business standpoint – not on learning to code.
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip While learning to code isn’t going to help move your business forward; I recommend learning the basics of tech so you can follow the conversation with potential tech stakeholders.I’ve written a [crash course on tech for non-tech founders](https://altar.io/what-the-non-technical-entrepreneur-needs-to-know-about-tech/) that can help you get started.
 
 ## Build a Startup with the “Soulmate CTO”
 
 Many will tell you it’s the only option you have to build a startup, telling you “investors invest in teams” so “you must find a CTO.”
 
-And while I agree that [finding the right CTO for your startup](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/) is the most idyllic one, it’s not the _only_ one –but more on that in a bit.
+And while I agree that [finding the right CTO for your startup](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/) is the most idyllic one, it’s not the *only* one –but more on that in a bit.
 
 First, bear in mind that finding a CTO isn’t going to be easy. Take it from me – it took me over 30 months and 300 headaches before I found the right CTO for the job.
 
@@ -116,19 +112,11 @@ Finding a CTO with these traits, in your budget, at the right time is extremely 
 
 This will give you more time to find your dream CTO. Moreover, if you find the right candidate they can give you precious help on strategy, building a team, launching and getting investment.
 
-
-
 Related: [The Crucial Steps to Select The Right Technical Partner To Help You Build a Startup](https://altar.io/finding-the-right-tech-partner-for-your-startup/)
-
- 
 
 ![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
 
-
-
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -192,12 +180,6 @@ The same applies here as it does with a CTO. It’s vital to ask an exempt techn
 
 In my experience, I never had a problem with security or information breach with a freelance. However, I chose to work with delicate matters only with people I already trusted. So if your startup has a patent being submitted, or any kind of secret sauce you should play safe through an NDA.
 
-
-
-
-
-
-
 ## Build a Startup with a Software Development Company
 
 If you decide to [build a startup with a software development company](https://altar.io/founders-guide-how-to-outsource-software-development-2020/) the inherent risks are the same as outsourcing anything that is not a commodity. To that end, you must carefully pick the right partner, outsourcing your product’s execution is a critical business decision. There are many factors to consider to make sure you choose the right agency for the job :
@@ -240,11 +222,9 @@ Software is a living organism . As such, your software development needs will 
 
 ### 5\. Involvement
 
-The software development company you outsource to has to be committed and involved. Otherwise, they’ll just fulfil your contract with the minimum effort possible. Beware of the _“Yes Man”_. If an agency says yes to everything, it’s a huge red flag and screams sleazy salesman.
+The software development company you outsource to has to be committed and involved. Otherwise, they’ll just fulfil your contract with the minimum effort possible. Beware of the *“Yes Man”*. If an agency says yes to everything, it’s a huge red flag and screams sleazy salesman.
 
 They should challenge your product vision and throw their expertise into the mix. This not only shows their expertise as a product builder; it demonstrates a desire to be involved with your product.
-
-
 
 Related: [10+ Reasons Why Outsourcing Software Development Fails](https://altar.io/10-reasons-why-outsourcing-software-development-fails/)
 

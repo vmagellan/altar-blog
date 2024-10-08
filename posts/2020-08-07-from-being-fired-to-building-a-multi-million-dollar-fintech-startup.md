@@ -1,9 +1,9 @@
 ---
 title: "From Being Fired to Building a Multi-Million Dollar Fintech Startup"
 date: "2020-08-07"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "mvp"
   - "product"
@@ -70,15 +70,13 @@ I had already built two companies before BillGuard so I had some experience with
 
 That was the genesis of BillGuard.
 
-
-
 Related: [MVP, Functional or Non-functional? The Early-Stage Startup Dilemma](https://altar.io/mvp-functional-non-functional-startup-early-stage-dilemma/)
 
 #### Q: What was the market vision that helped you shape BillGuard? Did it evolve over the years or has it remained the same since its inception?
 
 **A:** When I started working on BillGuard the vision was to become a security company. Our tagline was literally “Antivirus for our bills.”![Fintech Startup BillGuard - Early Product/MVP](https://cdn-images-1.medium.com/max/720/0*YCXd4KejRNCwHGUJ)To advertise to consumers we said: “This system will check your bills for you and notify you if it finds mistakes or fraud.”
 
-It was very much set up like a Fintech security company - that was the _initial_ vision.
+It was very much set up like a Fintech security company - that was the *initial* vision.
 
 We were building a “Set & Forget” security product. This requires a lot of “FUD” Marketing - Fear, Uncertainty and Doubt.
 
@@ -100,9 +98,9 @@ This meant letting go of some amazing talent we had brought in to sell to banks.
 
 This time, instead of a security company, we built a personal finance company.
 
-We completely redesigned the product. It was no longer a “set & forget” website. It was now a mobile app that would help you identify ways to save money _and_ protect you from fraud.
+We completely redesigned the product. It was no longer a “set & forget” website. It was now a mobile app that would help you identify ways to save money *and* protect you from fraud.
 
-That worked very _very_ well.
+That worked very *very* well.
 
 It grew very quickly. Our product team did some strong product development, UX and design work led by my amazing co-founder and CTO, Raphael Ouzan. We were able to build one of the fastest-growing finance apps in history. **Within a year and a half of launch, we grew to 2M active users.** We were regularly ranked the top finance app in both the Google and Apple app stores.![BillGuard Fintech App ](https://cdn-images-1.medium.com/max/720/0*QjIAHNgWRvESf7Qa)At that point, we were acquired by a $2B unicorn company; while we were still growing rapidly.
 
@@ -157,7 +155,7 @@ The results made it very clear that there wasn’t enough demand for our securit
 **A:** We had two categories of consumer that we profiled. We called them:
 
 - **Spotters** - Someone who is meticulous about checking their credit card bills. Line item by line item. They’re very nervous and aware that companies make mistakes and they check for them religiously.
-- **Slackers** - People, like me, who never check their credit card bill. They know there might be some mistakes on their bill, but they don’t care. If they _do_ check they skim for big charges and ignore the little ones.
+- **Slackers** - People, like me, who never check their credit card bill. They know there might be some mistakes on their bill, but they don’t care. If they *do* check they skim for big charges and ignore the little ones.
 
 We targeted the **Slackers**. We said: “Hey guys we’ll check your bills for you; we'll do the work and notify you if there is anything that looks fishy.”
 
@@ -166,8 +164,6 @@ The problem with those Slackers is they don’t take action to solve the problem
 The Spotters are aware of the problem - but they take care of it themselves.
 
 What we were able to do through our marketing was to find a sub-segment of slackers. They were aware of the problem, wanted a system to take care of it and were willing to take action. But, as I mentioned already,  it was too expensive to market to them.
-
-
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
@@ -260,9 +256,9 @@ But let me give you an example. Nobody in the history of mankind has ever told t
 
 **Nobody is excited about their security products.**
 
-You don’t engage with it _on purpose!_ You’re not supposed to. What you’re buying into is peace of mind. I set up McAfee and I know I’m safe - I don’t need to think about it anymore.
+You don’t engage with it *on purpose!* You’re not supposed to. What you’re buying into is peace of mind. I set up McAfee and I know I’m safe - I don’t need to think about it anymore.
 
-So we needed to _change_ the discussion from security to saving money: “Do you want to pay full price for that coffee? Or do you want to get a notification on your phone that gives you a 25% promo code **as you walk into the coffee shop?**”. Everybody wants _that_ product!
+So we needed to *change* the discussion from security to saving money: “Do you want to pay full price for that coffee? Or do you want to get a notification on your phone that gives you a 25% promo code **as you walk into the coffee shop?**”. Everybody wants *that* product!
 
 And it drives action.
 
@@ -270,7 +266,7 @@ If you see someone standing in front of you in line getting 25% off their coffee
 
 Boom! Everybody standing in line is suddenly downloading the app for the coffee they are about to buy.
 
-That drives _massive_ organic adoption and growth. When we did this and made other UX tweaks to the mobile app, it brought down our CPA to less than $2 per newly registered user.
+That drives *massive* organic adoption and growth. When we did this and made other UX tweaks to the mobile app, it brought down our CPA to less than $2 per newly registered user.
 
 **We needed to change the discussion from security to saving money. When we did that it drove massive organic adoption and growth. Our CPA was less than $2 per user.**
 
@@ -311,8 +307,6 @@ To put it in perspective that’s the same percentage of users as content contri
 
 So we leveraged the spotter reviews, this gave us early analytics. We then used that information to provide the other 98% of our users with reports once a week - “Set & Forget”.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 #### Q: Looking back on your experience, do you have any advice for founders on product development?
@@ -329,13 +323,13 @@ Before you decide to build an MVP, write a line of code, onboard your team or re
 
 Get your target users to sign up **before you build the product.** Then follow-up with: “Thank you for signing up, we’re working on the product now. You’re going to be among the very first to hear about it when we go live.”
 
-That will give you a rough idea of how much it costs to acquire a customer based on the value proposition that you _think_ is so wonderful.
+That will give you a rough idea of how much it costs to acquire a customer based on the value proposition that you *think* is so wonderful.
 
 What you will most likely find out is that your value proposition isn’t that wonderful and that it’s far more expensive to acquire a customer than you thought. But that data will enable you to iterate on your value proposition:
 
 - The product
 - The positioning
-- _Who_ you’re targeting.
+- *Who* you’re targeting.
 - Your optimal marketing channels
 
 You’ll be able to keep tweaking this until you get to a point where you will have a much better handle on your ability to acquire a customer that takes the action that you want them to take, and cost that works for your business.
@@ -354,17 +348,13 @@ If you go to angel investors, for example, with that kind of quantified data, th
 - Have done your homework;
 - Know the initial foundation of your growth economics.
 
-**Before building anything; you’ve quantified that people will take action on your value proposition.** 
+**Before building anything; you’ve quantified that people will take action on your value proposition.**
 
 If we had done that at BillGuard, we would’ve saved about four years worth of time.
 
 Perhaps we would’ve jumped straight to the personal finance value proposition - rather than a security or bank product.
 
 That’s a simple exercise to do and it’s my top recommendation for product development.
-
-
-
-
 
 #### Q: Do you have any advice on raising startup capital based on your experiences with BillGuard?
 
@@ -382,13 +372,13 @@ And they will tell you. They’ve seen hundreds of companies and thousands of pi
 
 Collect this information from a few investors. Then go out and execute those KPIs by scraping together some friends and family money.
 
-If you succeed you can go back to the investor with facts and figures rather than just a story. _Then_ you can start talking about a proper early-stage venture round.
+If you succeed you can go back to the investor with facts and figures rather than just a story. *Then* you can start talking about a proper early-stage venture round.
 
-Firstly, that puts them in a position where they _have_ to take you seriously.
+Firstly, that puts them in a position where they *have* to take you seriously.
 
 They’re going to look bad not investing in your startup if you did what they said they needed to give you some capital.
 
-Second, it makes you look _exactly_ like the kind of founder they want to back. It makes you look **credible** and your business **predictable**. They don’t know you; their biggest fear is you’re just somebody who’s selling them smoke & mirrors.
+Second, it makes you look *exactly* like the kind of founder they want to back. It makes you look **credible** and your business **predictable**. They don’t know you; their biggest fear is you’re just somebody who’s selling them smoke & mirrors.
 
 So, when you tell them you are going to do “A, B, C” they may doubt you. But, six months later when you have proof you did “A, B, C” you tick a box in their brain.  You show them you’re a responsible, credible entrepreneur they can trust who has a good grasp on the growth levers of your business.
 
@@ -396,13 +386,11 @@ So, when you tell them you are going to do “A, B, C” they may doubt you. But
 
 In short, developing the relationship and backing it up with credibility **will get you a check**.
 
-
-
 Related: [Expert Interview: The Hidden Details When Funding Your Startup](https://altar.io/expert-interview-funding-your-startup/)
 
 #### Q: Last question, what advice do you have on hiring for a startup based on your experience?
 
-**A: The most important decision is your co-founder.** I can’t stress this enough; it is literally _the_ most important decision you will make as a founder.!["The most important decision you can make for your startup is your co-founder" Yaron Samid ](https://cdn-images-1.medium.com/max/720/0*RsgR8f1mO-1Zm7-T)**Most startups fail because of some sort of HR dynamic.** The vision might be good, the market might be good but if your team can’t execute against it then you’re already one foot in the grave.
+**A: The most important decision is your co-founder.** I can’t stress this enough; it is literally *the* most important decision you will make as a founder.!["The most important decision you can make for your startup is your co-founder" Yaron Samid ](https://cdn-images-1.medium.com/max/720/0*RsgR8f1mO-1Zm7-T)**Most startups fail because of some sort of HR dynamic.** The vision might be good, the market might be good but if your team can’t execute against it then you’re already one foot in the grave.
 
 You should find a co-founder who you feel absolutely confident to go to battle with for the next decade.
 
@@ -418,7 +406,7 @@ You should be hanging out at universities, meetups, online communities and confe
 
 Say you are passionate about sustainable food tech and you want to start a company in that sector.
 
-Months before you should be a part of that community. You should be having conversations and contributing content to that community _before_ asking anybody to join you.
+Months before you should be a part of that community. You should be having conversations and contributing content to that community *before* asking anybody to join you.
 
 If you are in communities relevant to your startup, you’ll not only find talent, you’ll find customers - and maybe even investors.
 
@@ -441,8 +429,6 @@ Over time you’ll hire specialists but in the beginning, you want to hire very 
 #### Q: Is there any other advice you have for first-time founders that we haven’t covered yet?
 
 **A:** Find a seasoned entrepreneur who can mentor you on the basics. Like how not to fall into term sheet traps from predatory investors. Add these mentors to your startup’s advisory board. Give them equity; at least 0.25%.
-
-
 
 Related: [Expert Interview: The Ultimate Guide to Startup Advisors](https://altar.io/expert-interview-ultimate-guide-to-startup-advisors/)
 

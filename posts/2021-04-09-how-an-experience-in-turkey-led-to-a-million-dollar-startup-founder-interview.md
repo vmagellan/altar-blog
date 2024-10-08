@@ -1,9 +1,9 @@
 ---
 title: "How an Experience in Turkey Led to a Million-Dollar Startup [Founder Interview]"
 date: "2021-04-09"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "fintech"
@@ -23,8 +23,6 @@ However, his interest in Economic development took him down a different path. An
 
 It was there, while working with entrepreneurs and their startups, that he found his entrepreneurial itch:
 
-
-
 My original goal was to work with the NGO for two years, then go to grad school. But I was inspired by the entrepreneurs here in Turkey and what they were building.
 
 There’s a difference between analysing something and building something. I wanted to be more hands-on – tinkering and building things. So I decided to stay and launch a startup.
@@ -36,8 +34,6 @@ As for Sean? Well, he’s still the CEO of the company, with a hundred-person te
 When I first spoke to him, I knew he had a lot to share - valuable lessons for any entrepreneur to listen to.
 
 So my CMO Rui and I sat down with him to learn more about his story.
-
-
 
 ![Altar.io Founder Interview 2021.03.18 Sean Yu](images/Altar.io-Founder-Interview-2021.03.18-Sean-Yu-1024x675.png)
 
@@ -127,21 +123,15 @@ There I was working with a lot of entrepreneurs. When they came to us we looked 
 
 You’re running the startup, you’re in the right market, right sector, you’re growing and that’s great. But you still have to do all the monitoring work that allows you to actually run the business.
 
-So I saw the problem first-hand. And it wasn’t that they didn’t _want_ to do it. They didn’t have _the tools_ to do it.
+So I saw the problem first-hand. And it wasn’t that they didn’t *want* to do it. They didn’t have *the tools* to do it.
 
 If I hadn’t worked with entrepreneurs at Endeavor, I wouldn’t have seen the need for this.
 
 That’s what I mean when I say with B2B startups you really have to be there, talking to a lot of businesses to identify the pain points.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -190,8 +180,6 @@ Now you talk to some and they’re biting your hand off saying “Yes yes yes! G
 
 Overall after talking to the government, businesses and entrepreneurs, it was all starting to come together.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 Focus on getting your MVP’s value proposition incredibly clear. If your grandma doesn’t understand it’s probably not clear.
@@ -209,8 +197,6 @@ They’ll choose revenue. Revenue always comes to people’s minds first.
 There’s a second thing here which is something you run into when you’re in a place where labour cost is cheap. Labour efficiency isn’t something people think about.
 
 This is a bit of a chicken and egg problem. If labour is cheap then it isn’t productive, it’s not efficient. If labour isn’t efficient, it’s always going to be cheap.
-
-
 
 Related: [The Structured Process Behind Developing a Successful MVP \[Founder's Guide\]](https://altar.io/structured-process-develop-mvp/)
 
@@ -238,8 +224,6 @@ So I decided to build it and see.
 
 I wouldn’t say it’s a perfect calculation. It comes down to intuition and gut.
 
-
-
 Related: [Founder Story: Building and Scaling a Fintech Startup by Trusting your Gut](https://altar.io/building-and-scaling-fintech-startup-by-trusting-your-gut/)
 
 #### R: When you launched your startup, were there other invoicing solutions in the market already?
@@ -260,12 +244,6 @@ In 2012/13, when I started thinking about starting up in Turkey, SaaS was alread
 
 Most businesses here had internet, computers and smartphones already. So my reasoning was why shouldn’t it work here?
 
-
-
-
-
-
-
 #### R: It makes sense, you found a neglected niche.
 
 #### How did you go about building the initial team and product?
@@ -277,8 +255,6 @@ So I decided to get back into coding.
 I found a top university here, [Bogazici University](http://www.boun.edu.tr/en_us) and managed to convince the professors to let me into their master’s programme for software engineering.
 
 I did that for a while and tried to recruit co-founders from the engineering course. Quickly I realised, though, that I needed someone with more experience in development than me.
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -302,8 +278,6 @@ Four months later, we had the MVP.
 
 It wasn’t enough to sell, but it was enough to take to investors and convince them to give us a seed round. This gave us enough financial runway to complete the first version of the product.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 #### P: Was it tough getting investment without any traction or sales?
@@ -316,15 +290,11 @@ Interestingly, he believed more in the co-founding team than he did in the produ
 
 My experience working at Endeavor alongside my financial background definitely helped convince people I had something to contribute.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 Early-stage investors back great founders. They know that everything else is going to change. The product, the market, the competitive landscape will all change, but they’re betting on **you**.
 
 [**Yaron Samid**](https://www.linkedin.com/in/yaronsamid/)**, Serial Entrepreneur & Startup Founder**
-
-
 
 Related: [What Angel Investors Look For in Entrepreneurs and their Startups \[Expert Interview\]](https://altar.io/what-angel-investors-look-for-in-entrepreneurs-and-their-startups-expert-interview/)
 
@@ -344,7 +314,7 @@ We got a credit card payment gateway onto the platform and just launched it.
 
 We went to a lot of startup conferences to talk about it and marketed it through PR.
 
-**In the first month, we got 20 customers. And we were thinking well sh\*t, is this good or is it bad?** 
+**In the first month, we got 20 customers. And we were thinking well sh\*t, is this good or is it bad?**
 
 It was a lot less than what we had hoped for, but we were making something.
 
@@ -384,13 +354,11 @@ It was all pretty amateur at the beginning. We didn’t really test too much on 
 
 And I honestly think that's what the “CEO” character is in an early startup. The guy who's a bit of a jack of all trades and does anything needed to get the job done. Whether it’s marketing, sales, project management, being the janitor – whatever is needed to get the job done.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 No startup in the history of the world can raise money just to get going. Unless you’re Elon Musk, unless you’re Mark Zuckerberg, no one is going to give anybody money just to start something. You will always have to start with your own savings or debt -  bootstrapping.
 
-[**Paul O’Brien**](https://www.linkedin.com/in/paulobrien/)**, Investor & CEO** 
+[**Paul O’Brien**](https://www.linkedin.com/in/paulobrien/)**, Investor & CEO**
 
 So I took on the CEO role and got out there and started talking to people. I was talking to as many investors in the market as possible but also talking to target customers and doing that research.
 
@@ -410,9 +378,7 @@ Then we launched – and everything changed again.
 
 Once we started getting customers I was kicked out of the development team! We had hired more developers and we agreed my time was much better spent elsewhere.
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
-Key Takeaway **One of the traits we often see in successful founders is humility.** 
+Key Takeaway **One of the traits we often see in successful founders is humility.**
 
 This is a prime example of that trait. In the beginning, Sean was doing everything needed to get the job done.
 
@@ -501,8 +467,6 @@ In the beginning be prepared to wear many hats, and do whatever it takes to get 
 Know when it’s time to take a step back and delegate to the startup team you’ve built around you.
 
 Like David Ogilvy famously said:
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Hire people who are better than you are, then leave them to get on with it… Look for people who will aim for the remarkable, who will not settle for the routine.
 

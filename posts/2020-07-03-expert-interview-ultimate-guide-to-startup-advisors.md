@@ -1,9 +1,9 @@
 ---
 title: "Expert Interview: The Ultimate Guide to Startup Advisors"
 date: "2020-07-03"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "startup-advisors"
   - "startup-expert"
   - "startup-guide"
@@ -25,8 +25,6 @@ What should I expect from a startup advisor? How should I compensate an Advisor?
 
 To answer these questions and more I sat down with Startup expert Martin Zwilling.
 
-
-
 ![](images/Martin-Zwilling-1024x957.jpeg)
 
 Martin is the CEO & Founder of [Startup Professionals](http://www.startupprofessionals.com/) and has more than 30 years of experience as an Advisor & Angel Investor. On top of this, he is a Professor at Embry-Riddle University. He is a published author of three books and has articles featured on Inc., Forbes, Entrepreneur and Huffington Post.
@@ -45,9 +43,7 @@ A: I certainly would agree that a startup advisory board is a necessary and use
 
 I’ve worked with several startups and I find that not every entrepreneur is really interested in advisory boards. Typically they’re very confident and they say “Well I can’t believe that I can learn anything from these old guys; maybe I know everything better than you do.” That ego and that passion can really get in the way of making rational decisions as they pertain to your business - I’ll give you an example.
 
-I was on an Advisory Board for a software startup, a very good one, here in San Diego and the CEO also developed the product. So he is very _very_ knowledgeable, he built the business, he did everything. In fact, as he grew he couldn’t do everything because he was killing himself; so he hired marketing people, for example, salespeople and everything went well for a couple of years.
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
+I was on an Advisory Board for a software startup, a very good one, here in San Diego and the CEO also developed the product. So he is very *very* knowledgeable, he built the business, he did everything. In fact, as he grew he couldn’t do everything because he was killing himself; so he hired marketing people, for example, salespeople and everything went well for a couple of years.
 
 ### _A startup advisory board is a necessary and useful thing because most of the things that you do, in the real world, aren’t learnt in any school. You learn a lot of academia around business. But what you don’t learn about is startups_
 
@@ -71,15 +67,11 @@ A: If you’re in the fundraising stage then that’s very useful in a sense of
 
 I have been both an Angel Investor and an advisor. I’ll tell you that when I look at a business plan I look at the people first. I think investors invest in people and that certainly includes the leadership and the team. But it also includes any startup mentors and advisors that you have.
 
-
-
 Related: [What Startup Investors Look for In Entrepreneurs and Their Teams](https://altar.io/what-startup-investors-look-for-in-entrepreneurs-and-their-teams/)
 
 In other words, if you give me a business plan and say: “I’m the CEO, I did all the coding, I’ve done everything and by the way, this is my first startup,  I’ve never really done this before but I know how to do it.” I’d say you’ll get very little attention from an investor.
 
 On the other hand, if you say “I have a team of three or four people that have complementary skills and I also have a business advisor or two” and you name them and maybe they’ve got some experience - like they’ve been in the software business for years or they’ve run their own startups or they’ve been with IBM etc. Then that gives an investor a new level of confidence that maybe this team has some advantage over their competitors.
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 ### _I think investors invest in people and that certainly includes the leadership and the team. But it also includes any external partners that you have._
 
@@ -109,23 +101,15 @@ I always say, start with a small number. Three to five people on your advisory b
 
 A: I think all of the points you make are good ones. But in a simpler sense, I see a startup mentor as someone who focusses on the Entrepreneur. In other words, if you’re a CEO and you say “I need some specific focus on whether I’m doing the right job or not” then what you need is a startup mentor.
 
-Whereas a startup advisor is going to focus on the business. I’m gonna help you build the right business. Of course, that may mean some advice to you personally but business advisors look at the bigger picture, rather than _just_ you as an entrepreneur.
+Whereas a startup advisor is going to focus on the business. I’m gonna help you build the right business. Of course, that may mean some advice to you personally but business advisors look at the bigger picture, rather than *just* you as an entrepreneur.
 
 So as a startup mentor I might say to a CEO: “I think you need to get out of this business, you’re a developer you’re not a CEO, you need to find somebody else.” That may not be good for your business but it’s good for you personally. So that’s the distinction that I make.
 
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 ### _A startup mentor is someone who focusses on the entrepreneur. Whereas a startup advisor is going to focus on the business. Advisors look at the bigger picture, rather than just you as an entrepreneur._
-
-
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -141,19 +125,11 @@ I live here in Prescott Arizona where there’s not a lot of startups but we hav
 
 Very quickly I may be impressed or unimpressed. I may go for a coffee with a student who wants to be an entrepreneur and after 20 minutes I’m already convinced they’re not going to make it as an entrepreneur or not. But I can still give them advice and it doesn’t cost me anything.
 
-
-
 Related: [Lessons I’ve Learned Mentoring and Co-Founding Successful Startups](https://altar.io/lessons-ive-learned-virgin-mentor/)
 
 Whereas if they came to me formally and said “I’d like you to be my startup advisor. I want to sign you up at a thousand dollars a meeting.” I would say no sorry I don’t think it’s going to be productive on your side.
 
 So these are like any relationships. Relationships are where value comes from. I have a lot of technical knowledge but I don’t just want to tell someone “Technically this is what you have to do.” I really want to build a relationship where they will listen to my perspective and my mistakes and not repeat them.
-
-
-
-
-
-
 
 #### Q: So, I’m a mentor for Virgin Startups, the Richard Branson vehicle to help startups, and in the intake, they really keep saying you should do it because you’re passionate about it, you don’t do it for any kind of return, etc.
 
@@ -165,15 +141,13 @@ A: It depends on how active and how much of a role you take as a startup mentor
 
 I think both mentors and advisors should be compensated. They may be compensated differently - in other words, one might say “I want a share of your business” or another might say “I just need expenses every time we go visit each other” for example.
 
-But those people who say I’m gonna count on my friends to be mentors are making a mistake. I think your friends tend to tell you what you _want_ to hear. Whereas a mentor will tell you what you [_need_ to hear](https://blog.startupprofessionals.com/2016/12/7-keys-to-teaming-with-right-mentor-for.html). And those may not always be the same answer.
+But those people who say I’m gonna count on my friends to be mentors are making a mistake. I think your friends tend to tell you what you *want* to hear. Whereas a mentor will tell you what you [*need* to hear](https://blog.startupprofessionals.com/2016/12/7-keys-to-teaming-with-right-mentor-for.html). And those may not always be the same answer.
 
 ![](images/QUOTE-ZWILLING-3-1.png)
 
 #### As a founder, I want my mentors and advisors to feel like they are appropriately rewarded or appreciated for their efforts. And that this isn’t just something they have to be doing because they’re my family or friend.
 
 It’s as I stated in [this article](https://blog.startupprofessionals.com/2019/10/10-insights-for-locating-perfect.html):
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 ### _Some of the best mentoring relationships don’t involve monetary compensation, but none are free. The first cost is networking to find a mentor who is willing and able to give adequate focus on the relationship. In any case, it is good form to offer compensation, such as a small monthly stipend, plus expenses, and perhaps a 1% ownership in your startup, to show your commitment._
 
@@ -190,8 +164,6 @@ So you need to make an assessment:  what it is you need from an advisor and how
 In terms of advisor compensation, an advisor may say “I want 1% of your company.” Or they may say “I want a thousand dollars for every quarterly meeting that I go to.” You have to make sure, whatever the terms are,  you deem them as reasonable compensation. Otherwise, you’ll just feel like you are getting taken advantage of.
 
 Ultimately, you have to understand what you need from a startup advisor, what it’s going to cost you in terms of time and compensation and everything related to it.
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 ### _Expecting praise and satisfaction at every step is probably not very smart. A startup advisor’s responsibility is: to be honest. And that may mean telling you something you don’t want to hear. Or that your business needs to go in a direction you didn’t originally intend it to._
 
@@ -229,15 +201,11 @@ So valuation is really goodwill. I get into a lot of valuation discussions like 
 
 They say: “Tell me what your revenue is?” and the founder says “Well I sold 5 units and that’s worth $1k.” There is no basis for a valuation there.
 
-
-
 Related: [Expert Interview: The Hidden Details When Funding Your Startup](https://altar.io/expert-interview-funding-your-startup/)
 
 I can tell you very quickly, and I think every investor will tell you very quickly, what your valuation is. If you have a patent I’ll probably give you a $1M valuation. If you and your team have done this before I’ll maybe give you a couple of million dollars for that. So it’s not very hard, that way, to get to a three or four million dollar valuation.
 
 But if you are an individual who's doing this all yourself and you don’t have any patents and you’ve never sold your product, except to your mother, you probably don’t have any valuation. I don’t like to get into equity discussions for that reason.
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 ### _Equity doesn’t mean very much in an early-stage startup. You still don’t have a valuation. Probably haven’t shipped a product yet. There's no revenue or maybe you don’t have an intellectual property like patents. You don’t have assets._
 
@@ -270,8 +238,6 @@ So you have to do that kind of assessment. Don’t go after someone like Elon Mu
 What I recommend is, as a startup founder, talk to some of your peers and say “You’re a software company like me, you worked with this advisor, can you recommend him?” And they’ll say “Don’t touch Martin Zwilling he’s a guy who will sign up but I never hear from him.” Or he doesn’t have a positive attitude or whatever the issue might be.
 
 So it’s just like finding an investor you need to do your due diligence. Talk to your peers, go to the networking groups and talk to the potential advisor directly.
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 ### _I would love to have Bill Gates as my advisor but he’s got 10,000 things going on so its probably not a rational expectation that he would have the interest or time to focus on my startup._
 

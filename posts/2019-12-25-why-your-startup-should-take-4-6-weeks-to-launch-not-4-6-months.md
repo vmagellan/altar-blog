@@ -1,22 +1,20 @@
 ---
 title: "The Startup MVP Development Process from A-Z"
 date: "2019-12-25"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "development"
   - "lean-startup"
   - "mvp"
   - "startup"
   - "startup-lessons"
-coverImage: "4-6-weeks.jpeg"
+coverImage: "./images/4-6-weeks.jpeg"
 ---
 
 Developing a Minimum Viable Product has quickly become the industry standard for startups to ensure they build a user-centric product with a quick time-to-market.
 
 Part of the Lean methodology, an MVP is defined as:
-
-
 
 _The version of a new product that allows you and your team to collect the maximum amount of validated learning about your customers with the minimum amount of effort._
 
@@ -34,8 +32,6 @@ It’s a process that has resulted in over two-thirds of the entrepreneurs we wo
 
 First, however, I want to touch on why you should develop an MVP in the first place.
 
- 
-
 #### Contents
 
 ## Why Should You Develop an MVP for Your Startup?
@@ -46,7 +42,7 @@ Building fewer features allows you to launch quicker and requires less money tha
 
 In the Waterfall Model, you build a fully-featured product before releasing it to the market.
 
-This is risky, as you’re pouring months of time and energy into building a product _before_ validating whether or not the market want or need it.
+This is risky, as you’re pouring months of time and energy into building a product *before* validating whether or not the market want or need it.
 
 Conversely, an MVP comes with a much lower risk factor.
 
@@ -75,15 +71,9 @@ We are so in the trenches, building and rebuilding, that we often lose sight of 
 
 With all of these aspects in mind, here’s the MVP development process from start to finish.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -125,12 +115,6 @@ This will help you visualise the user journeys you defined in Stage 1 – and gi
 
 Here is an example of what we did for one of the products we built, a marketplace for the leisure industry: [_How to Build a Marketplace \[A Startup Case Study\]_](https://altar.io/venga-product-bible-ux-ui/).
 
-
-
-
-
-
-
 ### Stage 3: Development
 
 Once you have your UX/UI design in place, it’s time to start building your MVP.
@@ -152,9 +136,7 @@ These two-week sprints should include:
 
 Here is an example of how we plan sprints at Altar –  in an entrepreneur-software agency environment:
 
-![The Startup MVP Development Process from A-Z - Sprints](images/dailyscrum.png) 
-
-
+![The Startup MVP Development Process from A-Z - Sprints](images/dailyscrum.png)
 
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.iohttps://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 

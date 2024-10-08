@@ -1,9 +1,9 @@
 ---
 title: "What Entrepreneurs Should Know Before Hiring a Business Coach [Expert Interview]"
 date: "2021-02-01"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
   - "hiring"
@@ -22,8 +22,6 @@ I wish I'd known the importance of business coaches for entrepreneurs.
 Having a business coach to go to for advice, almost like a business therapist, would've been invaluable for me in the early days of my startup journey.
 
 Someone like serial entrepreneur and business coach [Diane Prince](https://www.linkedin.com/in/dianeprincejohnston/).
-
-
 
 ![Diane Prince - Entrepreneur and startup advisor](images/Peacock-Chair-Diane-Square-768x568.jpg)
 
@@ -87,7 +85,7 @@ I don’t believe in telling founders what to do. Instead, I'll help them talk t
 
 For example, one thing that comes up is the question of when a founder should quit their job. I believe that’s different for everybody, so by telling someone what they should do you could be putting them in a challenging financial situation. Conversely, you could be preventing them from becoming the next Mark Zuckerberg.
 
-**The entrepreneurial journey is so personal. That’s why people start businesses. They want to express themselves in the world and bring their creativity in the form of a business.** 
+**The entrepreneurial journey is so personal. That’s why people start businesses. They want to express themselves in the world and bring their creativity in the form of a business.**
 
 For me, it’s also the practical part. The things that you do need to do, like cash flow, solid business planning, etc.
 
@@ -99,8 +97,6 @@ With a business coach, you’re paying for their time. You have set times you co
 
 With a mentor or advisor, it’s a different relationship. Specifically, with mentors,  entrepreneurs can often feel guilty that they're taking up too much of their time – as it’s a volunteer situation. Conversely, mentors are often simply too busy to help out, and there can be a disconnect there.
 
-
-
 Related: [Expert Interview: The Ultimate Guide to Startup Advisors](https://altar.io/expert-interview-ultimate-guide-to-startup-advisors/)
 
 #### P: I believe a lot in therapy to help overcome large amounts of stress for example, or to help you learn how to make better decisions.
@@ -109,15 +105,9 @@ Related: [Expert Interview: The Ultimate Guide to Startup Advisors](https://alta
 
 **D:** Yeah, I think that’s a really good way to put it. Definitely.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -143,12 +133,6 @@ Whereas if you feel like you want to give up, you can talk to a business coach a
 
 Then there are the venture-backed founders, which can be an awful lot of pressure. In that case, a lot of founders will reach out for business coaching in the performance-based mindset.
 
-
-
-
-
-
-
 #### P: I read on your website about the importance of having a business coach who has experience in startups – something I 100% agree with – As well as the need to cut bullsh\*t out of the relationship.
 
 #### In your experience, do you feel there’s a lot of bullsh\*t in the startup world?
@@ -161,11 +145,9 @@ So I think I really have the advantage of starting up before startups were a big
 
 I had a niche SaaS platform at the time and we hired a consultant who came from Silicon Valley to LA to meet with us. He’s sitting there telling us about how we shouldn’t make a profit on this. We should just go for the biggest market share. And after he left we looked at each other and decided against that, because we had a profitable business. We ended up selling that to one of our employees and he ran it profitably for years.
 
-There are some businesses where market share is important, and the founders can make money without necessarily turning a profit. But that’s a tiny _tiny_ percentage of startups.
+There are some businesses where market share is important, and the founders can make money without necessarily turning a profit. But that’s a tiny *tiny* percentage of startups.
 
 But this is the kind of BS advice that comes up and it can be really intimidating. And then there’s the VC stage which is a whole other ball game in that respect.
-
-
 
 Related: [Expert Interview: How to Hire Top Talent in Startups](https://altar.io/expert-interview-how-to-hire-top-talent-in-startups/)
 
@@ -202,8 +184,6 @@ It’s like anything, ask for referrals, ask other founders who they’ve worked
 **D:** It’s a combination of things. They should have experience running companies, as we mentioned earlier. But more than that, they need to be able to take that experience and use it to guide someone through their journey.
 
 So when you’re looking for a business coach you need someone who can relate to you. It has to be someone who can get to the heart of what you’re trying to build. After all, it’s your business, time and money.
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -311,7 +291,7 @@ For example, sometimes if you’re sharing ideas with your team they’ll start 
 
 From a sounding board to someone who can help you achieve specific business goals, business coaches can help you reduce your risk of failure.
 
-Just ensure that you onboard a business coach who is right for _your_ specific needs.
+Just ensure that you onboard a business coach who is right for *your* specific needs.
 
 Below are some FAQs that summarise some of the things we discussed with Diane.
 

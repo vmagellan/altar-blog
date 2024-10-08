@@ -1,9 +1,9 @@
 ---
 title: "12 Reasons Why Outsourcing Software Development Fails"
 date: "2022-09-27"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "guide"
   - "outsourcing"
   - "product"
@@ -32,9 +32,7 @@ Want proof?
 
 Let’s look at a real-world situation…
 
-
-
-![Altar - What is Saying](images/philip-apiax-1.jpeg) 
+![Altar - What is Saying](images/philip-apiax-1.jpeg)
 
 With our MVP, we won a pilot project with a global financial institution. The other success story was that we were able to put together a seed round using the MVP.
 
@@ -122,8 +120,6 @@ Well, you can start by getting to know the red flags and poor decisions that usu
 
 Starting with the most vital one – lack of alignment.
 
-
-
 ![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
 
 ##### Looking for Software Development Services?
@@ -150,9 +146,7 @@ Your outsourced partner should be excited to be part of your journey, and be as 
 
 Look for someone who – at the end of your collaboration – can make you say something like this:
 
-
-
-![Altar - What is Saying](images/Haider-Baig.jpeg) 
+![Altar - What is Saying](images/Haider-Baig.jpeg)
 
 As a founder starting out, I was challenged, I was pushed and I was given support. In the same way my other co-founders pushed and challenged me throughout our journey.
 
@@ -160,15 +154,13 @@ At times we truly felt that they cared more about our success than maybe we did.
 
 Haider Baig, CEO & Founder, [Curve](https://www.linkedin.com/in/haideralibaig/)
 
-
-
 Related: [How I Found the Right Software Development Company for My Startup](https://altar.io/finding-a-software-development-company-startup/#measuring-success)
 
 2\. Choosing the Cheapest Provider
 
 According to a global outsourcing survey by [Deloitte](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/operations/deloitte-nl-s&o-global-outsourcing-survey.pdf) 59% of companies use outsourcing as a cost-cutting tool.
 
-But as the old saying goes “if you pay peanuts you get monkeys.” And it stands true that going with **the cheapest option could harm your business.** 
+But as the old saying goes “if you pay peanuts you get monkeys.” And it stands true that going with **the cheapest option could harm your business.**
 
 If you decide to offshore to the cheapest IT provider you have to consider a high probability of communication issues, culture clash and low-quality of work.
 
@@ -186,15 +178,13 @@ Nine times out of ten it is just a way to get you “on the hook” and secure y
 
 Like any business, software development agencies are trying to make a profit - but some agencies will put **their profit above your business need**
 
-
-
 Related: [6 Crucial Things to Look for in a Software Development Company \[Startup Guide\]](https://altar.io/crucial-things-to-look-for-in-a-software-development-company/)
 
 ### 4\. Sub-Standard Work (AKA Bad Code)
 
 This is a major risk when outsourcing, especially when offshoring.
 
-In any outsourcing situation, you will not be able to oversee everything that the agency does. They may cut corners during production and you risk **losing control of the project.** 
+In any outsourcing situation, you will not be able to oversee everything that the agency does. They may cut corners during production and you risk **losing control of the project.**
 
 The worst-case scenario is that you end up with an unusable platform. It may simply break, or no other developer can understand the code that has been written.
 
@@ -204,9 +194,7 @@ It is essential that any potential partner follows the industry standards, espec
 
 If you can, get a techie friend to audit the company. You can also ask the agency for references.
 
-/\* widget: Blog: What is Saying \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .mt-auto {<br /> margin-top: auto;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .h-44 {<br /> height: 11rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .w-44 {<br /> width: 11rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-1 {<br /> flex: 1 1 0%;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-6 {<br /> gap: 1.5rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .self-end {<br /> align-self: flex-end;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .object-cover {<br /> object-fit: cover;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .font-bold {<br /> font-weight: 700;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-inherit {<br /> color: inherit;<br /> }<br />
-
-![Altar - What is Saying](images/Adil-Colour-e1706205763604.jpeg) 
+![Altar - What is Saying](images/Adil-Colour-e1706205763604.jpeg)
 
 Outsourcing successfully is about the joint ownership of the outcome of your product.
 
@@ -231,8 +219,6 @@ I’m not recommending you go and learn how to code - far from it!
 You should, however, [learn the basics](https://altar.io/what-the-non-technical-entrepreneur-needs-to-know-about-tech/) so you can have an educated position in the conversation.
 
 Remember, **many tech decisions are vital business decisions**.
-
-
 
 Related: [How to Outsource Software Development Successfully](https://altar.io/founders-guide-how-to-outsource-software-development-2020/)
 
@@ -259,10 +245,6 @@ You’ll end up pushing back your launch because, well, you haven’t got the pr
 This will obviously take its toll in terms of money, but also on patience and the trust you have in the agency.
 
 To combat this create clear documentation to outline your expectations on deliverables.
-
-
-
-
 
 ### 7\. Communication Barriers
 
@@ -310,9 +292,7 @@ Communication barriers can lead to a failure to understand the scope or an incre
 
 It’s vital to swiftly solve all communication barriers between you and the agency to whom you are outsourcing software development.
 
-/\* widget: Blog: What is Saying \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .mt-auto {<br /> margin-top: auto;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .h-44 {<br /> height: 11rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .w-44 {<br /> width: 11rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-1 {<br /> flex: 1 1 0%;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .gap-6 {<br /> gap: 1.5rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .self-end {<br /> align-self: flex-end;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .object-cover {<br /> object-fit: cover;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .font-bold {<br /> font-weight: 700;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_what-is-saying .text-inherit {<br /> color: inherit;<br /> }<br />
-
-![Altar - What is Saying](images/Dudley-Gould-1-copy.jpeg) 
+![Altar - What is Saying](images/Dudley-Gould-1-copy.jpeg)
 
 When it comes to building a startup, you’ll face more than a few bumps along the way – prepare to be persistent.
 

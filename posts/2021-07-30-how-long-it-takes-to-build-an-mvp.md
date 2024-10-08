@@ -1,9 +1,9 @@
 ---
 title: "How Long Does It Take to Build an MVP? (Minimum Viable Product)"
 date: "2021-07-30"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
   - "mvp"
@@ -20,7 +20,7 @@ After all, in an ecosystem where 90% of startups fail, it’s best to test quick
 
 So, you want to know how long it will take for you to [build an MVP](https://altar.io/features-inside-mvp-3-steps-know-answer/) and put it into the hands of your users.
 
-**The short answer is that, in my experience working with dozens of startups at Altar.io, it** **_shouldn’t_** **take more than three to four months to build an MVP.** 
+**The short answer is that, in my experience working with dozens of startups at Altar.io, it** **_shouldn’t_** **take more than three to four months to build an MVP.**
 
 However, that answer comes with some caveats.
 
@@ -31,8 +31,6 @@ Secondly, it depends on if you’re going into your MVP process with a fully sco
 I’ll cover both of these caveats later in the article.
 
 Before that, however, to fully answer the question “How long does it take to build an MVP” I wanted to gather some data.
-
- 
 
 #### Contents
 
@@ -45,25 +43,15 @@ Gathering data from our experience building MVPs at Altar.io, as well as data fr
 
 We’ve organised the data below taking into account both the types of products surveyed and the team composition used to build them.
 
-
-
-![How Long to Build an MVP Overview](images/How-Long-to-Build-an-MVP-Overview-769x1024.png) 
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+![How Long to Build an MVP Overview](images/How-Long-to-Build-an-MVP-Overview-769x1024.png)
 
 Disclaimer
 
 Within each industry, the product composition can vary wildly depending on a number of factors, this is for statistical significance Now let’s pick apart the data so you can understand how we arrived at these conclusions.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -126,7 +114,7 @@ If you have already scoped your product you should’ve already completed the ab
 
 If not, you should look for a structured process to create it.
 
-Otherwise, you risk building an MBP (Most _Beautiful_ Product) according to what you believe should be there, not a lean, user-centric MVP.
+Otherwise, you risk building an MBP (Most *Beautiful* Product) according to what you believe should be there, not a lean, user-centric MVP.
 
 A lot of entrepreneurs fall into the trap of building an **MBP**, planning to build all the features **they** believe to be important.
 
@@ -167,12 +155,6 @@ You can find the [full process here](https://altar.io/features-inside-mvp-3-ste
 2. If no, go through your extensive list of features and ask if it is absolutely essential to prove your assumptions and showcase value to your target user.
 3. Build only the essential features from that list.
 
-
-
-
-
-
-
 ### The Real MVP
 
 Once you have a closed list of features it’s time to estimate the time to build your MVP.
@@ -187,7 +169,7 @@ These agencies build dozens to hundreds of MVPs per year. They’ll have a wealt
 
 As I said, in my experience, most MVPs should take no more than four months to build.
 
-That being said, defining how long it will take _you_ to build _your specific_ MVP is not such a simple process.
+That being said, defining how long it will take *you* to build *your specific* MVP is not such a simple process.
 
 There are several factors that will change your timeframe, from industry and scope to budget and available talent.
 

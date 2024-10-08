@@ -1,9 +1,9 @@
 ---
 title: "Early-Stage Marketing Considerations for Startups [Expert Interview]"
 date: "2021-07-15"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "marketing"
   - "product"
@@ -139,15 +139,9 @@ But as soon as possible, try to onboard someone that can help you design every p
 
 Put some money in your marketing. Have someone close to you in marketing that can take your idea and tell your audience a story about it.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -199,8 +193,6 @@ And, as a founder, if you have the time and resources to build an MVP, you have 
 
 You can already collect the information and for the key elements to start framing the story for your audience.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
 R: I like this idea of the “marketing MVP”. Can you give us a more practical example of that from your experience?
@@ -211,7 +203,7 @@ But, usually, you don’t take the time to really understand the people in that 
 
 Out of your audience who are the first 10-20% that would be willing to invest a little bit of time, money and effort to buy your solution.
 
-**Element 1: Who is your “who”?** 
+**Element 1: Who is your “who”?**
 
 Write down clearly who they are.
 
@@ -249,12 +241,6 @@ Then, combine those elements to create a foundation of why your product exists a
 
 Then you can start to look at **how** you communicate that and optimise the story for your launch.
 
-
-
-
-
-
-
 ## Communicating with the market before you build your product
 
 #### R: It’s like when I started here at Altar. I spent my first month speaking to every single client who’s ever walked through the door.
@@ -287,8 +273,6 @@ Also, if you can’t get some buzz around your idea then your MVP probably won�
 
 When I was working in Silicon Valley with [_Beaconforce_](https://www.linkedin.com/company/beaconforce/) I’ll never forget something a VC told me:
 
-
-
 If you believe your MVP is pretty good then you’ve already spent too much time on it.
 
 You should be putting something tangible in the hands of your audience as quickly as possible. And while you’re building that tangible thing, you should already be gaining an audience alongside that.
@@ -296,8 +280,6 @@ You should be putting something tangible in the hands of your audience as quickl
 That same VC told me that he had, more than once, invested in a company before their MVP was ready because there was already an audience behind them.
 
 An audience who felt that the MVP was going to solve their exact tension, friction and pain points.
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -391,8 +373,6 @@ It’s the same as your idea. Putting it out into the world cold is a lot harder
 
 Spend time talking to people who have the problem you’re trying to solve. Physically knocking on doors if you have to.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 As entrepreneurs, we’ve all needed so much help to get to where we are, that we understand and most of us are still calling people looking for help!
@@ -453,8 +433,6 @@ More than that, they’re going to give you a sticker with that computer. And yo
 
 If Apple didn’t exist, and I told you that, you would turn round to me and say “Antonio, mate, I don’t think you know how marketing works.”
 
-
-
 People do not buy goods and services. They buy relations, stories and magic.
 
 **\- Seth Godin**
@@ -502,8 +480,6 @@ Hire the right decision-makers and outsource the execution.
 Hire enough people that your content is simple enough to be understood by your audience.
 
 I often think of Mark Twain when I talk about this. He once said:
-
-
 
 I didn’t have time to write you a short letter, so I wrote you a long one.
 

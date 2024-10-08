@@ -1,12 +1,10 @@
 ---
 title: "When & How to Pivot Your Startup [With Real-Life Examples]"
 date: "2021-12-20"
-categories: 
+categories:
   - "startup-advice"
 coverImage: "brendan-church-pKeF6Tt3c08-unsplash-scaled-1.jpg"
 ---
-
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Starting a company is like jumping off a cliff and assembling a plane on the way down.
 
@@ -42,8 +40,6 @@ So after two years of attempting the B2B model, they decided to pivot back to B2
 
 This process was extremely difficult for Yaron, because of how close he was to the product. As he puts it:
 
-
-
 As an entrepreneur, you’re so excited about everything that you get too emotionally tied to your product. You’re not intellectually honest enough to be true to the data.
 
 While these pivots were difficult to execute for Yaron, both on a personal and technical level, they led to a multi-million dollar company.
@@ -65,8 +61,6 @@ The questions that remain are:
 
 First, let’s get stuck in with a quick definition of pivoting as it pertains to startups.
 
- 
-
 #### Contents
 
 ## What is a Startup Pivot?
@@ -87,15 +81,9 @@ It may also be targeting your platform to a different set of users (e.g. switchi
 
 These are just a few examples of what it means to pivot your business. Now I want to dive into deciding whether or not you should pivot your startup.
 
- 
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -133,7 +121,7 @@ While Slack pivoted their entire business, it may not take such an extreme pivot
 
 ### 3\. Hitting a Wall
 
-If you _were_ gaining traction with your product, but it has suddenly ground to a halt, you may also want to consider a startup pivot.
+If you *were* gaining traction with your product, but it has suddenly ground to a halt, you may also want to consider a startup pivot.
 
 Spotify experienced this exact issue when the pandemic hit back in 2020.
 
@@ -142,8 +130,6 @@ Spotify has long relied on advertising to make its money. However, as ad compani
 So they pivoted. Taking a leaf out of the Netflix playbook, they started making original content in the form of podcasts.
 
 And it worked, with [HBR reporting](https://hbr.org/2020/07/how-businesses-have-successfully-pivoted-during-the-pandemic) that:
-
-
 
 The platform saw artists and users upload more than 150,000 podcasts in just one month, and it has signed exclusive podcast deals with celebrities and started to curate playlists.
 
@@ -171,8 +157,6 @@ It turned out that subscription-based, bespoke, shuttle buses were.
 
 If Ali hadn’t gone back to the problem and the market and pivoted based on the data he gathered, he wouldn’t have found the success he has today.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 Don’t infer that there will be a demand for the product you’re going to build. You have to quantify customer action – not the intent. The burning question is will users like your product enough to take action at a cost that will enable you to run a sustainable business?
@@ -186,12 +170,6 @@ Much like the case of Burbn, it may be that once your product is out there, your
 Here, consider pivoting by trimming the fat, and turning that feature into the product.
 
 Arguably, this would never be an issue if you had [the right process](https://altar.io/features-inside-mvp-3-steps-know-answer/) to choose the features for your product when you first set out to build it.
-
-
-
-
-
-
 
 ## How to Effectively Pivot Your Startup
 
@@ -216,8 +194,6 @@ As important as building a product, is how you convey that product to your targe
 Focus on your messaging, shining a light on what you’re doing and, importantly, **why** you’re doing it.
 
 Transparency with your audience is key to building a long term user base – and a pivot is an opportunity to reinforce that relationship.
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -259,9 +235,9 @@ If you find yourself in any of the situations listed in this article or any othe
 
 And if it is necessary, here are some of the ways to effectively pull it off:
 
--  Listen to Your Users
--  Reanalyse Your Competition
--  Speak Your Users’ Language
+- Listen to Your Users
+- Reanalyse Your Competition
+- Speak Your Users’ Language
 - Pivot Sooner Rather Than Later
 - Make Sure Your Team Is Aligned
 

@@ -1,9 +1,9 @@
 ---
 title: "Building an MVP? Here Are 3 Tools Your Project Manager Should Be Using"
 date: "2022-04-08"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "entrepreneurship"
   - "startup"
   - "startup-lessons"
@@ -19,8 +19,6 @@ In my experience, there are 3 types of tools that are mandatory for any startup 
 I’ve listed them below – as well as the specific ones I use every day.
 
 But first, I wanted to give you a glimpse into the hurdles of project management, to help contextualise why the tools I’m sharing are so important.
-
- 
 
 #### Contents
 
@@ -50,8 +48,6 @@ And, as the industry has evolved, the tools available to help you have both adva
 
 Here are the three I recommend to avoid the common pitfalls mentioned above.
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Full Transparency
 
 This article does not contain affiliate links. Meaning neither I nor Altar.io receives any commission if you should choose to use any of the tools listed here. This list was created based purely on personal experience.
@@ -68,8 +64,6 @@ Here, resist the temptation to use spreadsheets to manage your scope and track y
 
 The tool I use with all the startup teams I work with is [Jira.](https://www.atlassian.com/software/jira)
 
-
-
 ![Tools for Project Managers – Jira](images/Tools-for-Project-Managers-E28093-Jira-1024x409.png)
 
 Jira supports pretty much all development methodologies, it’s flexible and allows your team to manage requirements and view and collaborate on stories. More than that, it gives you an overview of what has been done and what’s still missing with the associated estimates.
@@ -79,8 +73,6 @@ You can also integrate Jira with a source code control tool – like Github – 
 Of course, this flexibility and versatility comes with downsides. The platform can feel a bit bloated and slow. That being said, the pros still outweigh the cons of this tool.
 
 Other tools exist on the market that are more simple to use and manage, and if your project and processes are simple, then for sure other tools will be OK.
-
-
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -104,15 +96,9 @@ Confluence is not the only tool I would recommend for the task, however. [Notio
 
 You can also integrate Notion with Jira, and is more collaborative and up-to-date than Confluence.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -129,8 +115,6 @@ Here [Miro](https://miro.com/index/) wins outright in my eyes.
 The ability to collaboratively create and share visual documentation in real-time is invaluable.
 
 My teams and I use it for everything from brainstorming to defining processes and architecture – and everything in between.
-
-
 
 Related: [Successful Entrepreneurs Share the Tools They Can't Live Without](https://altar.io/tools-for-entrepreneurs/)
 

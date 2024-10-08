@@ -1,9 +1,9 @@
 ---
 title: "Selling a Fintech Before Launch by Leveraging Your Most Valuable Resource: People"
 date: "2020-12-23"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "fintech"
   - "startup"
@@ -19,9 +19,7 @@ And when it comes to finding those people, your relationships are as valuable as
 
 Something entrepreneur, and co-founder of fintech [Moneymour](https://www.linkedin.com/company/moneymour/), [Giacomo De Lorenzo](https://www.linkedin.com/in/giacomodelorenzo/) knows a thing or two about:
 
-![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](images/Giacomo-de-Lorenzo.jpeg) 
-
-
+![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](images/Giacomo-de-Lorenzo.jpeg)
 
 I wouldn’t have imagined I could have had so much help from the people I talked to during the early stages of Moneymour, their advice had a hugely beneficial impact.
 
@@ -115,15 +113,11 @@ The lesson here is:
 
 Never be ashamed of chasing people, asking for feedback, contacts etc. People won’t come to you and give you a present unless you really chase them.
 
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 Start developing relationships with people who’re relevant to your startup as soon as possible. You’ll not only find talent, but you’ll also find customers, advisors – and maybe even investors.
 
 **[Yaron Samid](https://www.linkedin.com/in/yaronsamid/), Serial Entrepreneur & Startup Founder**
-
-
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
@@ -141,7 +135,7 @@ It was a random match. But after working together for two and a half years we kn
 
 #### P: We have experience working with banks and the sales cycle is long, how was your experience trying to partner with a bank?
 
-**G:** It was a really really _really_ long sales cycle.
+**G:** It was a really really *really* long sales cycle.
 
 We started the accelerator programme in January 2018. We had Banca Reale particularly interested throughout thanks to the push and vision from their Corporate VC department and Andrea Birolo. Then, in June we had the investment day of the accelerator.
 
@@ -181,8 +175,6 @@ I was surviving on pasta and oil or rice in those early months. Not being able t
 
 After the capital raise, Michele and I were able to pay ourselves a salary and we completed the team with other 2 key people: Alessandro Paolino, mobile developer, and Sabrina Copertini, designer.
 
-
-
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 
 #### P: You mentioned at the beginning of our conversation that you were acquired before launch. This is very rare, how did it come about?
@@ -197,7 +189,7 @@ It’s easy to shortlist a dozen startups that could be interesting for a compan
 
 And that’s what they did. They called a shortlist of fintech startups and we were on the list.
 
-**Two weeks later they were in our office.** 
+**Two weeks later they were in our office.**
 
 We had a three-hour meeting to explain Moneymour. They were clearly interested in us, they organised technical “deep dives” into our technologies and algorithm.
 
@@ -208,10 +200,6 @@ This was all going on just after we had finalised with the bank. In fact, the fi
 We went from waiting for nine months - while building our top-notch product and algorithm, but still waiting - to everything happening at once.
 
 In July, Klarna booked me for a call and their M&A team told me: "Right, we’ve decided, we want to buy you: let’s start the negotiation."
-
-
-
-
 
 #### Rui: As you were acquired pre-launch, how much of the product did you build?
 
@@ -248,8 +236,6 @@ So those were my priorities. Writing documents, preparing for presentations. Get
 
 Then the other side was the product.
 
-
-
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/#how-to-build-an-mvp-3-steps) I wanted to make sure I was involved in the product side from a business standpoint.
 
 We wanted to create this great user experience for applying for loans. We also wanted to use the best providers. The best providers for Open Banking, Know Your Customer, etc.
@@ -265,8 +251,6 @@ I remember when I was studying at university, in some courses we touched topics 
 **Culture eats strategy for breakfast.**
 
 You can have the best product vision in the world, but if you don’t have the right people with you you won’t succeed in anything.
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 

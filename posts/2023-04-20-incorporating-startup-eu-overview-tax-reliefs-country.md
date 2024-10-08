@@ -1,9 +1,9 @@
 ---
 title: "10 European Countries With the Best Tax Reliefs for Startups"
 date: "2023-04-20"
-categories: 
+categories:
   - "startup-advice"
-tags: 
+tags:
   - "accounting"
   - "eu"
   - "incorporation"
@@ -24,8 +24,6 @@ From the United Kingdom's well-established Seed Enterprise Investment Scheme (SE
 
 By comprehending the various options at your disposal, you can make well-informed decisions about where to launch and develop your startup and ultimately maximize the benefits of these favourable tax climates.
 
- 
-
 #### Contents
 
 ## 1\. Portugal
@@ -35,8 +33,6 @@ The Portuguese main tax incentives towards early-stage startups are based on the
 They can then claim a deduction on the individual income tax of 20% of the investment made in the Startup. The 20% deduction must not exceed 15% of the income tax.
 
 Business Angels who want to claim this business angel incentive must contact IAPMEI to apply for it. Alternatively, they can contact [FNABA (Federaçao Nacional de Associaçoes de Business Angels)](https://invictaangels.pt/2019/project/fnaba/) to obtain specific information.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 By the way...
 
@@ -59,29 +55,23 @@ These are the conditions for you to apply:
 - Your funds raised under the tax shelter must not exceed €250,000.
 - Your Company must not be involved in an insolvency process.
 - Your Company must operate in an industry different from the following:
-    - Management
-    - Treasury, investment or financing
-    - Real Estate (construction, acquisition, management, development, sale, rental, etc.).
+  - Management
+  - Treasury, investment or financing
+  - Real Estate (construction, acquisition, management, development, sale, rental, etc.).
 - After having raised funds under the tax shelter, you can no longer modify the industry of your business to the aforementioned ones.
 - Your Company must not be the result of a merger or a corporate spin-off.
 - Your company:
-    - Must not be listed
-    - Must not have yet distributed dividends
-    - Be subject to a capital reduction.
+  - Must not be listed
+  - Must not have yet distributed dividends
+  - Be subject to a capital reduction.
 
 If you meet these conditions, you can attract any Belgian taxpayer to invest up to €100,000 per year in your Company.
 
 They will then be able to claim a tax reduction of 30% (if the investment has been made into an SME) or 45% (if Micro-enterprise) of the amount invested on their annual tax declaration.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -131,23 +121,17 @@ To fulfil this advantage, your startup must comply with the following standards:
 
 1. It must not be older than 7 years
 2. It must be an SME:
-    1. ≤ 50 employees
-    2. ≤ €10 Million Turnover
-    3. ≤ €10 Million Assets
+   1. ≤ 50 employees
+   2. ≤ €10 Million Turnover
+   3. ≤ €10 Million Assets
 3. The Company has its headquarters in the EEA Area, but one branch must be permanently established in Germany
 4. Your Startup must not be dominated by a parent company
 5. The Company must be innovative, i.e.:
-    1. Belong to an innovative sector listed by the Federal Office of Statistics.
-    2. Own an up-to-15-year-old patent
-    3. Have received public support for research or innovation projects within the 2 years preceding the application
+   1. Belong to an innovative sector listed by the Federal Office of Statistics.
+   2. Own an up-to-15-year-old patent
+   3. Have received public support for research or innovation projects within the 2 years preceding the application
 
 Proved to be innovative by the expert opinion of an independent assessor listed on the website of [BAFA](https://www.bafa.de/EN/Home/home_node.html).
-
-
-
-
-
-
 
 ## 5\. Ireland
 
@@ -204,13 +188,13 @@ Since 1st December 2013, business angels investing as private individuals who ac
 
 The Tax effect is 15% of the amount paid, up to a maximum of SEK 195,000 (~€22,650) per person and year. The total sum paid by the investor for their shares in the same company is limited to a maximum of SEK 20 million (~€2.3 million) per year.
 
-If you’re a startup and would like to know more about the criteria to respect to being eligible to offer such advantages to your investors, I suggest you get in touch with [Skatteverket](https://www.skatteverket.se/servicelankar/otherlanguages/inenglish.4.12815e4f14a62bc048f4edc.html), Swedish Fiscal Authority.\[/vc\_column\_text\]\[vc\_column\_text\]
+If you’re a startup and would like to know more about the criteria to respect to being eligible to offer such advantages to your investors, I suggest you get in touch with [Skatteverket](https://www.skatteverket.se/servicelankar/otherlanguages/inenglish.4.12815e4f14a62bc048f4edc.html), Swedish Fiscal Authority.\[/vc_column_text\]\[vc_column_text\]
 
 ## 9\. Switzerland
 
 Generally speaking, Swiss Cantons (States) have competitive Corporate Income Tax both on a cantoral and communal level. CIT rates applicable on profit before tax may vary between 11.9% and 21.6%. Moreover, as of January 1st, 2020 cantons have introduced a Patent Box Regime. Also, the Swiss holiday tax remains in place to incentivise the establishment of new businesses in Switzerland to create jobs and encourage business innovation. You may be eligible for up to 10 years. During this period it is possible to obtain a low single-digit tax rate. A quick note that it is the government and not the tax authority that grants tax holidays
 
-If you want to incorporate in Switzerland I would first suggest checking out this [full guide](https://taxsummaries.pwc.com/switzerland/corporate/tax-credits-and-incentives).\[/vc\_column\_text\]\[vc\_column\_text\]
+If you want to incorporate in Switzerland I would first suggest checking out this [full guide](https://taxsummaries.pwc.com/switzerland/corporate/tax-credits-and-incentives).\[/vc_column_text\]\[vc_column_text\]
 
 ## 10\. The United Kingdom
 

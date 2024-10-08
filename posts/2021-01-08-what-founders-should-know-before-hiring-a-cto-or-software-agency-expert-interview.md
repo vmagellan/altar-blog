@@ -1,9 +1,9 @@
 ---
 title: "What Founders Should Know Before Hiring a CTO or a Software Agency [Expert Interview]"
 date: "2021-01-08"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "cto"
   - "mvp"
   - "software-development"
@@ -23,15 +23,11 @@ While there are [pros and cons to both approaches](https://altar.io/whats-the-b
 
 And, as a Founder and Mentor myself,  I couldn’t agree more.
 
-
-
 ![Nelly Yusupova, CTO and Startup tech advisor](images/nelly-headshot-large-how-to-find-a-tech-co-founder.png)
 
 She talked about how speed and a short time to market are key to a startups success, and that in waiting to find the perfect CTO you could miss your market opportunity.
 
 Furthermore, she pointed out that bringing your MVP to market will actually attract potential CTOs to your company.
-
-
 
 It’s about traction. Showing technical stakeholders that this isn’t just an idea. It’s a painkiller and people want it. Look what I’ve already done without you, imagine what we can achieve together.
 
@@ -81,8 +77,6 @@ But then I realised that some of the entrepreneurs didn’t know the right quest
 
 That’s what led me to create TechSpeak for Entrepreneurs. I wanted to share my process for managing teams and projects so entrepreneurs could minimise the mistakes and ultimately get their power back. I aim to give them the ability to have that conversation and get their startups on the right path from the beginning.
 
-
-
 Related: [Critical Steps to Select The Right Technical Partner To Help You Build a Startup](https://altar.io/finding-the-right-tech-partner-for-your-startup/)
 
 #### P: Let’s talk more about TechSpeak. When did that start?
@@ -100,8 +94,6 @@ It makes the agency’s job so much smoother because they’re talking to an ent
 I believe all entrepreneurs, especially CEOs, need to know enough about everything to speak the language and communicate properly. Regardless of if that’s finance, marketing, tech, the list goes on.
 
 And it goes beyond communication. It affects hiring as well. If you know the processes behind every job you’re better equipped to hire the best candidate.
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -125,15 +117,9 @@ It will help you know exactly when things are going wrong so that you can preven
 
 Personally, my goal is to improve my processes by 1% every deploy I do.
 
-
-
 ![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
 
-
-
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -158,8 +144,6 @@ It shows that on a department level, there are people saying you know “we want
 But that’s a huge advantage for startups.
 
 **Speed is your number one asset as a startup. Startups are able to move much faster than traditional companies thanks to lean and agile.**
-
-
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/#how-to-build-an-mvp-3-steps)
 
@@ -203,8 +187,6 @@ You’re going to start joining tech communities and building your network. Star
 
 And, hopefully, by the time you start having those conversations your MVP is going to have enough traction that it will be a no brainer for the tech co-founder or CTO to at least consider you.
 
-
-
 Related: [How to Find a CTO for Your Startup: The Founder's Guide](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/)
 
 I get inquiries from people every day, asking me to join their startup.
@@ -212,8 +194,6 @@ I get inquiries from people every day, asking me to join their startup.
 It only becomes an interesting conversation when they say “Look what we’ve built, and the traction we’ve gained. The market needs this."
 
 **It’s about traction. Showing technical stakeholders that this isn’t just an idea. It’s a painkiller and people want it. Look what I’ve already done without you, imagine what we could achieve together. From a CTO or technical perspective, that’s how you get someone’s attention.**
-
-/\* widget: Blog: Expert Tip - Quotes \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -233,7 +213,7 @@ Before we dive into this I want to set something straight.
 
 **The role of a CTO varies radically depending on the stage of a startup.**
 
-If you’re in the early stages of a startup and you’re saying you need a CTO, **you don’t.** 
+If you’re in the early stages of a startup and you’re saying you need a CTO, **you don’t.**
 
 What you’re actually looking for is **a developer who will work for equity**. “CTO” at that stage is just a title. It’s a marketing tool.
 
@@ -258,7 +238,7 @@ Some technical people either:
 
 You have to make the distinction and the skills you look for in a CTO will vary depending on which stage your startup is in.
 
-So to go back to the original question _“What does a CTO look for in a startup?”_ I would say a lot of it comes down to the technical stakeholders’ experience and where you’re at personally.
+So to go back to the original question *“What does a CTO look for in a startup?”* I would say a lot of it comes down to the technical stakeholders’ experience and where you’re at personally.
 
 For example, if you have a family, you’re very unlikely going to want to work purely for equity. It’s too big of a risk.
 
@@ -292,12 +272,6 @@ Hiring for cultural fit is especially important for early-stage startups because
 
 It’s not enough to just find someone with the right technical skills because a CTO is much more than that.
 
-
-
-
-
-
-
 #### P: What do you look for in the non-tech founder’s profile?
 
 **N:** Let’s say a founder came to me and they presented me with an opportunity. Unless it’s a life-changing opportunity, it’s going to be a tough ask for me to leave everything I’m doing personally to join their startup.
@@ -314,8 +288,6 @@ Those to me are vital qualities for a founder to have for us to grow together.
 They also have to be complementary to my skillset. We can’t be exactly the same.
 
 They have to amplify who I am and I have to be able to do the same for them. Only then can it be a great partnership in my opinion.
-
-
 
 Related: [My Experience Building a Tech Startup Without a Technical Co-Founder](https://altar.io/building-a-startup-without-a-technical-co-founder/)
 
@@ -350,8 +322,6 @@ The confidence you get from being tech literate is going to change how other tec
 For example, I had someone who attended TechSpeak, who was able to get into an accelerator without the required technical co-founder simply because she was able to confidently communicate how she was going to work with and effectively manage an outsourced team of developers.
 
 So it didn’t matter that she didn’t have a technical team behind her because she had the confidence and knew how the tech was going to be managed and that gave the accelerator enough confidence to accept her. That’s life-changing.
-
-
 
 Related: [Founder's Guide: How to Outsource Software Development](https://altar.io/founders-guide-how-to-outsource-software-development-2020/)
 

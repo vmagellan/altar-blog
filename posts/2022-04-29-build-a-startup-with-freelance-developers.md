@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Startup with Freelance Developers"
 date: "2022-04-29"
-categories: 
+categories:
   - "looking-for-development"
 coverImage: "pexels-olia-danilevich-4974915-scaled-1.jpg"
 ---
@@ -14,7 +14,7 @@ I met a lot of tech folks who made the right noises. But at the time I was lost 
 
 So, I went to a friend of mine who was CTO at a successful startup and asked for his advice.
 
-**I was over the moon when he told me he had the right developer for the job.** 
+**I was over the moon when he told me he had the right developer for the job.**
 
 After his gleaming recommendation, I was positively certain this was the right move. Turns out it was the most dreadful decision I could have made.
 
@@ -28,8 +28,6 @@ All of this to say: you need to take an objective view as you make this decision
 
 Seven years and 60 products later, here is the most organized list of steps I would give a fellow entrepreneur that was about to hire freelance developers to build their startup:
 
- 
-
 #### Contents
 
 ## Are You Ready to Hire Freelance Developers for Your Startup?
@@ -38,7 +36,7 @@ Onboarding a freelance developer too soon is a huge risk for your startup. You n
 
 That’s why it’s vital to do a proper [product scope](https://altar.io/service-product-scope/) before you start talking to freelance developers. This is the most effective way to identify the right features to include in your MVP. It will help you build a clear roadmap that is lean by nature – reducing your time to market and costs.
 
-**Remember that it’s not all about design and development. It’s critical that you look at the product too – something many entrepreneurs forget.**  
+**Remember that it’s not all about design and development. It’s critical that you look at the product too – something many entrepreneurs forget.**
 
 Only after this critical step can you start searching for a freelance developer. The crux here is identifying the right person for the job. And for that, you need some tech knowledge.
 
@@ -48,9 +46,7 @@ At the very least, however, you should learn the [tech fundamentals](https://al
 
 If you’ve got this far and aren’t sure if freelance developers are the right choice for you, that’s ok. You have other options such as hiring a CTO or working with a software development agency. [I would suggest reading this article](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/) which has already helped a lot of entrepreneurs make the right decision for their startups.
 
-If you’ve got this far and you _are_ sure, then let’s dive straight into the first step, recognising the hard skills you need in freelance developers.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
+If you’ve got this far and you *are* sure, then let’s dive straight into the first step, recognising the hard skills you need in freelance developers.
 
 Am I Ready?
 
@@ -64,7 +60,7 @@ Here’s a list of questions to ask yourself to ensure you have a freelancer wit
 
 ### Do They Suggest the Right Language?
 
-As we’ve already touched on, you must hire freelance developers with experience in the right languages and tech stacks for your startup. There’s no point in hiring an expert in Ruby on Rails if the best language for your product is Node.js, for example. You also have to ensure that they have the technical expertise _in_ that language to build your product.
+As we’ve already touched on, you must hire freelance developers with experience in the right languages and tech stacks for your startup. There’s no point in hiring an expert in Ruby on Rails if the best language for your product is Node.js, for example. You also have to ensure that they have the technical expertise *in* that language to build your product.
 
 Keep in mind here that if they suggest a language or framework without asking comprehensive questions about your project, they’re probably pushing the languages or framework they’re comfortable with – and it may not be the best choice for your startup.
 
@@ -80,15 +76,9 @@ If they don’t do any of the above or even miss out on one, it’s a red flag.
 
 If you’re unsure of how to assess this, I would recommend talking to a non-biased tech stakeholder (like a friend who is a CTO for example). You can also [reach out to us](mailto:altar@altar.io) here for an informal conversation – we’d be happy to put you in touch with our CTO for some further information.
 
- 
-
 ![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
 
-
-
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -98,7 +88,7 @@ Let's Talk
 
 Most likely, this person will be the first technical person to work with your startup. As such, they will be making technical decisions that affect the long term roadmap of your product. You should only work with freelance developers that follow the industry standards when it comes to organisation and documentation.  If they don’t, it will be very difficult for other developers to work on their code as your startup expands and grows.
 
-So, whether it’s [TDD](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)) (Test Driven Development) or [CI/CD](https://www.synopsys.com/glossary/what-is-cicd.html) (Continuous Integration/Continuous Deployment) it’s vital they follow it.
+So, whether it’s [TDD](<https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)>) (Test Driven Development) or [CI/CD](https://www.synopsys.com/glossary/what-is-cicd.html) (Continuous Integration/Continuous Deployment) it’s vital they follow it.
 
 If they lack the technical expertise or are unable to follow industry standards, you could end up with a lot of ‘technical debt’.
 
@@ -120,8 +110,6 @@ If there is a time frame discrepancy above 50% between the benchmark and your ca
 
 If they fail this small test, it could point to much more substantial time management issues. It could also point to a lack of experience.
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Do They Have the Hard Skills?
 
 - Do they suggest the right language?
@@ -141,8 +129,6 @@ To ensure you find someone with all of these soft skills, you need to be able to
 If communication isn’t smooth you’ll triple your problems down the line.
 
 **To put it bluntly, communication can make or break a startup.**
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Do They Have the Soft Skills?
 
@@ -202,7 +188,7 @@ A note here, If the candidate doesn’t create an example using something tangib
 
 Here, while the viability of the solutions they come up with is important, what you’re really looking for is the number of variables that they consider.
 
-A key trait in a good freelance developer is the ability to deconstruct the problem fully _before_ tackling the solution. You want someone who takes the time to consider four to five variables. In my experience, this is much more valuable than someone who takes five minutes to consider two variables and execute the solution.
+A key trait in a good freelance developer is the ability to deconstruct the problem fully *before* tackling the solution. You want someone who takes the time to consider four to five variables. In my experience, this is much more valuable than someone who takes five minutes to consider two variables and execute the solution.
 
 These questions will go a long way to help you ensure they possess the qualities you’re looking for.
 
@@ -217,8 +203,6 @@ As is the case with agencies, some freelancers will try to close and push you to
 The professionals that are confident about their output shouldn’t push you to close the entire project before running a quick test to assess if you are both a good match.
 
 This should be a relatively uncomplicated deliverable in the same technology that you plan to build your product in. You should also give them a feasible time frame to complete it. As an example, you could ask for a task that you know should take no more than two weeks and start with that.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 My Advice
 
@@ -238,7 +222,7 @@ For example, here in Lisbon, we have [WebSummit](https://websummit.com/) – h
 
 I recommend this route because in one two-hour event you’ll hear multiple perspectives on the same thing.
 
-This will only enrich your point of view and broaden your horizons. Just because someone is talking about something _you_ don’t understand doesn’t mean _they_ know what they’re talking about. Hearing it from multiple people will help you identify the true experts from the posers.
+This will only enrich your point of view and broaden your horizons. Just because someone is talking about something *you* don’t understand doesn’t mean *they* know what they’re talking about. Hearing it from multiple people will help you identify the true experts from the posers.
 
 When you start narrowing down what you’re looking for, then I would start to look for authorities in that domain. The authorities are usually the people writing about that topic.
 
@@ -264,8 +248,6 @@ Here are some I recommend:
 
 For more information on the platforms mentioned above, [check out this article.](https://altar.io/best-websites-to-hire-developers-for-startup/)
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 My Advice
 
 Don’t just outreach to freelance developers who you want to hire. Reach out to other interesting profiles asking for advice. This could be a fellow entrepreneur who also built something in your industry, for example.
@@ -280,7 +262,7 @@ Sure, the founder of [AppSumo](https://appsumo.com/), [Noah Kagan](https://www
 
 After all, Noah not only had a decent technical understanding, but he had also worked at Intel, was employee #30 at Facebook, and employee #4 at Mint, you get the idea. Seeing projects and teams start and grow was really second nature to him at that point.
 
-**If launching startups isn’t second nature to you,  hiring freelance developers is still feasible, just not easy.**  
+**If launching startups isn’t second nature to you,  hiring freelance developers is still feasible, just not easy.**
 
 Managing your tech team isn’t an issue when you [hire a CTO](https://altar.io/how-to-find-a-cto-for-your-startup-the-founders-guide/) for example. As they will take on the responsibility of hiring and managing developers – as well as creating a roadmap for the technical side of your product.
 

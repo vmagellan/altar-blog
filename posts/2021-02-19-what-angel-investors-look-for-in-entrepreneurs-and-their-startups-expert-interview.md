@@ -1,7 +1,7 @@
 ---
 title: "What Angel Investors Look For in Entrepreneurs and their Startups [Expert Interview]"
 date: "2021-02-19"
-categories: 
+categories:
   - "startup-expert-interviews"
 coverImage: "gilly-wcWN29NufMQ-unsplash-scaled-1.jpg"
 ---
@@ -24,15 +24,13 @@ But traction (or lack of it) isn’t the only aspect that angel investors will l
 
 So to find out exactly what angel investors look for in entrepreneurs and their startups, I sat down with Armando Biondi.
 
-
-
 ![armando biondi startup angel investor](images/armando-biondi.jpeg)
 
 Armando is a successful entrepreneur and multiple-time founder. One of his most well-known projects was AdEspresso: a “Facebook ads made easy” tool that was acquired by Hootsuite.
 
 Currently, Armando is working on [Breadcrumbs.io](https://breadcrumbs.io/) - a lead-scoring service taking its first steps into the market.
 
-Besides that, Armando is also **an angel investor with over 150 startups in his portfolio.** 
+Besides that, Armando is also **an angel investor with over 150 startups in his portfolio.**
 
 In our conversation, he shared exactly what he looks for in entrepreneurs and their startups, and delved into what you can expect from an angel investor/entrepreneur relationship.
 
@@ -64,7 +62,7 @@ So, because of that, you have a ton more companies compared to before. So how do
 
 However, being an experienced entrepreneur doesn’t necessarily make you make a good angel investor either.
 
-**There are things that you need to know and execute on as an entrepreneur that don’t necessarily help you become a great angel investor.** 
+**There are things that you need to know and execute on as an entrepreneur that don’t necessarily help you become a great angel investor.**
 
 You can invest a sizable amount of money, that doesn’t make you a good angel investor. A great investor is someone that can get a decent return from the capital he’s invested.
 
@@ -72,15 +70,9 @@ There’s a rule of thumb there, about 5%-ish of the companies started every yea
 
 **The whole name of the game is, how do you minimize investing in the bottom 80%-ish while maximizing investment in the top 5%-ish.**
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -98,15 +90,13 @@ I look for a founder with a unique perspective on an unsolved problem in the spa
 
 Thirdly, does he have the hustle to hang in there when things get tough? Because they will get tough without a doubt.
 
-So **courage**, **ability to hustle** and **uniquely qualified to solve a real problem.** 
+So **courage**, **ability to hustle** and **uniquely qualified to solve a real problem.**
 
 The last thing we need to look at is whether or not the market is already responding to it positively. So traction is an important part.
 
 #### P: And how do you go about discovering those key traits?
 
 **A:** You can look at what they did before. Or even ask them, what’s one particularly hard challenge they had to solve. That alone is worth a lot and tells you how they navigate their decision-making process.
-
-
 
 Related: [Expert Interview: The Hidden Details When Funding Your Startup](https://altar.io/expert-interview-funding-your-startup/)
 
@@ -126,8 +116,6 @@ Some are more valuation sensitive, they’re willing to take more of a risk as l
 
 It’s not like a right or wrong time.
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 It’s never too early to start building relationships with potential stakeholders, whether it’s an advisor, potential hire or investor.
@@ -141,12 +129,6 @@ Then, when you’ve hit those KPIs, it’s going to be very difficult for them t
 #### When startups approach you is pure growth the most important thing, or the business model behind that startup?
 
 **A:** To a certain degree, the two overlap. Most of the time the thing to look for is growth, but growth is dependent on a viable business model.
-
-
-
-
-
-
 
 #### P: We often talk about the importance of a startup team when it comes to investment decisions.
 
@@ -167,8 +149,6 @@ The best product doesn’t necessarily win. A good enough product with a great g
 #### Now let’s dig into the details: which documents do you want to see from a startup before deciding to invest?
 
 **A:** An investment deck or an executive summary.
-
-
 
 Related: [How to Pitch to Investors: Preparation & Execution](https://altar.io/how-to-pitch-to-investors/)
 
@@ -206,8 +186,6 @@ There are situations when my time is valuable to a company and I take that oppor
 For me, however, that always requires some additional vested interest in the company. Again, from my perspective, cash and time are very different commodities.
 
 I can make money, I can’t make time.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 

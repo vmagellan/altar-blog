@@ -1,9 +1,9 @@
 ---
 title: "How to Build a Million Dollar Startup by Falling in Love With a Problem, Not a Solution [Founder Story]"
 date: "2021-09-17"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "software-development"
   - "startup"
@@ -13,15 +13,13 @@ coverImage: "ryoji-iwata-5siQcvSxCP8-unsplash.jpg"
 
 [Uri Levine](https://www.linkedin.com/in/uri-levine/), a serial entrepreneur and founder of Waze, famously coined the phrase:
 
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Fall in love with the problem, not the solution
 
 I’m sure you’ve heard it before. It’s quite a common expression in the startup scene.
 
 But what about a real-life example from someone who took that motto to heart and built a multi-million dollar startup as a result?
 
-Over the next few minutes, in the latest instalment of our series of interviews, _The Startup Journey_, I’ll guide you through the story of [Ali Halabi](https://www.linkedin.com/in/xalihalabi/).
+Over the next few minutes, in the latest instalment of our series of interviews, *The Startup Journey*, I’ll guide you through the story of [Ali Halabi](https://www.linkedin.com/in/xalihalabi/).
 
 I’ll explain how this one important rule made him the successful entrepreneur he is today.
 
@@ -46,8 +44,6 @@ He called the new startup [Volt Lines](https://www.voltlines.com/?lang=en). The
 The market instantly found value in Ali’s new solution – and since launching in 2017 the company has achieved over $7.5M in funding.
 
 Throughout our conversation, Ali shared the trials he faced on his journey, as well as actionable advice that any entrepreneur could benefit from.
-
-
 
 ![Volt Lines Founder- Ali Halabi](images/DSCF4222-scaled-1-1024x576.jpg)
 
@@ -78,8 +74,6 @@ So, I quit Procter and Gamble in 2013. Quite an irrational decision from someone
 I started by building [Volt](https://www.linkedin.com/company/volt-ridesharing/), an on-demand carpooling service. It was my first startup, and we launched in 2014.
 
 We were essentially connecting drivers and passengers going in the same direction. It was a similar idea to [BlaBlaCar](https://www.blablacar.com/). The only real difference being they provide the service at an intercity level. We were just focusing on doing it in Istanbul in real-time.
-
-
 
 Related: [How a Lot of Rejection and 4 Years in “Stealth Mode” Turned into $21M in Funding \[Founder Story\]](https://altar.io/founder-story-how-rejection-turned-into-21m-in-funding/)
 
@@ -127,15 +121,9 @@ We only launched this a couple of months ago, we’ve just signed our first majo
 
 We see DRT being the most in-demand part of our service moving forward.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Building a Startup?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -301,12 +289,6 @@ That’s the major difference between B2B & B2C.
 
 B2C things tend to explode quickly whereas in B2B things pick up pace slowly but are then a lot more resilient further down the line.
 
-
-
-
-
-
-
 #### Paolo: What was your strategy when you were seeing that the growth was steady – did you hire a B2B salesperson or did you go about it alone?
 
 **A:** I was focused on sales.
@@ -329,8 +311,6 @@ But I still think it will reach a point where the network effect will compound.
 
 All of this to say, there’s a lot of pushing in the beginning, but it’s all about the value proposition and the network effect.
 
-
-
 Related: [Key Product Lessons I Learned Interviewing Successful Entrepreneurs](https://altar.io/key-product-lessons-i-learned-interviewing-successful-entrepreneurs/)
 
 #### P: It makes complete sense. You mentioned that you had four or five people on your team. What roles did they cover?
@@ -352,8 +332,6 @@ I couldn’t comprehend what they were asking for.
 I also felt they were expensive, but I now realise that software development talent is just expensive.
 
 Looking back it wasn’t the company, it’s just the price you pay for quality development.
-
-
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
@@ -470,8 +448,6 @@ I started selling Volt Lines six months before we actually incorporated the comp
 **A:** Exactly, and I think that influence comes from big corporations.
 
 As Reid Hoffman says:
-
-
 
 Starting a company is like jumping off a cliff and assembling the plane on the way down.
 

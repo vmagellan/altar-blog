@@ -1,9 +1,9 @@
 ---
 title: "From Struggling to Buy a TV to Getting Acquired by a $7.5B Fintech Monster"
 date: "2022-02-06"
-categories: 
+categories:
   - "startup-journey-interviews"
-tags: 
+tags:
   - "entrepreneurship"
   - "expert-interview"
   - "fintech"
@@ -14,7 +14,7 @@ coverImage: "rupixen-com-Q59HmzK38eQ-unsplash-scaled-1.jpg"
 
 Throughout this series of interviews, I’ve talked to several non-tech entrepreneurs who’ve shared their insights and tips on building a startup.
 
-So, in this interview – the 10th in _The Startup Journey_ series – it was great to sit down with a technical founder – [Adarsh Jain](https://www.linkedin.com/in/adarshj/).
+So, in this interview – the 10th in *The Startup Journey* series – it was great to sit down with a technical founder – [Adarsh Jain](https://www.linkedin.com/in/adarshj/).
 
 Besides that, it never ceases to amaze me the incredible stories we find in each of these conversations.
 
@@ -35,8 +35,6 @@ You know a thing or two about tech and you approach a former colleague to talk a
 Fast forward a couple of years and you’ve been the first acquisition of one of the fastest-growing fintechs in the world, RazorPay, just recently valued at - $7.5B.
 
 Not only that, but RazorPay’s CEO is [saying this about you](https://medium.com/@abenayagunasekaran/razorpay-announces-its-first-acquisition-thirdwatch-c3097b033891):
-
-
 
 The team at Thirdwatch comes with an exceptional understanding and expertise in AI, machine learning and data sciences and together we envision a future where AI will help e-commerce firms not just combat fraud but maintain a competitive advantage and significantly improve profitability. Together, I believe we can help reduce frauds by 30–40% by next year.
 
@@ -80,15 +78,9 @@ I wanted to identify those who were conducting fraudulent transactions, instead 
 
 That was the genesis of ThirdWatch.
 
-
-
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
-
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
-
-
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
 
@@ -142,8 +134,6 @@ So that’s how we conducted the initial research and that gave us a good idea.
 
 But, of course, true validation comes from releasing the MVP.
 
-
-
 Related: [The Structured Process Behind Developing a Successful MVP](https://altar.io/structured-process-develop-mvp/)
 
 #### R: I think you did exactly the right thing with that early research.
@@ -157,8 +147,6 @@ Related: [The Structured Process Behind Developing a Successful MVP](https://alt
 I’ve realised that it’s a big world, if you’ve had the idea, someone else probably has too. What it really comes down to is how you execute that idea – that’s where the success is.
 
 To execute an idea well, you need input from a diverse range of people. And that can’t happen unless you share your idea.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -188,8 +176,6 @@ We had planned on building an SDK (Software Development Kit) first and integrati
 
 This was a valuable insight that helped.
 
-
-
 Related: [How an Experience in Turkey Led to a Million-Dollar Startup \[Founder Interview\]](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/)
 
 #### R: Did you build the MVP yourselves? Or did you hire someone else to do it?
@@ -203,8 +189,6 @@ It’s important to build to scale. But you shouldn’t focus on it too much.
 You probably don’t need your first iteration to handle 100,000 requests per second, for example. It will be a few years before you’re dealing with those numbers – if you’re lucky!
 
 This all happened because we were so in love with the product, and felt the ownership over our software – it’s a big responsibility.
-
-
 
 Related: [How to Build a Startup? CTO, Freelancers, Agency?](https://altar.io/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/)
 
@@ -228,12 +212,6 @@ This gave me a lot of confidence in the product – and went a long way to vali
 
 He’d known me for about three - three and half years and he put his money behind us. That investment allowed us to move forward and raise our first round of funding.
 
-
-
-
-
-
-
 #### R: This is a great example of why you should be sharing your idea with as many people as possible.
 
 #### Not only did you go to a lead tech stakeholder for advice, but you also talked to your former boss and ended up with an investor.
@@ -245,8 +223,6 @@ He’d known me for about three - three and half years and he put his money behi
 He saw the merit in the idea and how we planned to execute it. More than that I think he had confidence in our ability to execute it.
 
 I think that’s what prompted him to not just put his money on the project but also put us in contact with more people in his network.
-
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
 
 Expert Tip
 
@@ -342,8 +318,6 @@ We’ve had a very good experience hiring people through AngelList. The great th
 
 Then what happens is when you hire talented people who’re passionate they’ll refer you to other talented, passionate people. For example, I hired a full-stack engineer from AngelList as well, then he referred a friend of his who was also a great fit.
 
-/\* widget: Blog: Expert Tip \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> --color-text-2: #4A4A68;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-clr-text-2 {<br /> color: var(--color-text-2);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .gap-5 {<br /> gap: 1.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-3xl {<br /> font-size: 1.875rem;<br /> line-height: 2.25rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .text-lg {<br /> font-size: 1.125rem;<br /> line-height: 1.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_expert-tip .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 Expert Tip
 
 When you realise that people want to help you, you also realize that you don’t need to pay a board of advisors.
@@ -366,7 +340,7 @@ Every single time.
 
 #### R: Perfect. Changing gears again. What did a “day in the life” look like when you first started ThirdWatch? Was it more like a 9 to 5 or more like 80 hour weeks?
 
-**A:** I can tell you with absolute certainty it _wasn’t_ like a 9 to 5 at all!
+**A:** I can tell you with absolute certainty it *wasn’t* like a 9 to 5 at all!
 
 I think the best way to describe it is “we did whatever it took”.
 

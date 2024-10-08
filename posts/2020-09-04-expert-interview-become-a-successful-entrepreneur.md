@@ -1,9 +1,9 @@
 ---
 title: "Expert Interview: The 3 Pillars to Become a Successful Entrepreneur"
 date: "2020-09-04"
-categories: 
+categories:
   - "startup-expert-interviews"
-tags: 
+tags:
   - "entrepreneur"
   - "guide"
   - "startup"
@@ -13,8 +13,6 @@ coverImage: "jonathan-farber-gjHmip_Lmg4-unsplash-scaled-1.jpg"
 
 Becoming a successful entrepreneur is a question many of us will ask. In fact, it's a question I recently came across on Quora:
 
-/\* widget: Blog: Top Quote \*/<br /> /\* reset -------------------- \*/<br /> .blog-custom-block \*,<br /> .blog-custom-block ::before,<br /> .blog-custom-block ::after {<br /> box-sizing: border-box;<br /> border-width: 0;<br /> border-style: solid;<br /> border-color: #e5e7eb;<br /> }<br /> /\* vars -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote {<br /> --color-bg: #F4FAFE;<br /> --color-border: rgb(15 164 234 / 0.50);<br /> --color-text-1: #0F172A;<br /> }<br /> /\* colors -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border-clr-border {<br /> border-color: var(--color-border);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .bg-clr-bg {<br /> background-color: var(--color-bg);<br /> }<br /> .blog-custom-block.blog-custom-block\_\_simple-quote .text-clr-text-1 {<br /> color: var(--color-text-1);<br /> }<br /> /\* utils -------------------- \*/<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex {<br /> display: flex;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-shrink-0 {<br /> flex-shrink: 0;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .flex-col {<br /> flex-direction: column;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .items-center {<br /> align-items: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .gap-4 {<br /> gap: 1rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .rounded-xl {<br /> border-radius: 0.75rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .border {<br /> border-width: 1px;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .p-8 {<br /> padding: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-center {<br /> text-align: center;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .text-2xl {<br /> font-size: 1.5rem;<br /> line-height: 2rem;<br /> }<br /> .blog-custom-block.blog-custom-block\_\_top-quote .font-bold {<br /> font-weight: 700;<br /> }<br />
-
 How do you know if you’re going to be a successful entrepreneur?
 
 Scrolling through the replies, one story caught my eye.
@@ -22,8 +20,6 @@ Scrolling through the replies, one story caught my eye.
 It was from [Hector Quintanilla](https://www.linkedin.com/in/hectorquintanilla/), a brilliant startup expert and successful entrepreneur with nearly three decades of experience helping entrepreneurs build their businesses.
 
 It went something like this:
-
-
 
 You can predict with outstanding accuracy how successful you will be.
 
@@ -85,7 +81,7 @@ Finding opportunities to launch a business – it was, and still is, my true pas
 
 **I was a misfit to the educational system. My focus was never on academics but on searching for different types of businesses**
 
-My cousin had a similar mindset as me, and we were quite close – So we undertook a program at college called _The Entrepreneurs’ Program_.
+My cousin had a similar mindset as me, and we were quite close – So we undertook a program at college called *The Entrepreneurs’ Program*.
 
 It was good fun. The teacher would guide us on how to do market research, among other things. It was very practical, we would go out, talk to people, analyse businesses, create projections for a business’s potential, etc.
 
@@ -99,9 +95,7 @@ This startup was going on while I was still at college, so it’s safe to say my
 
 I was studying civil engineering because my father was a passionate architect. He had his own construction business and I always thought maybe I need to continue the family business.
 
-There is a big lesson there. **I was trying to meet my dad’s expectations, not mine**. We will talk more about that later when we talk about what I call _The Three Pillars of Success._
-
-
+There is a big lesson there. **I was trying to meet my dad’s expectations, not mine**. We will talk more about that later when we talk about what I call *The Three Pillars of Success.*
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
@@ -145,7 +139,7 @@ There’s no magic thing about this idea of the entrepreneurial mindset. It’s 
 
 “Now’s not the right time.” “I have too much responsibility, I can’t do it now.” “If I do this now I will lose money, I can’t afford to do it.”
 
-**These are all things that will limit your actions.** 
+**These are all things that will limit your actions.**
 
 Whether the restriction is internal or external, you need to get free of it.
 
@@ -159,7 +153,7 @@ I sensed a lack of understanding of entrepreneurship and all the misconceptions 
 
 Entrepreneurship comes with its risks, but what’s risky is bad decisions – not the entrepreneurial journey itself.
 
-It’s like investment, many misunderstand that **real investing is not gambling**. I’m not guessing if my investment will make money or not. I _know_ my investment will make money because I did all the research and due diligence.
+It’s like investment, many misunderstand that **real investing is not gambling**. I’m not guessing if my investment will make money or not. I *know* my investment will make money because I did all the research and due diligence.
 
 Don’t get me wrong, things can change; none of us expected COVID-19 for instance. But I’m still in control of where my money is going. I can control my assets in many ways.
 
@@ -177,7 +171,7 @@ This is very important for us to understand.
 
 A lot of people come to me with this idea of starting a business by inventing something new. And that's great, but the ability to **see a need** in the market and **turn that solution into a business** are two very different things. That's what a successful entrepreneur does. They build business models around innovation.
 
-**Pillar #1 is you. Taking the passion, purpose and belief you have and knowing you picked the right battle. It’s critical you play to _your_ strengths.**
+**Pillar #1 is you. Taking the passion, purpose and belief you have and knowing you picked the right battle. It’s critical you play to *your* strengths.**
 
 #### Q: Your second Pillar is all about strategic leverage. Maximizing your results with no additional effort.
 
@@ -231,15 +225,13 @@ There is leverage here because assets deliver value for us passively. Real estat
 
 I don’t teach this a lot. It’s imperative you seek the right advice here as there is a lot to learn. The key thing to understand here is this: financial leverage is not available without the other seven in place.
 
-
-
 Related: [Expert Interview: The Hidden Details When Funding Your Startup](https://altar.io/expert-interview-funding-your-startup/)
 
 #### Q: Let’s talk about Pillar Three: Effectiveness; making sure your business is relevant to your landscape. Why is this so important?
 
 ![Pillars of a Successful entrepreneur - #3 Effectiveness](images/Entrepreneurial-Pillar-3-Effectiveness-1024x769.png)
 
-#### **A:** As well as being one of _The Eight Levers_, Effectiveness is a Pillar in itself.
+#### **A:** As well as being one of *The Eight Levers*, Effectiveness is a Pillar in itself.
 
 Hard work alone is not enough to become a  successful entrepreneur. It’s about knowing where to make the effort to ensure you’re relevant 10 years down the road.
 
@@ -257,7 +249,7 @@ When it comes to the unexpected; there’s an element of luck to it as well. The
 
 There are things that we can predict, we can anticipate trends. But with the unexpected, it’s much harder.
 
-That being said, **a****s an entrepreneur, change presents an opportunity. Your business may fail but you, as an entrepreneur, have new opportunities.**
+That being said, **a\*\***s an entrepreneur, change presents an opportunity. Your business may fail but you, as an entrepreneur, have new opportunities.\*\*
 
 Unconsciously, I lived through this.
 
@@ -271,10 +263,6 @@ So in the same financial storm, I lost and made a lot of money.
 
 Therefore, **it’s not about how you implement the three Pillars to your business; it’s about how you apply them to your mindset**.
 
-
-
-
-
 #### Q: Do you have any advice on how to become a successful entrepreneur that we haven’t talked about so far?
 
 **A:** I had a thought yesterday. How do you reduce the risk? Don’t put all your eggs in one basket. We need to address that in this changing world.
@@ -283,18 +271,18 @@ We need to diversify with multiple sources of income. COVID-19 is a perfect exam
 
 By using an entrepreneurial mindset to diversify, you can reduce the risk as it pertains to unexpected changes. It’s a mindset you have to develop that will help you find success regardless of what happens.
 
-In a nutshell, **t****here are a lot of economic challenges coming; but, for those who can identify them, there are a lot of opportunities as well.**
+In a nutshell, **t\*\***here are a lot of economic challenges coming; but, for those who can identify them, there are a lot of opportunities as well.\*\*
 
 #### Q: Do you have any resources that you could recommend to entrepreneurs and founders?
 
 **A:** Yes. It’s a book that impacted my life very deeply. I even paid my kids to read it, it’s that good.
 
-It’s called _[Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/34403537-mindset)_ by Carol Dweck.
+It’s called *[Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/34403537-mindset)* by Carol Dweck.
 
 ## Wrapping Up
 
-Thanks, Hector for taking the time out of your busy schedule to sit down with me to discuss what it takes to become a successful entrepreneur and _The Three Pillars of Success_.
+Thanks, Hector for taking the time out of your busy schedule to sit down with me to discuss what it takes to become a successful entrepreneur and *The Three Pillars of Success*.
 
-If you’re an entrepreneur committed to success in today’s new economy, you can reach out to Hector and his team and download his full guide on _The Three Pillars of Success_, by visiting [BeBusinessSmart.com](http://bebusinesssmart.com/).
+If you’re an entrepreneur committed to success in today’s new economy, you can reach out to Hector and his team and download his full guide on *The Three Pillars of Success*, by visiting [BeBusinessSmart.com](http://bebusinesssmart.com/).
 
 Thanks for reading.
