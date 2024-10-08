@@ -1,9 +1,9 @@
 ---
 title: "Custom Software Development Companies for Startups: How to Make it Work"
 date: "2021-05-13"
-categories: 
+categories:
   - "looking-for-development"
-tags: 
+tags:
   - "entrepreneurship"
   - "guide"
   - "mvp"
@@ -23,7 +23,7 @@ Some will tell you that “investors invest in teams” so you must get a techni
 
 Others will tell you you’ll never be able to attract a decent tech cofounder with an idea on a napkin, and that the smart move would be to work with an agency to build an MVP, get some traction, and then look for the perfect cofounder to onboard.
 
-**And that’s before you get to the actual process itself.** 
+**And that’s before you get to the actual process itself.**
 
 I know it because I’ve lived through it more than once. My co-founder Daniel also knows a thing or two about it. He built seven startups as a non-tech founder before we founded Altar.
 
@@ -36,8 +36,6 @@ He’s the Founder of [Audapio](https://www.audapio.com/), a platform that uses
 **Like many non-technical entrepreneurs, he had the idea and business vision for his startup. What he didn’t have was the technical expertise to build it.**
 
 So he did what most entrepreneurs do. He looked for a [technical co-founder](https://altar.io/how-to-find-a-technical-co-founder-for-your-startup/) to help him turn his vision into a reality:
-
-
 
 I went to meetups. Reached out to friends and friends of friends. Reached out to ex-colleagues. Joined online groups.
 
@@ -58,8 +56,6 @@ Happy ending aside, this is a story we’re seeing happen over and over again.
 So I decided to create a guide to help you navigate the entrepreneur-development agency relationship.
 
 From where to begin your search, the key skills to look out for, right through to navigating the all-important agreement.
-
- 
 
 #### Contents
 
@@ -117,8 +113,6 @@ So invest your money wisely at this stage, just don’t choose a company that wi
 
 And while I can’t tell you exactly how much you should be spending on custom software development, this [pricing simulator](https://altar.io/pricing/) may help give you a rough idea.
 
-
-
 Related: [How A Software Development Company Can Be Your Startup’s Best Friend](https://altar.io/how-a-dev-agency-can-be-your-startups-best-friend/)
 
 ### 3\. Flexibility
@@ -129,15 +123,7 @@ In short, your development needs will change throughout the process of building 
 
 Partner with a development company that works in sprints and deliverables. This kind of project-based working relationship will allow you to only spend time and money on development when you need it. Reducing costs and allowing stay agile.
 
- 
-
-![Claudio, CTO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-claudio-happy.png)
-
-
-
 ##### Looking for Software Development Services?
-
-
 
 Get straight to the point, jargon-free advice from a tech expert that has been building award-winning Startups for the past 10 years.
 
@@ -149,9 +135,9 @@ There are no two ways about it, you want to find a custom software development c
 
 [Lean methodology](https://www.lean.org/whatslean/) is all about maximum customer value with the minimum resources possible. If you’re talking to a development company that is talking about cutting unnecessary features or reducing the scope you know they have your best interests at heart.
 
-**Fewer features = faster development time = a smaller budget needed, which is contrary to the dev company’s financial goals.** 
+**Fewer features = faster development time = a smaller budget needed, which is contrary to the dev company’s financial goals.**
 
-On the other side of the coin, a company that continually insists that you need _more_ features might be just after the money in your wallet.
+On the other side of the coin, a company that continually insists that you need *more* features might be just after the money in your wallet.
 
 So, as you talk to potential custom software development companies, it’s worth asking them what features they think are absolutely necessary.
 
@@ -199,12 +185,6 @@ To test the waters, ask them for a simple deliverable within a feasible timefram
 
 Doing this not only allows you to verify the traits listed above but will also tell you if they will respect deadlines in the future.
 
-
-
-
-
-
-
 ## Where to Find a Custom Software Development Company
 
 There are several places to look for a custom software development company.
@@ -228,8 +208,6 @@ Finally, you can attend events that are also attended by custom software develop
 Once you’ve found a suitable custom software development company, it’s time to put everything in writing.
 
 Before I delve into the key points to look for within the contract, I want to first outline the common contract types used by custom software development companies.
-
-
 
 Related: [What Every Entrepreneur Should Know About Startup Lawyers \[Expert Interview\]](https://altar.io/expert-interview-startup-lawyers/)
 
@@ -351,7 +329,7 @@ The opposite of custom software development is commercial off-the-shelf software
 
 Custom Software Development, however, is designed to solve specific problems. Examples of this would be:
 
-- [A product for music industry professionals to compare audio equipment](https://altar.io/case_study/atk/) 
+- [A product for music industry professionals to compare audio equipment](https://altar.io/case_study/atk/)
 - [A platform that allows a global consulting firm to better assess the value of real estate developments](https://altar.io/case_study/reic/)
 
 Custom software development is commonly built by an in-house team. However, large corporations and startups often outsource their development.
@@ -384,6 +362,6 @@ Custom software, conversely, belongs to your company. You don’t need to worry 
 
 #### It Solves Your Specific Problem
 
-Probably the most important reason to develop custom software is that it will address your users’ _exact_ needs.
+Probably the most important reason to develop custom software is that it will address your users’ *exact* needs.
 
 Off-the-shelf software may have some features that will be helpful to you. However, developing custom software allows you to pinpoint your users’ exact problem and surgically solve it.

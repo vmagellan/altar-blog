@@ -70,7 +70,7 @@ As well as being the Co-Founder of Engie, Alon is a Forbes 30 Under 30 Entrepren
 
 ![Tools for Entrepreneurs – Dudley Gould](images/Dudley-Gould-1-copy-150x150.jpeg)Audapio provides secure, real-time access to auditors clients’ bank statements directly from their bank, and provides stakeholders with advanced analytics.
 
-**Tool Choice**: *“*[**_LinkedIn_**](https://www.linkedin.com/)*,* [**_Spotify_**](https://www.spotify.com/) *&* **_Boxing_***. I think about work all the time – unless I’m boxing – it’s the only time I completely switch off. Oh, and* [**_UberEats_**](https://www.ubereats.com/)_, I’m so busy I often forget I need to eat.”_
+**Tool Choice**: *“*[**_LinkedIn_**](https://www.linkedin.com/)*,* [**_Spotify_**](https://www.spotify.com/) *&* **_Boxing_\***. I think about work all the time – unless I’m boxing – it’s the only time I completely switch off. Oh, and\* [**_UberEats_**](https://www.ubereats.com/)_, I’m so busy I often forget I need to eat.”_
 
 ### 7\. Giacomo De Lorenzo - Founder of [Moneymour](https://www.linkedin.com/company/moneymour/)
 
@@ -88,7 +88,7 @@ Their revolutionary credit scoring algorithm uses customers’ bank accounts inf
 
 ![Tools for Entrepreneurs – Hector Quintanilla](images/Hector-Q-150x150.jpeg)Hector Quintanilla is a Startup Expert, Investor, Mentor & Founder.
 
-**_Tool Choice_***: “My Thinking weapons: My* **_Moleskine notebook_** *+ my three pens (black, blue, red)*
+**_Tool Choice_\***: “My Thinking weapons: My* ***Moleskine notebook*** *+ my three pens (black, blue, red)\*
 
 _The best way to brainstorming is WITHOUT distractions and electronics._
 
@@ -154,7 +154,7 @@ _Finally, my **notebook**. I use it to note down ideas for everything from pres
 
 ![Tools for Entrepreneurs – Paul O'Brien](images/Paul-OBrien-150x150.jpeg)MediaTech Ventures is a venture development group and holding company connecting innovation with capital.
 
-**Tool Choice**: *“***_Analytics_***,*  [**_LinkedIn_**](https://www.linkedin.com/) *&* **_Coffee_**_!”_
+**Tool Choice**: \*“**_*Analytics*_**,_  [***LinkedIn***](https://www.linkedin.com/) _&\* **_Coffee_**_!”_
 
 ### 15\. Yaron Samid, Founder of [TechAviv](https://www.techaviv.com/)
 
@@ -172,7 +172,7 @@ StoreDot is a battery developer currently working on extreme fast charging for e
 
 The company’s FlashBattery technology allows you to fully charge an electric car in five minutes.
 
-**Tool Choice**: *“***_Strong team_***,* **_innovation across the board_** *and a* **_go big or go home attitude_**_.”_
+**Tool Choice**: \*“**_*Strong team*_**,* ***innovation across the board*** *and a\* **_go big or go home attitude_**_.”_
 
 ### 17\. Gal Nachum, Co-Founder & Chairman of [CogniShape](https://www.cognishape.com/)
 
@@ -224,7 +224,7 @@ The platform enables early access to fine wines at an exclusive price – enabli
 
 Jacob is a serial entrepreneur who’s been working on bringing disruption to the wine industry for the past decade. As part of that, he is now managing partner of VinoVentures –  allowing people to pool capital and generate short and long-term capital gains within the wine industry.
 
-**Tool Choice:** “**_Email_***: the most universal social network.* [**_LinkedIn_**](https://www.linkedin.com/)*: for business, best quick cheat as to someone’s background.* [**_Slack_**](https://slack.com/)_: it simply became a business chat default. Tremendous room for improvement but the MVP was good enough and that’s what we still have!”_
+**Tool Choice:** “**_Email_\***: the most universal social network._ [***LinkedIn***](https://www.linkedin.com/)_: for business, best quick cheat as to someone’s background.\* [**_Slack_**](https://slack.com/)_: it simply became a business chat default. Tremendous room for improvement but the MVP was good enough and that’s what we still have!”_
 
 ### 23\. Lia Kislev, Founder of [Wishi](https://www.wishi.me/)
 
@@ -240,7 +240,7 @@ Bringg is the #1 unified delivery and fulfilment cloud solution. It rapidly impr
 
 Lion is a founder and executive of a number of unicorn companies. On top of this, he is an advisor and investor.
 
-**Tool Choice:** *“***_Email_***,* [**_Google Docs_**](https://workspace.google.com/)*,* [**_WhatsApp_**](https://www.whatsapp.com/?lang=en)_. Those are the basic building blocks of communication. Real-time (WhatsApp), asynchronous (email) and in-depth (docs),_
+**Tool Choice:** \*“**_*Email*_**,_ [***Google Docs***](https://workspace.google.com/)_,\* [**_WhatsApp_**](https://www.whatsapp.com/?lang=en)_. Those are the basic building blocks of communication. Real-time (WhatsApp), asynchronous (email) and in-depth (docs),_
 
 ![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](images/cta-colors-daniel-arms-crossed.png)
 
@@ -497,8 +497,6 @@ Many entrepreneurs leverage Quora by:
 #### Pricing
 
 Quora is free to use and offers advertising on a CPC bidding system.
-
---e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}@media(max-width:767px){.elementor-3329 .elementor-element.elementor-element-99ebd14 .elementor-heading-title{font-size:var( --e-global-typography-0ff79ee-font-size );line-height:var( --e-global-typography-0ff79ee-line-height );letter-spacing:var( --e-global-typography-0ff79ee-letter-spacing );word-spacing:var( --e-global-typography-0ff79ee-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group > label{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-group .elementor-field, .elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-3329 .elementor-element.elementor-element-70fbc6a .elementor-message{font-size:var( --e-global-typography-9730a4e-font-size );line-height:var( --e-global-typography-9730a4e-line-height );letter-spacing:var( --e-global-typography-9730a4e-letter-spacing );word-spacing:var( --e-global-typography-9730a4e-word-spacing );}}/\* Start custom CSS for form, class: .elementor-element-70fbc6a \*/.elementor-3329 .elementor-element.elementor-element-70fbc6a input {<br /> border-color: #65639C !important;<br />}<br />.elementor-3329 .elementor-element.elementor-element-70fbc6a input:is(:focus, :hover) {<br /> border-color: #B9B8CE !important;<br />}/\* End custom CSS \*/
 
 Full Name Business Email Subscribe
 

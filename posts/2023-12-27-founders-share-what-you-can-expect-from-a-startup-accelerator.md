@@ -473,8 +473,6 @@ Summary: What Are the Main Benefits of Working With a Startup Accelerator?
 
 The people. Whether it’s fellow entrepreneurs, advisors, mentors or investors, the networking aspect of an accelerator is clearly the biggest benefit of the experience, according to these entrepreneurs.
 
-/\*! elementor-pro - v3.19.0 - 05-02-2024 \*/<br /> .elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form\_\_step{width:100%}.e-form\_\_step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form\_\_buttons{flex-wrap:wrap}.e-form\_\_buttons,.e-form\_\_buttons\_\_wrapper{display:flex}.e-form\_\_indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form\_\_indicators\_\_indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form\_\_indicators\_\_indicator\_\_progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form
-
 ## What Are the Downsides of Working With a Startup Accelerator?
 
 Of course, there are some downsides to working with a startup accelerator. Both 500 startups and Y Combinator take 7% of your company.
