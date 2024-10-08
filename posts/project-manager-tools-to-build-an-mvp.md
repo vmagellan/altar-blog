@@ -8,6 +8,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "brands-people-Ax8IA8GAjVg-unsplash-scaled-1.jpg"
+slug: project-manager-tools-to-build-an-mvp
+author: Pedro Alves
 ---
 
 Over the last 20 years as a Project Manager, I’ve helped build many MVPs. Whether that's working with a team directly, or as part of an agency partnering with a startup team to turn their vision into reality.

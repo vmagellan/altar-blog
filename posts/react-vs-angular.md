@@ -7,6 +7,8 @@ tags:
   - "software-development"
   - "technology"
 coverImage: "Angular-vs-React.png"
+slug: react-vs-angular
+author: Andre Pinto
 ---
 
 Which is better for my startup, React or Angular?

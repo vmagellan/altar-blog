@@ -10,6 +10,8 @@ tags:
   - "startup-advisors"
   - "startup-lessons"
 coverImage: "Startup-accelerators-Norway-scaled.jpeg"
+slug: the-top-startup-accelerators-in-norway-how-to-apply
+author: Paolo Dotta
 ---
 
 Almost a decade ago, while building my first startup, I had my first experience with a startup accelerator.

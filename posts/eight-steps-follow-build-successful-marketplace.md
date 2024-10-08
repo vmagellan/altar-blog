@@ -8,6 +8,8 @@ tags:
   - "marketplace"
   - "startup"
 coverImage: "Build-a-Marketplace-Cover-Image-scaled-1.jpg"
+slug: eight-steps-follow-build-successful-marketplace
+author: Andre Lopes
 ---
 
 If you’re reading this, most likely you want to build a marketplace that brings real disruption to your sector.

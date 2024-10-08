@@ -9,6 +9,8 @@ tags:
   - "hiring"
   - "startup"
 coverImage: "IMGL0150-scaled-1.jpg"
+slug: business-coach-for-entrepreneurs-expert-interview
+author: Paolo Dotta
 ---
 
 When you hit a roadblock on your entrepreneurial journey, it can often feel impossible to push through to the next milestone.

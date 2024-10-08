@@ -11,6 +11,8 @@ tags:
   - "ui"
   - "ux"
 coverImage: "UXUI-Design-Process.webp"
+slug: ensure-startup-ux-ui-design-delights-your-users
+author: Antonio Monica
 ---
 
 When it comes to building a new startup product, there are a few universal goals that every founding team sets out to achieve.

@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "ryoji-iwata-5siQcvSxCP8-unsplash.jpg"
+slug: founder-story-fall-in-love-with-problems-not-solutions
+author: Paolo Dotta
 ---
 
 [Uri Levine](https://www.linkedin.com/in/uri-levine/), a serial entrepreneur and founder of Waze, famously coined the phrase:

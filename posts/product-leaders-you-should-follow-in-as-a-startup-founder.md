@@ -4,6 +4,8 @@ date: "2024-01-05"
 categories:
   - "startup-advice"
 coverImage: "Product-LEaders-You-Should-Follow-Cover.jpeg"
+slug: product-leaders-you-should-follow-in-as-a-startup-founder
+author: Azamat Tyulebayev
 ---
 
 Navigating the choppy waters of startup entrepreneurship is no small feat, especially when it comes to product development.

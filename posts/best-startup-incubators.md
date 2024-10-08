@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "priscilla-du-preez-XkKCui44iM0-unsplash-scaled-1.jpg"
+slug: best-startup-incubators
+author: Paolo Dotta
 ---
 
 I want to start this guide on startup incubators with two important points.

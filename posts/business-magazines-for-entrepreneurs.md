@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "10-of-the-Most-Relevant-Business-Magazines-for-Entrepreneurs-in-2021.jpeg"
+slug: business-magazines-for-entrepreneurs
+author: Jamie Russell-Curtis
 ---
 
 The business landscape is evolving and changing faster than ever. And it’s never been more critical for entrepreneurs to stay at the cutting edge of that evolution. As Wayne Gretsky famously said:

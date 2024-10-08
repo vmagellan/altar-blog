@@ -8,6 +8,8 @@ tags:
   - "guide"
   - "startup"
 coverImage: "austin-distel-VCFxt2yT1eQ-unsplash-scaled-1.jpg"
+slug: best-business-podcasts-for-entrepreneurs
+author: Jamie Russell-Curtis
 ---
 
 Bill Gates, Elon Musk, Sir Richard Branson, Steve Jobs.

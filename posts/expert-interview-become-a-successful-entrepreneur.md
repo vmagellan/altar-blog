@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "jonathan-farber-gjHmip_Lmg4-unsplash-scaled-1.jpg"
+slug: expert-interview-become-a-successful-entrepreneur
+author: Rui Lourenco
 ---
 
 Becoming a successful entrepreneur is a question many of us will ask. In fact, it's a question I recently came across on Quora:

@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "rupixen-com-Q59HmzK38eQ-unsplash-scaled-1.jpg"
+slug: from-struggling-to-buy-a-tv-to-startup-acquisition
+author: Rui Lourenco
 ---
 
 Throughout this series of interviews, I’ve talked to several non-tech entrepreneurs who’ve shared their insights and tips on building a startup.

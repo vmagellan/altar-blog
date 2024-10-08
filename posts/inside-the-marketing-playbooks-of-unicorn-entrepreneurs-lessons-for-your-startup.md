@@ -7,6 +7,8 @@ tags:
   - "entrepreneurship"
   - "startup-marketing"
 coverImage: "kaleidico-26MJGnCM0Wc-unsplash-scaled-1.jpg"
+slug: inside-the-marketing-playbooks-of-unicorn-entrepreneurs-lessons-for-your-startup
+author: Jamie Russell-Curtis
 ---
 
 In today's competitive business landscape, startups must prioritise their marketing strategies to create a lasting impact and establish a strong foothold in their respective industries.

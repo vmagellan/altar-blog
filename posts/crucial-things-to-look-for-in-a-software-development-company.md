@@ -9,6 +9,8 @@ tags:
   - "software-development"
   - "startup-lessons"
 coverImage: "pexels-thisisengineering-3861967-scaled-1.jpg"
+slug: crucial-things-to-look-for-in-a-software-development-company
+author: Rui Lourenco
 ---
 
 Since you're looking for information on how to choose the best software development company for you, I'll assume you did your reasoning on the matter of [in-house vs outsourcing](https://altar.io/should-a-startup-outsource-its-software-development/) and decided this is the best choice for your particular case.

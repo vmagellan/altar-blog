@@ -15,6 +15,8 @@ tags:
   - "startup-strategy"
   - "venture-capital"
 coverImage: "neil-godding-NMbZ7QM3XWM-unsplash.webp"
+slug: expert-interview-funding-your-startup
+author: Paolo Dotta
 ---
 
 There are countless articles on the web that talk about what investors look for when funding your startup. Normally they all focus on similar things:

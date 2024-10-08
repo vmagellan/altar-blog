@@ -4,6 +4,8 @@ date: "2023-01-06"
 categories: 
   - "startup-advice"
 coverImage: "jason-leung-Xaanw0s0pMk-unsplash-scaled-1.jpg"
+slug: best-entrepreneurship-articles-2022
+author: Rui Lourenco
 ---
 
 With another year over, we wanted to do a quick roundup of the best articles we published in 2022.

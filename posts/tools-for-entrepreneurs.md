@@ -4,6 +4,8 @@ date: "2024-05-07"
 categories:
   - "startup-advice"
 coverImage: "nordwood-themes-BJx8whKXCgc-unsplash-scaled-1.jpg"
+slug: tools-for-entrepreneurs
+author: Jamie Russell-Curtis
 ---
 
 Think about someone you know. A family member, a friend, a colleague.

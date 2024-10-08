@@ -9,6 +9,8 @@ tags:
   - "investors"
   - "startup"
 coverImage: "success-2081167_1280.jpg"
+slug: how-to-pitch-to-investors
+author: Paolo Dotta
 ---
 
 Did you know that running out of capital means the end of the road for around [29% of startups](https://www.cbinsights.com/research/startup-failure-reasons-top/)?

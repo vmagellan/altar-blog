@@ -4,6 +4,8 @@ date: "2024-07-19"
 categories:
   - "startup-journey-interviews"
 coverImage: "ChatGPT-startup-founder.png"
+slug: against-the-grain-how-a-dorm-room-startup-achieved-30m-in-funding-founder-story
+author: Rui Lourenco
 ---
 
 There is a misconception that the most successful founders are young.

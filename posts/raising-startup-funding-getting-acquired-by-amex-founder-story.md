@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "DALL·E-June-28-Scene.webp"
+slug: raising-startup-funding-getting-acquired-by-amex-founder-story
+author: Rui Lourenco
 ---
 
 In the world of fintech startups, few stories are as inspiring as that of [Kathryn Petralia](https://www.linkedin.com/in/kathrynpetralia/) and her journey with Kabbage.

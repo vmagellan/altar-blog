@@ -8,6 +8,8 @@ tags:
   - "entrepreneurship"
   - "mvp"
 coverImage: "Futuristic-Customer-Support.webp"
+slug: ai-agents-for-startup
+author: Rui Vas
 ---
 
 #### Game-changing AI agents 

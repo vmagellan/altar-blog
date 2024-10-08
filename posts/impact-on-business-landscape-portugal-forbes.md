@@ -4,6 +4,8 @@ date: "2022-03-04"
 categories: 
   - "news-from-our-world"
 coverImage: "Screenshot-2022-03-03-at-17.29.57.png"
+slug: impact-on-business-landscape-portugal-forbes
+author: Rui Lourenco
 ---
 
 Forbes has just released its country report from March 2022 and it's all about Europe's westernmost country, Portugal.

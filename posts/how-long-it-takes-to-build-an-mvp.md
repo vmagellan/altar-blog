@@ -10,6 +10,8 @@ tags:
   - "product"
   - "startup"
 coverImage: "How-Long-Does-It-Take-to-Build-an-MVP-Minimum-Viable-Product.jpeg"
+slug: how-long-it-takes-to-build-an-mvp
+author: Paolo Dotta
 ---
 
 If you’re reading this, chances are that you’re about to take the first step in turning your business vision into a reality by building an MVP.

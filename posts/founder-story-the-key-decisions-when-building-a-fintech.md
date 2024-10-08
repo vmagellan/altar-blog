@@ -12,6 +12,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "money-2696235_1920.jpg"
+slug: founder-story-the-key-decisions-when-building-a-fintech
+author: Paolo Dotta
 ---
 
 The best business ideas don’t come from the entrepreneurs who are focusing their efforts on becoming the next Gates, Zuckerberg or Branson.

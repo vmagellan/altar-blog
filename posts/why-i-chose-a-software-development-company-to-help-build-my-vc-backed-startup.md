@@ -4,6 +4,8 @@ date: "2023-12-14"
 categories: 
   - "looking-for-development"
 coverImage: "Why-I-chose-a-software-development-company-to-build-my-startup.png"
+slug: why-i-chose-a-software-development-company-to-help-build-my-vc-backed-startup
+author: Liam Gerada
 ---
 
 My entrepreneurial path began with a simple idea: creating a consignment marketplace for sneakers and streetwear.

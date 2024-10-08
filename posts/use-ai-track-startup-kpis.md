@@ -4,6 +4,8 @@ date: "2024-05-14"
 categories:
   - "startup-advice"
 coverImage: "0106206F-C8F8-4040-BA1C-F8B032A48227.jpg"
+slug: use-ai-track-startup-kpis
+author: Rui Vas
 ---
 
 Part of what makes Entrepreneurship hard is the amount of factors involved in striving for success. A lot of variables are outside the control of the innovator. Hence, rigorous hypothesis design and testing ([Riskiest Assumptions Test - RAT](https://www.apptunix.com/blog/riskiest-assumption-test/)) is called for, if a startup is to increase its chances of success against a [staggering 90% failure rate](https://explodingtopics.com/blog/startup-failure-stats).

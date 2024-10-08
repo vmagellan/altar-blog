@@ -4,6 +4,8 @@ date: "2024-01-03"
 categories:
   - "startup-advice"
 coverImage: "AI-tools-cover-image.webp"
+slug: the-best-ai-tools-for-entrepreneurs-startups
+author: Jamie Russell-Curtis
 ---
 
 In today’s rapidly evolving business landscape, leveraging cutting-edge AI technology is no longer a luxury but a necessity.

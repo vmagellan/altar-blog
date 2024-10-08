@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "venture-capital"
 coverImage: "mockup_air_2.jpg"
+slug: ultimate-list-active-150-fintech-investors
+author: Paolo Dotta
 ---
 
 As you may know, at Altar, we’ve been [operating in the fintech sector](https://altar.io/work/) for the last couple of years. In the early days, we struggled to understand who we should contact at which [funding stage](https://altar.io/startup-series-funding-everything-you-need-to-know/).

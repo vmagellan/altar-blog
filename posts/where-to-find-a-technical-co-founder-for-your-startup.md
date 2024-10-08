@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "damian-zaleski-RYyr-k3Ysqg-unsplash-scaled-1.jpg"
+slug: where-to-find-a-technical-co-founder-for-your-startup
+author: Rui Lourenco
 ---
 
 It’s harder than ever to find the right technical co-founder to help you turn your business vision into a tangible startup product.

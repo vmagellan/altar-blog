@@ -4,6 +4,8 @@ date: "2022-07-27"
 categories: 
   - "tech-knowledge"
 coverImage: "Starlink-Unbox-over-shoulder.png"
+slug: starlink-review
+author: Claudio Teixeira
 ---
 
 Recently, SpaceX launched Starlink in Portugal. So, naturally, I got one for Altar as soon as the pre-orders opened.

@@ -12,6 +12,8 @@ tags:
   - "product"
   - "startup"
 coverImage: "jacek-dylag-xPugU5J5ePc-unsplash-scaled-1.jpg"
+slug: key-lessons-fintech-founders
+author: Paolo Dotta
 ---
 
 Roughly a year ago, I started reaching out to fintech founders to ask them about their startup journeys, and discover how they overcame the common hurdles of building a fintech.

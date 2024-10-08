@@ -9,6 +9,8 @@ tags:
   - "portugal"
   - "startup"
 coverImage: "underground-mob-saIrF-d9fuY-unsplash-scaled-1.jpg"
+slug: how-to-start-a-business-in-portugal
+author: Andre Lopes
 ---
 
 There are [many reasons why](https://altar.io/blog/lisbon-great-place-develop-startup/) choosing Portugal to start your business is a good decision, like the fact it's ranked [the best place in the world to work remotely](https://www.kayak.co.uk/work-from-wherever/rank). But I'm sure you know all of that already. So, I'll just move on to the next step: how to do it.

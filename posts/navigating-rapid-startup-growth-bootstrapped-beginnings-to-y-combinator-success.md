@@ -4,6 +4,8 @@ date: "2023-11-17"
 categories:
   - "startup-journey-interviews"
 coverImage: "DALLC2B7E-Podcast-Studio.png"
+slug: navigating-rapid-startup-growth-bootstrapped-beginnings-to-y-combinator-success
+author: Jamie Russell-Curtis
 ---
 
 In the realm of the modern software-as-a-service (SaaS) startup, data is the currency of choice.

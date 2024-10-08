@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "Switzerland-Accelerators.jpeg"
+slug: switzerlands-leading-startup-accelerators
+author: Paolo Dotta
 ---
 
 Navigating the complex world of startup accelerators or even discerning if the model suits your needs, can be a daunting task that leaves you feeling swamped.

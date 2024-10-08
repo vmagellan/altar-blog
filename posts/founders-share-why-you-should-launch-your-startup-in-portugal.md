@@ -4,6 +4,8 @@ date: "2024-05-08"
 categories:
   - "startup-advice"
 coverImage: "DALL·E-May-8-Discussion.webp"
+slug: founders-share-why-you-should-launch-your-startup-in-portugal
+author: Jamie Russell-Curtis
 ---
 
 In recent years, Portugal has firmly established itself as a thriving hub for tech startups – ranking #26 in the latest [Global Startup Ecosystem Report](https://www.startupblink.com/).

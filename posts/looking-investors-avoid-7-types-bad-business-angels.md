@@ -8,6 +8,8 @@ tags:
   - "fundraising"
   - "startup"
 coverImage: "bad-invesors.jpeg"
+slug: looking-investors-avoid-7-types-bad-business-angels
+author: Andre Lopes
 ---
 
 You’re building your tech venture and looking for investors, but it’s still too early to approach Venture Capitalists (VCs). So you decide, instead, to fill your next months’ calendar with meetings with Business Angels.

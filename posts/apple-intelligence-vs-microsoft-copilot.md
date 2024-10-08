@@ -4,6 +4,8 @@ date: "2024-06-20"
 categories:
   - "tech-knowledge"
 coverImage: "VS.png"
+slug: apple-intelligence-vs-microsoft-copilot
+author: Rui Vas
 ---
 
 ![Apple Intelligence Keynote at WWDC24](images/Screenshot-2024-06-20-at-18.45.24-1024x734.png)

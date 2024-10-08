@@ -4,6 +4,8 @@ date: "2022-04-01"
 categories:
   - "startup-advice"
 coverImage: "brooke-cagle-uHVRvDr7pg-unsplash-scaled-1.jpg"
+slug: vital-lessons-on-building-a-startup-team
+author: Rui Lourenco
 ---
 
 ![Altar - What is Saying](images/Screenshot-2022-04-06-at-16.13.29.png)

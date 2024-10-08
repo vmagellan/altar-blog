@@ -4,6 +4,8 @@ date: "2023-11-24"
 categories:
   - "startup-advice"
 coverImage: "ChatGPT.webp"
+slug: why-big-corporations-need-lean-startup-techniques-a-path-to-innovation-and-growth
+author: Rui Lourenco
 ---
 
 In the rapidly evolving business landscape, the mantra "adapt or die" holds more weight than ever.

@@ -8,6 +8,8 @@ tags:
   - "entrepreneurship"
   - "guide"
 coverImage: "AI-Enablement.webp"
+slug: navigating-ai-enablement-business
+author: Vasco Ramalho
 ---
 
 As companies navigate the digital transformation, the move towards Generative AI and AI enablement is becoming increasingly prominent.

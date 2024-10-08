@@ -4,6 +4,8 @@ date: "2023-06-28"
 categories: 
   - "tech-knowledge"
 coverImage: "June-28-Screenshot-from-Altar.png"
+slug: updates-announced-at-figma-config
+author: Ewa Hendrychowska
 ---
 
 Last week, I attended Figma’s annual design conference, [Figma Config](https://config.figma.com/), to learn about all the innovative updates they’re bringing to the platform.

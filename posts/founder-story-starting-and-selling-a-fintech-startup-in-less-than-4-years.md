@@ -10,6 +10,8 @@ tags:
   - "software"
   - "startup-expert"
 coverImage: "austin-neill-gmuAWJGNHcY-unsplash-scaled-1.jpg"
+slug: founder-story-starting-and-selling-a-fintech-startup-in-less-than-4-years
+author: Paolo Dotta
 ---
 
 From “challenger banks” to cryptocurrency and blockchain technology, fintech startups such as Stripe & Paypal continue to revolutionise the financial industry. And with over [20,000 fintech startups](https://www.statista.com/statistics/893954/number-fintech-startups-by-region/#:~:text=There%20were%208%2C775%20financial%20technology,in%20the%20Asia%20Pacific%20region.) across the globe breaking into this competitive landscape is no easy task.

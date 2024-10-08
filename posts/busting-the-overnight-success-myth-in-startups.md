@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "per-loov-oXqn2CXC_9Q-unsplash-1-scaled-1.jpg"
+slug: busting-the-overnight-success-myth-in-startups
+author: Rui Lourenco
 ---
 
 They came out of nowhere, now they’re making millions… They’re an overnight success!

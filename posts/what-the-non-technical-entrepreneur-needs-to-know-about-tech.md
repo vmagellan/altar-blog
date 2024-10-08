@@ -9,6 +9,8 @@ tags:
   - "tech-concepts"
   - "technology"
 coverImage: "What-The-Non-Technical-Entrepreneur-Needs-To-Know-About-Tech-1.webp"
+slug: what-the-non-technical-entrepreneur-needs-to-know-about-tech
+author: Daniel de Castro Ruivo
 ---
 
 You’re a non-technical entrepreneur and you have a business-driven vision for your startup. As an entrepreneur, you don’t need to be a technical expert. However, you do need to know the basic concepts because many tech decisions are business decisions.

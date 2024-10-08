@@ -13,6 +13,8 @@ tags:
   - "tech-team"
   - "technical-founder"
 coverImage: "How-To-Choose-a-Technical-Partner-to-Help-Build-Your-Startup-scaled-1.jpg"
+slug: finding-the-right-tech-partner-for-your-startup
+author: Rui Lourenco
 ---
 
 Building a Startup? Hopefully, that means you’ve found a problem or inefficiency, you thought long and hard about it, and now have a vision on the best way to solve it with a technical solution.

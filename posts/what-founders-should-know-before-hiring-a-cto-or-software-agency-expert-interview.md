@@ -11,6 +11,8 @@ tags:
   - "tech-team"
   - "technology"
 coverImage: "glenn-carstens-peters-npxXWgQ33ZQ-unsplash-scaled-1.jpg"
+slug: what-founders-should-know-before-hiring-a-cto-or-software-agency-expert-interview
+author: Paolo Dotta
 ---
 
 I recently sat down with [Nelly Yusupova](https://www.linkedin.com/in/digitalwoman/), a CTO & Startup Advisor with 18 years of experience in the tech industry. Throughout our conversation, she shared a number of tips and insights on exactly what you should do as a non-technical founder before you begin your search for a technical partner.

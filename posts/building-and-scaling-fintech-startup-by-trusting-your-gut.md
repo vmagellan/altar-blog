@@ -8,6 +8,8 @@ tags:
   - "mvp"
   - "product"
   - "startup"
+slug: building-and-scaling-fintech-startup-by-trusting-your-gut
+author: Paolo Dotta
 ---
 
 As startup founders, much of our decision making is grounded in empirical data, and that makes sense. There’s too much at stake to risk it all purely on guesswork.

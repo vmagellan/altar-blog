@@ -10,6 +10,8 @@ tags:
   - "product-market-fit"
   - "startup-lessons"
 coverImage: "Jigsaw-1-scaled.jpg"
+slug: mastering-multi-dimensional-alignment-for-startup-success
+author: Azamat Tyulebayev
 ---
 
 The startup journey is all about making sure all the pieces fit together seamlessly. You begin with Product-Market Fit (PMF), ensuring a demand for your product.

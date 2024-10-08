@@ -9,6 +9,8 @@ tags:
   - "software-development"
   - "startup-guide"
 coverImage: "jefferson-santos-9SoCnyQmkzI-unsplash-scaled-1.jpg"
+slug: ultimate-guide-dedicated-software-development-team
+author: Andre Lopes
 ---
 
 Since founding Altar.io I’ve worked with a lot of entrepreneurs and business managers who struggle to find developers for their startup.

@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup-lessons"
 coverImage: "tim-gouw-1K9T5YiZ2WU-unsplash.jpg"
+slug: 10-reasons-why-outsourcing-software-development-fails
+author: Rui Lourenco
 ---
 
 As an entrepreneur, you are spoiled for choice when it comes to outsourcing software development.

@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "ux-indonesia-WCID2JWoxwE-unsplash-scaled-1.jpg"
+slug: mistakes-to-avoid-when-building-an-mvp
+author: Paolo Dotta
 ---
 
 Since we launched in 2015,  my co-founding team and I have had the opportunity to help build over 50 MVPs.

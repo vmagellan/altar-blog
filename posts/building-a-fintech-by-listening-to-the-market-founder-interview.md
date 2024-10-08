@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "samuel-pereira-uf2nnANWa8Q-unsplash-scaled-1.jpg"
+slug: building-a-fintech-by-listening-to-the-market-founder-interview
+author: Paolo Dotta
 ---
 
 When serial entrepreneur [Illit Geller](https://www.linkedin.com/in/illit-geller-38914023/) started telling me her story, I could instantly see why the fintech startup she founded, [TradAir](https://www.linkedin.com/company/tradair/) raised $11M in its latest funding round.

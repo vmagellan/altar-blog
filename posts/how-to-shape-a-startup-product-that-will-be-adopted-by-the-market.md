@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "Startup-Product.png"
+slug: how-to-shape-a-startup-product-that-will-be-adopted-by-the-market
+author: Simon Tadeu
 ---
 
 Product adoption stands as a pivotal factor determining success or stagnation for startups.

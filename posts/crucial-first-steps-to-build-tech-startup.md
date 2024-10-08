@@ -4,6 +4,8 @@ date: "2021-06-25"
 categories:
   - "startup-advice"
 coverImage: "The-Crucial-First-Steps-to-Build-a-Successful-Tech-Startup.jpeg"
+slug: crucial-first-steps-to-build-tech-startup
+author: Paolo Dotta
 ---
 
 Author and iconic 1950s motivational speaker [Earl Nightingale](https://www.nightingale.com/authors/earl-nightingale.html) famously said:

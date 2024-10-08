@@ -9,6 +9,8 @@ tags:
   - "startup-guide"
   - "startup-mentors"
 coverImage: "hunters-race-MYbhN8KaaEc-unsplash-scaled-1.jpg"
+slug: expert-interview-ultimate-guide-to-startup-advisors
+author: Paolo Dotta
 ---
 
 “Startup advisors are crucial to the success of your business.”

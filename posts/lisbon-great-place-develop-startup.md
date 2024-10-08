@@ -8,6 +8,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "lisbon-space.jpeg"
+slug: lisbon-great-place-develop-startup
+author: Andre Lopes
 ---
 
 Over the last few years, Lisbon has blossomed into one of the best cities to build a startup in Europe — and the startup ecosystem isn’t showing signs of slowing down.

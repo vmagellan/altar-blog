@@ -4,6 +4,8 @@ date: "2024-01-01"
 categories:
   - "startup-advice"
 coverImage: "kvalifik-5Q07sS54D0Q-unsplash-scaled-1.jpg"
+slug: 7-steps-bring-your-startup-idea-to-life
+author: Rui Lourenco
 ---
 
 When our founder Daniel first had the idea to build Altar, he’d already built six startups from the ground up.

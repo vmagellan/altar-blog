@@ -4,6 +4,8 @@ date: "2022-07-28"
 categories:
   - "looking-for-development"
 coverImage: "pexels-christina-morillo-1181263-scaled-1.jpg"
+slug: ways-to-attract-retain-developers-for-your-startup
+author: Rui Lourenco
 ---
 
 When it comes to attracting and retaining software developers for your startup, there are several factors to consider to stay ahead of the curve.

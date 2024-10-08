@@ -4,6 +4,8 @@ date: "2023-01-13"
 categories: 
   - "tech-knowledge"
 coverImage: "Agile-Methodology.webp"
+slug: agile-scrum-startup-guide
+author: Mariia Mieimankulova
 ---
 
 If you’re an entrepreneur beginning your tech startup journey, you’ve probably heard the terms Agile and Scrum get thrown around.

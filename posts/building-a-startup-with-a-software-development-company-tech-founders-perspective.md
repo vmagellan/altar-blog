@@ -4,6 +4,8 @@ date: "2023-07-12"
 categories: 
   - "looking-for-development"
 coverImage: "fotis-fotopoulos-DuHKoV44prg-unsplash-scaled-1.jpg"
+slug: building-a-startup-with-a-software-development-company-tech-founders-perspective
+author: Sachin Tandon
 ---
 
 I’m an entrepreneur and investor who’s spent the last 20 years working my way through the entrepreneurial journey. In that time, I’ve also become an investor and advisor to several startups.

@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "technology"
 coverImage: "cloud-data-4053448_1920-2.jpg"
+slug: cloud-migration-fintech-trends
+author: Claudio Teixeira
 ---
 
 As CTO at [Altar.io](https://altar.io/), a large part of my work revolves around observing the forward-looking industry trends (including fintech trends) that affect how we create innovative products.

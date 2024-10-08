@@ -4,6 +4,8 @@ date: "2021-12-12"
 categories:
   - "news-from-our-world"
 coverImage: "award-2020-clutch-leading-clutch-agency.png"
+slug: the-reason-why-altar-won-top-agency-2020
+author: Rui Lourenco
 ---
 
 Earlier this year, we were named by Clutch a top development partner in 2021.

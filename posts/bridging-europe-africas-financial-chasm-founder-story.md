@@ -7,6 +7,8 @@ tags:
   - "entrepreneurship"
   - "guide"
 coverImage: "Person-holding-black-android-smartphone-scaled-1.jpg"
+slug: bridging-europe-africas-financial-chasm-founder-story
+author: Jamie Russell-Curtis
 ---
 
 When it comes to the startup world, every entrepreneur has a unique journey filled with ups, downs and a whole lot of learning.

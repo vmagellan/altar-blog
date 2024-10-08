@@ -10,6 +10,8 @@ tags:
   - "product"
   - "startup"
 coverImage: "Light-bulb-drawing-scaled.jpg"
+slug: how-to-setup-your-startup-mvp-for-success
+author: Simon Tadeu
 ---
 
 A while back, I read an [article from Sifted](https://email.sifted.eu/the-year-of-rip-posts?ecid=ACsprvufZ322zUznpeA3mvTkjhYaMyGDmaohjI3A3PJ1bp8xOTMzswrfQUemprlEA_OsDjWR1b7j) that talked about LinkedIn posts as indicators of what the next big thing in tech is or where we are in the cycle.

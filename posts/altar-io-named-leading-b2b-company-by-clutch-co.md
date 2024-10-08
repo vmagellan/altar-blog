@@ -7,6 +7,8 @@ tags:
   - "awards"
   - "leading-it-companies"
 coverImage: "award-2020-clutch-leading-clutch-agency.png"
+slug: altar-io-named-leading-b2b-company-by-clutch-co
+author: Rui Lourenco
 ---
 
 It’s a great day here at Altar. We were named one of the leading B2B companies in Clutch’s latest Western European [award list](https://clutch.co/press-releases/announces-most-highly-rated-b2b-firms-western-europe).

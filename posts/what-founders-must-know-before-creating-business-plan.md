@@ -11,6 +11,8 @@ tags:
   - "startup-guide"
   - "startup-lessons"
 coverImage: "pexels-fauxels-3184292-scaled-1.jpg"
+slug: what-founders-must-know-before-creating-business-plan
+author: Rui Lourenco
 ---
 
 Since I started my career in Marketing over a decade ago, I’ve seen my fair share of go-to-market strategies, marketing and business plans.

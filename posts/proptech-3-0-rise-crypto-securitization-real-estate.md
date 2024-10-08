@@ -9,6 +9,8 @@ tags:
   - "fintech"
   - "real-estate"
 coverImage: "kiev-cathedral-xlarge.jpg"
+slug: proptech-3-0-rise-crypto-securitization-real-estate
+author: Andre Lopes
 ---
 
 Proptech or Real Estate Technology has had several stages in its yet short-lived existence. The consensus is that soon we will have more startups that will automate several processes in time-consuming and expensive usages. But the truly revolutionary aspect will be the advent of Crypto Securitization.

@@ -8,6 +8,8 @@ tags:
   - "product"
   - "startup-lessons"
 coverImage: "Where-to-Find-a-Product-Manager.jpeg"
+slug: ultimate-guide-hire-product-manager-startup
+author: Paolo Dotta
 ---
 
 Since me and my co-founders launched Altar in 2015, we’ve helped over 80 entrepreneurs bring their startup visions to life by helping them with both their software development and product rationale. Many of them have gone on to hire a Product Manager of their own once they’ve worked with us to validate their product in the market with an MVP.

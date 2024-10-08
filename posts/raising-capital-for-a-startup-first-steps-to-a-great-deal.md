@@ -12,6 +12,8 @@ tags:
   - "investors"
   - "venture-capital"
 coverImage: "0iJwKFmVBeOG_FXfB.jpg"
+slug: raising-capital-for-a-startup-first-steps-to-a-great-deal
+author: Paolo Dotta
 ---
 
 Money, or lack of it, can make or break a startup. Period.

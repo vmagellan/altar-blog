@@ -10,6 +10,8 @@ tags:
   - "non-functional-mvp"
   - "startup"
 coverImage: "opposites-22.png"
+slug: mvp-functional-non-functional-startup-early-stage-dilemma
+author: Daniel de Castro Ruivo
 ---
 
 If you’re deciding how to create your MVP there is an initial question you must ask yourself: **"Should I make a Functional OR Non-functional MVP?”**

@@ -10,6 +10,8 @@ tags:
   - "guide"
   - "startup"
 coverImage: "tetiana-shyshkina-jvwfLoWysWc-unsplash-scaled-1.jpg"
+slug: what-startup-investors-look-for-in-entrepreneurs-and-their-teams
+author: Paolo Dotta
 ---
 
 When building your startup you can have a great idea and the perfect market conditions and still come up short. For both your startup and investors, execution is key.

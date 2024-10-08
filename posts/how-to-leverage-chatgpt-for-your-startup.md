@@ -4,6 +4,8 @@ date: "2024-01-26"
 categories:
   - "startup-advice"
 coverImage: "ChatGPT-4-Integration-Landscape.png"
+slug: how-to-leverage-chatgpt-for-your-startup
+author: Jamie Russell-Curtis
 ---
 
 This is [João Ferrão dos Santos](https://www.linkedin.com/in/joao-ferrao-dos-santos/).

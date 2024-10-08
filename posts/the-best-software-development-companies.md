@@ -4,6 +4,8 @@ date: "2024-01-10"
 categories:
   - "looking-for-development"
 coverImage: "emile-perron-xrVDYZRGdw4-unsplash-scaled-1.jpg"
+slug: the-best-software-development-companies
+author: Rui Lourenco
 ---
 
 Let me start by saying that this list of the “best software development companies out there” may be a bit different from what you’re used to seeing online.

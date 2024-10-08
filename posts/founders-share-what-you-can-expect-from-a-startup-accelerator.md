@@ -5,6 +5,8 @@ categories:
   - "startup-advice"
   - "startup-expert-interviews"
 coverImage: "mars-sector-6-IgUR1iX0mqM-unsplash-scaled-1.jpg"
+slug: founders-share-what-you-can-expect-from-a-startup-accelerator
+author: Rui Lourenco
 ---
 
 Startup accelerators have rapidly increased in popularity ever since Y Combinator came into existence in 2005.

@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "./images/4-6-weeks.jpeg"
+slug: why-your-startup-should-take-4-6-weeks-to-launch-not-4-6-months
+author: Andre Lopes
 ---
 
 Developing a Minimum Viable Product has quickly become the industry standard for startups to ensure they build a user-centric product with a quick time-to-market.

@@ -11,6 +11,8 @@ tags:
   - "software-development"
   - "startup-lessons"
 coverImage: "Adil-Software-Development-Company-Cover-scaled-1.jpg"
+slug: finding-a-software-development-company-startup
+author: Adil Kurt-Elli
 ---
 
 I want to start by saying that I’m not a tech person. I qualified as a lawyer on the other side of the millennium, so I’m also [older than your stereotypical startup founder](https://altar.io/managers-improve-become-successful-entrepreneurs/).

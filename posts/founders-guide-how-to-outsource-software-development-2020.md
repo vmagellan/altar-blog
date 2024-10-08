@@ -11,6 +11,8 @@ tags:
   - "startup-lessons"
   - "startup-strategy"
 coverImage: "Guide-.jpeg"
+slug: founders-guide-how-to-outsource-software-development-2020
+author: Daniel de Castro Ruivo
 ---
 
 <iframe src="https://w.soundcloud.com/player/?visual=false&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1886745174&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=800&amp;auto_play=false&amp;buying=true&amp;liking=true&amp;download=true&amp;sharing=true&amp;show_comments=true&amp;show_playcount=true&amp;show_user=true&amp;color=E7107E" width="800" height="200" frameborder="no"></iframe>

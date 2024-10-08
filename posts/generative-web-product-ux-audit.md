@@ -11,6 +11,8 @@ tags:
   - "ux"
   - "ux-audit"
 coverImage: "Evolution-of-Web-Cover.webp"
+slug: generative-web-product-ux-audit
+author: Vasco Ramalho
 ---
 
 The evolution of the internet can be divided into consistent periods or generations that group a technological paradigm. We all have heard the terms Web1, Web2 and most recently Web3 when talking about the history of the Web (I’ll go into detail on all of them in just a bit). These terms represent a holistic vision of a certain relevant period (around a decade) and give an overview of the general case for the functioning of the products born during that time.

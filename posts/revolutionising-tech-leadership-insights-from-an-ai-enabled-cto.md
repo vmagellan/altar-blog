@@ -11,6 +11,8 @@ tags:
   - "tech-team"
   - "technology"
 coverImage: "AI-Enabled-CTO.png"
+slug: revolutionising-tech-leadership-insights-from-an-ai-enabled-cto
+author: Claudio Teixeira
 ---
 
 As a Chief Technology Officer (CTO) who primarily works with entrepreneurs and early-stage startups to help them build their MVPs, my firsthand experiences with the transformative impact of artificial intelligence (AI) has reshaped my perception and approach to the role of a CTO.

@@ -4,6 +4,8 @@ date: "2023-01-04"
 categories:
   - "looking-for-development"
 coverImage: "van-tay-media-TFFn3BYLc5s-unsplash-scaled-1.jpg"
+slug: essential-steps-to-successfully-interview-developers
+author: Andre Lopes
 ---
 
 The [global developer shortage](https://www.forbes.com/sites/forbestechcouncil/2021/06/08/is-there-a-developer-shortage-yes-but-the-problem-is-more-complicated-than-it-looks/?sh=6443dc6d3b8e) has made it harder than ever to source high-quality talent for your startup.

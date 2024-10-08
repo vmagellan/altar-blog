@@ -11,6 +11,8 @@ tags:
   - "product"
   - "startup-lessons"
 coverImage: "chris-lynch-Qruwi3Ur3Ak-unsplash-scaled-1.jpg"
+slug: 30-year-startup-lessons-you-cant-afford-to-ignore
+author: Rui Lourenco
 ---
 
 In this edition of [The Startup Journey Podcast](https://altar.io/podcast/)*,* I had the opportunity to sit down with the remarkable [Diane Prince](https://www.linkedin.com/in/dianeprincejohnston/).

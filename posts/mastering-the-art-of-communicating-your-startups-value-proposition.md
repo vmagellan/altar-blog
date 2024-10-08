@@ -4,6 +4,8 @@ date: "2023-05-05"
 categories:
   - "startup-advice"
 coverImage: "jason-goodman-Oalh2MojUuk-unsplash-scaled-1.jpg"
+slug: mastering-the-art-of-communicating-your-startups-value-proposition
+author: Rui Lourenco
 ---
 
 Your value proposition is critical to the success or failure of your startup.

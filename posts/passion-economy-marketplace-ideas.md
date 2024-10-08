@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "the-passion-economy"
 coverImage: "cowomen-UUPpu2sYV6E-unsplash-scaled-1.jpg"
+slug: passion-economy-marketplace-ideas
+author: Andre Lopes
 ---
 
  **You are never a commodity when you are being yourself**

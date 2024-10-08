@@ -4,6 +4,8 @@ date: "2024-08-02"
 categories:
   - "tech-knowledge"
 coverImage: "Startup-founder-office.png"
+slug: beyond-the-ai-hype
+author: Vasco Ramalho
 ---
 
 The explosion of AI companies over the past year has been overwhelming.

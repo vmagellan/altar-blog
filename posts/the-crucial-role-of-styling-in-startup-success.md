@@ -4,6 +4,8 @@ date: "2024-01-04"
 categories:
   - "tech-knowledge"
 coverImage: "Instersection-of-Design-Development.png"
+slug: the-crucial-role-of-styling-in-startup-success
+author: Mariana Silva
 ---
 
 It’s easy for things to get lost in translation. We learn this as kids when we play the telephone game – where a sentence is whispered from one person to another. In the course of the game, either because we misheard something or felt like we could make it more concise and still get the same message across, the original idea turns into something else entirely.

@@ -9,6 +9,8 @@ tags:
   - "startup-lessons"
   - "startup-strategy"
 coverImage: "remote-work-vs.-office-3-.jpeg"
+slug: remote-work-vs-the-office-whats-best-for-your-startup
+author: Paolo Dotta
 ---
 
 In the last few years, there’s been a trend among startup founders to set up geographically distributed teams.

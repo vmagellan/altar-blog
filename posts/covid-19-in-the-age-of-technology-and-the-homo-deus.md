@@ -4,6 +4,8 @@ date: "2020-04-06"
 categories: 
   - "tech-knowledge"
 coverImage: "beatles-abbey-road-social-distancing.jpg"
+slug: covid-19-in-the-age-of-technology-and-the-homo-deus
+author: Andre Lopes
 ---
 
 As I write these words we’ve just passed one million known infected with COVID-19 and the economies of the “advanced” world are certainly going into a recession (two quarters of negative growth). In a globalised world physically connected by just over 100,000 flights per day, contagious disease populates the world in a matter of weeks. With a global mortality rate of around 10%, despite modern medicine, this is yet another global “plague”. But we as a globally connected society have new tools (such as lung ventilators) and new tricks (social distancing).

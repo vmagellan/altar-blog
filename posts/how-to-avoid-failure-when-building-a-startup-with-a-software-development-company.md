@@ -8,6 +8,8 @@ tags:
   - "software-development"
   - "startup-lessons"
 coverImage: "pexels-pixabay-247791-scaled-1.jpg"
+slug: how-to-avoid-failure-when-building-a-startup-with-a-software-development-company
+author: Rui Lourenco
 ---
 
 At Altar, a large part of my work revolves around talking to entrepreneurs about the topic of outsourcing to a software development company.

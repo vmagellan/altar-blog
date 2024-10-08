@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "klemens-kopfle-ZWr7AuD-TYM-unsplash-scaled-1.jpg"
+slug: lessons-learned-from-over-25-years-in-silicon-valley-founder-story
+author: Rui Lourenco
 ---
 
 Recently, I sat down with serial entrepreneur and startup founder, Garrett Gafke to talk about how he built his startup, IdentityMind.

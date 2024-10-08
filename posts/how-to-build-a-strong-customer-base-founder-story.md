@@ -4,6 +4,8 @@ date: "2024-07-11"
 categories:
   - "startup-journey-interviews"
 coverImage: "Startup-founder-solving-problem.png"
+slug: how-to-build-a-strong-customer-base-founder-story
+author: Rui Lourenco
 ---
 
 It’s no secret that one of the biggest challenges a founder of a startup or SME faces is liquidity.

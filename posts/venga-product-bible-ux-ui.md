@@ -10,6 +10,8 @@ tags:
   - "ui"
   - "ux"
 coverImage: "venga-bible.png"
+slug: venga-product-bible-ux-ui
+author: Paolo Dotta
 ---
 
 I'll start by saying that this is more than a case study for me. This is the story of my first venture as a startup founder when I set out to build a marketplace.

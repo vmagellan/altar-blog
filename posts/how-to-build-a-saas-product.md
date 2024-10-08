@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "christopher-gower-m_HRfLhgABo-unsplash-scaled-1.jpg"
+slug: how-to-build-a-saas-product
+author: Paolo Dotta
 ---
 
 Roughly a decade ago I decided to move away from my corporate job in investment banking in London to pursue something I always knew I wanted: to become an entrepreneur.

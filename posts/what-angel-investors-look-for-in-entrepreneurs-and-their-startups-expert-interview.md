@@ -4,6 +4,8 @@ date: "2021-02-19"
 categories:
   - "startup-expert-interviews"
 coverImage: "gilly-wcWN29NufMQ-unsplash-scaled-1.jpg"
+slug: what-angel-investors-look-for-in-entrepreneurs-and-their-startups-expert-interview
+author: Paolo Dotta
 ---
 
 Many years ago, way before co-founding Altar.io, I quit my job in investment banking absolutely convinced I wanted to be an entrepreneur.

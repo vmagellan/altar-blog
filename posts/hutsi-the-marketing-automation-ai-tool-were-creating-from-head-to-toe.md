@@ -10,6 +10,8 @@ tags:
   - "marketing"
   - "startup"
 coverImage: "hutsi.jpeg"
+slug: hutsi-the-marketing-automation-ai-tool-were-creating-from-head-to-toe
+author: Daniel de Castro Ruivo
 ---
 
 Are You Relevant To Your Customers and Leads?

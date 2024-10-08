@@ -4,6 +4,8 @@ date: "2019-03-21"
 categories: 
   - "tech-knowledge"
 coverImage: "Angulartics-2-first-image.png"
+slug: powerful-analytics-tool-for-angular-applications-angulartics2
+author: Joao Ribeiro
 ---
 
 We’ve created the open-source library [Angulartics2](https://github.com/angulartics/angulartics2) to plug into your Angular single-page app (SPA) for analytics integration. It allows you to do event tracking and it is ready to integrate with Google Analytics, Google Tag Manager, Kissmetrics, Mixpanel, Piwik, Segment, Baidu Analytics and Facebook Pixel.

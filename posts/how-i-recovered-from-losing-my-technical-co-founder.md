@@ -4,6 +4,8 @@ date: "2024-03-15"
 categories:
   - "looking-for-development"
 coverImage: "Programming-Person-Code-Background-scaled.jpg"
+slug: how-i-recovered-from-losing-my-technical-co-founder
+author: Filipe Matos
 ---
 
 Embarking on the journey of building a tech startup from the ground up presents a unique set of challenges, especially for non-technical founders.

@@ -10,6 +10,8 @@ tags:
   - "tech-team"
   - "technology"
 coverImage: "gabrielle-henderson-HJckKnwCXxQ-unsplash-scaled-1.jpg"
+slug: how-to-write-an-srs-document
+author: Claudio Teixeira
 ---
 
 During my career, I’ve seen dozens of SRS documents for projects ranging in size using both agile and waterfall development methodologies

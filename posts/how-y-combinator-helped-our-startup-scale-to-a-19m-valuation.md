@@ -9,6 +9,8 @@ tags:
   - "guide"
   - "product"
 coverImage: "harry-cunningham-_1J2AioiNC0-unsplash-scaled-1.jpg"
+slug: how-y-combinator-helped-our-startup-scale-to-a-19m-valuation
+author: Rui Lourenco
 ---
 
 For the third instalment of our series of articles sitting down with successful entrepreneurs who’ve experienced world-class accelerators firsthand, I had the opportunity to sit down with [Peter Fishman](https://www.linkedin.com/in/petefishman/).

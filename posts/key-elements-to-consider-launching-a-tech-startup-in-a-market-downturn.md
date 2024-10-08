@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "conikal-S8vMGLKG2b0-unsplash-scaled-1.jpg"
+slug: key-elements-to-consider-launching-a-tech-startup-in-a-market-downturn
+author: Rui Lourenco
 ---
 
 The tech industry is known for its fast-paced and constantly evolving landscape. In this environment, startups are often in a race against time to gain traction, secure funding and establish themselves in the market.

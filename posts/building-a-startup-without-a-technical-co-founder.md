@@ -11,6 +11,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "AUDAPIO-1.png"
+slug: building-a-startup-without-a-technical-co-founder
+author: Dudley Gould
 ---
 
 **_Finding a technical co-founder is one of the biggest challenges faced by startup founders. Here’s how Audapio’s Founder Dudley Gould overcame this common startup hurdle._**

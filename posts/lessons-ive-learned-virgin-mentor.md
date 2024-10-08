@@ -8,6 +8,8 @@ tags:
   - "startup"
   - "virgin"
 coverImage: "Virgin-logo.png"
+slug: lessons-ive-learned-virgin-mentor
+author: Paolo Dotta
 ---
 
 As a Mentor at Virgin Startup and Co-founder of a [Product & Software Development Agency](https://altar.io/), I’m often asked what it takes to build a successful startup. For me, one of the more important aspects is less about the ‘what’ and more about the ‘who’.

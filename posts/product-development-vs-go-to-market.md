@@ -4,6 +4,8 @@ date: "2024-07-05"
 categories:
   - "startup-advice"
 coverImage: "DALL·E-July-5-Startup-Founder.webp"
+slug: product-development-vs-go-to-market
+author: Filipe Matos
 ---
 
 When creating your startup, one of the first (and biggest) challenges you face is finding the right balance between developing your product and acquiring your first customers.

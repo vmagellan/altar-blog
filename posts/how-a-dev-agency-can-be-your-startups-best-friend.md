@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "how-a-agency.jpeg"
+slug: how-a-dev-agency-can-be-your-startups-best-friend
+author: Andre Lopes
 ---
 
 _If you’re looking for a service page on software development for startups, feel free to_ [_check ours here_](https://altar.io/service-mvp/)_. If you’re interested in knowing more about how to successfully work with a software development company, keep reading. Below you’ll find our tried and tested process to successfully develop a startup product with an agency._ 

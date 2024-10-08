@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "tech-team"
 coverImage: "cover-image-devs-min.png"
+slug: looking-developers-10-developer-archetypes-youre-likely-encounter
+author: Daniel de Castro Ruivo
 ---
 
 I’ve met many types of developers throughout the years building different products with [Altar.io](https://altar.io/). The one important lesson I’ve learnt along the way is:

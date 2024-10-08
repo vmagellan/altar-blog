@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "7-Product-Lessons.jpeg"
+slug: key-product-lessons-i-learned-interviewing-successful-entrepreneurs
+author: Rui Lourenco
 ---
 
 In today’s digital world, consumers are more discerning than ever. Bad user experience, or a product that simply misses the mark, will lead your users to flock to your competitors in a heartbeat.

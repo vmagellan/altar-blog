@@ -10,6 +10,8 @@ tags:
   - "lisbon-coworking"
   - "startup-strategy"
 coverImage: "andreas-brucker-X87yB-jvYHw-unsplash-scaled-1.jpg"
+slug: 10-best-coworking-spaces-lisbon-entrepreneurs
+author: Jamie Russell-Curtis
 ---
 
 Are you looking for the best coworking spaces in Lisbon? If so, I've created this list of the best choices based on price, transport links, networking benefits and reviews.

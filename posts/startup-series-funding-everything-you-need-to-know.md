@@ -9,6 +9,8 @@ tags:
   - "series-funding"
   - "startup"
 coverImage: "Startup-Series-Funding-Everything-You-Need-To-Know-e1587551817771.webp"
+slug: startup-series-funding-everything-you-need-to-know
+author: Rui Lourenco
 ---
 
 How does Series Funding work? What’s an Angel Investor? How are they different from Venture Capitalist firms? Which stage of series funding is best for my company right now?

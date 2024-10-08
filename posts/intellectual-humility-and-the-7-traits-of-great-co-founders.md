@@ -11,6 +11,8 @@ tags:
   - "team-building"
   - "teamwork"
 coverImage: "trait-cofounders.jpeg"
+slug: intellectual-humility-and-the-7-traits-of-great-co-founders
+author: Paolo Dotta
 ---
 
 Since leaving the corporate world, and jumping into entrepreneurship I’ve been a founder of three startups.

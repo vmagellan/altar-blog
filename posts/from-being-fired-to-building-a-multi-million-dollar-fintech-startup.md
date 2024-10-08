@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "Yaron-Samid-BillGuard-3.jpg"
+slug: from-being-fired-to-building-a-multi-million-dollar-fintech-startup
+author: Paolo Dotta
 ---
 
 **“How can you make a startup successful?”**

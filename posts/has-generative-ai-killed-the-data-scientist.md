@@ -4,6 +4,8 @@ date: "2024-04-12"
 categories:
   - "tech-knowledge"
 coverImage: "DALL·E-office-scene.webp"
+slug: has-generative-ai-killed-the-data-scientist
+author: Vasco Ramalho
 ---
 
 10 years ago, becoming a data scientist was considered the job of the century.

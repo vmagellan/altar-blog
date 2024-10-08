@@ -4,6 +4,8 @@ date: "2021-10-13"
 categories: 
   - "news-from-our-world"
 coverImage: "absolutvision-WYd_PkCa1BY-unsplash-scaled-1.jpg"
+slug: altar-co-founder-interviewed-by-business-magazine
+author: Jamie Russell-Curtis
 ---
 
 Recently, our co-founder, Daniel, sat down with Portugal's Valor Magazine to discuss Altar's future.

@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "uk"
 coverImage: "queen.jpeg"
+slug: 5-steps-to-create-your-uk-startup-in-one-week
+author: Paolo Dotta
 ---
 
 Are you looking to incorporate your startup in the UK? Here I present 5 simple steps you need to accomplish in order to have your startup ready to operate and receive investments:

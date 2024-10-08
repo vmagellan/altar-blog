@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "How-a-Lot-of-Rejection-and-4-Years-in-Stealth-Mode-Turned-into-21M-in-Funding-Founder-Story.jpeg"
+slug: founder-story-how-rejection-turned-into-21m-funding
+author: Rui Lourenco
 ---
 
 Launching a startup is a huge undertaking that will test your personal and professional relationships to the limit.

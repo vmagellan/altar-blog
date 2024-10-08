@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "charles-deluvio-AT5vuPoi8vc-unsplash.jpg"
+slug: saying-no-to-a-lead-is-hard-but-brings-value-to-the-lead
+author: Paolo Dotta
 ---
 
 As the founder of a Product & Software Development Agency, I learnt a long time ago that aligning with a startup founder’s vision is crucial. However, to truly deliver great results it’s important to challenge founders’ ideas so that the product being built can grow and improve.

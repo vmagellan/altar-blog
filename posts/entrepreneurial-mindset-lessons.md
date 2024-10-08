@@ -4,6 +4,8 @@ date: "2022-01-18"
 categories:
   - "startup-advice"
 coverImage: "Entrepreneurial-Mindset-Lessons.jpeg"
+slug: entrepreneurial-mindset-lessons
+author: Rui Lourenco
 ---
 
 A large part of my role at Altar revolves around having conversations with entrepreneurs.

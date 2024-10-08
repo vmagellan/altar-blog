@@ -4,6 +4,8 @@ date: "2021-08-17"
 categories: 
   - "startup-advice"
 coverImage: "The-Right-Roadmap-to-MVP.jpeg"
+slug: the-roadmap-to-build-an-mvp-from-idea-to-launch
+author: Paolo Dotta
 ---
 
 As a business person without the tech skills to build an MVP, it can be tempting to look for a software development partner as soon as possible.

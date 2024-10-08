@@ -11,6 +11,8 @@ tags:
   - "startup-lessons"
   - "startup-marketing"
 coverImage: "Early-Stage-Marketing-Considerations-for-Startups-Expert-Interview.jpeg"
+slug: marketing-for-startups-expert-interview
+author: Rui Lourenco
 ---
 
 In today’s business landscape, startups are notoriously hard to get off the ground – and [the numbers back this up](https://www.cbinsights.com/research/startup-failure-reasons-top/).

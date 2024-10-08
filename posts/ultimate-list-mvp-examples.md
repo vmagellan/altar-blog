@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "pexels-pixabay-267350-scaled-1.jpg"
+slug: ultimate-list-mvp-examples
+author: Paolo Dotta
 ---
 
 In an increasingly competitive business landscape, it’s more important than ever for startups to reach their target users quickly and efficiently. [Building a Minimum Viable Product (MVP)](https://altar.io/features-inside-mvp-3-steps-know-answer/) has become the de facto process to achieve this.

@@ -4,6 +4,8 @@ date: "2024-05-23"
 categories:
   - "startup-journey-interviews"
 coverImage: "DALL·E-May-23-Podcast-Entrepreneurs.webp"
+slug: entrepreneurs-share-how-they-built-million-dollar-startups
+author: Jamie Russell-Curtis
 ---
 
 Building a startup is a challenging journey. One of the best ways to navigate this path is by learning from those who have walked it before you.

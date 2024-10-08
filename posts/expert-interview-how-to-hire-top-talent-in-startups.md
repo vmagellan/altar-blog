@@ -10,6 +10,8 @@ tags:
   - "startup-expert"
   - "startup-guide"
 coverImage: "Geoff_consultant.jpg"
+slug: expert-interview-how-to-hire-top-talent-in-startups
+author: Paolo Dotta
 ---
 
 The secret of my success is that we have gone to exceptional lengths to hire the best people in the world.

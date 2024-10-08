@@ -12,6 +12,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "DALLC2B7E-Dec-13-Startup-Fusion.png"
+slug: launching-a-startup-in-the-age-of-generative-ai
+author: Vasco Ramalho
 ---
 
 In the last year, Generative AI (GenAI) has significantly transformed technology and artificial intelligence.

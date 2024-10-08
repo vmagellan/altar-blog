@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "What-Every-Entrepreneur-Should-Know-About-Startup-Lawyers-Expert-Interview-scaled-1.jpg"
+slug: expert-interview-startup-lawyers
+author: Rui Lourenco
 ---
 
 I’ve seen my fair share of entrepreneurial mistakes over the years. And not all of them had to do with [building the right product](https://altar.io/features-inside-mvp-3-steps-know-answer/) or assembling the right team. Some of them have to do with, you guessed it, legal issues that could've easily been solved with the help of a startup lawyer.

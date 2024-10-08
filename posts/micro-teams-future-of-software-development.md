@@ -10,6 +10,8 @@ tags:
   - "guide"
   - "micro-team"
 coverImage: "Why-Micro-Teams-are-the-Future-of-Software-Development.jpeg"
+slug: micro-teams-future-of-software-development
+author: Andre Lopes
 ---
 
 The way we build tech products is constantly evolving. Not just in the languages and architecture we use, but also in the way the teams themselves are constructed.

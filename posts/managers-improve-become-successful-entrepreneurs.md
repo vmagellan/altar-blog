@@ -10,6 +10,8 @@ tags:
   - "lean"
   - "manager"
 coverImage: "cover.webp"
+slug: managers-improve-become-successful-entrepreneurs
+author: Andre Lopes
 ---
 
 There’s little evidence to support that anyone is too old to start a business. In fact, older founders are usually wiser. They are more focused on achieving sales metrics than on building “the best product ever”. They work silently, attend fewer startup conferences and, without any surprise, the over 40s tend to achieve more.

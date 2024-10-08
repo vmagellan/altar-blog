@@ -8,6 +8,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "startup-593341_1920.jpg"
+slug: should-a-startup-outsource-its-software-development
+author: Paolo Dotta
 ---
 
 It’s a decision that can make or break a startup: Do you invest in in-house resources to create your product or do you outsource software development to a third-party company?

@@ -4,6 +4,8 @@ date: "2024-01-11"
 categories:
   - "startup-advice"
 coverImage: "pexels-vlada-karpovich-4050347-scaled-1.jpg"
+slug: best-startup-accelerators-usa
+author: Paolo Dotta
 ---
 
 The due diligence of choosing the right accelerator or incubator for your startup is a process I experienced firsthand when I built my first startup.

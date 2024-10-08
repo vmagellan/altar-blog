@@ -4,6 +4,8 @@ date: "2023-02-10"
 categories:
   - "startup-journey-interviews"
 coverImage: "winsome_baknai-basumatary-TWZOFAyRt_g-unsplash-scaled-1.jpg"
+slug: y-combinator-taught-me-what-really-matters-when-building-a-startup
+author: Rui Lourenco
 ---
 
 Being a software development agency that works with entrepreneurs to help them build their startups, our whole marketing strategy is focused on creating valuable resources to help them turn their visions into reality.

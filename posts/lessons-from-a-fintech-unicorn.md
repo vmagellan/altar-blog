@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "Fintech-Startup-.jpg"
+slug: lessons-from-a-fintech-unicorn
+author: Paolo Dotta
 ---
 
 Whether you’re thinking of launching a startup or in the trenches of your first entrepreneurial venture, any morsel of advice from someone who’s been in your shoes can be like gold. That’s why I sat down with serial entrepreneur and fintech founder, [Alex Tonelli](https://www.linkedin.com/in/n-alex-tonelli-54b2a42/).

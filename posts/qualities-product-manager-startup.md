@@ -4,6 +4,8 @@ date: "2022-09-16"
 categories:
   - "startup-advice"
 coverImage: "kelly-sikkema-hLit2zL-Dhk-unsplash-1024x683-1.jpg"
+slug: qualities-product-manager-startup
+author: Daniel de Castro Ruivo
 ---
 
 For the last 15 years, I’ve helped build over 70 products. From products for the startups that I’ve founded myself, to the numerous successful [products I’ve helped other entrepreneurs bring to life](https://altar.io/work/) through my work as CEO and Head of Product at Altar.

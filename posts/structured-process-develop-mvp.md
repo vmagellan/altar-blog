@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "daria-nepriakhina-zoCDWPuiRuA-unsplash-scaled-1.jpg"
+slug: structured-process-develop-mvp
+author: Paolo Dotta
 ---
 
 You're here so that means you're considering a lean approach to develop your MVP. That's a great first step.

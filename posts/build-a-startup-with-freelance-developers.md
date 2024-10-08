@@ -4,6 +4,8 @@ date: "2022-04-29"
 categories:
   - "looking-for-development"
 coverImage: "pexels-olia-danilevich-4974915-scaled-1.jpg"
+slug: build-a-startup-with-freelance-developers
+author: Daniel de Castro Ruivo
 ---
 
 Seven years ago, I set out to build my first tech startup. I had the product vision clear in my mind, but like many founders dealing with a technology-focused business for the first time, I didn’t have the technical skills to build it.

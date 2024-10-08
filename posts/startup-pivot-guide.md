@@ -4,6 +4,8 @@ date: "2021-12-20"
 categories:
   - "startup-advice"
 coverImage: "brendan-church-pKeF6Tt3c08-unsplash-scaled-1.jpg"
+slug: startup-pivot-guide
+author: Rui Lourenco
 ---
 
 Starting a company is like jumping off a cliff and assembling a plane on the way down.

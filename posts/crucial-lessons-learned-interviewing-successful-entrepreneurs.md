@@ -10,6 +10,8 @@ tags:
   - "software-development"
   - "startup-lessons"
 coverImage: "9-Crucial-Lessons-I-Learned-from-Interviewing-Successful-Entrepreneurs.jpeg"
+slug: crucial-lessons-learned-interviewing-successful-entrepreneurs
+author: Rui Lourenco
 ---
 
 Since launching in 2015 we’ve had one mandate in mind at Altar:

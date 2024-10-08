@@ -9,6 +9,8 @@ tags:
   - "product-development"
   - "startup"
 coverImage: "claus-grunstaudl-dKeB0-M9iiA-unsplash-scaled-1.jpg"
+slug: expert-interview-building-an-mvp
+author: Rui Lourenco
 ---
 
 At Altar.io we’ve built dozens of products over the years, working with entrepreneurs from all over the world. In other words, we know a thing or to about building an MVP successfully.

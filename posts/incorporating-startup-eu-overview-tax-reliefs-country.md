@@ -10,6 +10,8 @@ tags:
   - "investing"
   - "startup"
 coverImage: "europe.png"
+slug: incorporating-startup-eu-overview-tax-reliefs-country
+author: Paolo Dotta
 ---
 
 Europe has long been recognised as a centre for innovation. In recent years, the tech startup ecosystem has experienced [remarkable resilience](https://dealroom.co/blog/european-deep-tech-in-2023) across the continent in spite of economic downturns [due to COVID-19](https://www.ft.com/content/f8e58c8a-de5e-44ac-84c4-dac767e6cfca) and the subsequent [war in Ukraine](https://www.reuters.com/world/europe/ukraine-war-drags-europes-economy-succumbs-crisis-2022-08-23/).

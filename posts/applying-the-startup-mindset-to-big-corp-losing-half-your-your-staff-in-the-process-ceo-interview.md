@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "sean-pollock-PhYq704ffdA-unsplash-scaled-1.jpg"
+slug: applying-the-startup-mindset-to-big-corp-losing-half-your-your-staff-in-the-process-ceo-interview
+author: Rui Lourenco
 ---
 
 Making the difficult decision to move away from a traditional corporate structure and transforming a company’s culture to that of a Silicon Valley startup is a huge undertaking.

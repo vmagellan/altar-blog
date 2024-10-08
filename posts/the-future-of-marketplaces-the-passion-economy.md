@@ -7,6 +7,8 @@ tags:
   - "marketplace"
   - "startup"
 coverImage: "wei-pan-eBE3pEIZjbc-unsplash-2.jpg"
+slug: the-future-of-marketplaces-the-passion-economy
+author: Andre Lopes
 ---
 
 The future of marketplaces is unknown. However, the rise of the Passion Economy could be an opportunity to create marketplaces with passion-driven verticals.

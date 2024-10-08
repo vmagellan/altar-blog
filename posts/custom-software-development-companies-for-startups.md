@@ -11,6 +11,8 @@ tags:
   - "software-development"
   - "startup"
 coverImage: "radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-scaled.jpg"
+slug: custom-software-development-companies-for-startups
+author: Paolo Dotta
 ---
 
 Finding the right technical stakeholder to help you build your startup is hard.

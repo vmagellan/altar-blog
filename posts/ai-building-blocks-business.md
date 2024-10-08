@@ -13,6 +13,8 @@ tags:
   - "startup-lessons"
   - "technology"
 coverImage: "AI-building-blocks.png"
+slug: ai-building-blocks-business
+author: Rui Vas
 ---
 
 <iframe width="800" height="200" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1810285260&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=800&amp;auto_play=false&amp;buying=true&amp;liking=true&amp;download=true&amp;sharing=true&amp;show_comments=true&amp;show_playcount=true&amp;show_user=true&amp;color=E7107E"></iframe>

@@ -10,6 +10,8 @@ tags:
   - "tech"
   - "valuation"
 coverImage: "investment-4.png"
+slug: real-options-model-tech-startups-valuation
+author: Paolo Dotta
 ---
 
 Looking to raise money and struggling to figure out your startup valuation?

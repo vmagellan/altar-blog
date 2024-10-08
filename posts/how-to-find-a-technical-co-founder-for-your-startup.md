@@ -12,6 +12,8 @@ tags:
   - "startup-lessons"
   - "technical-co-founder"
 coverImage: "laptop-1512838_1280.png"
+slug: how-to-find-a-technical-co-founder-for-your-startup
+author: Rui Lourenco
 ---
 
 Choosing a technical co-founder is one of the most important decisions you’ll make as an entrepreneur.

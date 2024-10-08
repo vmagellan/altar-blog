@@ -4,6 +4,8 @@ date: "2023-10-19"
 categories:
   - "startup-advice"
 coverImage: "The-Ultimate-Startup-Guide-From-Ideation-to-MVP-Launch-Beyond.png"
+slug: the-ultimate-startup-guide
+author: Rui Lourenco
 ---
 
 Building a startup is a monumental feat, requiring a perfect blend of vision, strategy, and execution. Not to mention a comprehensive understanding of a laundry list of factors.

@@ -8,6 +8,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "christin-hume-Hcfwew744z4-unsplash-scaled-1.jpg"
+slug: entrepreneurial-platforms-that-will-help-overcome-startup-hurdles
+author: Jamie Russell-Curtis
 ---
 
 The internet is full of entrepreneurial platforms geared towards helping you succeed. From networking to educational resources, you’re spoilt for choice. And that’s before you start looking into [the tools](https://altar.io/tools-for-entrepreneurs/) out there to help you get through each day efficiently and effectively.

@@ -11,6 +11,8 @@ tags:
   - "mvp"
   - "startup-lessons"
 coverImage: "image005.jpg"
+slug: how-an-experience-in-turkey-led-to-a-million-dollar-startup-founder-interview
+author: Paolo Dotta
 ---
 
 Making the jump into entrepreneurship, and building a startup,  is rarely a rational decision.

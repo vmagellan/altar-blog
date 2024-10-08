@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "How-to-Hire-the-First-Software-Developer-for-your-Startup-in-2024-Cover-scaled.jpeg"
+slug: how-to-hire-the-first-software-developer-for-your-startup
+author: Paolo Dotta
 ---
 
 When building a startup, you have several options when it comes to software development. From finding a CTO to outsourcing to a software development company or hiring a developer.

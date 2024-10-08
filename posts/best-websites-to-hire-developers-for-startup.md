@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "Where-to-Find-Devs-Listicle-Cover-scaled-1.jpg"
+slug: best-websites-to-hire-developers-for-startup
+author: Jamie Russell-Curtis
 ---
 
 Trying to hire developers for your startup is one of the biggest challenges faced by startup founders.

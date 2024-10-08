@@ -11,6 +11,8 @@ tags:
   - "software"
   - "startup"
 coverImage: "patrick-perkins-ETRPjvb0KM0-unsplash-scaled-1.jpg"
+slug: whats-the-best-way-to-build-your-startup-cto-freelancers-agency
+author: Daniel de Castro Ruivo
 ---
 
 As a non-technical founder, you’ve had your lightbulb moment. The idea that resulted in the business-driven vision for your startup. There’s just one problem. You lack technical skills and have no idea how to actually build your startup vision. Do you hire a kick-ass CTO? A team of freelancers? Or should you find a top notch software development company?

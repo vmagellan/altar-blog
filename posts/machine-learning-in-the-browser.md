@@ -11,6 +11,8 @@ tags:
   - "tensorflow-js"
   - "transfer-learning"
 coverImage: "Machine-Learning-in-The-Browser.png"
+slug: machine-learning-in-the-browser
+author: Claudio Teixeira
 ---
 
 Machine learning in the browser is the newest kid on the block within web edge technologies. By the end of this article, you will know the basics behind machine learning in the browser and how Javascript, with the help of WebGL, allows us to train and run models directly to the client-side.

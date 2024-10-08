@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "alejandro-escamilla-BbQLHCpVUqA-unsplash-scaled-1.jpg"
+slug: selling-fintech-before-launch-leveraging-people
+author: Paolo Dotta
 ---
 
 We often talk about how people are the most important aspect of your startup – regardless of if you're in fintech, social media or any other vertical.

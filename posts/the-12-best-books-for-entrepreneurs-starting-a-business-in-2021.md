@@ -8,6 +8,8 @@ tags:
   - "guide"
   - "startup"
 coverImage: "Books-for-Entrepreneurs-Cover-scaled-1.jpg"
+slug: the-12-best-books-for-entrepreneurs-starting-a-business-in-2021
+author: Jamie Russell-Curtis
 ---
 
 Every entrepreneur is a life-long learner.

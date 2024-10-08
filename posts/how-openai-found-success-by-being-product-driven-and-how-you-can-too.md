@@ -4,6 +4,8 @@ date: "2023-08-24"
 categories:
   - "startup-advice"
 coverImage: "How-Open-AI-Gained-Success-by-being-Product-Centric.jpeg"
+slug: how-openai-found-success-by-being-product-driven-and-how-you-can-too
+author: Azamat Tyulebayev
 ---
 
 Is this \[ChatGPT product release from OpenAI\] a pivotal moment? Out of all the GPT versions, 50 years from now when they look back on an early system that was really kind of a leap.

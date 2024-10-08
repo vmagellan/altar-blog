@@ -10,6 +10,8 @@ tags:
   - "teamwork"
   - "technology"
 coverImage: "jump2.jpeg"
+slug: the-well-performing-digital-team-for-your-agile-projects
+author: Paolo Dotta
 ---
 
 Great! You’re adopting an agile methodology for your digital project. However, you don’t know how to structure an effective team capable of executing and delivering good quality on schedule. You are also unsure of the characteristics of such a team

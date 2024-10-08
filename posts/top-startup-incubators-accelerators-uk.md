@@ -4,6 +4,8 @@ date: "2022-08-23"
 categories:
   - "startup-advice"
 coverImage: "Startup-accelerators-UK.webp"
+slug: top-startup-incubators-accelerators-uk
+author: Paolo Dotta
 ---
 
 Finding the right incubator or accelerator (or even knowing which model is right for you) is a challenging process that can often leave you feeling overwhelmed.

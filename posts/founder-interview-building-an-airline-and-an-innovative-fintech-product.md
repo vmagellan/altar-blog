@@ -11,6 +11,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "Unicorn-Founder-Wade-Eyerly.jpeg"
+slug: founder-interview-building-an-airline-and-an-innovative-fintech-product
+author: Rui Lourenco
 ---
 
 Two minutes into our latest startup founder interview - the ninth in the Startup Journey series - and I knew I was in for a treat.

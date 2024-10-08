@@ -10,6 +10,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "pexels-fauxels-3182822-scaled-1.jpg"
+slug: key-lessons-on-finding-a-co-founder
+author: Rui Lourenco
 ---
 
 If you're reading this, you're most likely in the throes of finding a co-founder for your startup.

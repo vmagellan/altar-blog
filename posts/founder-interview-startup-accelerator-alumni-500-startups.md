@@ -9,6 +9,8 @@ tags:
   - "startup"
   - "startup-lessons"
 coverImage: "jonathan-farber-Zd9x2EozJik-unsplash-scaled-1.jpg"
+slug: founder-interview-startup-accelerator-alumni-500-startups
+author: Rui Lourenco
 ---
 
 Recently, my co-founder Paolo released an article on the [50 best startup accelerators in the US](https://altar.io/best-startup-accelerators-usa/).
