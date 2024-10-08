@@ -1,3 +1,10 @@
+# To Do
+
+- Double check links and correct for new webflow slug once uplaoded
+- Double check external links if they all exist
+- Double check for potential garbage in the content
+
+
 ## Files that miss from metadata csv:
 
 - Missing metadata in: ./posts/customer-research-that-drives-results-startup-founders-blueprint.md
