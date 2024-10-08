@@ -1,0 +1,929 @@
+{
+  "items": [
+    {
+      "id": "66f555e86c2442879886a6c6",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:04.007Z",
+      "createdOn": "2024-09-26T12:39:04.007Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(0, 60.00%, 44.34%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/pedropalves/",
+        "team-member-bio": null,
+        "team": "8cc6fdbaf6dccf441eca4c80aae148ee",
+        "name": "Pedro Alves",
+        "slug": "pedro-alves-0079c",
+        "role": "Project Manager",
+        "team-member-image": {
+          "fileId": "66eac6f6f6c6d92c1a7efcc6",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f6f6c6d92c1a7efcc6_pedro-alves.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e6fbc51625fa376594",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:02.669Z",
+      "createdOn": "2024-09-26T12:39:02.669Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(0, 60.00%, 44.34%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/mariia-mieimankulova-48b1a9125/",
+        "team-member-bio": null,
+        "team": "8cc6fdbaf6dccf441eca4c80aae148ee",
+        "name": "Mariia Mieimankulova",
+        "slug": "mariia-mieimankulova-6bcca",
+        "role": "Scrum Master",
+        "team-member-image": {
+          "fileId": "66eac6f7188e5b80c42f5fc4",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f7188e5b80c42f5fc4_mariia-mieimankulova.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e6f9f7f74541776809",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:02.406Z",
+      "createdOn": "2024-09-26T12:39:02.406Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(199.17808219178085, 87.95%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/samanta-carvalho/",
+        "team-member-bio": null,
+        "team": "68e48c308ba33e92dc3aa20ed8fece48",
+        "name": "Samanta Carvalho",
+        "slug": "samanta-carvalho-4eb7b",
+        "role": "Product Manager",
+        "team-member-image": {
+          "fileId": "66eac6f57bd242db6d6c08ea",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f57bd242db6d6c08ea_samanta-carvalho.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e661cbc75626e737d3",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:02.345Z",
+      "createdOn": "2024-09-26T12:39:02.345Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(0, 60.00%, 44.34%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/nath%C3%A1lie-mendon%C3%A7a-914207187/",
+        "team-member-bio": null,
+        "team": "8cc6fdbaf6dccf441eca4c80aae148ee",
+        "name": "Nathálie Mendonça",
+        "slug": "nathlie-mendona-ca629",
+        "role": "Project Manager",
+        "team-member-image": {
+          "fileId": "66eac6f7ce04b5c655db4e18",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f7ce04b5c655db4e18_nathalie-mendonca.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e617aa91b02c9e5e7d",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:02.331Z",
+      "createdOn": "2024-09-26T12:39:02.331Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(199.17808219178085, 87.95%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/mariana-almeida-536606204/",
+        "team-member-bio": null,
+        "team": "68e48c308ba33e92dc3aa20ed8fece48",
+        "name": "Mariana Almeida",
+        "slug": "mariana-almeida-f65a5",
+        "role": "Product Manager",
+        "team-member-image": {
+          "fileId": "66eac6f4b370d4cb173cddff",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f4b370d4cb173cddff_mariana-almeida.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e6fb62cf1f0c79c578",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:02.208Z",
+      "createdOn": "2024-09-26T12:39:02.208Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(199.17808219178085, 87.95%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/lillahorvath9/",
+        "team-member-bio": null,
+        "team": "68e48c308ba33e92dc3aa20ed8fece48",
+        "name": "Lilla Horváth",
+        "slug": "lilla-horvth-1bb7f",
+        "role": "Product Manager",
+        "team-member-image": {
+          "fileId": "66eac6f400f34cb392635a39",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f400f34cb392635a39_lilla.horvath.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e6a270e3ee31fce304",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:02.001Z",
+      "createdOn": "2024-09-26T12:39:02.001Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(199.17808219178085, 87.95%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/alexandra-morodo-38aa2b194/",
+        "team-member-bio": null,
+        "team": "68e48c308ba33e92dc3aa20ed8fece48",
+        "name": "Alexandra Morodo",
+        "slug": "alexandra-morodo-b5f28",
+        "role": "UX Designer",
+        "team-member-image": {
+          "fileId": "66eac6f58bf1101be030f09c",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f58bf1101be030f09c_alexandra-morodo.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e5e570f1542e54f011",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:01.572Z",
+      "createdOn": "2024-09-26T12:39:01.572Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(199.17808219178085, 87.95%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/simontadeu/",
+        "team-member-bio": null,
+        "team": "68e48c308ba33e92dc3aa20ed8fece48",
+        "name": "Simon Tadeu",
+        "slug": "simon-tadeu-79ba2",
+        "role": "Product Manager",
+        "team-member-image": {
+          "fileId": "66eac6f5bb2170db7ab041e9",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f5bb2170db7ab041e9_simon-tadeu.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e530140ac82ed15c5c",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:01.528Z",
+      "createdOn": "2024-09-26T12:39:01.528Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(180, 41.37%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/andreiafmorgado/",
+        "team-member-bio": null,
+        "team": "508911bd906ebccdd263ea14859bb4ce",
+        "name": "Andreia Morgado",
+        "slug": "andreia-morgado-0aae4",
+        "role": "Talent Acquisition Specialist",
+        "team-member-image": {
+          "fileId": "66eac6fdce04b5c655db532f",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fdce04b5c655db532f_andreia-morgado.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e57dfce3a8f4e513ae",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:01.401Z",
+      "createdOn": "2024-09-26T12:39:01.401Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(180, 41.37%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/filipecastromatos/",
+        "team-member-bio": null,
+        "team": "acdbf4935b92c32d6037fb5c1a36cffd",
+        "name": "Filipe Matos",
+        "slug": "filipe-matos-35c13",
+        "role": "Entrepreneur-in-Residence",
+        "team-member-image": {
+          "fileId": "66eac6fdedb69a8f49488640",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fdedb69a8f49488640_filipe-matos.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e5beb6f98f3df8be5f",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:01.288Z",
+      "createdOn": "2024-09-26T12:39:01.288Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(180, 41.37%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/marcelo-fdn-rodrigues/",
+        "team-member-bio": null,
+        "team": "508911bd906ebccdd263ea14859bb4ce",
+        "name": "Marcelo Rodrigues",
+        "slug": "marcelo-rodrigues-aba03",
+        "role": "Recruiter",
+        "team-member-image": {
+          "fileId": "66eac6fe8422b031ea63979a",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fe8422b031ea63979a_marcelo-rodrigues.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e5b7220b620c7c8a57",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:01.180Z",
+      "createdOn": "2024-09-26T12:39:01.180Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/ana-p%C3%A1ris-74437657/",
+        "team-member-bio": null,
+        "team": "839c15c30c43517358d4bdf143bcecb7",
+        "name": "Ana Páris",
+        "slug": "ana-pris-b6292",
+        "role": "Head of Admin",
+        "team-member-image": {
+          "fileId": "66eac6f2b33d1b70507eb8bc",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f2b33d1b70507eb8bc_ana-paris.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e599b9155e0201cfdb",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:01.011Z",
+      "createdOn": "2024-09-26T12:39:01.011Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/joao-s-amaral/",
+        "team-member-bio": null,
+        "team": "839c15c30c43517358d4bdf143bcecb7",
+        "name": "João Amaral",
+        "slug": "joo-amaral-a0139",
+        "role": "Chief of Staff",
+        "team-member-image": {
+          "fileId": "66eac6f29d2ac8850f2a71e9",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f29d2ac8850f2a71e9_joao-amaral.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e4fb62cf1f0c79c487",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:00.662Z",
+      "createdOn": "2024-09-26T12:39:00.662Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/francisco-pranto-282334176/",
+        "team-member-bio": null,
+        "team": "839c15c30c43517358d4bdf143bcecb7",
+        "name": "Francisco Pranto",
+        "slug": "francisco-pranto-8f981",
+        "role": "Junior Admin/Operations Manager",
+        "team-member-image": {
+          "fileId": "66eac6f38997e6b676727918",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f38997e6b676727918_francisco-pranto.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e4638397af70296cb6",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:00.593Z",
+      "createdOn": "2024-09-26T12:39:00.593Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/luisafonsocunhamatos/",
+        "team-member-bio": null,
+        "team": "839c15c30c43517358d4bdf143bcecb7",
+        "name": "Luís Matos",
+        "slug": "lus-matos-4d007",
+        "role": "Operations Officer",
+        "team-member-image": {
+          "fileId": "66eac6f4f840b815d3a47237",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f4f840b815d3a47237_luis-matos.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e428dd432549be6c9f",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:00.423Z",
+      "createdOn": "2024-09-26T12:39:00.423Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(180, 41.37%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/vasco-magalh%C3%A3es-ramalho/",
+        "team-member-bio": null,
+        "team": "acdbf4935b92c32d6037fb5c1a36cffd",
+        "name": "Vasco Magellan",
+        "slug": "vasco-magellan-326fd",
+        "role": "Product Expert",
+        "team-member-image": {
+          "fileId": "66eac6fc028103f7007f11e4",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fc028103f7007f11e4_vasco-ramalho.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e4d02c5d5ebc26ad93",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:00.329Z",
+      "createdOn": "2024-09-26T12:39:00.329Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(180, 41.37%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/miguel-felix7/",
+        "team-member-bio": null,
+        "team": "acdbf4935b92c32d6037fb5c1a36cffd",
+        "name": "Miguel Félix",
+        "slug": "miguel-flix-aceb0",
+        "role": "Digital Marketer",
+        "team-member-image": {
+          "fileId": "66eac6fcedb69a8f49488593",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fcedb69a8f49488593_miguel-felix.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e48f30c861af3f4bed",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:39:00.203Z",
+      "createdOn": "2024-09-26T12:39:00.203Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(180, 41.37%, 48.82%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/jamie-russell-curtis-24823670/",
+        "team-member-bio": null,
+        "team": "acdbf4935b92c32d6037fb5c1a36cffd",
+        "name": "Jamie Russell-Curtis",
+        "slug": "jamie-russellcurtis-42a64",
+        "role": "Head of Content",
+        "team-member-image": {
+          "fileId": "66eac6fc242eb88b52bf9532",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fc242eb88b52bf9532_jamie-russell-curtis.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e334e966e0e5215539",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:59.914Z",
+      "createdOn": "2024-09-26T12:38:59.914Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/pinix/",
+        "team-member-bio": null,
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "André Pinto",
+        "slug": "andr-pinto-00a8b",
+        "role": "Partner & VP of Front-End",
+        "team-member-image": {
+          "fileId": "66eac6f100f34cb39263567a",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f100f34cb39263567a_andre-pinto.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e31625b76ca0e3eb32",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T14:55:38.746Z",
+      "lastUpdated": "2024-09-26T14:14:51.056Z",
+      "createdOn": "2024-09-26T12:38:59.422Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/paolo-dotta/",
+        "team-member-bio": "Paolo started working in banking in Milan and London. After the financial career, he created a startup and then joined Altar where he mainly deals with business development and fintech projects.\n",
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "Paolo Dotta",
+        "slug": "paolo-dotta-66e5c",
+        "role": "Co-Founder",
+        "team-member-image": {
+          "fileId": "66eac6f10c3386b5c9ffc246",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f10c3386b5c9ffc246_paolo-dotta.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e305cc216a7af0c521",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:59.321Z",
+      "createdOn": "2024-09-26T12:38:59.321Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/claudio-teixeira-138a9a3a/",
+        "team-member-bio": null,
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "Cláudio Teixeira",
+        "slug": "cludio-teixeira-197bd",
+        "role": "Partner & CTO",
+        "team-member-image": {
+          "fileId": "66eac6f18bf1101be030ec8f",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f18bf1101be030ec8f_claudio-teixeira.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e3628aa2c0edf361dd",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:59.273Z",
+      "createdOn": "2024-09-26T12:38:59.273Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/andrerodrigueslopes/",
+        "team-member-bio": null,
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "André Lopes",
+        "slug": "andr-lopes-46b09",
+        "role": "Co-Founder",
+        "team-member-image": {
+          "fileId": "66eac6f2d61bf6cf88d1b8d5",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f2d61bf6cf88d1b8d5_andre-lopes.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e36b2af2e968464b5b",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:59.078Z",
+      "createdOn": "2024-09-26T12:38:59.078Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/jmnribeiro/",
+        "team-member-bio": null,
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "João Ribeiro",
+        "slug": "joo-ribeiro-0b7ca",
+        "role": "Co-Founder",
+        "team-member-image": {
+          "fileId": "66eac6f2226f9041fffa375a",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f2226f9041fffa375a_joao-ribeiro.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e20792de6039d9e527",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:58.883Z",
+      "createdOn": "2024-09-26T12:38:58.883Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/joao-cortes/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "João Cortes",
+        "slug": "joo-cortes-7fdc8",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f7542ad5f7768ddbff",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f7542ad5f7768ddbff_joao-cortes.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e2f277dc73ddb9c005",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:58.790Z",
+      "createdOn": "2024-09-26T12:38:58.790Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/rui-lopes-a7317616a/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Rui Lopes",
+        "slug": "rui-lopes-b98c2",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f9d21e536183843f72",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f9d21e536183843f72_rui-lopes.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e205368deceb703334",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:58.577Z",
+      "createdOn": "2024-09-26T12:38:58.577Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/ruilouren/",
+        "team-member-bio": null,
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "Rui Lourenço",
+        "slug": "rui-loureno-ad8ac",
+        "role": "Partner & CMO",
+        "team-member-image": {
+          "fileId": "66eac6f2faff47aebcbbfea6",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f2faff47aebcbbfea6_rui-lourenco.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e2f9f7f74541776615",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:58.451Z",
+      "createdOn": "2024-09-26T12:38:58.451Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(51.21951219512195, 100.00%, 48.24%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/danielcastroruivo/",
+        "team-member-bio": null,
+        "team": "ba324c17c7643f98ec9c393ca0ef1f11",
+        "name": "Daniel de Castro Ruivo",
+        "slug": "daniel-de-castro-ruivo-d182e",
+        "role": "Co-Founder & CEO",
+        "team-member-image": {
+          "fileId": "66eac6f2e42721399e924d63",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f2e42721399e924d63_daniel-castro-ruivo.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e20ef0bf4c4335415e",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:58.336Z",
+      "createdOn": "2024-09-26T12:38:58.336Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/manuel-faustino-17899b100/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Manuel Faustino",
+        "slug": "manuel-faustino-90a7b",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f7ace47cb090c4dd45",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f7ace47cb090c4dd45_manuel-faustino.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e13afe51c653b90f81",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:57.883Z",
+      "createdOn": "2024-09-26T12:38:57.883Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/jrelourenco/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "João Lourenço",
+        "slug": "joo-loureno-9ba95",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f71dff1f71006cb229",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f71dff1f71006cb229_joao-lourenco.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e1fb62cf1f0c79c2b9",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:57.827Z",
+      "createdOn": "2024-09-26T12:38:57.827Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/andregdoliveira/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "André Oliveira",
+        "slug": "andr-oliveira-e971c",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f89d2ac8850f2a7730",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f89d2ac8850f2a7730_andre-oliveira.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e16c24428798869bff",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:57.522Z",
+      "createdOn": "2024-09-26T12:38:57.522Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/jhon-jardim-dev/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Jhonsua Jardim",
+        "slug": "jhonsua-jardim-b1ca4",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f800f34cb392635d22",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f800f34cb392635d22_jhonsua-jardim.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e1c18ebc0367c25cd8",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:57.259Z",
+      "createdOn": "2024-09-26T12:38:57.259Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/tiago-cunha-44b2b5ab/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Tiago Cunha",
+        "slug": "tiago-cunha-7092b",
+        "role": "Back-End Developer",
+        "team-member-image": {
+          "fileId": "66eac6f936669fca2d7ee14d",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f936669fca2d7ee14d_tiago-cunha.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e128dd432549be6a01",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:57.174Z",
+      "createdOn": "2024-09-26T12:38:57.174Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/company/altar.io/mycompany/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Adolfo Silva",
+        "slug": "adolfo-silva-d38e5",
+        "role": "Back-End Developer",
+        "team-member-image": {
+          "fileId": "66eac6faa459407287833f2b",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6faa459407287833f2b_adolfo-silva.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e161cbc75626e731c5",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-10-03T09:44:46.287Z",
+      "lastUpdated": "2024-10-03T09:23:50.900Z",
+      "createdOn": "2024-09-26T12:38:57.173Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/abelfernandesneto/",
+        "team-member-bio": "I am very smart person...",
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Abel Neto",
+        "slug": "abel-neto-28c74",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6f9547c325ad4028a91",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6f9547c325ad4028a91_abel-neto.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e0b7220b620c7c87ce",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:56.917Z",
+      "createdOn": "2024-09-26T12:38:56.917Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/catarina-resende/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Catarina Resende",
+        "slug": "catarina-resende-66f18",
+        "role": "Front-End Styling Developer",
+        "team-member-image": {
+          "fileId": "66eac6fa188e5b80c42f65f8",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fa188e5b80c42f65f8_catarina-resende.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e06b2af2e9684649f3",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:56.589Z",
+      "createdOn": "2024-09-26T12:38:56.589Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/daniel-r-silva/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Daniel Silva",
+        "slug": "daniel-silva-16560",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6fbd21e5361838440b0",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fbd21e5361838440b0_daniel-silva.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e0bff97e2eefd682bc",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:56.564Z",
+      "createdOn": "2024-09-26T12:38:56.564Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/jpmscampos/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "João Campos",
+        "slug": "joo-campos-3064f",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6fca0132727bd67b303",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fca0132727bd67b303_joao-campos.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e0fed7ce134118638b",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:56.511Z",
+      "createdOn": "2024-09-26T12:38:56.511Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/marianainessilva/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Mariana Silva",
+        "slug": "mariana-silva-36b23",
+        "role": "Front-End Styling Developer",
+        "team-member-image": {
+          "fileId": "66eac6fbf6e83c6520336a06",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fbf6e83c6520336a06_mariana-silva.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e04dc683aea9a40201",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:56.476Z",
+      "createdOn": "2024-09-26T12:38:56.476Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/company/altar.io/mycompany/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "João Cosme",
+        "slug": "joo-cosme-80833",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6fc47f531bb4f6caae9",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fc47f531bb4f6caae9_joao-cosme.png",
+          "alt": null
+        }
+      }
+    },
+    {
+      "id": "66f555e0a7d275fd8aebdfa6",
+      "cmsLocaleId": "66e851c32a01bb5e39fc5415",
+      "lastPublished": "2024-09-26T12:52:17.995Z",
+      "lastUpdated": "2024-09-26T12:38:56.399Z",
+      "createdOn": "2024-09-26T12:38:56.399Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "background-color": "hsla(329.30232558139534, 87.04%, 48.43%, 1.00)",
+        "linkedin-profile": "https://www.linkedin.com/in/pedro-figueira-b20a131ba/",
+        "team-member-bio": null,
+        "team": "37d41eb196d912a2f1b7c81faf82c8de",
+        "name": "Pedro Figueira",
+        "slug": "pedro-figueira-aaff9",
+        "role": "Full-Stack Developer",
+        "team-member-image": {
+          "fileId": "66eac6fa6de9e01bc9586295",
+          "url": "https://cdn.prod.website-files.com/66e851c32a01bb5e39fc5416/66eac6fa6de9e01bc9586295_pedro-figueira.png",
+          "alt": null
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "total": 40
+  }
+}

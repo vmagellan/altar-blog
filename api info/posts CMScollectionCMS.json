@@ -1,0 +1,140 @@
+{
+  "id": "66e851c4384f00648b0c5860",
+  "displayName": "Blog Posts",
+  "singularName": "Blog Post",
+  "slug": "post",
+  "createdOn": "2024-09-16T15:41:56.159Z",
+  "lastUpdated": "2024-09-26T14:35:45.528Z",
+  "fields": [
+    {
+      "id": "b6a59a971f2e7404760c3ede84f042f2",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "post-body",
+      "displayName": "Post Body",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "4e89bdac00e0a78ca07052fcfb47bb4e",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "post-summary",
+      "displayName": "Post Summary",
+      "helpText": "A summary of the blog post that appears on blog post grid",
+      "validations": {
+        "singleLine": false
+      }
+    },
+    {
+      "id": "a1d851db4453914b79620028e9a45eee",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "body-2",
+      "displayName": "Body 2",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "de8fa985b63d87491fc9cd7fe25a6060",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "main-image",
+      "displayName": "Main Image",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "9dd6690385772d4cca070085ce6a6b76",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "thumbnail-image",
+      "displayName": "Thumbnail image",
+      "helpText": "Smaller version of main image that is used on blog post grid",
+      "validations": null
+    },
+    {
+      "id": "fd1db24549dc53ebe9d5fdaf978561e2",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Switch",
+      "slug": "featured",
+      "displayName": "Featured?",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "7c0e1eaca2aff3ae6533833ed67f6fbc",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Color",
+      "slug": "color",
+      "displayName": "Color",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "688e8cd7c8d4294c77208ea3b7950166",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Reference",
+      "slug": "author",
+      "displayName": "Author",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66e8a5a9da71a85960cc7f79"
+      }
+    },
+    {
+      "id": "a8565e0f92f8b57c767bcc1aa8ccf41c",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "category",
+      "displayName": "Category",
+      "helpText": null,
+      "validations": {
+        "options": [
+          {
+            "name": "Startup Advice",
+            "id": "d209e59717564396f2c7a72838516fac"
+          }
+        ]
+      }
+    },
+    {
+      "id": "89a5cd0e5575f3eec57f6593eb10bb06",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "f1b8773181d541e0661c2e8909d08974",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}
