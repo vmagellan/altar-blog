@@ -98,8 +98,6 @@ They also give you access to a community of over 50 active investors as well as 
 
 Like Meetup, Eventbrite doesn’t just cater to entrepreneurs. However, it’s become one of the best ways to find startup events and networking opportunities in your local area.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

@@ -62,8 +62,6 @@ Additionally, Chesky and Gebbia took cost-cutting measures to preserve cash. The
 
 Financial sustainability is critical for any startup, especially during a market downturn. By creating a realistic budget and cash flow forecast, and taking creative approaches to generating revenue and preserving cash, you’ll be in a much better position to weather economic uncertainty.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

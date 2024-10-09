@@ -69,8 +69,6 @@ People who participate directly in the global market are those who own the compa
 
 Interestingly, as we shall see, the history of the internet has mimicked this upward flow. Now it is reaching the top tip of the pyramid which is a promising development.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

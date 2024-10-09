@@ -77,14 +77,6 @@ To answer the question more explicitly we tend not to make introductions to Ange
 
 What we do at the angel stage, or seed stage is actually the opposite. We have a database of a lot of seed-stage media startups and instead, we enable the Angel community to actually see that a little bit more transparently. So basically instead of introducing Angels, because of our thesis about how and why to connect with Angels, we instead more aggressively promote and expose what seed-stage startups are doing so that angels are aware of it and consider them if they want to.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### The Hidden Details When Funding Your Startup
 
 #### Q: An early-stage startup has a lot to do and one of the things you need is capital. Do you think it’s meaningful to have investors on board who are experts in startups and/or a specific sector and can provide connections (Smart Money)? Or do you just need someone who can give you a cash injection?

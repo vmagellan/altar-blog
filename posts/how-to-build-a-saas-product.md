@@ -84,14 +84,6 @@ Your elevator pitch should be simple, stupid and crystal clear. The person readi
 
 Once you have that, you’re ready for step two: setting the assumptions you need to validate with your SaaS product.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Step Two: Set the Main Assumptions You Need to Validate
 
 The next step is to assess the assumptions you’re making about your target market and the problems they face.

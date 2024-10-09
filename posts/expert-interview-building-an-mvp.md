@@ -175,8 +175,6 @@ The growth stage is about building scalability to plan. You should always be thi
 
 However, if you build too far out, you'll wind up building in technical debt or building for use cases that aren't your primary use case. You'll wind up wasting time and money.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

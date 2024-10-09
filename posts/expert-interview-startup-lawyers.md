@@ -171,8 +171,6 @@ And yes as an entrepreneur you probably could figure it out on your own. But it 
 
 All of this to say, as an entrepreneur your time is better-used building your business and bringing the vision to life.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

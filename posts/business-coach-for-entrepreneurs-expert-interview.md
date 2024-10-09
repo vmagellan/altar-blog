@@ -107,14 +107,6 @@ Related: [Expert Interview: The Ultimate Guide to Startup Advisors](https://alta
 
 **D:** Yeah, I think that’s a really good way to put it. Definitely.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Rui: I see what you mean when you talk about the financial relationship. It kind of forces the founder to take action.
 
 #### Comparatively a mentor shows you the way and it’s up to you to follow it.

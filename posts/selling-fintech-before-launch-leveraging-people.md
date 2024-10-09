@@ -121,14 +121,6 @@ Start developing relationships with people who’re relevant to your startup as 
 
 **[Yaron Samid](https://www.linkedin.com/in/yaronsamid/), Serial Entrepreneur & Startup Founder**
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### P: How did you meet your Co-Founder, Michele?
 
 **G:** We met when co-founding Mario App through a common friend.

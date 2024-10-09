@@ -102,14 +102,6 @@ Simply put, it’s not that you can’t solve a problem you know less about – 
 
 Alex Tonelli, Co-Founder & Partner, [Endurance Companies](https://www.endurancecos.com/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. Don’t Underestimate the Importance of Your Product
 
 Christian Nothacker built his fintech startup, PrestaCap, after spotting a gap in the market.

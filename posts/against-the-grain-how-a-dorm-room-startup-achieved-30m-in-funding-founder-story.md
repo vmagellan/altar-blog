@@ -80,8 +80,6 @@ Our approach was very developer-centric. We built ML APIs and asked ourselves, w
 
 We transitioned to a more traditional enterprise focus. The classic idea—do things that don’t scale. Cold outreach, personal meetings, and doing whatever it took to make it work. We sold the end result, built internal tools to do it more effectively, and used our developer tools for real products. After a year of pounding the pavement, smothering customers with time and love, and focusing on delivering value, we finally had everything in place to productize. This was when we started to grow very quickly.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

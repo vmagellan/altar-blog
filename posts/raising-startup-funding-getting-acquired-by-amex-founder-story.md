@@ -131,12 +131,6 @@ We were fortunate to be growing up at the same time as a lot of other FinTechs s
 
 Whether you think about a company like [Coupa](https://www.coupa.com/) or [Square](https://squareup.com/us/en), [PayPal](https://www.paypal.com/pt/home), of course, was doing extremely well and doing a lot in the space. They could see that those were our cohort, the teams against which we were playing.
 
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Early-Stage Team
 
 **R: Who did you have with you in the early days? What was the team composition besides you and Rob?**

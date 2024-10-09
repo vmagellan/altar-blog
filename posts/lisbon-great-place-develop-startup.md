@@ -74,8 +74,6 @@ Despite Lisbon’s recent spike in home rental and sale prices due to the influx
 
 Arguably the most exciting thing to come is going to a new European startup hub right next to the iconic Tagus river. Entrepreneurial space builder [Factory](http://www.factory.co/), with support from Startup Lisboa, is building a giant space in Lisbon dubbed [Beato Creative Hub](https://hubcriativobeato.com/en/home/). The hub plans to be 35,000m² in its first phase (with plans to be around 100,000m² at completion) and is already signing big names like Mercedes to its roster.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

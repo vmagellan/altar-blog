@@ -51,14 +51,6 @@ Disclaimer
 
 Within each industry, the product composition can vary wildly depending on a number of factors, this is for statistical significance Now let’s pick apart the data so you can understand how we arrived at these conclusions.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Researching How Long It Takes to Build an MVP
 
 I started by looking back at the MVPs my team and I have built over the last couple of years at Altar.io.

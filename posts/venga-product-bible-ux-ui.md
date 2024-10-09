@@ -109,14 +109,6 @@ Which led us to the next step of the process - identifying the problems we’re 
 - No chat (it causes distractions) but the participants can send messages to the host (as AirBnB does).
 - We don’t charge the user to access the community.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Building The Product - User Interface (UI)
 
 ### The Events List

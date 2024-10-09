@@ -99,14 +99,6 @@ Capital goods such as real estate may face a crunch due to many people having re
 
 Services such as (national) Tourism, Air and Road Travel and those related to everyday purchases like restaurants and cafes should, however, see a steep increase. This is due to the fact that people in a long lockdown will be eager to get back to their usual small pleasures and way of life as much as possible.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 The Political Front
 
 Usually “plagues”, as bacterial or viral crises are called, have a decisive social impact. They break down chains of command, religions and trust. They destroy civilizations and bring about anarchy and barbarism.

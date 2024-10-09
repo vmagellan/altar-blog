@@ -114,8 +114,6 @@ What Entrepreneurs Are Saying:
 
 “It's simple: Listen + Apply = Improved Outcomes. Take even a shred of the content and put it into action. You will see a difference. You may not always like the style, the words, the delivery, etc - but you will gain an advantage by trying what's suggested in this podcast.” 5/5
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

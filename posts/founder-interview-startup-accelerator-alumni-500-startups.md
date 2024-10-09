@@ -47,8 +47,6 @@ That was the end of 2018. In 2019 we officially launched Sendspark with a focus 
 
 Since then the whole world has changed thanks to COVID. We’re still really big on video but we’ve expanded from email marketing to all kinds of sales and customer communication. With Sendspark, you can easily create personalized videos at scale, which is especially helpful for sales prospecting and customer success.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

@@ -123,14 +123,6 @@ We only launched this a couple of months ago, we’ve just signed our first majo
 
 We see DRT being the most in-demand part of our service moving forward.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### P: Ali, I have just a few questions to follow up here. One is to understand better what your company does. And the other is a bit of a question about the pivot that you had.
 
 #### The first one is, I understand the Netflix style subscription-based model.

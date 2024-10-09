@@ -97,14 +97,6 @@ Getting investors to reach into their pockets takes trust. They are investing in
 
 It is even more important, therefore, that you do everything in your power to put your startup in a powerful position. You need to leverage your network to garner warm introductions to key players in your industry. Before you go out to find your investors, however, you need to create your funding roadmap.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 4 Steps to Complete Your Funding Roadmap
 
 Your goal when fundraising should be to make the process as efficient and effective as possible. There are four steps that will help you do this:

@@ -94,8 +94,6 @@ The SaaS Marketplace approach also allows creators to recommend other creators t
 
 Nowadays, the world has gotten used to subscriptions, from Spotify to Adobe, and Birchboxes to Netflix. There are, however, some verticals that are ripe for fresh ideas for the marketplace subscription model. We’ll get to them shortly, but first, it’s important to make sure your project has the potential to become a marketplace.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

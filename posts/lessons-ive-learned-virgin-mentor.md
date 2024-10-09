@@ -35,14 +35,6 @@ However, there are some behaviours that will help you separate the what from the
 5. To learn new skills and help to improve existing ones whilst increasing your capabilities and knowledge.
 6. To gain meaningful connections – a definite plus. In the ideal world, they’ll be able to introduce you to an established network that could help you grow your business.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## How to Identify a Great External Partner
 
 As well as the technical and managerial elements – described in this [article](https://altar.io/blog/whats-the-best-way-to-build-your-startup-cto-freelancers-agency/) - there is plenty more to consider when looking for an external collaborator (whether it’s a [Software Development Agency](https://altar.io/should-a-startup-outsource-its-software-development/) - or any form of outsourcing).

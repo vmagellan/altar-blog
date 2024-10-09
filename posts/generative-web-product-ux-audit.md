@@ -107,8 +107,6 @@ The creative, problem-solving, design and production processes are being challen
 
 The distinction between real and fake will play a key role in the development of successful products in this space. The ethical concerns of this new technology are still in the early stages. The world is still adapting and rethinking the new role of the human mind when adopting this new powerful tool.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

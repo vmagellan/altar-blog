@@ -91,8 +91,6 @@ Giacomo’s story is a much more common example of finding a technical co-founde
 
 Equally common, however, is when an entrepreneur spends months focused on finding their dream technical founder and still comes up empty-handed.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

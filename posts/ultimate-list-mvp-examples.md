@@ -45,8 +45,6 @@ Starting lean, focussing on a core feature, in a small niche allows you to test 
 
 The more features you build the more your product development costs. Targeting multiple geographies forces you to multiply your marketing efforts to reach that wider market, which also increases your costs.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

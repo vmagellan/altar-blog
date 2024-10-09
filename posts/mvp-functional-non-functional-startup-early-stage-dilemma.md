@@ -56,14 +56,6 @@ For example, if you’re a non-tech founder, finding the right technical partner
 
 Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Non-Functional MVP
 
 A non-functional MVP is a tool that you create to test interest in your market. For example, building a landing page, creating a promotional video or launching your product on a crowdfunding platform like Kickstarter.

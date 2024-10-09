@@ -84,14 +84,6 @@ For larger teams, they offer Studio membership for 20–90 people. Fixed desk me
 
 **Website:** [Second Home — Coworking Lisbon](https://secondhome.io/location/lisboa/) **Contact Email:** [hola.lisboa@secondhome.io](mailto:hola.lisboa@secondhome.io) **Google Reviews:** 4.4/5.0 (187 Reviews)![The 10 Best Coworking Spaces in Lisbon For Entrepreneurs - Second Home Coworking Space Lisbon - Top Review](https://cdn-images-1.medium.com/max/720/0*tCL7RJeBkp1ztcyl)
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 4\. The Base Lisbon
 
 The [Base Lisbon](http://www.baselisbon.com/) is coworking based in a calm, modern space in the centre of Lisbon, just off the famous Avenida de Liberdade.

@@ -71,8 +71,6 @@ The binomial lattices involve several paths that conduct to the same outcome, an
 
 The typical solution for this kind of issue involves the computation of replicating portfolios at each node; that, of course, involves the concept of complete markets - where the payoff of traded securities can replicate the behaviour of the underlying asset at different times.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

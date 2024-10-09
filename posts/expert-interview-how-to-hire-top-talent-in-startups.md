@@ -85,14 +85,6 @@ According to [Employee Benefit News](https://www.benefitnews.com/news/avoidable
 
 Maybe the focus shouldn’t be on hiring slow and firing fast, but on hiring right and avoiding unnecessary staff turnover.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### P: In *Who: The A Method for Hiring,* You write about the characteristics of A players. How do you detect high-quality candidates in a short space of time?
 
 **G:** There are a lot of bad ways to evaluate a candidate. Let’s start with **bad methods**. Take *The* *Handbook of Industrial and Organisational Psychology* for example. This is filled with different methods for evaluating a human being.

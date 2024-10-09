@@ -128,8 +128,6 @@ Should you hire this developer? Personally, I don’t have an opinion about The 
 
 Warning if you consider hiring one: They’re shy by nature and not great communicators. As a result, often what’s delivered will be outside the project’s specifications because they ‘didn’t want to disturb you’.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

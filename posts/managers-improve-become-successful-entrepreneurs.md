@@ -56,14 +56,6 @@ Older Founders -> More accrued exposure to their sector, managerial techniques 
 
 However, older founders are getting cosy in terms of tech - whether it’s the cloud, salesforce or even Instagram. The “edge” that those “new kids on the block” had vs professionals with 10+ years of experience is starting to diminish rapidly.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 Structured, experienced.. And now building the way to be great in Tech
 
 ![Are You Too Old To Start A Business and Be A Great Founder? - Seasoned founders profile](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1coTwKgGCE8-9tbn42MhDKw.jpeg)

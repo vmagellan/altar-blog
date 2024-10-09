@@ -109,14 +109,6 @@ So as a startup mentor I might say to a CEO: “I think you need to get out of t
 
 ### _A startup mentor is someone who focusses on the entrepreneur. Whereas a startup advisor is going to focus on the business. Advisors look at the bigger picture, rather than just you as an entrepreneur._
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 Q:  One problem first time founders face is that, although they are smart and have business knowledge, they have no experience in building a startup or the technology they should use.
 
 #### Do you think this kind of founder should start with mentors for personal growth before onboarding advisors? Or do you think there is value in finding startup advisors from day one?

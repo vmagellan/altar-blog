@@ -66,8 +66,6 @@ This investor has little self-confidence and knows his money is just money so he
 
 This investor will immediately ask you who is already committing to the round and if no resounding name is included he will ask you politely to talk to investors A, B and C. This investor plays it safe and knows he is only in financially. Of all the bad investors, this is one who might do you less harm but little more good than handing you money for the same terms as you do to great investors. Pray that he abides by your term sheet.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

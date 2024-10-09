@@ -83,14 +83,6 @@ It may also be targeting your platform to a different set of users (e.g. switchi
 
 These are just a few examples of what it means to pivot your business. Now I want to dive into deciding whether or not you should pivot your startup.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## When Should You Pivot Your Startup?
 
 To help you identify whether or not pivoting is right at this moment in your startup’s journey, here are some common signs that normally mean a pivot is a necessity.

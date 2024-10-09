@@ -99,14 +99,6 @@ I was studying civil engineering because my father was a passionate architect. H
 
 There is a big lesson there. **I was trying to meet my dad’s expectations, not mine**. We will talk more about that later when we talk about what I call *The Three Pillars of Success.*
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Q: What, in your opinion, is the essence of entrepreneurship?
 
 **A:** There’s this common idea that entrepreneurs are born from their DNA.

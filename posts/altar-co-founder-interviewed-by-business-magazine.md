@@ -54,14 +54,6 @@ We’re extremely proud of these results, that wouldn’t be possible without th
 
 This reputation brings us clients such as an HSBC CEO from across the continent and a YouTube product director – and we feel like this is just the start.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### VM: What Distinguishes You From Other Technology Consultants?
 
 **D:** Almost everything. We aren’t a technology consultant in the traditional sense of the word.

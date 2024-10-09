@@ -105,14 +105,6 @@ Once the Product Scope has been defined we then move onto the development stage 
 
 **Note:** We have a non-binding contract with all of our clients. Meaning, at this stage, if you want to take the deliverables of the Product Scope to a different technical stakeholder (whether that’s an in-house team, freelancer, or another agency) you’re completely free to do so.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### MVP Development
 
 #### Step One: All Screens

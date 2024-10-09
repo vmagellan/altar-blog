@@ -76,14 +76,6 @@ Systrom listened to the market and built an app with the features needed to show
 
 So, focus on the value, the problem your users have and build an MVP with the fewest features possible to show them that your solution is the best on the market for them.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. Sacrificing Security & Privacy for a Shorter Time to Market
 
 This point is often the result of focusing on the “minimum” and not the “viable” but is important to mention in and of itself.

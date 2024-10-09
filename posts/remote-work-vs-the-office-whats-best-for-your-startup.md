@@ -93,14 +93,6 @@ Do you have an important meeting that used to be in person? Again you stare at t
 
 Not very healthy.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Importance of Being “Part of The Team”
 
 This is possibly the most important aspect when it comes to talking about startup success.

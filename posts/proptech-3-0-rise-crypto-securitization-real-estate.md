@@ -42,14 +42,6 @@ Such information and data hoarding leads naturally towards *elaborate asset rad
 - Price
 - Valuation
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 Proptech 2.0
 
 Proptech 1.0 focused on helping the agent or owner make a digital brochure quickly and have it gain visibility. Proptech 2.0, however, is about the universe of ideas and possibilities to disrupt specific processes and segments of the market. Specifically, ones that could benefit from simply transposing existing tech concepts of the Shared Economy, Fintech, Analytics, Smart Building, Energy Efficiency and other technology segments.

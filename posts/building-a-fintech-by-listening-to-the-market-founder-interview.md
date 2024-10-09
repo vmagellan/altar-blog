@@ -60,14 +60,6 @@ It wasn’t a lightbulb moment where one morning I woke up and “poof” I’m 
 
 I decided to start a fintech in this market without a specific idea. We knew and had a sense of where the issues were. We started talking to a few of the banks to understand exactly what their pain was. And we started to figure out how we could best solve those pain points.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### P: What was the a-ha moment where you realised you could go all-in on TradAir?
 
 **I:**  I can’t pinpoint a specific a-ha moment, but I can go back to the fintech company that we founded previously, [Traiana](https://www.linkedin.com/company/traiana/).

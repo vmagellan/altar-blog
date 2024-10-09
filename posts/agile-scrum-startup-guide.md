@@ -49,7 +49,6 @@ While these key values are an excellent starting point to guide the way you can 
 
 That’s why several frameworks and methodologies have been developed to help you do just that. One of which is Scrum.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
 
 ##### Do you have a brilliant idea that you want to bring to life?
 

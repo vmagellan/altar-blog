@@ -142,14 +142,6 @@ To train and deploy the model here is an example of three used ways ordered by w
 
 This Heavy Machine Learning approach is typically used by the Data Scientist.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 Edge Machine Learning
 
 This is where things get a little more exciting, and where we are going to focus as IoT, web and mobile developers.

@@ -140,14 +140,6 @@ As [Sean Sheppard](https://www.linkedin.com/in/seansheppard/) puts it:
 
 You need to be able to trust and count on your co-founders. Choose correctly and you will have a strong foundation on which to move onto the next step: building a startup team.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
-##### Building a Startup?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## How to Build a Team for Your Startup
 
 For your startup to grow you will need to assemble a team of top talent who will bring skills to the table that helps you execute your business plan. This factor is important to investors, after all, if you are unable to execute your idea, they won’t see a positive ROI.

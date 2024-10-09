@@ -184,8 +184,6 @@ That concludes the four steps to ensure your startup’s design delights your us
 
 But, since you’re here, I wanted to go a step further and talk about the next logical step in your journey to create a kickass design: finding the right person to execute it.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.

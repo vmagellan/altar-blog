@@ -131,8 +131,6 @@ If I hadn’t worked with entrepreneurs at Endeavor, I wouldn’t have seen the 
 
 That’s what I mean when I say with B2B startups you really have to be there, talking to a lot of businesses to identify the pain points.
 
-![Daniel, CEO of Altar, Product and Software development company specialising in building MVPs, full custom software development projects & creating UX/UI that is both functional and beautiful](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/cta-colors-daniel-arms-crossed.png)
-
 ##### Do you have a brilliant startup idea that you want to bring to life?
 
 From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
