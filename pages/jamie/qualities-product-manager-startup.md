@@ -62,12 +62,6 @@ Throughout the rest of this article, I will list all of the qualities you need t
 
 Before that, however, I want to take a moment to define what I mean by product.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## What is “Product”?
 
 Product is a fairly new discipline in the startup world – at least compared with the other disciplines like development or marketing.

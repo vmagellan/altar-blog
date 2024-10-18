@@ -49,13 +49,6 @@ While these key values are an excellent starting point to guide the way you can 
 
 That’s why several frameworks and methodologies have been developed to help you do just that. One of which is Scrum.
 
-
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## What is Scrum?
 
 Scrum is a structured framework that teams can use to implement Agile principles.

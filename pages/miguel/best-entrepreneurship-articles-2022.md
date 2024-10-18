@@ -79,12 +79,6 @@ He decided to move on without a technical co-founder. And learned some valuable 
 
 You can find the whole story [here](https://altar.io/building-a-startup-without-a-technical-co-founder/).
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 4\. 7 Dangerous Mistakes to Avoid When Building an MVP
 
 To date, we’ve helped build over 80 MVPs, from first-time founders with early-stage startups to seasoned entrepreneurs with multiple projects under their belts, all in a variety of regions across the globe.

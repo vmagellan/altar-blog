@@ -56,12 +56,6 @@ Acquiring early customers, figuring out who to hire, closing deals with banks, r
 
 Vincent Forster, CEO, [Versantis](https://www.swissbiotech.org/listing/versantis-ag/)
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 2. [MassChallenge Switzerland](https://masschallenge.org/programs-switzerland/#)
 
 Since 2015, MassChallenge has become one of the fastest-growing startup accelerators in the world, launching six chapters across the globe. Helping nearly 500 startups across a wide range of verticals in the process.

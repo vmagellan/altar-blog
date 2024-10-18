@@ -80,12 +80,6 @@ If your primary goal is business expansion, these are your go-to experts. Skille
 
 Now, let’s move on to the list itself.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 12 Product Leaders You Should Follow as a Startup Founder
 
 ### 1\. Peter Welinder

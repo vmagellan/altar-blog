@@ -159,12 +159,6 @@ So, before you set out to bring your vision to life, ensure you’re truly passi
 
 If you’re not, you won’t have the perseverance to get through the inevitable hurdles that come up on your startup journey.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Getting to Know the Market & Initial Idea Validation
 
 As I mentioned in the previous section, a deep understanding of your market is essential if you want to build a successful startup.

@@ -62,12 +62,6 @@ I’ve always aspired to be part of YC. For example. watching videos of Sam Altm
 
 When the opportunity to join YC presented itself, it was an unequivocal decision. Other accelerators, such as Antler, offered us positions too and were exceptionally accommodating. However, the quality of mentorship and the community at YC, along with the chance to develop our company in the Bay Area's thriving ecosystem, solidified our choice to join YC.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Application Process for Y Combinator
 
 #### **J:** Can you share the timeline from applying to YC to getting accepted?

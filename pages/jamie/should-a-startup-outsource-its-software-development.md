@@ -70,12 +70,6 @@ In any other scenario, a software project can either be built in-house or outsou
 
 To help give some more context, I wanted to share some case studies from successful companies, to help you understand the kinds of businesses that are suited to the outsourcing model.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Case Studies from Successful Companies That Outsourced Software Development
 
 #### Alibaba

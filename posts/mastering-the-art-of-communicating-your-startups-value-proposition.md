@@ -99,12 +99,6 @@ If, once you’ve gone through this process for your own startup, there is any a
 
 If your elevator pitch is absolutely “SSCC” you’re ready for step two.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Step #2: Craft a Compelling Narrative
 
 Crafting a compelling narrative is an art that involves weaving together different elements to create an engaging and emotionally resonant story. It’s critical to effectively communicate your startup’s unique value proposition.

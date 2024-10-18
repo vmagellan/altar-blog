@@ -95,12 +95,6 @@ Forbes pricing starts at **$6.99 billed monthly**. They also offer a subscripti
 
 Forbes also provides a back catalogue of useful resources and articles – many of which can be accessed free of charge.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 4\. Inc.
 
 ![Inc. business magazine Cover](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Inc.-Cover-229x300.jpeg)Since 1979, [Inc.](https://www.inc.com/) has been the industry leader in reporting on small companies and startups.

@@ -110,12 +110,6 @@ Most accelerators offer a lot of the same things to startups over a 12-week peri
 
 [**Nikolai Tornøe Narvestad**](https://www.linkedin.com/in/nikolaitn/?originalSubdomain=no)**, Intrava**
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 4. [Equinor & Techstars Energy Accelerator](https://www.techstars.com/accelerators/equinor-energy)
 
 Equinor and Techstars Energy accelerator offers real business opportunities for startups that are focused on transitioning towards a more sustainable future. Some of their example industries include,

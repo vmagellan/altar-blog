@@ -184,12 +184,6 @@ That concludes the four steps to ensure your startup’s design delights your us
 
 But, since you’re here, I wanted to go a step further and talk about the next logical step in your journey to create a kickass design: finding the right person to execute it.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## What You Should Look for In a UX/UI Designer or Agency
 
 If you’re going to execute great UX/UI design successfully, you’re going to need a top-notch designer or design agency in your corner.

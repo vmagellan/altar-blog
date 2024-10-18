@@ -106,12 +106,6 @@ I get compliments from employees that I meet with all of the time who say, “It
 
 The people that have stayed have really stepped up to it, and I think are pretty excited about the whole thing.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Rui: How did you manage to do that in 11 months without completely breaking the operation?
 
 Reed: It's doing better. We have much better net promoter scores, we are more profitable and we are acquiring new accounts. There was no impact to productivity whatsoever, which was kind of astounding,

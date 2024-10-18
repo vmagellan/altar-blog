@@ -114,12 +114,6 @@ In both of these examples, however, the hurdles (and in Quibi’s case, ultimate
 
 So how do you go about hiring that all-important product manager?
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Where to Find a Product Manager
 
 There are two key paths you can take to find your startup’s product manager.

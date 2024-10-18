@@ -91,12 +91,6 @@ The other financial benefit to YC is the discounts you get with key services you
 
 Finally, the community you’re able to build through YC is a huge benefit of being part of the accelerator.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Application Process
 
 #### J: You're not the first person to tell me that the community is one of the key factors. Aside from the support, it helps you get your foot in the door much quicker.

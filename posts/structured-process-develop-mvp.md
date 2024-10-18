@@ -113,12 +113,6 @@ If any aspect of your elevator pitch is unclear, head back to the beginning of S
 
 Related: [Expert Interview: The 3 Pillars to Become a Successful Entrepreneur](https://altar.io/expert-interview-become-a-successful-entrepreneur/)
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Step Two: Deconstructing Your Elevator Pitch to Discover the Main Assumptions to Validate
 
 Once you have a rock-solid value proposition and a crystal clear product elevator pitch, it’s time to set the main assumptions you need to validate.

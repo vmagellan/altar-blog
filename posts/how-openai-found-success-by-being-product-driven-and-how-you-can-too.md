@@ -58,12 +58,6 @@ For startup founders, the art of problem definition is paramount. As Steve Jobs 
 
 It's not about how many problems you can tackle, but the depth and effectiveness with which you address one. By immersing oneself in the problem, narrowing its scope, and striving for simplicity, startups can ensure that their innovations resonate and make a profound difference.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Product Vision & Agility
 
 Understanding the current landscape of the problem your startup product is trying to solve is paramount. This involves looking at existing solutions, learning from them, and identifying the gaps your product could potentially fill.

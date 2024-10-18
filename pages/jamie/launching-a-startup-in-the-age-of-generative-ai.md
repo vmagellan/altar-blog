@@ -78,12 +78,6 @@ Several companies exemplify this domain-specific approach in GenAI:
 
 These companies illustrate the diverse applications of GenAI, from enhancing user experience in gaming to revolutionizing processes in sales, architecture, and academic research. They stand as testaments to the power of domain-specific applications in the field of generative AI.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Application Layer in Generative AI
 
 The rise of Generative AI (GenAI) is heralding a shift in our digital interactions, much like the transition from the static Web1 to the dynamic, user-focused Web2.

@@ -71,12 +71,6 @@ If you meet these conditions, you can attract any Belgian taxpayer to invest up 
 
 They will then be able to claim a tax reduction of 30% (if the investment has been made into an SME) or 45% (if Micro-enterprise) of the amount invested on their annual tax declaration.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. France
 
 France offers several benefits for both startups and their investors.

@@ -107,12 +107,6 @@ The creative, problem-solving, design and production processes are being challen
 
 The distinction between real and fake will play a key role in the development of successful products in this space. The ethical concerns of this new technology are still in the early stages. The world is still adapting and rethinking the new role of the human mind when adopting this new powerful tool.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## UX Audit - a Cost-Efficient Path to Innovation
 
 Given what I've explored above, it is paramount that companies prepare themselves for the upcoming shift. It’s not enough to have a good product, it needs to stay relevant through time.  And here the UX Audit comes into play.

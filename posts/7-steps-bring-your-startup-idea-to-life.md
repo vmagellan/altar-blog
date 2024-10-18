@@ -107,12 +107,6 @@ Then, once you have a product out in the market, you can use [this guide](https
 
 The next step is to do some research to ensure you can transform your startup idea into a solid product vision.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. Do Your Research
 
 The next key step in bringing your idea to life is to make sure you build it for the person whose problem you're solving.

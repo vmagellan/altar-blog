@@ -56,12 +56,6 @@ We then pass the code on to the Front-End Developer, who will implement the rema
 
 Having someone on your project who can understand the intent behind product and user experience decisions as well as the technical execution means they can accurately implement the designs, with far-reaching repercussions.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Why Bringing a Styling Developer onto Your Project Pays off in Spades
 
 ### Product Quality

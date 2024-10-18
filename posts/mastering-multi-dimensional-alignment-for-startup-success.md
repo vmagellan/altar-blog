@@ -90,12 +90,6 @@ Consider economic conditions, consumer spending trends, and the investment clima
 
 Monitor shifts in consumer behaviour that might signal a growing need for your solution, similar to how the rise in remote working spiked demand for digital collaboration tools like [Zoom](https://www.vox.com/recode/21726260/zoom-microsoft-teams-video-conferencing-post-pandemic-coronavirus).
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Product-Channel Fit
 
 Achieving a Product-Channel Fit means ensuring that your product effectively reaches its target audience while also maximising the distinct features of the chosen distribution channel to boost user engagement and satisfaction.

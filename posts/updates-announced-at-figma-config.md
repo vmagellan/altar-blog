@@ -60,12 +60,6 @@ Now, with the new advanced prototyping function (which includes gems like condit
 
 Or as Figma so aptly put it, we can build “high-fidelity prototypes using fewer frames - **no noodles needed!**”
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Dev Mode
 
 Until now, Figma has been optimised for designers who usually feel at home in the various nooks and crannies it offers.

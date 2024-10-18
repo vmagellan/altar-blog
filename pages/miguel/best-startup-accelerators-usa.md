@@ -76,12 +76,6 @@ Startup accelerators and incubators give you access to successful entrepreneurs 
 
 You can learn from their mistakes and successes to help your startup reach its goals faster.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Top 50 Startup Incubators & Accelerators in the USA
 
 As promised, here’s a list of the 50 best startup incubators and accelerators.

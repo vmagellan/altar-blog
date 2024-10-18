@@ -328,12 +328,6 @@ Currently, you can buy a pack of 115 credits for $15.
 
 ![AI Tools Review - DALL·E 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/DALLC2B7E-2-Review.png)
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 4. [Jasper.ai](https://www.jasper.ai/)
 
 Jasper.ai is another gem of an AI tool for content creation. Whether it's crafting engaging blog posts or creating compelling copy for marketing collateral, Jasper.ai accelerates the content generation process while ensuring a high level of creativity and relevance.

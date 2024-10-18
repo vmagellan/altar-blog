@@ -112,12 +112,6 @@ This doesn’t even need to be something technical, it can be a roadmap, budget 
 
 Failure to meet the delivery date is a huge red flag. After all, if they can’t carry out a simple deliverable now how will they cope when you’re both in the trenches of product development?
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Tech Expertise 
 
 Your technical co-founder needs to be an expert in his field. Therefore it’s vital that you study their portfolio and assess the quality of their previous work. If you can’t do this yourself, I highly recommend asking an expert who is unbiased and exempt from your search.

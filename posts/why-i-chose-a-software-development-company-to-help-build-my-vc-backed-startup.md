@@ -64,12 +64,6 @@ This was crucial - when working with an agency you **need** a partner, not jus
 
 Our choice, Altar.io, ticked all these boxes, aligning with our goals and opening our eyes to new opportunities.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Communicating with Our Investors
 
 When we decided to partner with a software development agency, it initially raised questions among our investors.

@@ -211,12 +211,6 @@ Summary: Why Should You Apply for a Startup Accelerator?
 2. A wealth of mentorship that will help your startup rapidly get from zero to one.
 3. Opportunities to gain funding. From both the accelerator itself and from investors after the accelerator has ended (using the “credential” to get through the door)
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## How Long  Does it Take to be Accepted by a Startup Accelerator?
 
 Time is always of the essence in an early-stage startup. So, naturally, one of the questions at the forefront of entrepreneurs' minds is how long it will take to actually get into a startup accelerator.

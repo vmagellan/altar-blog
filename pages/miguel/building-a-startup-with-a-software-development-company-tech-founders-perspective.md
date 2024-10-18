@@ -76,12 +76,6 @@ Which is when we found Altar. We saw that not only did they have a depth of know
 
 I’ve said it before, but I’ll say it again, the team at Altar really became an extended team of co-founders for us.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## How to Conduct Due Diligence and Find the Right Fit
 
 One of the biggest hurdles you’ll come across once you decide to hire a software development company is doing your due diligence right, and ensuring you bring in the right people for the job.

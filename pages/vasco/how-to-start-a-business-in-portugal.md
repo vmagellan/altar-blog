@@ -65,12 +65,6 @@ If you want to open a branch or subsidiary of your company in Portugal you will 
 
 If you own a business that has been operating in at least two EU countries for the last two years you can create a [European Company](https://europa.eu/youreurope/business/running-business/developing-business/setting-up-european-company/index_en.htm). This allows you to easily expand into Portugal and other EU countries.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. Get an Accountant
 
 As I’ve already mentioned an experienced accountant is invaluable. There are plenty of English speaking accountants doing business in Portugal’s startup sector. They will provide a no-nonsense approach and help you with all your financial concerns. They can also serve as an advisor when you need one.

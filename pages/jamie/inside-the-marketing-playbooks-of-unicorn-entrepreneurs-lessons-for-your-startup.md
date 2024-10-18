@@ -45,12 +45,6 @@ By prioritising genuine relationships with potential customers, Garrett was able
 
 This step is one of the best ways to establish a solid foundation of trust, create brand advocates, and ultimately drive long-term success.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 2\. Focus on Benefits, Not Features
 
 When it comes to enticing potential customers to adopt your product, you need to focus on the benefits it will deliver, as opposed to the features you built into it.

@@ -84,12 +84,6 @@ With such a complicated and data-heavy platform to create, anything less than a 
 
 To achieve this, here are two critical factors that a software development company needs to focus on if they’re to mimic an internal team. So before you onboard them, make sure you see the signs.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Full Alignment with the Software Development Company
 
 The first step here is to ensure you’re talking to a group of real people.

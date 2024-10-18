@@ -106,12 +106,6 @@ Large corporations, like General Electric (GE), have applied similar principles.
 
 The outcome was impressive: GE brought a new product, the Durathon battery, from concept to market in just two years, half the time it would usually take. It's a testament to how Lean principles can expedite product development, even for established conglomerates.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Resource Efficiency
 
 Startups, with their constrained budgets, know the value of resource efficiency.

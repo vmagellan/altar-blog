@@ -98,12 +98,6 @@ They also give you access to a community of over 50 active investors as well as 
 
 Like Meetup, Eventbrite doesn’t just cater to entrepreneurs. However, it’s become one of the best ways to find startup events and networking opportunities in your local area.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### 7. [Bizfluence](https://apps.apple.com/gb/app/bizfluence-business-network/id1547006576)
 
 ![Entrepreneurial platforms, Bizfluence](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-17.48.58.png)

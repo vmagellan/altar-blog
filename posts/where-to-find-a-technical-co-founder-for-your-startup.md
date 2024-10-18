@@ -91,12 +91,6 @@ Giacomo’s story is a much more common example of finding a technical co-founde
 
 Equally common, however, is when an entrepreneur spends months focused on finding their dream technical founder and still comes up empty-handed.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### 2\. Tinder for Co-Founders
 
 Jan-Philipp Kruip is the founder of FitSense, a health app that rewards users for staying active.

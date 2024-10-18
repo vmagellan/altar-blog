@@ -74,12 +74,6 @@ Despite Lisbon’s recent spike in home rental and sale prices due to the influx
 
 Arguably the most exciting thing to come is going to a new European startup hub right next to the iconic Tagus river. Entrepreneurial space builder [Factory](http://www.factory.co/), with support from Startup Lisboa, is building a giant space in Lisbon dubbed [Beato Creative Hub](https://hubcriativobeato.com/en/home/). The hub plans to be 35,000m² in its first phase (with plans to be around 100,000m² at completion) and is already signing big names like Mercedes to its roster.
 
-##### Do you have a brilliant idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 5\. Local Development Agencies and Communities are Booming
 
 There is an endless number of communities for JavaScript, Node, Angular, RoR, Java, and many more. Have a look at the full list of networking opportunities through [Meetup](https://www.meetup.com/cities/pt/lisbon/tech/).
