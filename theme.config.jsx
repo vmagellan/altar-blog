@@ -1,7 +1,8 @@
 export default {
   logo: <span>Altar Blog</span>,
-  project: {
-    link: "https://github.com/vmagellan/altar-blog/blob/main/",
+  docsRepositoryBase: "https://github.com/vmagellan/altar-blog/blob/main/",
+  sidebar: {
+    autoCollapse: true,
   },
   // ... other theme options
 };
