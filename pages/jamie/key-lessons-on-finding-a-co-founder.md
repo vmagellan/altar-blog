@@ -36,8 +36,6 @@ From those conversations I've compiled the top 5 lessons on finding a co-founder
 
 Let’s jump straight in with the first lesson, which is all about the importance of the process itself.
 
-#### Contents
-
 ## 1\. Don’t Underestimate The Importance of Finding the Right Co-Founder
 
 There's a reason why so many people in the startup world say that investors invest in teams. Good ideas and appealing markets are worth zero if you don't have the ability to execute.
@@ -105,12 +103,6 @@ We got together and we hit it off. He joined the team as outside counsel. Then i
 We worked together a little and then we worked together a lot and it was very clear. He’s the co-founder and we restructured the company and made it happen.”
 
 It’s been an incredible dynamic. If you had handed me Aladdin’s lamp and said make a wish for your perfect co-founder I couldn’t have guessed that he existed.
-
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
 
 ## 3\. Trust is Key, But Building Trust Often Requires a Leap of Faith
 
