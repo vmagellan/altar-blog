@@ -168,11 +168,6 @@ Incorporating robust AI safety measures and prioritising human supervision in AI
 
 By acknowledging the limitations and potential of AI, you can navigate challenges responsibly, ensuring that AI enablement aligns with ethical standards and organisational goals.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## Where to Start with AI Enablement

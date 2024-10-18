@@ -176,11 +176,6 @@ Inc. Magazine has been helping entrepreneurs build and grow their companies sinc
 
 It’s extremely comprehensive and offers three articles a month for free. For $19.99 a year, you can remove this paywall. Which, in my opinion, is a small price for the amount of value on the platform.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 ### 5. [Fast Company](https://www.fastcompany.com/) 
 
 ![Entrepreneurial platforms, Fast Copany](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2022-11-17-at-18.20.50-1024x598.png)

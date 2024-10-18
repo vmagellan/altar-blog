@@ -28,15 +28,15 @@ In part two, we delved into onboarding early adopters, leadership & the people b
 
 As I mentioned in part one, the actionable advice Garrett shares from his 25 years of experience in Silicon Valley is a must-read for any founder beginning their startup journey.
 
-#### Contents
+### Contents
 
 ## Onboarding Early Adopters
 
-#### R: Garrett, last time, we were talking about your entrepreneurial experience more from a mindset perspective, not only with your company Identity Mind but with all the products you worked on.
+### R: Garrett, last time, we were talking about your entrepreneurial experience more from a mindset perspective, not only with your company Identity Mind but with all the products you worked on.
 
-#### Today, I wanted to focus more on execution, – starting with your early adopters.
+### Today, I wanted to focus more on execution, – starting with your early adopters.
 
-#### What was your process; from onboarding early adopters all the way through to growing the company over the subsequent years?
+### What was your process; from onboarding early adopters all the way through to growing the company over the subsequent years?
 
 **G:** These things are always trial and error.
 
@@ -96,9 +96,9 @@ We timed the product well in that respect.
 
 ## The People Behind IdentityMind
 
-#### Rui: Let’s change gears, Garrett. My next set of questions are mostly related to the team.
+### Rui: Let’s change gears, Garrett. My next set of questions are mostly related to the team.
 
-#### Who did you have with you in the early days of IdentityMind? What was the team composition?
+### Who did you have with you in the early days of IdentityMind? What was the team composition?
 
 **G:**  The team composition in the early days was a couple of engineers and a strong product person. Then we had some outsourced functions in the form of cryptographic engineers – some people out of Stanford were helping us in those areas.
 
@@ -128,19 +128,19 @@ Related: [Expert Interview: How to Hire Top Talent in Startups](https://altar.io
 
 ## Startup Leadership
 
-#### R: Absolutely. It's a vastly different mindset.
+### R: Absolutely. It's a vastly different mindset.
 
-#### And it's not that the person doesn't have the skills to do it, but with considerably different resources, the game changes a bit.
+### And it's not that the person doesn't have the skills to do it, but with considerably different resources, the game changes a bit.
 
-#### I have a bunch of follow-ups already.
+### I have a bunch of follow-ups already.
 
-#### The first thing you mentioned is the team growing with the company. Your early hires turned into great executives because they were hands-on, they knew the company from the get-go and had a great leader.
+### The first thing you mentioned is the team growing with the company. Your early hires turned into great executives because they were hands-on, they knew the company from the get-go and had a great leader.
 
-#### But some will argue that knowing when to replace someone on the executive team according to the startup’s stage is also paramount to success.
+### But some will argue that knowing when to replace someone on the executive team according to the startup’s stage is also paramount to success.
 
-#### Do you believe that a leadership team is better when they start at the bottom, doing the operational grunt work?
+### Do you believe that a leadership team is better when they start at the bottom, doing the operational grunt work?
 
-#### Does this make them better equipped to handle the leadership role vs. a college graduate who comes straight into a management role?
+### Does this make them better equipped to handle the leadership role vs. a college graduate who comes straight into a management role?
 
 **G:** Wow. That's a tough one.
 
@@ -180,25 +180,25 @@ That’s why, as an entrepreneur and founder, you need to have a boatload of con
 
 ## The Importance of a Product Person
 
-#### R: Let’s move on to the second thing I wanted to follow up on, which was the product person you had on your team.
+### R: Let’s move on to the second thing I wanted to follow up on, which was the product person you had on your team.
 
-#### We talk a lot about product at Altar. In fact, product reasoning is at the heart of our value proposition.
+### We talk a lot about product at Altar. In fact, product reasoning is at the heart of our value proposition.
 
-#### Not only does the product have to solve a real problem, but it also has to provide an amazing experience in doing so.
+### Not only does the product have to solve a real problem, but it also has to provide an amazing experience in doing so.
 
-#### 15 years ago, when the internet was still in its infancy, there wasn’t as much importance given to product.
+### 15 years ago, when the internet was still in its infancy, there wasn’t as much importance given to product.
 
 Firstly, because the competitive landscape wasn’t nearly as crowded.
 
-#### Users were also willing to tolerate an app that had slower load times, bugs, etc. As consumers, our standards weren’t as high.
+### Users were also willing to tolerate an app that had slower load times, bugs, etc. As consumers, our standards weren’t as high.
 
-#### Nowadays, if you have to wait more than 2 seconds for something to load you click the back button.
+### Nowadays, if you have to wait more than 2 seconds for something to load you click the back button.
 
-#### If you’re using an app and the experience is not smooth and straightforward, you’re on the App Store looking for an alternative.
+### If you’re using an app and the experience is not smooth and straightforward, you’re on the App Store looking for an alternative.
 
-#### The importance of a product is obvious to everyone these days.
+### The importance of a product is obvious to everyone these days.
 
-#### When you were starting IdentityMind how important was it for you to onboard a product person from day zero?
+### When you were starting IdentityMind how important was it for you to onboard a product person from day zero?
 
 **G:**  It was critical.
 
@@ -212,9 +212,9 @@ It comes back to bringing in those foundational people early and growing them th
 
 Related: [Key Product Lessons I Learned Interviewing Successful Entrepreneurs](https://altar.io/key-product-lessons-i-learned-interviewing-successful-entrepreneurs/)
 
-#### R: It’s great to hear that advice because we still see a lot of cases where founders take their business idea straight to a developer.
+### R: It’s great to hear that advice because we still see a lot of cases where founders take their business idea straight to a developer.
 
-#### They hand over a list of features that they think are relevant without considering the users real needs, they just assume.
+### They hand over a list of features that they think are relevant without considering the users real needs, they just assume.
 
 **G:** You’re really touching on a key point here. It’s something we still see today which leads to lots of work for the company down the road to unravel.
 
@@ -240,15 +240,15 @@ Related: [Expert Interview: The One Thing You Can't Miss When Building a Minimum
 
 ## Maintaining the Right Culture
 
-#### R: Perfect.
+### R: Perfect.
 
-#### Now, the last follow up on this first question.
+### Now, the last follow up on this first question.
 
-#### You mentioned culture and you talked about being able to maintain culture. And I mean, the environment when building the first version of the product is a vastly different environment than when the company is raising Series D.
+### You mentioned culture and you talked about being able to maintain culture. And I mean, the environment when building the first version of the product is a vastly different environment than when the company is raising Series D.
 
-#### You raised over $25M with IdentityMind.
+### You raised over $25M with IdentityMind.
 
-#### How were you able to maintain the culture as IdentityMind grew and evolved?
+### How were you able to maintain the culture as IdentityMind grew and evolved?
 
 **G:** It all starts with you. The Founder. **The company is a full-blown extension of you.**
 
@@ -300,7 +300,7 @@ You know, again, you have to give yourself to that culture. Whoever the founder 
 
 Related: [Building an Airline Out of Necessity & an Innovative Fintech Product Out of Passion \[Founder Interview\]](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/)
 
-#### R: Did you have a written culture deck?
+### R: Did you have a written culture deck?
 
 **G:** I believe at one of the off-sites, I presented something around the meaning of culture.
 
@@ -336,11 +336,11 @@ You want a culture that thrives and people that care about each other. You want 
 
 ## A “Day in the Life” of an Early-Stage Startup Founder
 
-#### R: Thank you for that. Beautiful wrap on the culture topic.
+### R: Thank you for that. Beautiful wrap on the culture topic.
 
-#### Let's move on to the next question.
+### Let's move on to the next question.
 
-#### What did “a day in the life” look like when you were laying the foundations for IdentityMind?
+### What did “a day in the life” look like when you were laying the foundations for IdentityMind?
 
 **G:** I think from an organized perspective of my mind, I would break part of the days down into strategy, fundraising, customer outreach, development, hiring, etc.
 
@@ -396,9 +396,9 @@ Related: [How an Experience in Turkey Led to a Million-Dollar Startup \[Founder 
 
 ## The Key Lessons from Building IdentityMind
 
-#### R: Interesting. Instead of struggling, and failing, to maintain a balance you just have to accept there isn’t one. Live the life most won't so that you can achieve the life most people can’t, right?
+### R: Interesting. Instead of struggling, and failing, to maintain a balance you just have to accept there isn’t one. Live the life most won't so that you can achieve the life most people can’t, right?
 
-#### I'm going to jump into the finishing questions. So, first is, were there any mistakes you wish you’d avoided when building IdentityMind?
+### I'm going to jump into the finishing questions. So, first is, were there any mistakes you wish you’d avoided when building IdentityMind?
 
 **G:** Most of the mistakes turned into lessons.
 
@@ -414,7 +414,7 @@ That's the top one but I have too many to list.
 
 You’re never going to see these things without hindsight as well. You may have a gut feeling about certain things but you're never going to know.
 
-#### R: What lessons did you take away from Identity Mind?
+### R: What lessons did you take away from Identity Mind?
 
 **G:** Again, too many to count, but I can leave you with some of the top ones.
 
@@ -470,25 +470,25 @@ That’s very different advice to “pay attention to the margins.”
 
 So having people around you that know their onions can really help you. You’ll find that often investors will say these things to test you and your team. In other cases, they’re just saying things for the sake of saying things.
 
-#### R: Let me tell you that marketers have their personal rant on that with CEOs.
+### R: Let me tell you that marketers have their personal rant on that with CEOs.
 
-#### You can’t imagine, or probably you can, how many CMOs and marketing professionals come to me and say: “How do I tell my CEO that we don’t need to be on TikTok or Clubhouse?”
+### You can’t imagine, or probably you can, how many CMOs and marketing professionals come to me and say: “How do I tell my CEO that we don’t need to be on TikTok or Clubhouse?”
 
-#### Just because it’s the “next big thing”, or you read it somewhere, it doesn’t mean it’s relevant for your business. It simply ends up hurting growth. That's the bottom line.
+### Just because it’s the “next big thing”, or you read it somewhere, it doesn’t mean it’s relevant for your business. It simply ends up hurting growth. That's the bottom line.
 
-#### Back on topic; that’s a great example. We talk about smart money with the founders we work with all the time. Onboarding investors that are experienced in your industry and can guide you through the process is a distinctive advantage.
+### Back on topic; that’s a great example. We talk about smart money with the founders we work with all the time. Onboarding investors that are experienced in your industry and can guide you through the process is a distinctive advantage.
 
-#### Otherwise, you risk bringing in someone who distracts you and blocks you from making good decisions.
+### Otherwise, you risk bringing in someone who distracts you and blocks you from making good decisions.
 
 **G:** I think “distract” is really the key point there. It’s the distraction that those individuals can bring in a bad way, in a harmful way.
 
-#### R: Now, the last two questions:
+### R: Now, the last two questions:
 
-#### First, if an entrepreneur goes to you right now saying, “I'm going to build a business” what’s the first thing they should do?
+### First, if an entrepreneur goes to you right now saying, “I'm going to build a business” what’s the first thing they should do?
 
 **G:** Go get a mentor. Period.
 
-#### R: Short and sweet. How would you tell them to go about it?
+### R: Short and sweet. How would you tell them to go about it?
 
 **G:** Find someone you trust who has been very successful in the same sector you’re about to go into.
 

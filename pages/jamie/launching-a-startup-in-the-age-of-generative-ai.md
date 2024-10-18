@@ -100,11 +100,6 @@ Several companies are at the forefront of incorporating these principles in thei
 
 These companies illustrate the diverse and innovative ways in which GenAI is being used to enhance user experiences, demonstrating the potential for transformative change in the way we interact with technology. The application layer in GenAI is rapidly evolving, driven by a need for designs that are not only technologically advanced but also deeply attuned to user needs and preferences.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 ## Advice for Founders
 
 As the landscape of Generative AI (GenAI) continues to evolve, it presents a wide range of opportunities as well as challenges for founders.

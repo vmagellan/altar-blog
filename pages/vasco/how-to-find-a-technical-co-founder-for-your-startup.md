@@ -234,11 +234,6 @@ While negotiating with your co-founder, it’s important that you’re both hone
 
 And if you’re facing major problems during the negotiation, it’s important to ask yourself if they’re the right partner for you. After all, your startup will face much bigger hurdles than “who gets what”.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 ## What a Technical Co-Founder is Looking for In You, a Non-Tech Founder
 
 Just a few weeks ago [I was speaking to a CTO and technical co-founder](https://altar.io/what-founders-should-know-before-hiring-a-cto-or-software-agency-expert-interview/) with nearly 20 years of experience on this exact topic, Nelly Yusupova.

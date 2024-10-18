@@ -100,11 +100,6 @@ If you decide to launch in Lisbon you will be in the same timezone as London, on
 
 It’s also extremely easy to access the major European cities from Lisbon. The majority of which, such as London, Paris & Zurich, are only a three-hour flight away on average.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 ## 9\. English is Widely Spoken
 
 Unlike many countries, television and movies aren’t dubbed in Portugal - simply subtitled. This, twinned with English being taught as a second language in all schools, means that most under 40 in Portugal are fluent at a business level - especially in the major metropolitan areas.

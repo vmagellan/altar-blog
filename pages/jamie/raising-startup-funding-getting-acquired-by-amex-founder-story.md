@@ -239,11 +239,6 @@ Speaking of fintech, banks might create an innovation hub with a pool table and 
 
 But they don't, because they don't have the right people.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## A “Day in the Life” of a Startup Founder

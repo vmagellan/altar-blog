@@ -170,9 +170,7 @@ Tell them your idea, and your plan to execute it. Get their advice and ask them 
 
 Then, get out there and do it!
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+#
 
 ## 4\. Share Your Idea with as Many People as Possible
 

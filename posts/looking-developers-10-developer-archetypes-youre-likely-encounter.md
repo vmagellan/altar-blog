@@ -62,9 +62,7 @@ Should you hire The Wolf? Positively! You should find all the Wolves in town bu
 
 Warning if you consider hiring one: Wolves are ambitious and constant learners, so their stability and loyalty will quickly disappear if they’re not feeling stimulated with projects or by their peers. They also tend to be optimistic in their judgement of projects and have difficulty saying ‘no’ – so sometimes they’ll accept work and timelines that are nearly impossible to achieve.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+#
 
 ## The Narcissus
 

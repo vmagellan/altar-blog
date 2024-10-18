@@ -102,9 +102,7 @@ Own your weaknesses. Investors will be put off if you act like you have all the 
 
 As a founder, it is your responsibility to make as easy as possible for investors to say yes to both you and your startup. You have to put yourself in the best position to form a great partnership that will be a lucrative deal for all parties involved. And the next step in that process is choosing your founding team.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+#
 
 ### Choosing Your Co-Founders
 

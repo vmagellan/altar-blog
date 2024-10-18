@@ -26,7 +26,7 @@ Creating and keeping a balanced dev team is a very challenging art. This is due 
 
 Related: [Steps to Select The Right Technical Partner To Help You Build a Startup](https://altar.io/finding-the-right-tech-partner-for-your-startup/)
 
-#### Contents
+### Contents
 
 ## The Average Coder
 
@@ -34,7 +34,7 @@ Related: [Steps to Select The Right Technical Partner To Help You Build a Startu
 
 The Average Coder is perhaps the most common type of developer. He might sell himself in different ways, but he tends to be average in everything he does – with the exception of gaming. He has average standards and mediocre ambition, he wants a predictable workflow in his backlog to deliver it quietly and he’s not very keen on bug fixing because, in his point of view, that means moving back in his backlog.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![The 10 Types of Developers - The Average Coder: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1MTNXJ_i1Oy4cybBS8xhqDA.png)
 
@@ -54,17 +54,13 @@ He makes great architecture decisions. He is always aware of the best practice
 
 He is a good team player, talks when necessary and understands and respects business and product decisions. Is he/she a problem solver? Well, you’ll never be worried when one is around because things will be solved. These types of developers also have the rare ability to read your mind and predict your needs, which is kind of weird but indeed handy.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/10-devs.webp)
 
 Should you hire The Wolf? Positively! You should find all the Wolves in town but sadly there aren’t many. Unlike 80% of developers, The Wolf understands business and product priorities - even if they don’t meet his dream roadmap. He’ll try to help as much as possible to get the team together to achieve your goals. Only 1 developer out of 1000 is probably a Wolf. We have a good eye for Wolves, so we proudly have more than a few working at [Altar.io](https://altar.io/).
 
 Warning if you consider hiring one: Wolves are ambitious and constant learners, so their stability and loyalty will quickly disappear if they’re not feeling stimulated with projects or by their peers. They also tend to be optimistic in their judgement of projects and have difficulty saying ‘no’ – so sometimes they’ll accept work and timelines that are nearly impossible to achieve.
-
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
 
 ## The Narcissus
 
@@ -76,7 +72,7 @@ While most developers are highly competitive, the Narcissus takes it to a higher
 
 In a nutshell, he goes with Maximus motto: “What we do in life, echoes in eternity!” The best way to manage a Narcissus is to present them with a very specific challenge and discuss the solution in detail. Just like the Wolf, they’ll find the best solution, within budget and in a very reasonable timeframe. He is a nice chap and tends to be smooth with his fellow developers - although he often recreates their code to openly display who’s in charge.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![The 10 Types of Developers - The Narcissus: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1RYjbN611LvHWiOmovJthNQ.png)
 
@@ -100,7 +96,7 @@ His motto is:
 
 > Discard any language/framework that is > 3 months OR has a community > 300 developers OR > 3 developers in your team heard of it
 
-#### Comic Situation:
+### Comic Situation:
 
 ![The 10 Types of Developers - The Idealist: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1tDgutnqfKb6yyw_68UXGQg.png)
 
@@ -120,7 +116,7 @@ With their small ego, limited ambition and hatred of the spotlight, this typ
 
 While his work is diligent, it’s bland and unexciting. He will never surprise you neither for the positive or the negative side.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![The 10 Types of Developers - The Shy One: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1wDnjwl5g7YyEzKXMulNLCg.png)
 
@@ -134,7 +130,7 @@ Warning if you consider hiring one: They’re shy by nature and not great commun
 
 Fast programmer, delivers in half of the time, but never really closes his work. He is the antipode of the puritan, he wants to get things done and see things working. He will hitchhike his way to deliver faster than you could expect. He doesn’t document and he doesn’t follow documentation. He never follows instructions from QA and when he delivers something he doesn’t want to go back to the mess he created. He is a natural fast problem solver and he doesn’t believe in such things as design to scale or thread-safe.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![The 10 Types of Developers - The Hitchhiker: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1z3Y93kacHfeBT63gjl8Ejg.png)
 
@@ -154,7 +150,7 @@ The Imploder tends to be a decent coder, possessing deep knowledge and is a prod
 
 By their nature, these types of developers are volatile and unpredictable. That’s why in the back of your mind you have the feeling one day they’ll bring a baseball bat into work and start ‘rearranging’ the office computers.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![The 10 Types of Developers - The Imploder: Comic SItuation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1t5LeH0diSb3uwV-hA2H9kw.png)
 
@@ -167,7 +163,7 @@ By their nature, these types of developers are volatile and unpredictable. That�
 
 The Safe Player wants to keep his ass safe – he lives and breathes self-protection. He spends more energy and time ensuring he can’t be blamed in the event of things going wrong, than actually thinking about the best way to do a job. By nature, he'll deliberately make the wrong choice for a product if it means his job is more secure. He also won’t think twice about blaming someone else for his mistakes.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![10 Different Types of Developers You’re Likely to Find - The Safe Player: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1e_1Y1ampQ9w43TigFZ_Rug.png)
 
@@ -183,7 +179,7 @@ Related: [How to Build a Successful Minimum Viable Product (MVP) in 3 Steps](htt
 
 The Bad Ass is like the Average Coder with an extra dimension – he’s eternally grumpy and rude. The effect is you’ll think twice before asking him to do something – and then probably decide it’s not worth the hassle and do it yourself.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![10 Different Types of Developers You’re Likely to Find - The Bad Ass: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1KIn2aIsHdg4osUpFpw_3zg.png)
 
@@ -198,7 +194,7 @@ Again, the best form of detection is to encourage them to talk about the pitfall
 
 Don’t confuse the Puritan with the Idealist. The Puritan is a theory professor, obsessed with rigour and standards. He comes with best intentions to the battles he starts. However 85% of the time they’re simply jeopardising a project’s progress with lectures in standards and process. They’ll needlessly stall meetings by discussing obscure aspects that aren’t – in their eyes –  100% by the book. In short, they have great difficulty distinguishing between a university theory class and a startup.
 
-#### Comic Situation:
+### Comic Situation:
 
 ![10 Different Types of Developers You’re Likely to Find - The Puritan: Comic Situation](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1LVf47Ga0ku1n9Aqz1iLVXw.png)
 

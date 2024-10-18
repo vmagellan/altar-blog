@@ -51,13 +51,13 @@ In our conversation, we covered everything you need to know about marketing your
 
 ## What is Marketing for Startups?
 
-#### R: Antonio, there’s no denying your impressive resume.
+### R: Antonio, there’s no denying your impressive resume.
 
-#### In this conversation, we’ll be focusing more on marketing for startups.
+### In this conversation, we’ll be focusing more on marketing for startups.
 
-#### That being said, having that experience in the corporate world gives you a different perspective that I think will be really useful for this conversation.
+### That being said, having that experience in the corporate world gives you a different perspective that I think will be really useful for this conversation.
 
-#### Let’s start from the top. Give us your take on what you believe marketing for startups should be all about.
+### Let’s start from the top. Give us your take on what you believe marketing for startups should be all about.
 
 **A:** Marketing is really what’s visible to the outside audience, and what they perceive from an idea.
 
@@ -87,27 +87,27 @@ It can sound like a small change, but it makes all the difference in the percept
 
 ## Who is Responsible for Startup Marketing?
 
-#### R: I’m glad you mention the importance of perception in marketing, as I have a great example of that.
+### R: I’m glad you mention the importance of perception in marketing, as I have a great example of that.
 
-#### A few years ago, Joshua Bell (one of the most celebrated violinists of all time) partnered with [The Washington Post for a very cool experiment](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html). Joshua has performed in virtually every major orchestra in the world, regularly sells out massive theatres and earns about $1000 a minute. So, kind of a big deal.
+### A few years ago, Joshua Bell (one of the most celebrated violinists of all time) partnered with [The Washington Post for a very cool experiment](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html). Joshua has performed in virtually every major orchestra in the world, regularly sells out massive theatres and earns about $1000 a minute. So, kind of a big deal.
 
-#### In the experiment, Joshua played in a Washington DC Metro station disguised as a street performer.
+### In the experiment, Joshua played in a Washington DC Metro station disguised as a street performer.
 
-#### He pulled out his 1713 handcrafted Stradivarius violin (worth about $3.5M) and started playing.
+### He pulled out his 1713 handcrafted Stradivarius violin (worth about $3.5M) and started playing.
 
-#### Can you guess what happened?
+### Can you guess what happened?
 
-#### He spent 45 minutes playing. Over 1000 people walked by. Only seven stopped. Only seven spent more than one minute looking at the guy. In total, 27 people gave him some money to the tune of $32 and change.
+### He spent 45 minutes playing. Over 1000 people walked by. Only seven stopped. Only seven spent more than one minute looking at the guy. In total, 27 people gave him some money to the tune of $32 and change.
 
-#### The lesson for entrepreneurs here is clear.
+### The lesson for entrepreneurs here is clear.
 
-#### Even with a great product, it's crucial to focus on exposure and perception.
+### Even with a great product, it's crucial to focus on exposure and perception.
 
-#### So this is something I honestly think every founder should know: great products without equally great distribution will inevitably underperform.
+### So this is something I honestly think every founder should know: great products without equally great distribution will inevitably underperform.
 
-#### With that said, I’d love to hear your thoughts on how founders should look at marketing in the early stages of their projects.
+### With that said, I’d love to hear your thoughts on how founders should look at marketing in the early stages of their projects.
 
-#### Should they have the skills themselves? Should they look for a marketing savvy co-founder?
+### Should they have the skills themselves? Should they look for a marketing savvy co-founder?
 
 **A:** Let me start my reply with an example.
 
@@ -141,23 +141,23 @@ But as soon as possible, try to onboard someone that can help you design every p
 
 Put some money in your marketing. Have someone close to you in marketing that can take your idea and tell your audience a story about it.
 
-#### R: Usually the way I refer to that is it's really important for anyone taking a new project to the market to fall in love with the problem, not the idea.
+### R: Usually the way I refer to that is it's really important for anyone taking a new project to the market to fall in love with the problem, not the idea.
 
-#### Experienced marketer or not, everything becomes easier when you look at things from the user standpoint.
+### Experienced marketer or not, everything becomes easier when you look at things from the user standpoint.
 
-#### The problem is, most of the time, that you start at the end. You build the product, set the features you think the market wants, then look at competitors to see how they are promoting their services and that’s it.
+### The problem is, most of the time, that you start at the end. You build the product, set the features you think the market wants, then look at competitors to see how they are promoting their services and that’s it.
 
-#### You end up running Facebook ads or doing content syndication with absolutely no reasoning behind it.
+### You end up running Facebook ads or doing content syndication with absolutely no reasoning behind it.
 
-#### And then it doesn’t work.
+### And then it doesn’t work.
 
-#### So I agree with what you said. Whoever tackles this early on, having someone that understands how to diagnose, strategize and execute is key for a successful launch.
+### So I agree with what you said. Whoever tackles this early on, having someone that understands how to diagnose, strategize and execute is key for a successful launch.
 
-#### The problem is sometimes, in the early days, you don’t really have that resource available.
+### The problem is sometimes, in the early days, you don’t really have that resource available.
 
-#### So what should an entrepreneur do? Is it safe to outsource this to an agency, should they tackle it themselves?
+### So what should an entrepreneur do? Is it safe to outsource this to an agency, should they tackle it themselves?
 
-#### What’s your takeaway here?
+### What’s your takeaway here?
 
 **A:** I would first recommend reaching out to your network to find someone with some marketing expertise who can mentor you before you look at agencies.
 
@@ -179,7 +179,7 @@ You have the “why” behind your startup’s existence, you have the problem y
 
 ## The “Marketing MVP”
 
-#### R: So essentially, have someone in your network who can mentor you. Someone who can help you build traction, then go to an agency when you have that traction.
+### R: So essentially, have someone in your network who can mentor you. Someone who can help you build traction, then go to an agency when you have that traction.
 
 **A:** Exactly. I would go further to say that when you create an MVP for your product, you should create an MVP of your marketing content alongside it.
 
@@ -237,21 +237,21 @@ Then you can start to look at **how** you communicate that and optimise the st
 
 ## Communicating with the market before you build your product
 
-#### R: It’s like when I started here at Altar. I spent my first month speaking to every single client who’s ever walked through the door.
+### R: It’s like when I started here at Altar. I spent my first month speaking to every single client who’s ever walked through the door.
 
-#### I did that to understand what the frictions were. Because their problem is clear – they don’t have anyone to develop their software. But the friction (or tension) could be much bigger.
+### I did that to understand what the frictions were. Because their problem is clear – they don’t have anyone to develop their software. But the friction (or tension) could be much bigger.
 
-#### A prime example of this friction is that they’re scared of outsourcing because they’ve read so many horror stories.
+### A prime example of this friction is that they’re scared of outsourcing because they’ve read so many horror stories.
 
-#### Suddenly the problem becomes a lot more intricate. It becomes a lot more emotional. And you need to address that, otherwise, there’s no amount of trust builders that will save you.
+### Suddenly the problem becomes a lot more intricate. It becomes a lot more emotional. And you need to address that, otherwise, there’s no amount of trust builders that will save you.
 
-#### So we’ve established that when starting a new project you should have a mentor/advisor who has the marketing knowledge to help you.
+### So we’ve established that when starting a new project you should have a mentor/advisor who has the marketing knowledge to help you.
 
-#### While I agree that you should find that person, as I mentioned already, the reality is you often won’t.
+### While I agree that you should find that person, as I mentioned already, the reality is you often won’t.
 
-#### Moreover, they won’t have the capital to find help from a quality marketing agency, so many founders will end up going at it alone.
+### Moreover, they won’t have the capital to find help from a quality marketing agency, so many founders will end up going at it alone.
 
-#### For those that do, when should they start promoting the product and communicating with the market?
+### For those that do, when should they start promoting the product and communicating with the market?
 
 **A:** Founder’s think an MVP is the first step of their journey. It’s not, it’s one of the steps. It’s one asset for your startup.
 
@@ -283,39 +283,39 @@ If you’re not embarrassed by the first version of your product, you’ve launc
 
 ## How to find early adopters
 
-#### R: I have an example to share.
+### R: I have an example to share.
 
-#### It's about Rand Fishkin's latest venture, SparkToro.
+### It's about Rand Fishkin's latest venture, SparkToro.
 
-#### Most of our readers will know Rand as the legendary founder of Moz, an SEO company he built with his mum back in 2004.
+### Most of our readers will know Rand as the legendary founder of Moz, an SEO company he built with his mum back in 2004.
 
-#### They grew Moz to +$50m in annual revenue.
+### They grew Moz to +$50m in annual revenue.
 
-#### In 2018, right after leaving Moz, he started SparkToro. It took his co-founder something like 10 months to put together their MVP.
+### In 2018, right after leaving Moz, he started SparkToro. It took his co-founder something like 10 months to put together their MVP.
 
-#### They spent the rest of 2019 beta testing with more and more people playing with the tool. They gathered feedback, improved UI/UX, onboarding, etc.
+### They spent the rest of 2019 beta testing with more and more people playing with the tool. They gathered feedback, improved UI/UX, onboarding, etc.
 
-#### All the while, Rand was building this huge mailing list.
+### All the while, Rand was building this huge mailing list.
 
-#### He was doing a lot of public speaking and content marketing, getting people aware of the company and the problem they were trying to solve.
+### He was doing a lot of public speaking and content marketing, getting people aware of the company and the problem they were trying to solve.
 
-#### Long story short, over the course of 18 months, they built a beta version, put it in the hands of beta testers, improved it, and built a waiting list of close to 20k people.
+### Long story short, over the course of 18 months, they built a beta version, put it in the hands of beta testers, improved it, and built a waiting list of close to 20k people.
 
-#### Only time will tell whether or not it will be a success, but there’s no arguing that he was in a brilliant position to start.
+### Only time will tell whether or not it will be a success, but there’s no arguing that he was in a brilliant position to start.
 
-#### He also applied some other interesting marketing techniques from a storytelling standpoint, like finding a common enemy (Google) in his strategic narrative.
+### He also applied some other interesting marketing techniques from a storytelling standpoint, like finding a common enemy (Google) in his strategic narrative.
 
-#### But that's a whole other topic.
+### But that's a whole other topic.
 
-#### Another thing we can talk about is how important it is to understand how different early adopters are from the customers that will come once the product is well-established.
+### Another thing we can talk about is how important it is to understand how different early adopters are from the customers that will come once the product is well-established.
 
-#### Getting your first 10 users is vastly different from getting the first 100 to 1000.
+### Getting your first 10 users is vastly different from getting the first 100 to 1000.
 
-#### These people won't buy the solution. They will buy the vision of the product and what it’ll look like years down the line.
+### These people won't buy the solution. They will buy the vision of the product and what it’ll look like years down the line.
 
-#### So they need to buy into the founder. And that's one of the biggest reasons why having that story about why is so crucial.
+### So they need to buy into the founder. And that's one of the biggest reasons why having that story about why is so crucial.
 
-#### I'd love to hear some of your thoughts on how to get early adopters.
+### I'd love to hear some of your thoughts on how to get early adopters.
 
 **A:** I’ll give you a process I’ve been successful with.
 
@@ -347,7 +347,7 @@ Take, for example, my platform Business Telling. We started in 2015 and the firs
 
 So I started to develop the idea and further evaluate it. Five years later and we’ve helped more than 100 projects.
 
-#### R: I like where we’re going. So what comes next once you’ve answered those 3 questions?
+### R: I like where we’re going. So what comes next once you’ve answered those 3 questions?
 
 **A:** I tend to divide that into proximity marketing and blowing their mind.
 
@@ -357,7 +357,7 @@ Start testing with them. Hopefully, a few will show interest to the point that t
 
 Having a handful of connections who’re interested in your story is 10x more valuable than having a website from day zero.
 
-#### Think of it as starting your first job.
+### Think of it as starting your first job.
 
 You send your CV around, you put it on LinkedIn and it’s difficult because you don’t know anyone.
 
@@ -381,23 +381,23 @@ Every single time.
 
 ## The ground rules of marketing strategy
 
-#### R: I agree, having a strong network and the ability to ask for people’s help is one of the most important assets for founders.
+### R: I agree, having a strong network and the ability to ask for people’s help is one of the most important assets for founders.
 
-#### Not only to get early adopters but with anything really. If you go to an investor and ask for advice on how to do things, later you’ll see them in a much better position to actually invest in you if you follow that advice.
+### Not only to get early adopters but with anything really. If you go to an investor and ask for advice on how to do things, later you’ll see them in a much better position to actually invest in you if you follow that advice.
 
-#### And this concept of “Three Whys” gives you a framework to tell your story in a relevant way.
+### And this concept of “Three Whys” gives you a framework to tell your story in a relevant way.
 
-#### Then taking those three Whys and tapping into the tribes you already have access to instead of spending thousands of dollars on cold outreach makes total sense.
+### Then taking those three Whys and tapping into the tribes you already have access to instead of spending thousands of dollars on cold outreach makes total sense.
 
-#### Something else I see often is founders building social media pages or a website that is void of any relevant arguments.
+### Something else I see often is founders building social media pages or a website that is void of any relevant arguments.
 
-#### They don’t have trust builders. There are no testimonials, no projects, no paying clients.
+### They don’t have trust builders. There are no testimonials, no projects, no paying clients.
 
-#### They focus on looking like a competitor that has been in the field for 20 years as opposed to a real person trying to solve a real problem. It doesn’t add up. And it doesn’t work.
+### They focus on looking like a competitor that has been in the field for 20 years as opposed to a real person trying to solve a real problem. It doesn’t add up. And it doesn’t work.
 
-#### Let’s change gears, Antonio. My next question is related to pricing.
+### Let’s change gears, Antonio. My next question is related to pricing.
 
-#### What ground rules should entrepreneurs follow when it comes to setting up their price points and strategy? (obviously bearing in mind that different business models require different strategies)
+### What ground rules should entrepreneurs follow when it comes to setting up their price points and strategy? (obviously bearing in mind that different business models require different strategies)
 
 **A:**  Pricing is an important aspect. It becomes part of your story. For example, if you believe your solution, your product, is a premium solution, then you need to price it accordingly.
 
@@ -435,9 +435,9 @@ So pricing and brand are linked and they become the last part of your marketing 
 
 # Growing your marketing team
 
-#### R: Clear. Let’s move to the marketing team. Sticking with the same hypothetical roadmap, our founder has now made it through the MVP stage, it went well and now he’s seeing traction.
+### R: Clear. Let’s move to the marketing team. Sticking with the same hypothetical roadmap, our founder has now made it through the MVP stage, it went well and now he’s seeing traction.
 
-#### It’s time to make that first marketing hire – what should a founder be looking for?
+### It’s time to make that first marketing hire – what should a founder be looking for?
 
 **A:** You’re looking for a co-founder with expertise in marketing - that’s absolutely crucial.
 
@@ -451,15 +451,15 @@ And, of course, you need to reward them for that – whether that’s through s
 
 They need to be committed, humble, open and passionate about what you’re bringing to the market.
 
-#### R: That makes a lot of sense because this person will be responsible for growing your marketing team.
+### R: That makes a lot of sense because this person will be responsible for growing your marketing team.
 
-#### Their influence will impact the overall culture of the department and, therefore, your startup. It’s essential you dedicate the time to make the proper decision.
+### Their influence will impact the overall culture of the department and, therefore, your startup. It’s essential you dedicate the time to make the proper decision.
 
-#### Let’s say that our founder has found someone. How should they go about managing the marketing team moving forward?
+### Let’s say that our founder has found someone. How should they go about managing the marketing team moving forward?
 
-#### Should they simply share and discuss their goals and how marketing can help and leave all else to their marketing lead? Should they allocate time to still be involved in important decisions (like hiring vs outsourcing certain aspects of the work as an example)?
+### Should they simply share and discuss their goals and how marketing can help and leave all else to their marketing lead? Should they allocate time to still be involved in important decisions (like hiring vs outsourcing certain aspects of the work as an example)?
 
-#### What do you think works best?
+### What do you think works best?
 
 **A:** In the beginning, the founder can have a say.
 
@@ -491,23 +491,23 @@ Adopt the mindset of being open to share your idea with third parties and make s
 
 Because then you can outsource execution more efficiently and not get caught up in hiring an internal team that will break the bank.
 
-#### R: I had a really interesting chat about that the other day.
+### R: I had a really interesting chat about that the other day.
 
-#### I was interviewing Wade Eyerly, an entrepreneur from the US that built an airline and pretty much invented subscription-based flying.
+### I was interviewing Wade Eyerly, an entrepreneur from the US that built an airline and pretty much invented subscription-based flying.
 
-#### He likened a business idea to a newborn baby.
+### He likened a business idea to a newborn baby.
 
-#### When you first look at your baby you see every future, all the things they could be, a soccer star, brain surgeon, whatever it may be.
+### When you first look at your baby you see every future, all the things they could be, a soccer star, brain surgeon, whatever it may be.
 
-#### And because you love your baby you put all your energy into giving it the opportunity to be all those things.
+### And because you love your baby you put all your energy into giving it the opportunity to be all those things.
 
-#### And sure you’ve seen a lot of other people's babies. They're cute, but I bet you’ve never thought to yourself “I hope I get to raise that one.”
+### And sure you’ve seen a lot of other people's babies. They're cute, but I bet you’ve never thought to yourself “I hope I get to raise that one.”
 
-#### The point is, it’s the same with your business idea. You can share it and take some time to think about it because no one will steal it.
+### The point is, it’s the same with your business idea. You can share it and take some time to think about it because no one will steal it.
 
-#### At the end of the day, nobody else wants to raise your baby because all the work is yet to be done. And the work is where the money is made!
+### At the end of the day, nobody else wants to raise your baby because all the work is yet to be done. And the work is where the money is made!
 
-#### Anyway, we’re almost wrapping up, Antonio. What marketing resources do you recommend for entrepreneurs?
+### Anyway, we’re almost wrapping up, Antonio. What marketing resources do you recommend for entrepreneurs?
 
 **A:** [Start with Why Simon Sinek](https://www.goodreads.com/book/show/7108725-start-with-why), [Blue Ocean Strategy](https://www.goodreads.com/book/show/4898.Blue_Ocean_Strategy?ac=1&from_search=true&qid=ZE7GllU05S&rank=1), [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup?from_search=true&from_srp=true&qid=pqXxYMUjqT&rank=1).
 
@@ -515,9 +515,9 @@ These books will help you develop the right mindset.
 
 Seth Godin also has [a great podcast, and some great books](https://www.sethgodin.com/#books-courses-and-more) as well. I would recommend This Is Marketing for example.
 
-#### R: A lot of interesting resources there, Antonio. Thank you.
+### R: A lot of interesting resources there, Antonio. Thank you.
 
-####  Now, where can our readers find more about you and what your company, BusinessTelling?
+###  Now, where can our readers find more about you and what your company, BusinessTelling?
 
 For anyone looking to learn more about BusinessTelling, they can head over to [our website](https://www.businesstelling.com/home/). There, they can check out resources we’ve created to help entrepreneurs create and share their business stories.
 

@@ -338,11 +338,6 @@ And beyond marketing, consider your mental and personal health. It’s essential
 
 Get outside, go for walks, spend time with friends, and make sure you’re balancing everything. You want to be in this for the long haul, not just a short sprint.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## Wrapping Up 

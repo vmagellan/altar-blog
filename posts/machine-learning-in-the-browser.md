@@ -93,9 +93,7 @@ When we use machine learning in the browser — or in the edge, as developer
 
 Meaning we can halve the time it takes to get things off the starting block.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+#
 
 Neural Networks
 

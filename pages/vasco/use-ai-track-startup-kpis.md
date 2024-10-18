@@ -205,11 +205,6 @@ Streamlit allows you to get data from various data sources (S3, Google Sheets an
 
 ![How to connect streamlit to your data sources to track KPIs effectively](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-05-13-at-19.16.24.png)
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ### Visualising Your Data

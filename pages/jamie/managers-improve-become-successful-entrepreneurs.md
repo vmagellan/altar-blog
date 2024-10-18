@@ -18,7 +18,7 @@ There’s little evidence to support that anyone is too old to start a business.
 
 But What Should They Be Careful Of? Indeed at [Altar.io](https://altar.io/), we’ve had a longstanding belief that teams of older founders are wiser. They are better connected, know how to sell, have more access to capital and generally [read more](https://www.egoldfax.com/) about business to make themselves better poised to succeed. Now there is data to prove it and a method to guide seasoned founders to defeat their quirks and achieve more.
 
-### Two 18 year old’s started their (now) billion-dollar worth startup in a garage…
+## Two 18 year old’s started their (now) billion-dollar worth startup in a garage…
 
 ...Or so the story goes*.* The word “Startup” is connected today to the mental image of Steve Jobs and Steve Wozniak as kids launching Apple. Or of Mark Zuckerberg launching Facebook from his dorm room in Harvard.
 
@@ -42,7 +42,7 @@ Prejudice against older founders now has now a plethora of data against it. It s
 
 Related: [Traits to Consider if You Want to Find the Perfect Co-Founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 
-### You're Not Too Old To Start a Business
+## You're Not Too Old To Start a Business
 
 Being 40+ is indeed great when it comes to starting your own business. Founders may try to achieve Invention — as in (higher achievement/materialization) products of imagination (Merriam Webster). But what actually is happening is a disruption. An industry with new technology - a humbler version of the invention. Or simply put an incremental development - by placing the use of technological development at the service of an existing industry.
 
@@ -86,7 +86,7 @@ Now for the rougher part. Seasoned managers are usually quite green when it come
 
 > A seasoned team is arguably great at Operations, Organizational and Financial Management and Sales. They often struggle, however, with technology Product Market Fit, Continuous Product Evolution and Software Development Team Management. Fortunately, there is one global answer to fix these weaknesses: The Lean approach/methodology founded by Eric Ries.
 
-#### What is the **Lean Methodology**?
+### What is the **Lean Methodology**?
 
 ![Are You Too Old To Start A Business and Be A Great Founder? - Lean Methodology](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1293IV7pUBiucOV4EZYVlqQ.png)
 
@@ -112,7 +112,7 @@ Crucially though, a well researched and well-thought product must ensure a highe
 
 At [Altar.io](https://altar.io/) we believe it’s so crucial that we offer our clients the Co-Founders Retreat, an intense week in Lisbon at our premises. During the retreat, we help them in defining the Product Scope and Features Prioritisation for their Minimum Viable Product (MVP).
 
-#### 2\. Continuous Product Evolution
+### 2\. Continuous Product Evolution
 
 This is a mix of planned product development rollouts and Agile Build-Measure-Learn cycles. These usually rely on product iterations every 2 weeks to help the company improve its offering. It relies on actual user adoption metrics (bottom-up) to perfect the product. As opposed to risky guesses alone (top-up).
 
@@ -122,7 +122,7 @@ At this step, it is important to ensure that the project stays ahead of the curv
 
 Tech is a living organism, always replenishing its cells. To put it bluntly, no one wants to be a pager manufacturer in the age of the smartphone.
 
-#### 3. Software Development Team Management
+### 3. Software Development Team Management
 
 Managing a software development team is a whole different ball game to that of a clerical team. It comes with its own rituals, best practices and quirks - such as SCRUM jargon and routines. There several [types of software developers](https://altar.io/blog/looking-developers-10-developer-archetypes-youre-likely-encounter/) you will likely meet and it’s important to get to know them.
 

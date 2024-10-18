@@ -95,11 +95,6 @@ Your accountant will need to send you a salary sheet with your social security a
 
 Moreover, it’s worth remembering that the VAT rate in Portugal is 23% and is paid to the state every three months minus VAT spent by the company on its purchases.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 ## 6\. Find A Lawyer 
 
 As you start your business in Portugal it is advisable to speak to a lawyer, or firm, knowledgable in business law. Obtaining the right advice can help you identify any tax breaks. As well as helping you generally navigate Portuguese bureaucracy as you launch your company.

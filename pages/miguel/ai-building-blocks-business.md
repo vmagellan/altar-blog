@@ -340,11 +340,6 @@ For creators, Midjourney is a fantastic AI tool, with a paid subscription starti
 
 ![Midjourney AI example images](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2024-04-22-at-19.38.52.png)
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ### Video as Output: The Evolution of Storytelling

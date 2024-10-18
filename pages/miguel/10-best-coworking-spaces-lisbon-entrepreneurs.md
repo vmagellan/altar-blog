@@ -154,7 +154,7 @@ Located in Cais do Sodré, 3 minutes walk from Time Out Market in the heart of t
 
 One of the most interesting things about Outsite is, on top of the trendy cafe/coworking spaces combo, they offer coliving just upstairs with a desk in every room. So if you are travelling through or thinking of starting your business in Lisbon, its a perfect way to “test drive” the city.
 
-![Entrepreneurs working at Outsite Cowork Café](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*nqonrIHn-ZRGrBXirz2R1g.jpeg)**Monthly Price (Fixed Desk):** N/A **Monthly Price (Hotdesk):** €150 Incl. VAT **Daily Price (Hotdesk):** €15 Incl. VAT **Meeting Rooms Available?:** Yes — Included in membership **Opening Times**: 8 am — 10 pm, Monday — Friday **Other Features:**
+![Entrepreneurs working at Outsite Cowork Café](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1myPIoGPrppcUigLvcl3eyQ.jpeg)**Monthly Price (Fixed Desk):** N/A **Monthly Price (Hotdesk):** €150 Incl. VAT **Daily Price (Hotdesk):** €15 Incl. VAT **Meeting Rooms Available?:** Yes — Included in membership **Opening Times**: 8 am — 10 pm, Monday — Friday **Other Features:**
 
 - Outsite Coliving from ~€50 a night
 - High-speed internet

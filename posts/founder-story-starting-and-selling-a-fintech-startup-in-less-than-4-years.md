@@ -151,9 +151,7 @@ I think building MVPs has become, from a tech standpoint, a lot easier nowadays 
 
 Building to get continuous feedback is an activity every startup should do. However, if you are building a business for millions and you want to go for funding or an M&A? Then it’s very important to start building for scale right from the early days.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
+#
 
 Q: Which primary stakeholder did you target first? And which problem did you solve initially?
 

@@ -180,11 +180,6 @@ Our first hires, still friends to this day, joined as interns in San Francisco b
 
 **M:** Yes, I’d rather share the equity and responsibility with my co-founders. It's money well spent.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## A Day-in-the-Life of an Early-Stage Startup Founder

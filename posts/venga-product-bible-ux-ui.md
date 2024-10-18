@@ -83,7 +83,7 @@ At the end of the experience, hosts and participants can mutually rate and revie
 
 During our research we found a meaningful trend for our target and context:
 
-![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*ytMRM2yaJsUO3bLMOy-Q7Q.png)
+![](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1ytMRM2yaJsUO3bLMOy-Q7Q.png)
 
 This, alongside other research, helped us create a motto for our target audience: **“Life is about the people you meet”**
 
@@ -113,7 +113,7 @@ Which led us to the next step of the process - identifying the problems we’re 
 
 ### The Events List
 
-![Venga! Product Bible & UX/UI - Events Page 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*TjrLvgfGZe6IkKA8_o9hzg.png)![Venga! Product Bible & UX/UI - Events Page 2 ](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*HDRC0QK7OeL3YkOasMpJlg.png)![Venga! Product Bible & UX/UI - Events Page 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*iNNJpIge7Ov8uehh_OX-Iw.png)![Venga! Product Bible & UX/UI - Mobile App 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*kQrFO62shIMPAqIOqxnSTQ.png)
+![Venga! Product Bible & UX/UI - Events Page 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1TjrLvgfGZe6IkKA8_o9hzg.png)![Venga! Product Bible & UX/UI - Events Page 2 ](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1HDRC0QK7OeL3YkOasMpJlg.png)![Venga! Product Bible & UX/UI - Events Page 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1iNNJpIge7Ov8uehh_OX-Iw.png)![Venga! Product Bible & UX/UI - Mobile App 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1kQrFO62shIMPAqIOqxnSTQ.png)
 
 #### In the centre (Desktop version):
 
@@ -144,9 +144,9 @@ If you have not signed up for *Venga!* yet then you will be limited to seeing 
 
 ### Event Page
 
-#### ![Venga! Product Bible & UX/UI - Event Description 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*myPIoGPrppcUigLvcl3eyQ.png)
+#### ![Venga! Product Bible & UX/UI - Event Description 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1myPIoGPrppcUigLvcl3eyQ.png)
 
-![Venga! Product Bible & UX/UI - Event Description 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*2JOH4ateoRW_hxeH0UqnfQ.png)![Venga! Product Bible & UX/UI - Event Description 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*fh17SzCfWfh5geimJJMY2w.png)![Venga! Product Bible & UX/UI - Event Description 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*cjSIZTB_RwAaQgU0PC_VVg.png)![Venga! Product Bible & UX/UI - Event Description 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*uLG0edEyTjsE3LEM4TNkAQ.jpeg)In the centre, you will find the event cover photo, name, description and pictures of participants. On the left, there is your picture and bio, on the right the host’s picture and the most relevant information.
+![Venga! Product Bible & UX/UI - Event Description 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/12JOH4ateoRW_hxeH0UqnfQ.png)![Venga! Product Bible & UX/UI - Event Description 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1fh17SzCfWfh5geimJJMY2w.png)![Venga! Product Bible & UX/UI - Event Description 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1cjSIZTB_RwAaQgU0PC_VVg.png)![Venga! Product Bible & UX/UI - Event Description 4](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1uLG0edEyTjsE3LEM4TNkAQ.jpeg)In the centre, you will find the event cover photo, name, description and pictures of participants. On the left, there is your picture and bio, on the right the host’s picture and the most relevant information.
 
 Just below the host section, you will find a large “Get me in” button with your picture embedded.
 
@@ -156,7 +156,7 @@ To further achieve event validation assessments you will find great quality pict
 
 ### The People List
 
-![Venga! Product Bible & UX/UI - The People List 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*8iwJY509FGJbRYAbY9jXeA.png)![Venga! Product Bible & UX/UI - The People List 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*cdJ2z1I-U4X6qNL6mXJ84w.png)![Venga! Product Bible & UX/UI - The People List 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*xWg-zcaVIp_lPszl3s7HFw.jpeg)
+![Venga! Product Bible & UX/UI - The People List 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/18iwJY509FGJbRYAbY9jXeA.png)![Venga! Product Bible & UX/UI - The People List 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1cdJ2z1I-U4X6qNL6mXJ84w.png.png)![Venga! Product Bible & UX/UI - The People List 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1xWg-zcaVIp_lPszl3s7HFw.jpeg)
 
 #### In the centre:
 
@@ -184,16 +184,16 @@ You will be filtering people according to:
 
 ### The Feed
 
-#### ![Venga! Product Bible & UX/UI - The Feed 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*JHB4ACVtLSPq5Jr7efSicQ.png)
+#### ![Venga! Product Bible & UX/UI - The Feed 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1JHB4ACVtLSPq5Jr7efSicQ.png)
 
-![Venga! Product Bible & UX/UI - The Feed 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*Q3mtfp9N45SWxKloJhevmA.png)![Venga! Product Bible & UX/UI - The Feed 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*tFK5olT-mgb53lXjXl_YuQ.png)The feed will have an algorithm based on a scoring mechanism that will prioritize showing you what matters on two sets of triggers:
+![Venga! Product Bible & UX/UI - The Feed 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1Q3mtfp9N45SWxKloJhevmA.png)![Venga! Product Bible & UX/UI - The Feed 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1tFK5olT-mgb53lXjXl_YuQ.png)The feed will have an algorithm based on a scoring mechanism that will prioritize showing you what matters on two sets of triggers:
 
 - Community triggers - if someone starts following you, if a group of people you follow joins an event and if *Venga!* posts community news.
 - Event triggers - if a host you follow creates an event or if a host adds pictures to an event or if a person with whom you’ve been in a past event is joining a new one.
 
 ### Profile page
 
-![Venga! Product Bible & UX/UI - Profile Page 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*dqlUsyxJzD26LEwSl3NhHw.png)![Venga! Product Bible & UX/UI - Profile Page 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*uM7rH7RyfKQjBPAPkhlWDQ.png)![Venga! Product Bible & UX/UI - Profile Page 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1*KNkUR1h9RVHKETd_vCnItA.jpeg)
+![Venga! Product Bible & UX/UI - Profile Page 1](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1dqlUsyxJzD26LEwSl3NhHw.png)![Venga! Product Bible & UX/UI - Profile Page 2](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1uM7rH7RyfKQjBPAPkhlWDQ.png)![Venga! Product Bible & UX/UI - Profile Page 3](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1KNkUR1h9RVHKETd_vCnItA.jpeg)
 
 #### Hosts
 

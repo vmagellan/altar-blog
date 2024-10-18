@@ -35,11 +35,11 @@ In addition to his success in the fintech industry, Alex is a Partner of [Endur
 
 During our conversation, he shared the lessons he learned as a young founder navigating the hurdles of building a fintech startup. As well as actionable tips on product, funding and hiring.
 
-#### Contents
+## Contents
 
 ## The Story of Alex Tonelli & Funding Circle
 
-#### Q: Did you always want to be an entrepreneur?
+### Q: Did you always want to be an entrepreneur?
 
 **A:** In retrospect, yes, but I didn’t realize it right away.
 
@@ -55,7 +55,7 @@ I hated authority and was pushing the envelope in ways you would call, in hindsi
 
 For example, I was an independent contractor at nine years old as a referee for hockey games through my teenage years. It was a pretty good little business at $25/game.
 
-#### Q: What was the “A-ha” moment in solving the problem you did with Funding Circle? What was it you saw that no one else saw?
+### Q: What was the “A-ha” moment in solving the problem you did with Funding Circle? What was it you saw that no one else saw?
 
 **A:** Within two years, our fitness business was a successful small business with six profitable units.  **Despite our success, I couldn’t get a small business loan** to open the next centre and worse, the process was miserable.
 
@@ -69,7 +69,7 @@ We always believed there was a chance to build an fintech institutional capital 
 
 Lots of people call our industry “Peer-to-Peer” which I think is a misguided term since very little of the capital comes from individuals.  I call it: **"\*\***Funding from the right crowd."\*\*
 
-#### Q: What was your initial vision and has it evolved since your early days (if it evolved at all from then to now)
+### Q: What was your initial vision and has it evolved since your early days (if it evolved at all from then to now)
 
 **A:** While I can’t speak for the initial vision of our UK partners (formed through merger), I believe the substance of the model is fundamentally the same as where we started in the US.
 
@@ -83,7 +83,7 @@ To achieve the latter, we envisioned a fintech product which was far superior to
 
 While I’m very proud of all we and our successors achieved, it still makes me sad we never got there and I’m still considering building a bank to try to address it. It’s an example of a core startup belief: **“Strive for perfection, because when you miss it’s still pretty darn good.”**
 
-#### Q: What is your mission in this “vision” landscape?
+### Q: What is your mission in this “vision” landscape?
 
 **A:** The mission at Funding Circle is to **b\*\***uild a better financial world.\*\*
 
@@ -95,7 +95,7 @@ Purpose \[aka Mission\] is the set of fundamental reasons for a company's existe
 
 **– James C. Collins**
 
-#### Q: What did you do to validate your idea?
+### Q: What did you do to validate your idea?
 
 **A:** The best validation we did prior to launching our fintech was **working closely with a bank on a small business loan process** (to fund our fitness business). It **confirmed our hypothesis** about the problem that needed solving.
 
@@ -115,7 +115,7 @@ If you’re starting 5% of the way to a decision, it’s not impossible to ‘le
 
 Related: [3 Steps to Build a Successful Minimum Viable Product (MVP)](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
-#### Q: Who was your primary stakeholder at the beginning, given the problem you just stated?
+### Q: Who was your primary stakeholder at the beginning, given the problem you just stated?
 
 **A:** Oddly, it was the lender in our marketplace, which is interesting because that wasn't the core customer.  As a fintech marketplace, **we needed enough capital to lend just to exist**.  When our capital markets became more solid, **we were able to re-focus on the borrowers we were trying to serve**.
 
@@ -127,24 +127,24 @@ An example can be seen in the terms for scaling capital partnerships. By agreein
 
 We were able to get by and get our fintech product to a certain scale, but I believe it limited our ability to compete at mega-scale.
 
-#### Q: What was your value proposition?
+### Q: What was your value proposition?
 
 **A:** We had a value proposition for both small business and investors:
 
 - **For small businesses** – Small business loans similar to what you’d get at a bank in under 14 days with less pain.
 - **For investors** –  Outsize yield for the risk. A new product that was outside of the efficient portfolio frontier because of the market inefficiency.
 
-#### Q: How did each target stakeholder deal with the problem before you existed?
+### Q: How did each target stakeholder deal with the problem before you existed?
 
 **A:** The only options small businesses and startups had before us were horrible, four to six-month timeframe bank processes (that we experienced when funding our fitness company).
 
 Most of these businesses didn’t even qualify for a small business loan at the end of the process. As a result, many would turn to what I call “poison finance” – loans with interest rates ranging between 30-80% (and sometimes even higher).
 
-#### Q: What was your fintech product's Elevator Pitch
+### Q: What was your fintech product's Elevator Pitch
 
 **A:** Small business lending fintech marketplace for small business loans banks should make.
 
-#### Q: From the elevator pitch, what were the assumptions you could not validate with research?
+### Q: From the elevator pitch, what were the assumptions you could not validate with research?
 
 **A:** There’s often a leap of faith that goes into deciding to build something. In particular, because it’s easy to get false positives in your research.
 
@@ -160,7 +160,7 @@ We didn’t know:
 
 For each, we had educated guesses and a margin of safety. For example, on the lending question, I would ask investors to assume triple the loss rates for comparable products and ask if the fintech product was still attractive.
 
-#### Q: When did you know the fintech business would work?
+### Q: When did you know the fintech business would work?
 
 **A:** I knew the fintech business would work when we got our first $100M term sheet for lending capital.
 
@@ -172,7 +172,7 @@ Related: [From Being Fired to Building a Multi-Million Dollar Fintech Startup](h
 
 ## Entrepreneurial Advice
 
-#### Q: What advice can you give founders when it comes to Product?
+### Q: What advice can you give founders when it comes to Product?
 
 **A:** I can’t emphasise enough for new entrepreneurs the concept of starting “halfway there.”
 
@@ -190,7 +190,7 @@ I’ve heard 20 authentic pitches for a “night club app” from a 22-year-old 
 
 Simply put, it’s not that you can’t solve a problem you know less about – but it’s going to be a lot tougher.
 
-#### Q: What advice can you give entrepreneurs when it comes to funding?
+### Q: What advice can you give entrepreneurs when it comes to funding?
 
 **A:** I’ll start by saying,  I have a love-hate relationship with venture capital.
 
@@ -214,7 +214,7 @@ A common pitfall with first-time founders is not having that integrity in the ea
 
 Related: [Expert Interview: The Hidden Details When Funding Your Startup](https://altar.io/expert-interview-funding-your-startup/)
 
-#### Q: And what about advice for entrepreneurs when it comes to hiring?
+### Q: And what about advice for entrepreneurs when it comes to hiring?
 
 **A:** I think people raise their first round of capital and go out wanting to hire specialists for their startup. I think that’s a mistake.
 
@@ -226,7 +226,7 @@ I’ve typically found that hunger and talent, even without  experience, often 
 
 Conversely, in the early stages, hiring somebody with a very specific skillset usually means they’re too narrow to do anything apart from that very specific thing you’ve hired them for. I’m not saying that can’t work – but for me, it’s always yielded a lower probability of success.
 
-#### Q: Related to this last part on hiring, how did you find out that generalists give you a better probability of success in the early stages?
+### Q: Related to this last part on hiring, how did you find out that generalists give you a better probability of success in the early stages?
 
 **A:** I’ll give you an example.
 
@@ -265,7 +265,7 @@ Due to the latter, I try not to hire “salespeople” early on. I try to hire p
 
 Then, instead of sales incentives, I compensate them like I would any other employee-based largely on equity, cash and a promise of more seniority in the company with success.
 
-#### Q: What did you do to find that less-experienced talent with great potential?
+### Q: What did you do to find that less-experienced talent with great potential?
 
 **A:** Our first board member gave us a book called [_Who?_](https://whothebook.com/) By Geoff Smart & Randy Street, about hiring.
 

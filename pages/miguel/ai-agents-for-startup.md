@@ -240,11 +240,6 @@ LLM agents are still in their early days, and there are several challenges and l
 
 **Human Alignment:** Aligning agents with a wide range of human values is challenging, a problem also seen in standard LLMs. One potential solution is to realign the LLM by creating advanced prompting strategies.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## Conclusion – Works in Practice, to be Proven in Theory

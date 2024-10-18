@@ -118,11 +118,6 @@ While this is undoubtedly a challenge, it does help to create one of the pros we
 
 Or as Alexandre put it, “The limited domestic market means startups need to look internationally sooner.”
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## Advice for Startup Founders Launching a Venture in Portugal

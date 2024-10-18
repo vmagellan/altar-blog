@@ -159,11 +159,6 @@ This is why, together with cloud migration, companies are adopting rapid disaste
 
 It is mandatory to have a disaster recovery plan. Cloud vendors will usually manage this and provide you with all of the necessary paperwork completed. Then you just need to be forward the paperwork to the appropriate regulatory authority.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive  
-fresh, actionable tech and startup related insights and tips
-
 Full Name Business Email Subscribe
 
 ## Managed Blockchain

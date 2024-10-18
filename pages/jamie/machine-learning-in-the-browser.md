@@ -29,7 +29,7 @@ In this article we will cover:
 - Using Stable Pre-trained Models
 - Usage in Production
 
-### Machine Learning
+## Machine Learning
 
 ![Machine Learning in the Browser with Tensorflow.js - Mapping](https://cdn-images-1.medium.com/max/800/0*gVN8YE6WaH3OV2AY)
 
@@ -67,7 +67,7 @@ As a side note, there are two ways to achieve machine learning either using:
 
 Some algorithms use CPU however most use GPU processing. In relation to machine learning in the browser we will be using GPU power via WebGL, but more on this later.
 
-### Using the Data
+## Using the Data
 
 When we train a model, most of the frameworks (including Tensorflow) will use 70% of our dataset to train the model and the remaining 30% to quiz the accuracy of the model.
 
@@ -93,10 +93,6 @@ When we use machine learning in the browser — or in the edge, as developer
 
 Meaning we can halve the time it takes to get things off the starting block.
 
-##### Sign up for our newsletter
-
-Join hundreds of entrepreneurs and business leaders to receive fresh, actionable tech and startup related insights and tips
-
 Neural Networks
 
 ![Machine Learning in the Browser with Tensorflow.js - Neural Networks](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/0FfIJlhTr8b0TXXTh.png)
@@ -113,7 +109,7 @@ Neural Networks are the engine in Machine Learning. They are nothing more than a
 
 When training the model, on the first run, you get random outputs, at which point the model will begin a backpropagation cycle until it gets smart enough to process any data you passed to it (in accordance with the model labels, of course)
 
-### Heavy Machine Learning
+## Heavy Machine Learning
 
 The most used frameworks in traditional machine learning are:
 
@@ -162,7 +158,7 @@ I’m sure you use a selection of these — or have done before. We now have
 
 I want to take a moment here to point out one important factor. Machine Learning is the newest guy in town when it comes to Edge Tools. At this stage, Edge Machine Learning is only suited to small models and low performing environments, in the browser, IoT devices, etc.
 
-### Tensorflow & Tensorflow.js
+## Tensorflow & Tensorflow.js
 
 Tensorflow runs on C, as it is the most adequate language to run statistics — and is essentially running matrix calculations.
 
@@ -196,7 +192,7 @@ If we only run the dataset through the model once (Epoch: 1x) we see that it is 
 
 My point? Your epoch becomes very important. The number of times you repeat the process is highly dependant on your dataset size. For some datasets repeating it 5 times is enough  because  it won’t get smarter after the fifth epoch. The epochs are not linear and your final number will depend highly on your dataset.
 
-### Transfer Learning (Pre-Trained Model)
+## Transfer Learning (Pre-Trained Model)
 
 Here is an example of Transfer Learning:
 
