@@ -47,12 +47,6 @@ Philip Schoch, Co-Founder & CEO, [Apiax](https://www.apiax.com/)
 
 Thank you, Philip.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ![Altar - What is Saying](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/1811669_original.jpeg)
 
 Although our website has not yet launched, Altar.io’s product development and design have fostered successful pre-sales.

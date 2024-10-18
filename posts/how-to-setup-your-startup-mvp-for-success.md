@@ -73,12 +73,6 @@ The process involves listing down all possible stakeholders related to your MVP 
 
 By thoroughly mapping out stakeholders, you gain a full perspective of all the elements at play. This comprehensive view is invaluable as it sets the stage for more efficiently finding solutions during the subsequent phases of your MVP's development. Understanding your stakeholders in-depth ensures that when you move forward, you do so with a solution that resonates widely and addresses the problem effectively from all angles.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 4\. Crafting Your Targeted Solution and Compelling Startup Value Proposition
 
 Having mapped out the business landscape, understood the pain points and identified all stakeholders involved, we're now at a crucial juncture: **crafting the solution your startup MVP will offer**. This stage is where the journey takes a turn towards the tangible, focusing on what the solution entails and the specific value it brings to the table for those involved.

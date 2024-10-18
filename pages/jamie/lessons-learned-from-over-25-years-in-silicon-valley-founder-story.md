@@ -94,12 +94,6 @@ They’re trying to prove their integrity with the market, in the new world of b
 
 We timed the product well in that respect.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The People Behind IdentityMind
 
 #### Rui: Let’s change gears, Garrett. My next set of questions are mostly related to the team.

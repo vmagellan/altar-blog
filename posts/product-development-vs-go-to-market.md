@@ -52,12 +52,6 @@ The key lesson here is to balance your GTM strategy with your company's vision. 
 
 With that said, let's dive into how you can implement a clear process so you can nail both your product development & go-to-market strategy.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Actionable Advice for Founders
 
 ### Understanding Your Market Throughout Your Product Development Lifecycle

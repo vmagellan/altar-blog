@@ -87,12 +87,6 @@ In other words, everything still needs to be in writing – [and you should get
 
 Finally, here are the eight traits you need to consider when looking for a co-founder:
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 1\. Technical Hard Skills
 
 Any successful startup needs hard skilled people.

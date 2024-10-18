@@ -190,12 +190,6 @@ Every single time.
 
 Wade Eyerly, Serial Entrepreneur & Founder, [Degree Insurance](https://altar.io/founder-interview-building-an-airline-and-an-innovative-fintech-product/)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### R: I believe those crucial first few steps explain part of your success. You worked on a problem to solve, not an idea.
 
 #### Then you shared your idea with smart people in your network to help you shape and build the best possible solution.

@@ -84,12 +84,6 @@ As Filipe puts it, “Something that I'm more aware of now than I ever was is th
 
 Jim also commented on this, he said, “Not only does a great quality of life help exponentially with productivity, it also attracts talented people to move here.”
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### The Key Challenges of Launching a Startup in Portugal
 
 #### The Ecosystem & Funding Challenges

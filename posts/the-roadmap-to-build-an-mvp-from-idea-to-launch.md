@@ -58,12 +58,6 @@ Depending on the stage your business is at, a product expert will generally divi
 2. Define the Assumptions to Validate
 3. Play the Mirror Game
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Session 1: Define Your Value Proposition
 
 As I mentioned at the top of the article, Session 1 is the critical first step in transforming your idea into a structured business vision.

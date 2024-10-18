@@ -100,12 +100,6 @@ Every single time.
 
 All of this to say, there’s no such thing as a “Solopreneur” – so don’t be afraid to reach out to your network for support.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. A “Why Not?” Attitude
 
 Needless to say, creativity and the ability to think outside the box are crucial elements of the entrepreneurial mindset.

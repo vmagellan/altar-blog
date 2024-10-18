@@ -72,12 +72,6 @@ Also, we didn’t have enough time to understand if there was a complete cultura
 
 Embarking on the search for a tech co-founder requires a strategic approach. It's vital to conduct thorough due diligence, ensuring there's a strong alignment of vision, values, and expectations regarding the equity split, roles, and responsibilities. Open and honest discussions about these elements can lay the groundwork for a lasting and mutually beneficial partnership, balancing the immediate benefits of cost savings against the long-term considerations of equity sharing.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Working with a Software Development Company
 
 Following the exit of our tech co-founder, we pivoted towards engaging a software development agency. This decision was instrumental in propelling our product development forward efficiently, sidestepping the necessity of recruiting a full-time developer.

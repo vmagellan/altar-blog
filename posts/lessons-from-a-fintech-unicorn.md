@@ -115,12 +115,6 @@ If you’re starting 5% of the way to a decision, it’s not impossible to ‘le
 
 Related: [3 Steps to Build a Successful Minimum Viable Product (MVP)](https://altar.io/features-inside-mvp-3-steps-know-answer/)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Q: Who was your primary stakeholder at the beginning, given the problem you just stated?
 
 **A:** Oddly, it was the lender in our marketplace, which is interesting because that wasn't the core customer.  As a fintech marketplace, **we needed enough capital to lend just to exist**.  When our capital markets became more solid, **we were able to re-focus on the borrowers we were trying to serve**.

@@ -88,12 +88,6 @@ What could easily be seen as an overnight success actually took years of pivotin
 
 Related: [Crucial Lessons I Learned from Interviewing Successful Entrepreneurs](https://altar.io/crucial-lessons-learned-interviewing-successful-entrepreneurs/)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Ali Halabi - Volt Lines
 
 Ali Halabi is the brain behind Volt Lines – a subscription-based transportation service aimed at corporations.

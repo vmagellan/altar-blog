@@ -106,12 +106,6 @@ There are 3 levels of proactive intelligence:
 
 The levels are forward-adjusted depending on how much you learn about each customer. Conversely, they are backwards-adjusted when an assumption taken by the algorithm is not (or stops) having a positive effect.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### 5\. Advanced Analytics
 
 The analytics are a very important part of the platform. The multi-layered analytics visualization helps the marketer have an in-depth vision of what is happening in real-time with extreme accuracy.

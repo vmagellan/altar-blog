@@ -260,12 +260,6 @@ This serves as a tremendous resource for your company, and you should aim to uti
 
 With all that said, let’s get to the list.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Best Software Development Companies Based on Your Specific Needs 
 
 As I mentioned, every business is looking for different things when it comes to development.

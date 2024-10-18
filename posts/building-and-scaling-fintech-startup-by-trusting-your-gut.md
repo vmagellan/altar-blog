@@ -107,12 +107,6 @@ By making our platform available for free they gain daily users who start to eng
 
 So it drives a lot of engagement and that’s really what the product morphed in to. Two years ago we partly exited the business. Now we’re part of the Zurich group – they’re our main partner. However, we also have external customers.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Q: What did you do to validate the idea for your startup MVP?
 
 **A:** Honestly I think we did it a little bit wrong.

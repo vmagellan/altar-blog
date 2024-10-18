@@ -78,12 +78,6 @@ We realized that our first company laid the foundation for what we wanted to ach
 
 Lastly, the timing was right. The idea for Taulia emerged around 2008-2009, during the financial crisis. Companies were going out of business, and large corporations were holding onto their cash longer. For example, Anheuser Busch pushed out payment terms to 360 days, forcing small and medium businesses to wait a year for their money, which was unsustainable. All these factors together convinced us it was time to build Taulia.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Building the First Version of Taulia
 
 **R: How did you go about validating Taulia itself?**

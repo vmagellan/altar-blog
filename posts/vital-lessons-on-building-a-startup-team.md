@@ -104,12 +104,6 @@ Never neglect the importance of this lesson. You’ll thank me later.
 
 Related: [Critical Traits to Consider if You Want to Find the Perfect Co-founder](https://altar.io/intellectual-humility-and-the-7-traits-of-great-co-founders/)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. A Startup Team of Specialists vs. Generalists
 
 As you begin to build your startup team, it can be tempting to hire generalists over specialists.

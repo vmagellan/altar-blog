@@ -108,12 +108,6 @@ As entrepreneurs, we tend to be completely absorbed in the process of building a
 
 It’s important to avoid this. The best way to do that is to keep the user at the forefront of your mind and follow a structured process to build an MVP.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## How to Build an MVP: The Process in 3 Steps
 
 This three-step process intends to help you decide:

@@ -198,12 +198,6 @@ Bear in mind that investors at the later stages will season the investment agre
 
 Now let’s take an in-depth look at each funding round.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 Pre-Seed Funding and Bootstrapping
 
 This is the earliest stage of funding and is rarely mentioned as part of the official equity cycle.

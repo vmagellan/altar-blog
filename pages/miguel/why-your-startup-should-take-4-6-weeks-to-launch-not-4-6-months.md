@@ -73,12 +73,6 @@ We are so in the trenches, building and rebuilding, that we often lose sight of 
 
 With all of these aspects in mind, here’s the MVP development process from start to finish.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Startup MVP Development Process from A-Z
 
 As I mentioned at the top of this article, in my experience, many entrepreneurs struggle with the MVP development process.

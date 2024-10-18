@@ -58,12 +58,6 @@ At an agency level, you must assess its track records and ask for references.
 
 If you are choosing contractors, I will now identify the characteristics of those talents that you should be looking for. But first, if you’re not experienced in evaluating technical skills I would recommend learning some [tech basics](https://altar.io/blog/what-the-non-technical-entrepreneur-needs-to-know-about-tech/) before getting started. On top of this, you could ask a friend/colleague to assess them.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 An Effective Agile Team
 
 When building an effective agile team you need people who are basketball-skilled, Musketeers who are willing to swarm. Here's what I mean by this:

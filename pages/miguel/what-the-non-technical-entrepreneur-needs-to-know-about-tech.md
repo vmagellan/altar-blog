@@ -47,12 +47,6 @@ If by the end of this crash course you still can’t understand 90% of what your
 - Authorisation & Authentication
 - API
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ##### Mobile Development Vs Web Development
 
 Let’s start by tackling some common misconceptions surrounding Mobile development & Web development. Unless you are creating a game or augmented reality app there is not a major difference between what is possible on a native mobile app and a web app. In the majority of cases, they do the same. The major difference is User Experience (UE).

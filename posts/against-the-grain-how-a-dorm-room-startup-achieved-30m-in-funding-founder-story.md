@@ -80,12 +80,6 @@ Our approach was very developer-centric. We built ML APIs and asked ourselves, w
 
 We transitioned to a more traditional enterprise focus. The classic idea—do things that don’t scale. Cold outreach, personal meetings, and doing whatever it took to make it work. We sold the end result, built internal tools to do it more effectively, and used our developer tools for real products. After a year of pounding the pavement, smothering customers with time and love, and focusing on delivering value, we finally had everything in place to productize. This was when we started to grow very quickly.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Myth of the Overnight Success
 
 **R: So I want to caveat this next comment by saying I don't believe in the idea of an overnight success.**

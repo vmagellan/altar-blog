@@ -299,12 +299,6 @@ So you get to start, to build your career from a stable position, from a safe pl
 
 Our startup reduces the risk of inequality. That is incredibly important in moving people into the middle class and keeping them there.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Going “All-In” on the Startup Idea
 
 #### R: From a problem-solution standpoint it's completely clear.

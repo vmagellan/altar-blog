@@ -80,12 +80,6 @@ I wanted to identify those who were conducting fraudulent transactions, instead 
 
 That was the genesis of ThirdWatch.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### R: That's amazing and it's probably the most common way to start a successful startup: You identify the pain point in the market, and then you go there and solve it.
 
 #### It's way better when you have the technological means to do it so thank you for sharing that.

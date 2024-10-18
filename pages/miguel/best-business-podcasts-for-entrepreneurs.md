@@ -114,12 +114,6 @@ What Entrepreneurs Are Saying:
 
 “It's simple: Listen + Apply = Improved Outcomes. Take even a shred of the content and put it into action. You will see a difference. You may not always like the style, the words, the delivery, etc - but you will gain an advantage by trying what's suggested in this podcast.” 5/5
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 6\. How to Start a Startup
 
 ![how to start a startup](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Screenshot-2020-10-30-at-20.45.34-150x150.png)Originally a series of class lectures at *Stanford University*, [_How to Start a Startup_](https://startupclass.samaltman.com/) offers a series of 20 business podcasts in building a business.

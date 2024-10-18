@@ -292,12 +292,6 @@ When that led to the first few thousand people signing up we knew we had somethi
 
 At that moment, we started looking at MyPoolin as a startup; not a side project.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Q: So how did you move from your MVP to become a successful fintech startup?
 
 A: After we made the decision to become a fintech startup things got more real and much more formal.

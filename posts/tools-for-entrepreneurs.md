@@ -242,12 +242,6 @@ Lion is a founder and executive of a number of unicorn companies. On top of this
 
 **Tool Choice:** \*“**_*Email*_**,_ [***Google Docs***](https://workspace.google.com/)_,\* [**_WhatsApp_**](https://www.whatsapp.com/?lang=en)_. Those are the basic building blocks of communication. Real-time (WhatsApp), asynchronous (email) and in-depth (docs),_
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## Detailed Overview of the Tools for Entrepreneurs
 
 Here’s a detailed rundown of all of the tools for entrepreneurs mentioned above, aside from the obvious ones like coffee and a notebook, as well as a few extras based on our experience.

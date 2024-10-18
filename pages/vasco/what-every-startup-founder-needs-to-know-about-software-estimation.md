@@ -56,12 +56,6 @@ Additionally, it helps gauge the reasoning ability of the team giving you the so
 
 In the end, a software estimation should serve as a learning tool—not a deciding factor. It will help you better understand your product and assess the team you’re considering as a partner.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### Beyond the Quote: Finding the Right Team
 
 While the quote is essential, finding the right team is equally—if not more—important. A great team won’t just give you numbers; they’ll explain the logic behind their estimates.

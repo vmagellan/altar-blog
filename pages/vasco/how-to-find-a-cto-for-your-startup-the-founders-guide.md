@@ -162,12 +162,6 @@ Discuss all the mentioned points (Product/Company roadmap, Equity split & salari
 
 As in any relationship, be ready to discuss contentious points and, at times, prepare to compromise. Don’t waste your time with someone who gets stuck in unnecessary details. As much as we would all like to admit, myself included, that energy is infinite, it is not.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### **Leadership Skills**
 
 It’s vital that Robin can leave the Batcave and assemble a league of citizens to help clean up Gotham.

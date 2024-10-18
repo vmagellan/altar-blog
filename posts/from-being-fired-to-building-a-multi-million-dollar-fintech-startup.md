@@ -167,12 +167,6 @@ The Spotters are aware of the problem - but they take care of it themselves.
 
 What we were able to do through our marketing was to find a sub-segment of slackers. They were aware of the problem, wanted a system to take care of it and were willing to take action. But, as I mentioned already,  it was too expensive to market to them.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Q: Did the Slackers deal with the problem before your original solution or did they just not bother?
 
 **A:** Most of them would only find out after the fact if they had some big charge on their bill they didn’t recognise. In that case, they would call the bank.

@@ -72,12 +72,6 @@ There’s a rule of thumb there, about 5%-ish of the companies started every yea
 
 **The whole name of the game is, how do you minimize investing in the bottom 80%-ish while maximizing investment in the top 5%-ish.**
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### P: That's interesting, do you think first-time founders can count into that top 5%? Or maybe the better question, do you invest in first-time founders?
 
 #### If so, how do you spot promising ones vs. bad ones? Are there common traits you see in a good first-time founder?

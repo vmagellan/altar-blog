@@ -41,12 +41,6 @@ Q1’21 was the largest quarter for fintech funding on record.
 
 It's safe to say that fintech investment has rebounded since the outbreak of COVID. Now, let's move on to the list of the most active fintech investors.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The List of Most Active 150 Fintech Investors
 
 The list, comprising of Venture Capital Firms, Angel Investors & Private Equity Firms, contains:

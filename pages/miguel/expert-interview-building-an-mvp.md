@@ -175,12 +175,6 @@ The growth stage is about building scalability to plan. You should always be thi
 
 However, if you build too far out, you'll wind up building in technical debt or building for use cases that aren't your primary use case. You'll wind up wasting time and money.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Framework To Building An MVP Successfully
 
 #### Q: Do you have a specific framework you usually recommend when building an MVP?

@@ -141,12 +141,6 @@ But as soon as possible, try to onboard someone that can help you design every p
 
 Put some money in your marketing. Have someone close to you in marketing that can take your idea and tell your audience a story about it.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### R: Usually the way I refer to that is it's really important for anyone taking a new project to the market to fall in love with the problem, not the idea.
 
 #### Experienced marketer or not, everything becomes easier when you look at things from the user standpoint.

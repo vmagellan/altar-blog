@@ -98,12 +98,6 @@ Confluence is not the only tool I would recommend for the task, however. [Notio
 
 You can also integrate Notion with Jira, and is more collaborative and up-to-date than Confluence.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 3\. A Collaborative Brainstorming Tool
 
 The third and final tool your project manager should be using as you set out to build your MVP is a collaborative brainstorming tool.

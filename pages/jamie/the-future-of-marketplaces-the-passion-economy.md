@@ -69,12 +69,6 @@ People who participate directly in the global market are those who own the compa
 
 Interestingly, as we shall see, the history of the internet has mimicked this upward flow. Now it is reaching the top tip of the pyramid which is a promising development.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ### The Evolution of Web Marketplaces: From Craigslist to Amazon, Uber and Now…
 
 The 2010s proved the internet as serious business. It did so as technology companies finally outpaced the likes of AT&T, GE, EXXON MOBIL, JPMorgan to the absolute crown.

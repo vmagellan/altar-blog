@@ -106,12 +106,6 @@ Finally, it’s common to take part in a Demo Day as part of working with an inc
 
 This gives you the opportunity to showcase your product, pitch your idea and network with investors, advisors and other key stakeholders.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## What to Assess Before Joining a Startup Incubator
 
 ### If the Model Fits Your Needs

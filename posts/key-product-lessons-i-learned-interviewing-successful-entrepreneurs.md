@@ -44,12 +44,6 @@ It’s very important to know where the product is today and the direction in wh
 
 It was this focus on product relevance that led to PrestCap being successfully acquired in just five years for $20M.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 2\. New Products Must Show Immediate Value
 
 Our attention spans are getting shorter. [Studies show](https://www.telegraph.co.uk/science/2016/03/12/humans-have-shorter-attention-span-than-goldfish-thanks-to-smart/) that the average attention span of an adult is shorter than a goldfish’s at around **eight seconds**.

@@ -47,12 +47,6 @@ By allowing yourself to be challenged you will become wiser throughout your busi
 
 ![A Software Development Agency Must Challenge A Startup Founder - Benefits For The Startup Founder](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/charles-deluvio-AT5vuPoi8vc-unsplash-1024x498.jpg)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 Benefits for the Software Development Agency (And Why You Should Know About Them)
 
 An agency that says yes to every demand probably doesn’t care about the quality of what they are building. This is just as bad for the agency as it is for the startup. They will garner a reputation for producing sub-par work - and you will end up with an unusable product.

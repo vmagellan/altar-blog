@@ -83,12 +83,6 @@ We knew we had to find an idea that would have product market fit, which is one 
 
 The idea also had to be something that could be a vehicle to get us to that goal of selling and retiring in a few short years.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Road to Product Market Fit
 
 #### R: So it was about having clarity. And it’s true that knowing what you want guides the rest of your decisions. I agree it's crucial.

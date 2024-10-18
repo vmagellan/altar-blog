@@ -158,12 +158,6 @@ This framework helps to structure your brand story in a way that resonates with 
 
 So, these are the key elements to consider when positioning your brand in the market. It’s a comprehensive process, but it’s crucial for defining who you are and how you stand out.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## How to Tackle Your Digital Marketing Strategy
 
 **F: I’m curious to hear more about digital marketing strategies. When it comes to going to market, digital marketing can be overwhelming for new businesses.**

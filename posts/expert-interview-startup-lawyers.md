@@ -171,12 +171,6 @@ And yes as an entrepreneur you probably could figure it out on your own. But it 
 
 All of this to say, as an entrepreneur your time is better-used building your business and bringing the vision to life.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### Q: Let’s say, as a founder, despite the advice you’ve given, I decided to go about building my startup without a lawyer.
 
 #### What crucial moments are there where I absolutely MUST have legal counselling?

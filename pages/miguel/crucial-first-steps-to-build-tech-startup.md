@@ -122,12 +122,6 @@ Start developing relationships with people who’re relevant to your tech startu
 
 [**Yaron Samid**](https://altar.io/from-being-fired-to-building-a-multi-million-dollar-fintech-startup/)**, Serial Entrepreneur & Startup Founder**
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## You Have The Competencies, Money & Connections. Now to Get Things Off the Ground
 
 ### Start Sharing Your Idea With Anyone That Will Listen

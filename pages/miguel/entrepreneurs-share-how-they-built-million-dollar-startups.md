@@ -149,12 +149,6 @@ Adarsh’s journey is a testament to the power of technical expertise in buildin
 
 Full interview: [From Struggling to Buy a TV to Getting Acquired by a $7.5B Fintech](https://altar.io/from-struggling-to-buy-a-tv-to-startup-acquisition/)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## 8\. Giacomo De Lorenzo – Moneymour
 
 ![Tools for Entrepreneurs, fintech founder Giacomo de Lorenzo](https://raw.githubusercontent.com/vmagellan/altar-blog/main/posts/images/Giacomo-de-Lorenzo-150x150.jpeg)Giacomo De Lorenzo, the co-founder of fintech startup Moneymour, leveraged his network to build a strong foundation for his business.

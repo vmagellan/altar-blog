@@ -93,12 +93,6 @@ The goal of customer interviews is essentially to get the maximum information po
 
 Related: [Beyond Product-Market Fit: Mastering Multi-Dimensional Alignment for Startup Success](https://altar.io/mastering-multi-dimensional-alignment-for-startup-success/)
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 ## The Customer Research Process
 
 To effectively gather insights that will drive your product’s success, it’s crucial to follow a structured customer research process.

@@ -63,12 +63,6 @@ The thing that we're building is the easiest tool to execute it. So, not just yo
 
 Not only the bringing of data to that warehouse, and then also the cleaning up of that data so that you can visualize it and start making insights and build the company from there.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### R: So you intend to carve your own space in this slightly different category. Do you have an exit strategy in mind?
 
 #### Because I can understand how Snowflake would look at you guys and say: hey, we could integrate these guys into our offering.

@@ -131,12 +131,6 @@ If I hadn’t worked with entrepreneurs at Endeavor, I wouldn’t have seen the 
 
 That’s what I mean when I say with B2B startups you really have to be there, talking to a lot of businesses to identify the pain points.
 
-##### Do you have a brilliant startup idea that you want to bring to life?
-
-From the product and business reasoning to streamlining your MVP to the most important features, our team of product experts and ex-startup founders can help you bring your vision to life.
-
-Let's Talk
-
 #### P: When did you realise you could leave Endeavor and focus on your startup full time?
 
 **S:** I like to think I’m analytical and rational but sometimes the emotions take over.
